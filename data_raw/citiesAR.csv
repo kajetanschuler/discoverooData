@@ -1,0 +1,1175 @@
+countryCode,type,cityName,cityId,regionName,regionCode,lat,lon,population,elevation,timezone
+AR,CITY,28 de Noviembre,1083,Santa Cruz Province,Z,-51.5839,-72.21382,4686,229,America__Argentina__Rio_Gallegos
+AR,CITY,Abra Pampa,2776,Jujuy Province,Y,-22.72049,-65.69697,9425,3487,America__Argentina__Jujuy
+AR,CITY,Achiras,2140,Córdoba Province,X,-33.17538,-64.99331,2173,832,America__Argentina__Cordoba
+AR,CITY,Adelia María,2558,Córdoba Province,X,-33.63152,-64.02097,6434,266,America__Argentina__Cordoba
+AR,CITY,Adrogué,2025,Buenos Aires Province,B,-34.80041,-58.38384,28265,24,America__Argentina__Buenos_Aires
+AR,CITY,Agua de Oro,2118,Córdoba Province,X,-31.06661,-64.30017,1553,791,America__Argentina__Cordoba
+AR,CITY,Aguilares,2828,Tucumán Province,T,-27.4338,-65.61427,32494,333,America__Argentina__Tucuman
+AR,CITY,Alba Posse,1672,Misiones Province,N,-27.56978,-54.68262,6652,125,America__Argentina__Cordoba
+AR,CITY,Albardón,2944,San Juan Province,J,-31.43722,-68.52556,20413,,America__Argentina__San_Juan
+AR,CITY,Aldea San Antonio,1106,Entre Ríos Province,E,-32.62317,-58.70512,1127,39,America__Argentina__Cordoba
+AR,CITY,Alderetes,2876,Tucumán Province,T,-26.81667,-65.13333,38466,429,America__Argentina__Tucuman
+AR,CITY,Alejandro Roca,2651,Córdoba Province,X,-33.35369,-63.71849,4724,216,America__Argentina__Cordoba
+AR,CITY,Alejo Ledesma,2725,Córdoba Province,X,-33.60643,-62.62304,3310,132,America__Argentina__Cordoba
+AR,CITY,Allen,2614,Río Negro Province,R,-38.97736,-67.82714,26083,258,America__Argentina__Salta
+AR,CITY,Almafuerte,989,Misiones Province,N,-27.50825,-55.40258,1022,356,America__Argentina__Cordoba
+AR,CITY,Almafuerte,2361,Córdoba Province,X,-32.19296,-64.25559,10534,430,America__Argentina__Cordoba
+AR,CITY,Alpachiri,2151,La Pampa,L,-37.37704,-63.77445,2138,161,America__Argentina__Salta
+AR,CITY,Alta Gracia,2050,Córdoba Province,X,-31.65292,-64.42826,40384,553,America__Argentina__Cordoba
+AR,CITY,Alta Italia,2732,La Pampa,L,-35.3335,-64.11496,1481,138,America__Argentina__Salta
+AR,CITY,Alto Río Senguer,2283,Chubut Province,U,-45.04105,-70.81982,1700,715,America__Argentina__Catamarca
+AR,CITY,Altos de Chipión,2212,Córdoba Province,X,-30.9559,-62.33727,1512,155,America__Argentina__Cordoba
+AR,CITY,Aluminé,2246,Neuquén Province,Q,-39.23686,-70.9197,3720,985,America__Argentina__Salta
+AR,CITY,Alvear,1978,Corrientes,W,-29.09683,-56.55043,7917,65,America__Argentina__Cordoba
+AR,CITY,Ancasti,1564,Catamarca Province,K,-28.81247,-65.50145,3082,883,America__Argentina__Catamarca
+AR,CITY,Andacollo,1719,Neuquén Province,Q,-37.17945,-70.66912,2627,1018,America__Argentina__Salta
+AR,CITY,Andalgalá,996,Catamarca Province,K,-27.58185,-66.31626,14068,960,America__Argentina__Catamarca
+AR,CITY,Anguil,1346,La Pampa,L,-36.52567,-64.01025,1977,152,America__Argentina__Salta
+AR,CITY,Antofagasta de la Sierra,1279,Catamarca Province,K,-26.0594,-67.40636,500,3368,America__Argentina__Catamarca
+AR,CITY,Apolinario Saravia,1867,Salta Province,A,-24.43276,-63.99535,8595,361,America__Argentina__Salta
+AR,CITY,Aranguren,1165,Entre Ríos Province,E,-32.24252,-60.16107,1581,86,America__Argentina__Cordoba
+AR,CITY,Arata,1356,La Pampa,L,-35.63895,-64.35621,1202,217,America__Argentina__Salta
+AR,CITY,Arauco,1051,La Rioja Province,F,-28.58071,-66.7925,13720,820,America__Argentina__La_Rioja
+AR,CITY,Arias,1044,Córdoba Province,X,-33.64411,-62.40272,6928,127,America__Argentina__Cordoba
+AR,CITY,Aristóbulo del Valle,1208,Misiones Province,N,-27.09625,-54.89626,20683,494,America__Argentina__Cordoba
+AR,CITY,Armstrong,1976,Santa Fe Province,S,-32.78215,-61.60222,10388,110,America__Argentina__Cordoba
+AR,CITY,Arroyito,1397,Córdoba Province,X,-31.42022,-63.05002,19577,154,America__Argentina__Cordoba
+AR,CITY,Arroyo Cabral,1772,Córdoba Province,X,-32.49119,-63.40126,2727,223,America__Argentina__Cordoba
+AR,CITY,Arroyo Seco,1939,Santa Fe Province,S,-33.15489,-60.50863,20008,29,America__Argentina__Cordoba
+AR,CITY,Arroyo del Medio,1800,Misiones Province,N,-27.69748,-55.40376,2142,,America__Argentina__Cordoba
+AR,CITY,Arrufó,1567,Santa Fe Province,S,-30.23281,-61.72862,2190,94,America__Argentina__Cordoba
+AR,CITY,Avellaneda,1923,Santa Fe Province,S,-29.11761,-59.65834,23077,52,America__Argentina__Cordoba
+AR,CITY,Avellaneda,2192,Buenos Aires Province,B,-34.66018,-58.36744,24313,2,America__Argentina__Buenos_Aires
+AR,CITY,Aviá Terai,1028,Chaco Province,H,-26.68532,-60.7292,6821,103,America__Argentina__Cordoba
+AR,CITY,Azara,1092,Misiones Province,N,-28.0616,-55.67797,3484,81,America__Argentina__Cordoba
+AR,CITY,Azul,1931,Buenos Aires Province,B,-36.77698,-59.85854,53941,137,America__Argentina__Buenos_Aires
+AR,CITY,Añatuya,1272,Santiago del Estero Province,G,-28.46064,-62.83472,20261,98,America__Argentina__Cordoba
+AR,CITY,Añelo,988,Neuquén Province,Q,-38.35441,-68.7884,1742,396,America__Argentina__Salta
+AR,CITY,Bahía Blanca,1607,Buenos Aires Province,B,-38.71959,-62.27243,276546,20,America__Argentina__Buenos_Aires
+AR,CITY,Balcarce,1342,Buenos Aires Province,B,-37.84616,-58.25522,38823,97,America__Argentina__Buenos_Aires
+AR,CITY,Balnearia,1893,Córdoba Province,X,-31.0088,-62.66733,5585,86,America__Argentina__Cordoba
+AR,CITY,Balvanera,2545,Buenos Aires,C,-34.61032,-58.39766,152198,35,America__Argentina__Buenos_Aires
+AR,CITY,Baradero,1154,Buenos Aires Province,B,-33.81105,-59.50807,60000,41,America__Argentina__Buenos_Aires
+AR,CITY,Barracas,1664,Buenos Aires,C,-34.64966,-58.38341,77474,10,America__Argentina__Buenos_Aires
+AR,CITY,Barrancas,1484,Neuquén Province,Q,-36.82344,-69.91564,1098,1123,America__Argentina__Salta
+AR,CITY,Barranqueras,1763,Chaco Province,H,-27.48132,-58.93925,50823,41,America__Argentina__Cordoba
+AR,CITY,Basail,1956,Chaco Province,H,-27.88539,-59.28245,3652,57,America__Argentina__Cordoba
+AR,CITY,Belgrano,1783,Buenos Aires,C,-34.5627,-58.45829,138942,18,America__Argentina__Buenos_Aires
+AR,CITY,Bell Ville,1660,Córdoba Province,X,-32.62591,-62.68873,35105,130,America__Argentina__Cordoba
+AR,CITY,Bella Italia,2276,Santa Fe Province,S,-31.28182,-61.41092,1100,0,America__Argentina__Cordoba
+AR,CITY,Bella Vista,1341,Tucumán Province,T,-27.03424,-65.30196,15126,342,America__Argentina__Tucuman
+AR,CITY,Beltrán,1842,Santiago del Estero Province,G,-27.82913,-64.06098,5321,172,America__Argentina__Cordoba
+AR,CITY,Berazategui,1610,Buenos Aires Province,B,-34.76531,-58.21278,167498,22,America__Argentina__Buenos_Aires
+AR,CITY,Berisso,1892,Buenos Aires Province,B,-34.8735,-57.88303,101123,6,America__Argentina__Buenos_Aires
+AR,CITY,Bernardo Larroudé,1651,La Pampa,L,-35.02449,-63.58253,1619,127,America__Argentina__Salta
+AR,CITY,Bernardo de Irigoyen,1096,Misiones Province,N,-26.2552,-53.64581,10889,835,America__Argentina__Cordoba
+AR,CITY,Bernasconi,1221,La Pampa,L,-37.90459,-63.7424,1781,162,America__Argentina__Salta
+AR,CITY,Berrotarán,1600,Córdoba Province,X,-32.451,-64.38867,6446,631,America__Argentina__Cordoba
+AR,CITY,Berón de Astrada,1505,Corrientes,W,-27.55067,-57.5346,2461,55,America__Argentina__Cordoba
+AR,CITY,Boedo,1834,Buenos Aires,C,-34.63333,-58.41667,48231,19,America__Argentina__Buenos_Aires
+AR,CITY,Bonpland,1389,Corrientes,W,-29.81708,-57.42974,1063,75,America__Argentina__Cordoba
+AR,CITY,Bonpland,1973,Misiones Province,N,-27.48218,-55.47756,2173,187,America__Argentina__Cordoba
+AR,CITY,Bovril,1613,Entre Ríos Province,E,-31.34311,-59.44512,7977,81,America__Argentina__Cordoba
+AR,CITY,Bragado,1000,Buenos Aires Province,B,-35.11912,-60.48966,33222,50,America__Argentina__Buenos_Aires
+AR,CITY,Brandsen,1735,Buenos Aires Province,B,-35.16842,-58.23427,19877,17,America__Argentina__Buenos_Aires
+AR,CITY,Brinkmann,1231,Córdoba Province,X,-30.86589,-62.03742,8237,105,America__Argentina__Cordoba
+AR,CITY,Buchardo,1120,Córdoba Province,X,-34.72263,-63.5092,1756,133,America__Argentina__Cordoba
+AR,CITY,Buena Esperanza,1491,San Luis Province,D,-34.75647,-65.25379,2531,323,America__Argentina__San_Luis
+AR,CITY,Buenos Aires,1960,Buenos Aires,C,-34.61315,-58.37723,13076300,25,America__Argentina__Buenos_Aires
+AR,CITY,Burruyacú,1846,Tucumán Province,T,-26.49918,-64.74206,2037,498,America__Argentina__Tucuman
+AR,CITY,Buta Ranquil,1068,Neuquén Province,Q,-37.05222,-69.87713,2221,1152,America__Argentina__Salta
+AR,CITY,Cachí,1450,Salta Province,A,-25.12033,-66.16519,2189,2355,America__Argentina__Salta
+AR,ADM2,Cafayate,132635,Salta Province,A,-26.08333,-65.83333,14850,,America__Argentina__Salta
+AR,CITY,Caimancito,1580,Jujuy Province,Y,-23.74069,-64.5937,5403,338,America__Argentina__Jujuy
+AR,CITY,Calchaquí,1832,Santa Fe Province,S,-29.88767,-60.28697,10221,59,America__Argentina__Cordoba
+AR,CITY,Caleta Olivia,1562,Santa Cruz Province,Z,-46.43929,-67.52814,36077,37,America__Argentina__Rio_Gallegos
+AR,CITY,Caleufú,1403,La Pampa,L,-35.59559,-64.55778,2396,208,America__Argentina__Salta
+AR,CITY,Calilegua,1419,Jujuy Province,Y,-23.77368,-64.77002,5174,446,America__Argentina__Jujuy
+AR,CITY,Calingasta,1689,San Juan Province,J,-31.33394,-69.4208,8176,1409,America__Argentina__San_Juan
+AR,CITY,Camarones,1582,Chubut Province,U,-44.79709,-65.70994,1079,1,America__Argentina__Catamarca
+AR,CITY,Camilo Aldao,1200,Córdoba Province,X,-33.12745,-62.09453,4895,113,America__Argentina__Cordoba
+AR,CITY,Campo Gallo,1132,Santiago del Estero Province,G,-26.58333,-62.85,5455,190,America__Argentina__Cordoba
+AR,CITY,Campo Grande,1416,Misiones Province,N,-27.2077,-54.97977,12040,428,America__Argentina__Cordoba
+AR,CITY,Campo Largo,1239,Chaco Province,H,-26.80077,-60.84215,10743,106,America__Argentina__Cordoba
+AR,CITY,Campo Quijano,1126,Salta Province,A,-24.90982,-65.63656,5000,1501,America__Argentina__Salta
+AR,CITY,Campo Ramón,1857,Misiones Province,N,-27.4549,-55.02122,10088,364,America__Argentina__Cordoba
+AR,CITY,Campo Viera,1412,Misiones Province,N,-27.33271,-55.05651,9228,284,America__Argentina__Cordoba
+AR,CITY,Canals,1327,Córdoba Province,X,-33.56542,-62.88927,8343,127,America__Argentina__Cordoba
+AR,CITY,Candelaria,1177,Misiones Province,N,-27.4595,-55.74536,11039,119,America__Argentina__Cordoba
+AR,CITY,Candelaria,1594,San Luis Province,D,-32.06036,-65.82477,2269,410,America__Argentina__San_Luis
+AR,CITY,Capayán,1840,Catamarca Province,K,-28.77436,-66.04749,6358,445,America__Argentina__Catamarca
+AR,CITY,Capilla del Monte,1873,Córdoba Province,X,-30.86088,-64.52515,9085,972,America__Argentina__Cordoba
+AR,CITY,Capilla del Señor,1255,Buenos Aires Province,B,-34.29207,-59.10179,9244,15,America__Argentina__Buenos_Aires
+AR,CITY,Capioví,1734,Misiones Province,N,-26.92998,-55.06084,5860,171,America__Argentina__Cordoba
+AR,CITY,Capitán Bermúdez,1844,Santa Fe Province,S,-32.82262,-60.71852,27060,3,America__Argentina__Cordoba
+AR,CITY,Capitán Sarmiento,1681,Buenos Aires Province,B,-34.17238,-59.79048,13088,54,America__Argentina__Buenos_Aires
+AR,CITY,Capitán Solari,1983,Chaco Province,H,-26.80215,-59.56089,2123,80,America__Argentina__Cordoba
+AR,CITY,Caraguatay,1769,Misiones Province,N,-26.60587,-54.78093,3287,126,America__Argentina__Cordoba
+AR,CITY,Carcarañá,1641,Santa Fe Province,S,-32.85679,-61.15331,15619,37,America__Argentina__Cordoba
+AR,CITY,Carhué,1315,Buenos Aires Province,B,-37.17668,-62.75792,9660,107,America__Argentina__Buenos_Aires
+AR,CITY,Cariló,2455,Buenos Aires Province,B,-37.16524,-56.89133,1553,1,America__Argentina__Buenos_Aires
+AR,CITY,Carlos Casares,1577,Buenos Aires Province,B,-35.62171,-61.36169,18347,,America__Argentina__Buenos_Aires
+AR,CITY,Carnerillo,1265,Córdoba Province,X,-32.91371,-64.02175,1575,322,America__Argentina__Cordoba
+AR,CITY,Carrilobo,1870,Córdoba Province,X,-31.87296,-63.11715,1522,185,America__Argentina__Cordoba
+AR,CITY,Caseros,1014,Buenos Aires Province,B,-34.60333,-58.56409,95785,34,America__Argentina__Buenos_Aires
+AR,CITY,Caseros,1930,Entre Ríos Province,E,-32.46325,-58.47872,2109,51,America__Argentina__Cordoba
+AR,CITY,Casilda,1355,Santa Fe Province,S,-33.04417,-61.16806,32002,79,America__Argentina__Cordoba
+AR,CITY,Castelli,1270,Chaco Province,H,-25.94679,-60.61947,36588,113,America__Argentina__Cordoba
+AR,CITY,Castelli,1344,Buenos Aires Province,B,-36.08949,-57.80393,6859,10,America__Argentina__Buenos_Aires
+AR,CITY,Castro Barros,1067,La Rioja Province,F,-30.57952,-65.72696,4322,236,America__Argentina__La_Rioja
+AR,CITY,Catriel,1142,Río Negro Province,R,-37.87907,-67.7956,15169,307,America__Argentina__Salta
+AR,CITY,Catriló,1385,La Pampa,L,-36.40597,-63.42168,3743,113,America__Argentina__Salta
+AR,CITY,Caucete,1545,San Juan Province,J,-31.65179,-68.28105,33609,578,America__Argentina__San_Juan
+AR,CITY,Cavanagh,1171,Córdoba Province,X,-33.47606,-62.33888,1150,123,America__Argentina__Cordoba
+AR,CITY,Cañada de Gómez,1313,Santa Fe Province,S,-32.81636,-61.39493,36000,83,America__Argentina__Cordoba
+AR,CITY,Cañada de Luque,1476,Córdoba Province,X,-30.73341,-63.72375,1054,239,America__Argentina__Cordoba
+AR,CITY,Cañuelas,1207,Buenos Aires Province,B,-35.05379,-58.76205,29974,28,America__Argentina__Buenos_Aires
+AR,CITY,Ceibas,1506,Entre Ríos Province,E,-33.43333,-58.75,1405,17,America__Argentina__Cordoba
+AR,CITY,Centenario,1938,Neuquén Province,Q,-38.82955,-68.1318,28956,290,America__Argentina__Salta
+AR,CITY,Ceres,1754,Santa Fe Province,S,-29.881,-61.94504,13063,84,America__Argentina__Cordoba
+AR,CITY,Cerro Azul,1130,Misiones Province,N,-27.6331,-55.4962,5323,263,America__Argentina__Cordoba
+AR,CITY,Cerro Corá,1352,Misiones Province,N,-27.5131,-55.60896,1153,161,America__Argentina__Cordoba
+AR,CITY,Cervantes,1435,Río Negro Province,R,-39.05444,-67.39426,5173,222,America__Argentina__Salta
+AR,CITY,Chacabuco,1929,Buenos Aires Province,B,-34.64167,-60.47389,34587,68,America__Argentina__Buenos_Aires
+AR,CITY,Chajarí,1224,Entre Ríos Province,E,-30.75048,-57.97962,30655,34,America__Argentina__Cordoba
+AR,CITY,Chamical,1722,La Rioja Province,F,-30.36002,-66.31399,13383,1080,America__Argentina__La_Rioja
+AR,CITY,Charadai,1909,Chaco Province,H,-27.65503,-59.86291,2538,54,America__Argentina__Cordoba
+AR,CITY,Charata,1536,Chaco Province,H,-27.21438,-61.18795,27813,98,America__Argentina__Cordoba
+AR,CITY,Charras,1292,Córdoba Province,X,-33.024,-64.04719,1001,350,America__Argentina__Cordoba
+AR,CITY,Chavarría,1925,Corrientes,W,-28.95489,-58.57277,2337,64,America__Argentina__Cordoba
+AR,CITY,Chazón,1258,Córdoba Province,X,-33.07872,-63.27657,1010,164,America__Argentina__Cordoba
+AR,CITY,Chañar Ladeado,1009,Santa Fe Province,S,-33.32524,-62.03831,5639,108,America__Argentina__Cordoba
+AR,CITY,Chichinales,1176,Río Negro Province,R,-39.11505,-66.92714,4060,197,America__Argentina__Salta
+AR,CITY,Chicoana,1789,Salta Province,A,-25.10502,-65.53473,8468,1238,America__Argentina__Salta
+AR,CITY,Chilecito,1477,La Rioja Province,F,-29.16195,-67.4974,42248,1080,America__Argentina__La_Rioja
+AR,CITY,Chimbas,1837,San Juan Province,J,-31.48333,-68.53333,73829,,America__Argentina__San_Juan
+AR,CITY,Chimpay,993,Río Negro Province,R,-39.16482,-66.14236,3905,158,America__Argentina__Salta
+AR,CITY,Chivilcoy,1799,Buenos Aires Province,B,-34.89566,-60.01667,54514,66,America__Argentina__Buenos_Aires
+AR,CITY,Choele Choel,1351,Río Negro Province,R,-39.28941,-65.6606,9791,118,America__Argentina__Salta
+AR,CITY,Chorotis,994,Chaco Province,H,-27.91578,-61.39982,1445,74,America__Argentina__Cordoba
+AR,CITY,Chos Malal,1250,Neuquén Province,Q,-37.37809,-70.27085,11721,974,America__Argentina__Salta
+AR,CITY,Ciervo Petiso,1404,Chaco Province,H,-26.58041,-59.63094,1055,88,America__Argentina__Cordoba
+AR,CITY,Cinco Saltos,1059,Río Negro Province,R,-38.82225,-68.06293,19819,288,America__Argentina__Salta
+AR,CITY,Cintra,1736,Córdoba Province,X,-32.30673,-62.65214,1054,130,America__Argentina__Cordoba
+AR,CITY,Cipolletti,1372,Río Negro Province,R,-38.93392,-67.99032,75078,165,America__Argentina__Salta
+AR,CITY,Clodomira,1129,Santiago del Estero Province,G,-27.5744,-64.13108,9043,137,America__Argentina__Cordoba
+AR,CITY,Clorinda,1633,Formosa Province,P,-25.28481,-57.71851,15000,66,America__Argentina__Cordoba
+AR,CITY,Colegiales,1579,Buenos Aires,C,-34.57365,-58.44924,57000,,America__Argentina__Buenos_Aires
+AR,CITY,Colonia Aurora,1271,Misiones Province,N,-27.47428,-54.52498,8407,178,America__Argentina__Cordoba
+AR,CITY,Colonia Barón,1325,La Pampa,L,-36.15152,-63.85404,3317,154,America__Argentina__Salta
+AR,CITY,Colonia Benítez,1830,Chaco Province,H,-27.33099,-58.94622,3584,54,America__Argentina__Cordoba
+AR,CITY,Colonia Dora,1738,Santiago del Estero Province,G,-28.6,-62.95,2406,107,America__Argentina__Cordoba
+AR,CITY,Colonia Elisa,1369,Chaco Province,H,-26.93041,-59.51861,4570,59,America__Argentina__Cordoba
+AR,CITY,Colonia Elía,1674,Entre Ríos Province,E,-32.67144,-58.32538,1620,35,America__Argentina__Cordoba
+AR,CITY,Colonia La Tordilla,1559,Córdoba Province,X,-31.23746,-63.06134,1138,141,America__Argentina__Cordoba
+AR,CITY,Colonia San Bartolomé,1684,Córdoba Province,X,-31.5278,-62.72436,1104,125,America__Argentina__Cordoba
+AR,CITY,Colonias Unidas,1578,Chaco Province,H,-26.69825,-59.63154,4093,83,America__Argentina__Cordoba
+AR,CITY,Colón,1095,Entre Ríos Province,E,-32.22312,-58.14426,23150,26,America__Argentina__Cordoba
+AR,CITY,Comallo,1470,Río Negro Province,R,-41.02993,-70.26784,1306,772,America__Argentina__Salta
+AR,CITY,Comandante Fontana,1742,Formosa Province,P,-25.33453,-59.68212,5655,103,America__Argentina__Cordoba
+AR,CITY,Comandante Luis Piedra Buena,1017,Santa Cruz Province,Z,-49.98513,-68.91467,4176,9,America__Argentina__Rio_Gallegos
+AR,CITY,Comodoro Rivadavia,1680,Chubut Province,U,-45.86413,-67.49656,140850,61,America__Argentina__Rio_Gallegos
+AR,CITY,Concarán,1592,San Luis Province,D,-32.56009,-65.2427,4530,673,America__Argentina__San_Luis
+AR,CITY,Concepción,1609,Corrientes,W,-28.39175,-57.88777,4800,67,America__Argentina__Cordoba
+AR,CITY,Concepción de la Sierra,1379,Misiones Province,N,-27.98311,-55.52031,7398,162,America__Argentina__Cordoba
+AR,CITY,Concepción del Bermejo,1228,Chaco Province,H,-26.59926,-60.94617,5830,105,America__Argentina__Cordoba
+AR,CITY,Concepción del Uruguay,1408,Entre Ríos Province,E,-32.48463,-58.23217,67895,3,America__Argentina__Cordoba
+AR,CITY,Concordia,1170,Entre Ríos Province,E,-31.39296,-58.02089,145210,21,America__Argentina__Cordoba
+AR,CITY,Conscripto Bernardi,1443,Entre Ríos Province,E,-31.04837,-59.08435,1464,70,America__Argentina__Cordoba
+AR,CITY,Contraalmirante Cordero,1957,Río Negro Province,R,-38.72423,-68.15284,2782,303,America__Argentina__Salta
+AR,CITY,Coronda,1497,Santa Fe Province,S,-31.97263,-60.91983,16975,19,America__Argentina__Cordoba
+AR,CITY,Coronel Baigorria,1240,Córdoba Province,X,-32.8477,-64.36107,1334,532,America__Argentina__Cordoba
+AR,CITY,Coronel Belisle,1741,Río Negro Province,R,-39.18688,-65.95422,1841,156,America__Argentina__Salta
+AR,CITY,Coronel Dorrego,1695,Buenos Aires Province,B,-38.71867,-61.28733,11644,118,America__Argentina__Buenos_Aires
+AR,CITY,Coronel Du Graty,1302,Chaco Province,H,-27.68038,-60.91462,9140,78,America__Argentina__Cordoba
+AR,CITY,Coronel Moldes,1349,Córdoba Province,X,-33.6227,-64.59711,8104,365,America__Argentina__Cordoba
+AR,CITY,Coronel Suárez,1806,Buenos Aires Province,B,-37.45467,-61.93343,27000,239,America__Argentina__Buenos_Aires
+AR,CITY,Corral de Bustos,1524,Córdoba Province,X,-33.28205,-62.18463,9882,118,America__Argentina__Cordoba
+AR,CITY,Corralito,1679,Córdoba Province,X,-32.02462,-64.19216,1873,473,America__Argentina__Cordoba
+AR,CITY,Corrientes,1932,Corrientes,W,-27.46784,-58.8344,339067,62,America__Argentina__Cordoba
+AR,CITY,Corzuela,1851,Chaco Province,H,-26.95374,-60.96928,10470,95,America__Argentina__Cordoba
+AR,CITY,Cosquín,1423,Córdoba Province,X,-31.24508,-64.46563,19070,719,America__Argentina__Cordoba
+AR,CITY,Costa Sacate,1612,Córdoba Province,X,-31.6477,-63.75935,1288,308,America__Argentina__Cordoba
+AR,CITY,Coté-Lai,1150,Chaco Province,H,-27.5,-59.6,1650,65,America__Argentina__Cordoba
+AR,CITY,Crespo,1100,Entre Ríos Province,E,-32.02873,-60.30658,18296,109,America__Argentina__Cordoba
+AR,CITY,Cruz Alta,1164,Córdoba Province,X,-33.00887,-61.80746,6862,78,America__Argentina__Cordoba
+AR,CITY,Cruz de los Milagros,1230,Corrientes,W,-28.83646,-59.00476,1768,59,America__Argentina__Cordoba
+AR,CITY,Cruz del Eje,1927,Córdoba Province,X,-30.72644,-64.80387,28166,449,America__Argentina__Cordoba
+AR,CITY,Cuesta Blanca,2911,Córdoba Province,X,-31.48658,-64.5715,3200,1500,America__Argentina__Cordoba
+AR,CITY,Curuzú Cuatiá,1238,Corrientes,W,-29.79171,-58.0546,36390,61,America__Argentina__Cordoba
+AR,CITY,Cutral-Có,1166,Neuquén Province,Q,-38.93424,-69.23052,47380,613,America__Argentina__Salta
+AR,CITY,Córdoba,1474,Córdoba Province,X,-31.4135,-64.18105,1428214,390,America__Argentina__Cordoba
+AR,CITY,Dalmacio Vélez Sársfield,1140,Córdoba Province,X,-32.61072,-63.58038,1344,235,America__Argentina__Cordoba
+AR,CITY,Darwin,1911,Río Negro Province,R,-39.20334,-65.73952,1052,137,America__Argentina__Salta
+AR,CITY,Del Campillo,1967,Córdoba Province,X,-34.37659,-64.49504,3155,228,America__Argentina__Cordoba
+AR,ADM2,Departamento Capital,132610,Salta Province,A,-24.83333,-65.33333,535303,,America__Argentina__Salta
+AR,ADM2,Departamento de Aguirre,132665,Santiago del Estero Province,G,-29.33333,-62.5,7610,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Albardón,132668,San Juan Province,J,-31.28333,-68.41667,20413,,America__Argentina__San_Juan
+AR,ADM2,Departamento de Almirante Brown,132662,Chaco Province,H,-25.81662,-61.45576,28096,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Aluminé,132649,Neuquén Province,Q,-39.16667,-71.0,35806,,America__Argentina__Salta
+AR,ADM2,Departamento de Ambato,132658,Catamarca Province,K,-28.0,-65.91667,4525,,America__Argentina__Catamarca
+AR,ADM2,Departamento de Ancasti,132648,Catamarca Province,K,-29.0,-65.5,3082,,America__Argentina__Catamarca
+AR,ADM2,Departamento de Andalgalá,132660,Catamarca Province,K,-27.58333,-66.46667,14068,,America__Argentina__Catamarca
+AR,ADM2,Departamento de Angaco,132659,San Juan Province,J,-31.2,-68.13333,7570,,America__Argentina__San_Juan
+AR,ADM2,Departamento de Anta,132654,Salta Province,A,-24.91667,-64.0,49841,,America__Argentina__Salta
+AR,ADM2,Departamento de Antofagasta de la Sierra,132656,Catamarca Province,K,-26.0,-67.58333,1282,,America__Argentina__Catamarca
+AR,ADM2,Departamento de Apóstoles,132328,Misiones Province,N,-27.91667,-55.75,42457,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Arauco,132661,La Rioja Province,F,-28.5,-66.83333,723,,America__Argentina__La_Rioja
+AR,ADM2,Departamento de Avellaneda,132655,Río Negro Province,R,-39.5,-66.5,32308,,America__Argentina__Salta
+AR,ADM2,Departamento de Añelo,132650,Neuquén Province,Q,-38.16667,-69.0,7554,,America__Argentina__Salta
+AR,ADM2,Departamento de Banda,132643,Santiago del Estero Province,G,-27.5,-64.33333,142279,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Belgrano,132645,Santa Fe Province,S,-32.5,-61.75,41449,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Bella Vista,132317,Corrientes,W,-28.5,-58.83333,35350,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Bermejo,132310,Chaco Province,H,-27.0,-58.66667,24215,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Berón de Astrada,132313,Corrientes,W,-27.5,-57.66667,2461,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Biedma,132642,Chubut Province,U,-42.41667,-65.0,58667,,America__Argentina__Catamarca
+AR,ADM2,Departamento de Burruyacú,132636,Tucumán Province,T,-26.5,-64.91667,32936,,America__Argentina__Tucuman
+AR,ADM2,Departamento de Cainguás,132324,Misiones Province,N,-27.16667,-54.83333,53267,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Calamuchita,132634,Córdoba Province,X,-32.25,-64.58333,45418,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Caleu-Caleu,132629,La Pampa,L,-38.58333,-64.0,2075,,America__Argentina__Salta
+AR,ADM2,Departamento de Calingasta,132631,San Juan Province,J,-31.5,-69.75,8176,,America__Argentina__San_Juan
+AR,ADM2,Departamento de Candelaria,132309,Misiones Province,N,-27.5,-55.5,26713,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Capayán,132624,Catamarca Province,K,-28.83333,-66.0,6358,,America__Argentina__Catamarca
+AR,ADM2,Departamento de Capital,132318,Corrientes,W,-27.5,-58.75,328868,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Capital,132331,Misiones Province,N,-27.5,-55.83333,323739,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Capital,132619,Catamarca Province,K,-28.41667,-65.8,159703,,America__Argentina__Catamarca
+AR,ADM2,Departamento de Capital,132620,Mendoza,M,-32.88469,-68.85826,110993,,America__Argentina__Mendoza
+AR,ADM2,Departamento de Capital,132626,San Juan Province,J,-31.53333,-68.53333,116511,,America__Argentina__San_Juan
+AR,ADM2,Departamento de Capital,132627,Tucumán Province,T,-26.82825,-65.21126,527607,,America__Argentina__Tucuman
+AR,ADM2,Departamento de Caseros,132609,Santa Fe Province,S,-33.25,-61.66667,79096,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Castellanos,132618,Santa Fe Province,S,-31.16667,-61.66667,162165,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Catán-Lil,132622,Neuquén Province,Q,-39.5,-70.33333,2469,,America__Argentina__Salta
+AR,ADM2,Departamento de Caucete,132616,San Juan Province,J,-31.45,-67.66667,33609,,America__Argentina__San_Juan
+AR,ADM2,Departamento de Cerrillos,132621,Salta Province,A,-25.0,-65.41667,35579,,America__Argentina__Salta
+AR,ADM2,Departamento de Chicoana,132607,Salta Province,A,-25.11583,-65.59466,18248,,America__Argentina__Salta
+AR,ADM2,Departamento de Chimbas,132606,San Juan Province,J,-31.48738,-68.52691,73829,,America__Argentina__San_Juan
+AR,ADM2,Departamento de Chos-Malal,132599,Neuquén Province,Q,-36.91667,-70.16667,14185,,America__Argentina__Salta
+AR,ADM2,Departamento de Choya,132601,Santiago del Estero Province,G,-28.75,-64.75,34667,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Cochinoca,132596,Jujuy Province,Y,-23.0,-65.83333,12111,,America__Argentina__Jujuy
+AR,ADM2,Departamento de Collón-Curá,132588,Neuquén Province,Q,-40.08333,-70.16667,4395,,America__Argentina__Salta
+AR,ADM2,Departamento de Colón,132582,Córdoba Province,X,-31.16667,-64.16667,171067,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Comandante Fernández,132583,Chaco Province,H,-26.83333,-60.5,88164,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Concepción,132307,Corrientes,W,-28.33333,-58.0,18411,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Concepción de la Sierra,132302,Misiones Province,N,-27.83333,-55.41667,9510,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Confluencia,132590,Neuquén Province,Q,-38.83333,-68.83333,314793,,America__Argentina__Salta
+AR,ADM2,Departamento de Constitución,132593,Santa Fe Province,S,-33.5,-60.91667,83045,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Cruz Alta,132581,Tucumán Province,T,-26.91667,-64.91667,162240,,America__Argentina__Tucuman
+AR,ADM2,Departamento de Cruz del Eje,132578,Córdoba Province,X,-30.75,-65.0,52172,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Curuzú Cuatiá,132301,Corrientes,W,-29.5,-58.5,42075,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Cushamen,132579,Chubut Province,U,-42.5,-70.83333,17134,,America__Argentina__Catamarca
+AR,ADM2,Departamento de Deseado,132576,Santa Cruz Province,Z,-47.33333,-67.83333,72953,,America__Argentina__Rio_Gallegos
+AR,ADM2,Departamento de Doce de Octubre,132580,Chaco Province,H,-27.41667,-61.33333,20149,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Dos de Abril,132684,Chaco Province,H,-27.60932,-61.34473,7435,,America__Argentina__Cordoba
+AR,ADM2,Departamento de El Alto,132574,Catamarca Province,K,-28.41667,-65.41667,3400,,America__Argentina__Catamarca
+AR,ADM2,Departamento de El Carmen,132572,Jujuy Province,Y,-24.41667,-65.16667,97039,,America__Argentina__Jujuy
+AR,ADM2,Departamento de Eldorado,132303,Misiones Province,N,-26.25,-54.41667,78152,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Empedrado,132278,Corrientes,W,-27.83333,-58.66667,14721,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Escalante,132571,Chubut Province,U,-45.33333,-67.33333,143609,,America__Argentina__Catamarca
+AR,ADM2,Departamento de Esquina,132284,Corrientes,W,-30.0,-59.33333,30372,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Famaillá,132551,Tucumán Province,T,-26.91667,-65.5,20762,,America__Argentina__Tucuman
+AR,ADM2,Departamento de Florentino Ameghino,132553,Chubut Province,U,-44.41667,-66.16667,1484,,America__Argentina__Catamarca
+AR,ADM2,Departamento de Fray Mamerto Esquiú,132566,Catamarca Province,K,-28.3,-65.75,10658,,America__Argentina__Catamarca
+AR,ADM2,Departamento de Futaleufú,132556,Chubut Province,U,-43.08333,-71.41667,37540,,America__Argentina__Catamarca
+AR,ADM2,Departamento de Gaimán,132562,Chubut Province,U,-43.33333,-66.33333,9612,,America__Argentina__Catamarca
+AR,ADM2,Departamento de Gastre,132552,Chubut Province,U,-42.83333,-68.66667,1508,,America__Argentina__Catamarca
+AR,ADM2,Departamento de General Alvear,132292,Corrientes,W,-28.83333,-56.5,8147,,America__Argentina__Cordoba
+AR,ADM2,Departamento de General Alvear,132570,Mendoza,M,-35.16667,-67.33333,44147,,America__Argentina__Mendoza
+AR,ADM2,Departamento de General Donovan,132279,Chaco Province,H,-27.16667,-59.33333,13385,,America__Argentina__Cordoba
+AR,ADM2,Departamento de General Güemes,132548,Salta Province,A,-24.79464,-64.94393,42255,,America__Argentina__Salta
+AR,ADM2,Departamento de General Güemes,132558,Chaco Province,H,-25.16667,-61.41667,62227,,America__Argentina__Cordoba
+AR,ADM2,Departamento de General Lamadrid,132569,La Rioja Province,F,-28.83333,-68.66667,7923,,America__Argentina__La_Rioja
+AR,ADM2,Departamento de General Manuel Belgrano,132291,Misiones Province,N,-26.16667,-53.91667,42929,,America__Argentina__Cordoba
+AR,ADM2,Departamento de General Paz,132297,Corrientes,W,-27.75,-57.83333,14725,,America__Argentina__Cordoba
+AR,ADM2,Departamento de General Roca,132564,Córdoba Province,X,-34.66667,-64.25,33323,,America__Argentina__Cordoba
+AR,ADM2,Departamento de General San Martín,132544,Córdoba Province,X,-32.5,-63.33333,116107,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Godoy Cruz,132523,Mendoza,M,-32.93333,-68.86667,182977,,America__Argentina__Mendoza
+AR,ADM2,Departamento de Goya,132272,Corrientes,W,-29.5,-59.5,87349,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Graneros,132528,Tucumán Province,T,-27.75,-65.33333,13063,,America__Argentina__Tucuman
+AR,ADM2,Departamento de Guachipas,132533,Salta Province,A,-25.66667,-65.5,3193,,America__Argentina__Salta
+AR,ADM2,Departamento de Gualeguaychú,132287,Entre Ríos Province,E,-33.25,-59.0,101350,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Guaraní,132285,Misiones Province,N,-27.16667,-54.16667,67698,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Guasayán,132531,Santiago del Estero Province,G,-28.0,-64.83333,7404,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Guaymallén,132534,Mendoza,M,-32.88333,-68.7,283803,,America__Argentina__Mendoza
+AR,ADM2,Departamento de Güer Aike,132525,Santa Cruz Province,Z,-51.33333,-70.33333,92878,,America__Argentina__Rio_Gallegos
+AR,ADM2,Departamento de Iglesia,132510,San Juan Province,J,-29.33333,-69.58333,6737,,America__Argentina__San_Juan
+AR,ADM2,Departamento de Iguazú,132281,Misiones Province,N,-25.86667,-54.36667,81215,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Independencia,132515,Chaco Province,H,-26.66667,-60.66667,20620,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Independencia,132520,La Rioja Province,F,-30.16667,-67.41667,20620,,America__Argentina__La_Rioja
+AR,ADM2,Departamento de Iruya,132521,Salta Province,A,-22.8,-64.91667,6370,,America__Argentina__Salta
+AR,ADM2,Departamento de Itatí,132266,Corrientes,W,-27.33333,-58.0,8774,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Ituzaingó,132265,Corrientes,W,-27.90085,-56.86604,30565,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Juárez Celman,132518,Córdoba Province,X,-33.33333,-63.66667,55348,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Jáchal,132512,San Juan Province,J,-30.5,-68.5,21018,,America__Argentina__San_Juan
+AR,ADM2,Departamento de La Capital,132509,Santa Fe Province,S,-31.5,-60.66667,630538,,America__Argentina__Cordoba
+AR,ADM2,Departamento de La Cocha,132675,Tucumán Province,T,-27.77784,-65.57109,17683,,America__Argentina__Tucuman
+AR,ADM2,Departamento de La Paz,132502,Catamarca Province,K,-29.25,-65.25,21061,,America__Argentina__Catamarca
+AR,ADM2,Departamento de La Paz,132504,Mendoza,M,-33.66667,-67.25,9560,,America__Argentina__Mendoza
+AR,ADM2,Departamento de La Poma,132505,Salta Province,A,-24.16667,-66.16667,1735,,America__Argentina__Salta
+AR,ADM2,Departamento de La Viña,132495,Salta Province,A,-25.5,-65.66667,7152,,America__Argentina__Salta
+AR,ADM2,Departamento de Lago Argentino,132507,Santa Cruz Province,Z,-49.75,-72.0,7500,,America__Argentina__Rio_Gallegos
+AR,ADM2,Departamento de Languiñeo,132503,Chubut Province,U,-43.33333,-70.66667,3017,,America__Argentina__Catamarca
+AR,ADM2,Departamento de Las Heras,132500,Mendoza,M,-32.5,-69.5,182962,,America__Argentina__Mendoza
+AR,ADM2,Departamento de Lavalle,132262,Corrientes,W,-29.0,-58.91667,26250,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Lavalle,132498,Mendoza,M,-32.5,-68.0,32129,,America__Argentina__Mendoza
+AR,ADM2,Departamento de Leandro N. Alem,132247,Misiones Province,N,-27.56667,-55.33333,45271,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Libertad,132239,Chaco Province,H,-27.33333,-59.33333,10822,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Libertador General San Martín,132253,Misiones Province,N,-26.91667,-54.91667,46333,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Loreto,132486,Santiago del Estero Province,G,-28.55,-64.33333,884144,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Los Andes,132489,Salta Province,A,-24.5,-67.33333,5630,,America__Argentina__Salta
+AR,ADM2,Departamento de Luján,132484,Mendoza,M,-33.0,-69.33333,104470,,America__Argentina__Mendoza
+AR,ADM2,Departamento de Lules,132689,Tucumán Province,T,-26.92886,-65.33848,57235,,America__Argentina__Tucuman
+AR,ADM2,Departamento de Lácar,132508,Neuquén Province,Q,-40.25,-71.2,24670,,America__Argentina__Salta
+AR,ADM2,Departamento de Magallanes,132485,Santa Cruz Province,Z,-48.75,-68.5,6536,,America__Argentina__Rio_Gallegos
+AR,ADM2,Departamento de Maipú,132482,Mendoza,M,-33.0,-68.58333,153600,,America__Argentina__Mendoza
+AR,ADM2,Departamento de Maipú,132483,Chaco Province,H,-26.33333,-60.41667,153600,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Malargüe,132481,Mendoza,M,-36.25,-69.25,23020,,America__Argentina__Mendoza
+AR,ADM2,Departamento de Marcos Juárez,132480,Córdoba Province,X,-33.0,-62.25,99761,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Mburucuyá,132244,Corrientes,W,-28.0,-58.25,9012,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Mercedes,132243,Corrientes,W,-29.0,-57.83333,39206,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Metán,132478,Salta Province,A,-25.5,-64.66667,39006,,America__Argentina__Salta
+AR,ADM2,Departamento de Minas,132471,Córdoba Province,X,-31.0,-65.33333,4881,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Minas,132477,Neuquén Province,Q,-36.83333,-70.83333,7072,,America__Argentina__Salta
+AR,ADM2,Departamento de Monte Caseros,132248,Corrientes,W,-30.25,-57.83333,33684,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Montecarlo,132249,Misiones Province,N,-26.71667,-54.58333,36998,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Monteros,132467,Tucumán Province,T,-27.16667,-65.58333,58442,,America__Argentina__Tucuman
+AR,ADM2,Departamento de Moreno,132469,Santiago del Estero Province,G,-27.33333,-62.5,28053,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Mártires,132472,Chubut Province,U,-43.83333,-67.16667,977,,America__Argentina__Catamarca
+AR,ADM2,Departamento de Nueve de Julio,132457,Chaco Province,H,-26.95331,-61.27627,26955,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Nueve de Julio,132458,Santa Fe Province,S,-28.83333,-61.33333,28273,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Nueve de Julio,132460,San Juan Province,J,-31.65072,-68.38925,7652,,America__Argentina__San_Juan
+AR,ADM2,Departamento de Oberá,132227,Misiones Province,N,-27.55,-55.08333,106882,,America__Argentina__Cordoba
+AR,ADM2,Departamento de O’Higgins,132456,Chaco Province,H,-27.25,-60.66667,19231,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Paraná,132230,Entre Ríos Province,E,-31.66667,-60.0,247863,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Paso de Indios,132454,Chubut Province,U,-44.0,-68.83333,1905,,America__Argentina__Catamarca
+AR,CITY,Departamento de Paso de los Libres,132219,Corrientes,W,-29.66667,-57.25,43805,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Pilcomayo,132231,Formosa Province,P,-25.5,-58.08333,78114,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Pomán,132440,Catamarca Province,K,-28.25,-66.41667,9543,,America__Argentina__Catamarca
+AR,ADM2,Departamento de Presidencia de la Plaza,132228,Chaco Province,H,-27.0,-59.75,12231,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Presidente Roque Sáenz Peña,132444,Córdoba Province,X,-34.25,-63.5,34647,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Quitilipi,132432,Chaco Province,H,-26.66667,-60.16667,32083,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Rawson,132428,Chubut Province,U,-43.12342,-65.10179,115829,,America__Argentina__Catamarca
+AR,ADM2,Departamento de Rawson,132430,San Juan Province,J,-31.7,-68.46667,107000,,America__Argentina__San_Juan
+AR,ADM2,Departamento de Rinconada,132434,Jujuy Province,Y,-22.5,-66.5,2488,,America__Argentina__Jujuy
+AR,ADM2,Departamento de Rivadavia,132401,San Juan Province,J,-31.5645,-68.65219,76150,,America__Argentina__San_Juan
+AR,ADM2,Departamento de Rivadavia,132404,Mendoza,M,-33.18,-68.466,52567,,America__Argentina__Mendoza
+AR,ADM2,Departamento de Rivadavia,132414,Salta Province,A,-23.66667,-62.91667,8108,,America__Argentina__Salta
+AR,ADM2,Departamento de Robles,132399,Santiago del Estero Province,G,-27.83333,-63.91667,44415,,America__Argentina__Cordoba
+AR,CITY,Departamento de Rosario de Lerma,132423,Salta Province,A,-24.58333,-65.83333,21592,,America__Argentina__Salta
+AR,CITY,Departamento de Rosario de la Frontera,132412,Salta Province,A,-25.91667,-64.83333,24819,,America__Argentina__Salta
+AR,ADM2,Departamento de Río Chico,132402,Santa Cruz Province,Z,-48.25,-71.0,2926,,America__Argentina__Rio_Gallegos
+AR,ADM2,Departamento de Río Chico,132416,Tucumán Province,T,-27.43368,-65.76671,52925,,America__Argentina__Tucuman
+AR,ADM2,Departamento de Río Cuarto,132415,Córdoba Province,X,-33.33333,-64.5,229728,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Río Hondo,132418,Santiago del Estero Province,G,-27.58333,-64.75,27838,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Río Primero,132424,Córdoba Province,X,-31.08333,-63.5,42429,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Río Seco,132407,Córdoba Province,X,-30.08333,-63.0,12635,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Río Segundo,132421,Córdoba Province,X,-31.75,-63.5,95803,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Río Senguerr,132406,Chubut Province,U,-45.33333,-70.83333,6194,,America__Argentina__Catamarca
+AR,ADM2,Departamento de Saladas,132217,Corrientes,W,-28.25,-58.75,21470,,America__Argentina__Cordoba
+AR,ADM2,Departamento de San Alberto,132425,Córdoba Province,X,-31.75,-65.25,32395,,America__Argentina__Cordoba
+AR,ADM2,Departamento de San Carlos,132387,Salta Province,A,-25.75,-66.08333,7208,,America__Argentina__Salta
+AR,ADM2,Departamento de San Carlos,132390,Mendoza,M,-34.0,-69.0,28341,,America__Argentina__Mendoza
+AR,ADM2,Departamento de San Cosme,132214,Corrientes,W,-27.33333,-58.5,13189,,America__Argentina__Cordoba
+AR,ADM2,Departamento de San Cristóbal,132398,Santa Fe Province,S,-30.33333,-61.33333,14261,,America__Argentina__Cordoba
+AR,ADM2,Departamento de San Fernando,132209,Chaco Province,H,-27.66667,-59.16667,365637,,America__Argentina__Cordoba
+AR,ADM2,Departamento de San Ignacio,132207,Misiones Province,N,-27.25,-55.33333,57471,,America__Argentina__Cordoba
+AR,ADM2,Departamento de San Javier,132204,Santa Fe Province,S,-30.33333,-59.91667,29912,,America__Argentina__Cordoba
+AR,ADM2,Departamento de San Javier,132206,Misiones Province,N,-27.77806,-55.13004,20821,,America__Argentina__Cordoba
+AR,ADM2,Departamento de San Javier,132393,Córdoba Province,X,-32.08333,-65.16667,48951,,America__Argentina__Cordoba
+AR,ADM2,Departamento de San Justo,132395,Córdoba Province,X,-31.33333,-62.66667,190182,,America__Argentina__Cordoba
+AR,ADM2,Departamento de San Justo,132397,Santa Fe Province,S,-30.66667,-60.5,40379,,America__Argentina__Cordoba
+AR,ADM2,Departamento de San Lorenzo,132386,Santa Fe Province,S,-33.0,-61.0,142097,,America__Argentina__Cordoba
+AR,ADM2,Departamento de San Lorenzo,132392,Chaco Province,H,-27.33333,-60.41667,142097,,America__Argentina__Cordoba
+AR,ADM2,Departamento de San Luis del Palmar,132213,Corrientes,W,-27.5,-58.25,16513,,America__Argentina__Cordoba
+AR,ADM2,Departamento de San Martín,132205,Corrientes,W,-28.83333,-56.91667,12236,,America__Argentina__Cordoba
+AR,ADM2,Departamento de San Martín,132385,Santiago del Estero Province,G,-28.16667,-63.83333,9854,,America__Argentina__Cordoba
+AR,ADM2,Departamento de San Martín,132388,San Juan Province,J,-31.5,-68.25,10140,,America__Argentina__San_Juan
+AR,ADM2,Departamento de San Martín,132389,Mendoza,M,-32.8373,-68.24922,108448,,America__Argentina__Mendoza
+AR,ADM2,Departamento de San Martín,132396,Santa Fe Province,S,-32.0,-61.83333,60698,,America__Argentina__Cordoba
+AR,ADM2,Departamento de San Miguel,132211,Corrientes,W,-27.91667,-57.5,10252,,America__Argentina__Cordoba
+AR,ADM2,Departamento de San Pedro,132203,Misiones Province,N,-26.66667,-54.0,31050,,America__Argentina__Cordoba
+AR,ADM2,Departamento de San Rafael,132384,Mendoza,M,-35.0,-68.83333,173571,,America__Argentina__Mendoza
+AR,ADM2,Departamento de San Roque,132212,Corrientes,W,-28.66667,-58.75,17951,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Santa Lucía,132381,San Juan Province,J,-31.53333,-68.46667,43565,,America__Argentina__San_Juan
+AR,ADM2,Departamento de Santa María,132376,Catamarca Province,K,-26.66667,-66.41667,22127,,America__Argentina__Catamarca
+AR,ADM2,Departamento de Santa Rosa,132378,Catamarca Province,K,-28.08333,-65.25,10349,,America__Argentina__Catamarca
+AR,ADM2,Departamento de Santa Rosa,132380,Mendoza,M,-33.5,-68.0,15818,,America__Argentina__Mendoza
+AR,ADM2,Departamento de Santo Tomé,132192,Corrientes,W,-28.25,-56.25,54050,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Sargento Cabral,132196,Chaco Province,H,-26.83333,-59.5,15030,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Sarmiento,132368,Santiago del Estero Province,G,-28.08333,-63.41667,4607,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Sarmiento,132369,Chubut Province,U,-45.33333,-69.0,8724,,America__Argentina__Catamarca
+AR,ADM2,Departamento de Sarmiento,132373,San Juan Province,J,-32.0,-68.66667,19092,,America__Argentina__San_Juan
+AR,ADM2,Departamento de Sauce,132186,Corrientes,W,-30.0,-58.66667,9151,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Simoca,132676,Tucumán Province,T,-27.2636,-65.35612,29932,,America__Argentina__Tucuman
+AR,ADM2,Departamento de Sobremonte,132370,Córdoba Province,X,-29.66667,-64.08333,4531,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Tapenagá,132197,Chaco Province,H,-27.5,-59.75,4188,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Tehuelches,132367,Chubut Province,U,-44.22132,-70.2526,5159,,America__Argentina__Catamarca
+AR,ADM2,Departamento de Telsen,132359,Chubut Province,U,-42.41667,-67.16667,1788,,America__Argentina__Catamarca
+AR,ADM2,Departamento de Tinogasta,132365,Catamarca Province,K,-27.5,-68.0,22570,,America__Argentina__Catamarca
+AR,ADM2,Departamento de Toay,132363,La Pampa,L,-36.58333,-64.8,12409,,America__Argentina__Salta
+AR,ADM2,Departamento de Totoral,132362,Córdoba Province,X,-30.83333,-63.91667,7110,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Trancas,132357,Tucumán Province,T,-26.41667,-65.5,17541,,America__Argentina__Tucuman
+AR,ADM2,Departamento de Tulumba,132343,Córdoba Province,X,-30.25,-63.91667,12211,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Tumbaya,132354,Jujuy Province,Y,-23.71667,-65.66667,321,,America__Argentina__Jujuy
+AR,ADM2,Departamento de Tunuyán,132351,Mendoza,M,-33.66667,-69.5,42125,,America__Argentina__Mendoza
+AR,ADM2,Departamento de Tupungato,132336,Mendoza,M,-33.25,-69.25,28539,,America__Argentina__Mendoza
+AR,ADM2,Departamento de Ullúm,132350,San Juan Province,J,-31.0,-68.91667,4498,,America__Argentina__San_Juan
+AR,ADM2,Departamento de Unión,132355,Córdoba Province,X,-32.83333,-62.75,100247,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Valle Grande,132340,Jujuy Province,Y,-23.5,-65.0,2451,,America__Argentina__Jujuy
+AR,ADM2,Departamento de Valle Viejo,132338,Catamarca Province,K,-28.58333,-65.75,23707,,America__Argentina__Catamarca
+AR,ADM2,Departamento de Veinticinco de Mayo,132199,Misiones Province,N,-27.41667,-54.66667,27323,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Veinticinco de Mayo,132337,Río Negro Province,R,-41.25,-69.0,15193,,America__Argentina__Salta
+AR,ADM2,Departamento de Vera,132347,Santa Fe Province,S,-29.0,-60.5,51303,,America__Argentina__Cordoba
+AR,ADM2,Departamento de Yerba Buena,132677,Tucumán Province,T,-26.81826,-65.31733,63707,,America__Argentina__Tucuman
+AR,ADM2,Departamento de Zapala,132335,Neuquén Province,Q,-39.0,-69.83333,35806,,America__Argentina__Salta
+AR,ADM2,Departamento de Zonda,132333,San Juan Province,J,-31.6826,-68.89938,4050,,America__Argentina__San_Juan
+AR,CITY,Despeñaderos,1809,Córdoba Province,X,-31.81626,-64.28989,5645,451,America__Argentina__Cordoba
+AR,CITY,Devoto,1198,Córdoba Province,X,-31.40431,-62.30634,5597,112,America__Argentina__Cordoba
+AR,CITY,Deán Funes,1262,Córdoba Province,X,-30.42036,-64.34984,20164,679,America__Argentina__Cordoba
+AR,CITY,Diamante,1519,Entre Ríos Province,E,-32.06641,-60.63837,19545,14,America__Argentina__Cordoba
+AR,CITY,Doblas,1319,La Pampa,L,-37.14967,-64.01183,1860,161,America__Argentina__Salta
+AR,CITY,Dolavón,1971,Chubut Province,U,-43.30684,-65.70651,2929,13,America__Argentina__Catamarca
+AR,CITY,Dolores,1127,Buenos Aires Province,B,-36.31321,-57.67918,25190,14,America__Argentina__Buenos_Aires
+AR,CITY,Domínguez,1838,Entre Ríos Province,E,-31.9871,-58.96197,1925,59,America__Argentina__Cordoba
+AR,CITY,Don Torcuato,1197462,Buenos Aires Province,B,-34.49459,-58.62729,64867,17,America__Argentina__Buenos_Aires
+AR,CITY,Dos Arroyos,987,Misiones Province,N,-27.69946,-55.25207,3079,287,America__Argentina__Cordoba
+AR,CITY,Dos de Mayo,1656,Misiones Province,N,-27.02277,-54.68669,14544,561,America__Argentina__Cordoba
+AR,CITY,Eduardo Castex,1721,La Pampa,L,-35.91501,-64.29448,9861,171,America__Argentina__Salta
+AR,CITY,El Aguilar,1227,Jujuy Province,Y,-23.21572,-65.68005,3655,3980,America__Argentina__Jujuy
+AR,CITY,El Alcázar,1955,Misiones Province,N,-26.71459,-54.81523,5127,210,America__Argentina__Cordoba
+AR,CITY,El Arañado,1795,Córdoba Province,X,-31.7412,-62.89322,1395,150,America__Argentina__Cordoba
+AR,CITY,El Bolsón,1848,Río Negro Province,R,-41.96051,-71.53336,15537,312,America__Argentina__Salta
+AR,CITY,El Calafate,1254,Santa Cruz Province,Z,-50.34075,-72.27682,8000,199,America__Argentina__Rio_Gallegos
+AR,CITY,El Carril,1521,Salta Province,A,-25.0741,-65.49174,9780,1168,America__Argentina__Salta
+AR,CITY,El Colorado,1280,Formosa Province,P,-26.30808,-59.37291,12780,86,America__Argentina__Cordoba
+AR,CITY,El Cuy,1256,Río Negro Province,R,-39.92685,-68.34208,498,717,America__Argentina__Salta
+AR,CITY,El Galpón,1703,Salta Province,A,-25.38069,-64.65259,8357,527,America__Argentina__Salta
+AR,CITY,El Hoyo,1624,Santiago del Estero Province,G,-27.02872,-63.23197,2162,176,America__Argentina__Cordoba
+AR,CITY,El Huecú,1922,Neuquén Province,Q,-37.64522,-70.58006,1399,1569,America__Argentina__Salta
+AR,CITY,El Maitén,1064,Chubut Province,U,-42.04924,-71.16693,3782,625,America__Argentina__Catamarca
+AR,CITY,El Quebrachal,1251,Salta Province,A,-25.28333,-64.06667,10243,355,America__Argentina__Salta
+AR,CITY,El Rodeo,1112,Catamarca Province,K,-28.21518,-65.8742,1083,1296,America__Argentina__Catamarca
+AR,CITY,El Soberbio,1110,Misiones Province,N,-27.29847,-54.19877,19571,156,America__Argentina__Cordoba
+AR,CITY,El Trébol,1472,Santa Fe Province,S,-32.2008,-61.7014,10871,96,America__Argentina__Cordoba
+AR,CITY,El Tío,1697,Córdoba Province,X,-31.38357,-62.82938,1510,126,America__Argentina__Cordoba
+AR,CITY,Elena,1388,Córdoba Province,X,-32.57205,-64.39481,2815,635,America__Argentina__Cordoba
+AR,CITY,Embajador Martini,1912,La Pampa,L,-35.38633,-64.28092,1298,174,America__Argentina__Salta
+AR,CITY,Embalse,1812,Córdoba Province,X,-32.18,-64.41809,15900,623,America__Argentina__Cordoba
+AR,CITY,Embarcación,1571,Salta Province,A,-23.21003,-64.09965,23961,273,America__Argentina__Salta
+AR,CITY,Empedrado,1510,Corrientes,W,-27.95178,-58.80584,9258,56,America__Argentina__Cordoba
+AR,CITY,Esperanza,1211,Santa Fe Province,S,-31.4488,-60.93173,35885,38,America__Argentina__Cordoba
+AR,CITY,Esquel,1905,Chubut Province,U,-42.91147,-71.31947,28486,593,America__Argentina__Catamarca
+AR,CITY,Esquina,1328,Corrientes,W,-30.01476,-59.5289,26399,44,America__Argentina__Cordoba
+AR,CITY,Estanislao del Campo,1469,Formosa Province,P,-25.05504,-60.09218,4055,115,America__Argentina__Cordoba
+AR,CITY,Etruria,1081,Córdoba Province,X,-32.94008,-63.2466,3788,160,America__Argentina__Cordoba
+AR,CITY,Famaillá,1819,Tucumán Province,T,-27.05413,-65.40329,30951,750,America__Argentina__Tucuman
+AR,CITY,Federación,1025,Entre Ríos Province,E,-31.00621,-57.89962,13789,46,America__Argentina__Cordoba
+AR,CITY,Federal,1584,Entre Ríos Province,E,-30.95465,-58.78326,16333,67,America__Argentina__Cordoba
+AR,CITY,Felipe Yofré,1884,Corrientes,W,-29.10226,-58.33772,1947,72,America__Argentina__Cordoba
+AR,CITY,Fiambalá,1984,Catamarca Province,K,-27.67225,-67.6187,8061,1505,America__Argentina__Catamarca
+AR,CITY,Firmat,1749,Santa Fe Province,S,-33.45937,-61.4832,18294,96,America__Argentina__Cordoba
+AR,CITY,Florencio Varela,1767,Buenos Aires Province,B,-34.82722,-58.39556,146704,25,America__Argentina__Buenos_Aires
+AR,CITY,Florentino Ameghino,1043,Misiones Province,N,-27.56667,-55.13333,1979,252,America__Argentina__Cordoba
+AR,CITY,Fontana,1168,Chaco Province,H,-27.41813,-59.02392,26745,54,America__Argentina__Cordoba
+AR,CITY,Formosa,1908,Formosa Province,P,-26.18489,-58.17313,221383,57,America__Argentina__Cordoba
+AR,CITY,Fraile Pintado,1363,Jujuy Province,Y,-23.94079,-64.79943,13682,415,America__Argentina__Jujuy
+AR,CITY,Fray Luis A. Beltrán,1361,Santa Fe Province,S,-32.79122,-60.72819,14390,30,America__Argentina__Cordoba
+AR,CITY,Fray Luis Beltrán,1180,Río Negro Province,R,-39.31369,-65.76002,6401,,America__Argentina__Salta
+AR,CITY,Funes,1137,Santa Fe Province,S,-32.91568,-60.80995,14750,50,America__Argentina__Cordoba
+AR,CITY,Gaimán,1587,Chubut Province,U,-43.2897,-65.4929,5753,13,America__Argentina__Catamarca
+AR,CITY,Gancedo,1465,Chaco Province,H,-27.49038,-61.67571,3737,42,America__Argentina__Cordoba
+AR,CITY,Garruchos,1055,Corrientes,W,-28.17208,-55.65406,1152,80,America__Argentina__Cordoba
+AR,CITY,Garuhapé,1189,Misiones Province,N,-26.81768,-54.95665,8259,177,America__Argentina__Cordoba
+AR,CITY,Garupá,1663,Misiones Province,N,-27.48171,-55.82921,28814,102,America__Argentina__Cordoba
+AR,CITY,Gastre,1831,Chubut Province,U,-42.26186,-69.22112,602,1208,America__Argentina__Catamarca
+AR,CITY,Gato Colorado,2713,Santa Fe Province,S,-28.02219,-61.18663,1412,,America__Argentina__Buenos_Aires
+AR,CITY,General Acha,1869,La Pampa,L,-37.37698,-64.60431,12536,230,America__Argentina__Salta
+AR,CITY,General Alvear,1653,Misiones Province,N,-27.42611,-55.16916,1431,290,America__Argentina__Cordoba
+AR,CITY,General Baldissera,1823,Córdoba Province,X,-33.12246,-62.3063,2133,112,America__Argentina__Cordoba
+AR,CITY,General Cabrera,1499,Córdoba Province,X,-32.81313,-63.87243,10351,298,America__Argentina__Cordoba
+AR,CITY,General Campos,1027,Entre Ríos Province,E,-31.52311,-58.4049,2982,65,America__Argentina__Cordoba
+AR,CITY,General Conesa,990,Río Negro Province,R,-40.10408,-64.45592,5595,58,America__Argentina__Salta
+AR,CITY,General Enrique Godoy,1094,Río Negro Province,R,-39.07891,-67.15807,3823,209,America__Argentina__Salta
+AR,CITY,General Enrique Mosconi,1085,Salta Province,A,-22.59588,-63.81255,19811,452,America__Argentina__Salta
+AR,CITY,General Enrique Mosconi,1807,Formosa Province,P,-23.21667,-62.3,1279,,America__Argentina__Cordoba
+AR,CITY,General Fernández Oro,1454,Río Negro Province,R,-38.95297,-67.92489,6813,258,America__Argentina__Salta
+AR,CITY,General Galarza,1114,Entre Ríos Province,E,-32.72034,-59.39615,4150,54,America__Argentina__Cordoba
+AR,CITY,General José de San Martín,1954,Chaco Province,H,-26.53743,-59.34158,31758,81,America__Argentina__Cordoba
+AR,CITY,General Levalle,1678,Córdoba Province,X,-34.01472,-63.92413,5492,180,America__Argentina__Cordoba
+AR,CITY,General Manuel J. Campos,1377,La Pampa,L,-37.46025,-63.58537,1016,159,America__Argentina__Salta
+AR,CITY,General Pacheco,1197468,Buenos Aires Province,B,-34.45256,-58.64312,43287,11,America__Argentina__Buenos_Aires
+AR,CITY,General Pico,1016,La Pampa,L,-35.65662,-63.75682,57029,143,America__Argentina__Salta
+AR,CITY,General Pinedo,1688,Chaco Province,H,-27.31667,-61.28333,15741,78,America__Argentina__Cordoba
+AR,CITY,General Ramírez,1752,Entre Ríos Province,E,-32.17601,-60.20079,8614,117,America__Argentina__Cordoba
+AR,CITY,General Roca,1298,Córdoba Province,X,-32.73196,-61.91599,2597,90,America__Argentina__Cordoba
+AR,CITY,General Roca,1336,Río Negro Province,R,-39.03333,-67.58333,73212,240,America__Argentina__Salta
+AR,CITY,General San Martín,1360,La Pampa,L,-37.97904,-63.60449,2846,165,America__Argentina__Salta
+AR,CITY,General Vedia,1791,Chaco Province,H,-26.93382,-58.6604,3513,66,America__Argentina__Cordoba
+AR,CITY,General Villegas,1226,Buenos Aires Province,B,-35.03285,-63.01252,16270,105,America__Argentina__Buenos_Aires
+AR,CITY,Gobernador Costa,1794,Chubut Province,U,-44.04992,-70.59798,2185,729,America__Argentina__Catamarca
+AR,CITY,Gobernador Gregores,1257,Santa Cruz Province,Z,-48.75057,-70.24741,4497,287,America__Argentina__Rio_Gallegos
+AR,CITY,Gobernador Gálvez,1756,Santa Fe Province,S,-33.03016,-60.64045,74650,24,America__Argentina__Cordoba
+AR,CITY,Gobernador Juan E. Martínez,1585,Corrientes,W,-28.91161,-58.93594,3529,64,America__Argentina__Cordoba
+AR,CITY,Gobernador Mansilla,1122,Entre Ríos Province,E,-32.54453,-59.3548,2264,50,America__Argentina__Cordoba
+AR,CITY,Gobernador Roca,1345,Misiones Province,N,-27.18636,-55.46433,6315,185,America__Argentina__Cordoba
+AR,CITY,Gobernador Virasora,1802,Corrientes,W,-28.05,-56.03333,28756,133,America__Argentina__Cordoba
+AR,CITY,Godoy Cruz,1515,Mendoza,M,-32.92863,-68.8351,191299,780,America__Argentina__Mendoza
+AR,CITY,Goya,1529,Corrientes,W,-29.13995,-59.26343,70245,62,America__Argentina__Cordoba
+AR,CITY,Granadero Baigorria,1382,Santa Fe Province,S,-32.85683,-60.71754,32427,3,America__Argentina__Cordoba
+AR,CITY,Graneros,1364,Tucumán Province,T,-27.64934,-65.4383,5263,269,America__Argentina__Tucuman
+AR,CITY,Gualeguay,1638,Entre Ríos Province,E,-33.14156,-59.30966,33120,12,America__Argentina__Cordoba
+AR,CITY,Gualeguaychú,1022,Entre Ríos Province,E,-33.00937,-58.51722,78676,15,America__Argentina__Cordoba
+AR,CITY,Guaminí,1162,Buenos Aires Province,B,-37.01381,-62.41858,2845,95,America__Argentina__Buenos_Aires
+AR,CITY,Guaraní,1371,Misiones Province,N,-27.52323,-55.16077,4530,359,America__Argentina__Cordoba
+AR,CITY,Guatimozín,1274,Córdoba Province,X,-33.46149,-62.43844,2524,127,America__Argentina__Cordoba
+AR,CITY,Guatraché,1468,La Pampa,L,-37.66776,-63.53021,5271,169,America__Argentina__Salta
+AR,CITY,Gálvez,1290,Santa Fe Province,S,-32.02927,-61.22103,18374,57,America__Argentina__Cordoba
+AR,CITY,Hasenkamp,1959,Entre Ríos Province,E,-31.51226,-59.83545,4413,90,America__Argentina__Cordoba
+AR,CITY,Helvecia,1593,Santa Fe Province,S,-31.09834,-60.0883,5756,7,America__Argentina__Cordoba
+AR,CITY,Henderson,1640,Buenos Aires Province,B,-36.3,-61.71667,8645,105,America__Argentina__Buenos_Aires
+AR,CITY,Herlitzka,1273,Corrientes,W,-27.56516,-58.25557,1166,66,America__Argentina__Cordoba
+AR,CITY,Hermoso Campo,1739,Chaco Province,H,-27.60816,-61.34441,7435,63,America__Argentina__Cordoba
+AR,CITY,Hernando,1309,Córdoba Province,X,-32.42657,-63.73333,10486,274,America__Argentina__Cordoba
+AR,CITY,Hernández,1647,Entre Ríos Province,E,-32.3373,-60.0216,1801,100,America__Argentina__Cordoba
+AR,CITY,Herradura,1525,Formosa Province,P,-26.48705,-58.31198,2333,64,America__Argentina__Cordoba
+AR,CITY,Herrera,1448,Entre Ríos Province,E,-32.43401,-58.63177,1587,51,America__Argentina__Cordoba
+AR,CITY,Hersilia,1947,Santa Fe Province,S,-30.00447,-61.8408,3000,93,America__Argentina__Cordoba
+AR,CITY,Hoyo de Epuyén,1528,Chubut Province,U,-42.07189,-71.50811,2498,226,America__Argentina__Catamarca
+AR,CITY,Hualfín,1568,Catamarca Province,K,-27.22896,-66.83131,2304,1846,America__Argentina__Catamarca
+AR,CITY,Huanchillas,1561,Córdoba Province,X,-33.66653,-63.63701,1020,161,America__Argentina__Cordoba
+AR,CITY,Huerta Grande,1520,Córdoba Province,X,-31.07524,-64.49063,5630,997,America__Argentina__Cordoba
+AR,CITY,Huillapima,1012,Catamarca Province,K,-28.72533,-65.9787,7779,451,America__Argentina__Catamarca
+AR,CITY,Huinca Renancó,1249,Córdoba Province,X,-34.84038,-64.3758,8637,186,America__Argentina__Cordoba
+AR,CITY,Humahuaca,1235,Jujuy Province,Y,-23.20544,-65.35048,11369,3012,America__Argentina__Jujuy
+AR,CITY,Hurlingham,1942,Buenos Aires Province,B,-34.5904,-58.62904,60000,26,America__Argentina__Buenos_Aires
+AR,CITY,Ibarreta,1354,Formosa Province,P,-25.21438,-59.85851,8687,107,America__Argentina__Cordoba
+AR,CITY,Icaño,1804,Catamarca Province,K,-28.91934,-65.32817,6857,330,America__Argentina__Catamarca
+AR,CITY,Idiazábal,1237,Córdoba Province,X,-32.81411,-63.03252,1567,150,America__Argentina__Cordoba
+AR,CITY,Ingeniero Guillermo N. Juárez,1602,Formosa Province,P,-23.9,-61.85,10357,185,America__Argentina__Cordoba
+AR,CITY,Ingeniero Jacobacci,1013,Río Negro Province,R,-41.3292,-69.55015,5785,894,America__Argentina__Salta
+AR,CITY,Ingeniero Luiggi,1427,La Pampa,L,-35.38585,-64.46519,4671,192,America__Argentina__Salta
+AR,CITY,Ingeniero Luis A. Huergo,1229,Río Negro Province,R,-39.07146,-67.2379,6483,215,America__Argentina__Salta
+AR,CITY,Ingeniero Pablo Nogués,1197477,Buenos Aires Province,B,-34.47775,-58.70652,38470,,America__Argentina__Buenos_Aires
+AR,CITY,Ingenio La Esperanza,1779,Jujuy Province,Y,-24.22554,-64.83896,5002,557,America__Argentina__Jujuy
+AR,CITY,Inriville,1071,Córdoba Province,X,-32.94424,-62.23028,3778,108,America__Argentina__Cordoba
+AR,CITY,Intendente Alvear,1277,La Pampa,L,-35.23383,-63.59205,6990,129,America__Argentina__Salta
+AR,ADM2,Iriondo Department,132514,Santa Fe Province,S,-32.63333,-61.33333,66675,,America__Argentina__Cordoba
+AR,CITY,Isla Verde,1391,Córdoba Province,X,-33.24104,-62.40297,4245,121,America__Argentina__Cordoba
+AR,CITY,Italó,1907,Córdoba Province,X,-34.79237,-63.78199,1139,144,America__Argentina__Cordoba
+AR,CITY,Itatí,1441,Corrientes,W,-27.27043,-58.24458,7902,57,America__Argentina__Cordoba
+AR,CITY,Ituzaingó,1531,Buenos Aires Province,B,-34.65803,-58.66317,135275,28,America__Argentina__Buenos_Aires
+AR,CITY,Ituzaingó,1890,Corrientes,W,-27.58162,-56.68231,19575,78,America__Argentina__Cordoba
+AR,CITY,Itá Ibaté,1296,Corrientes,W,-27.42573,-57.33758,4115,75,America__Argentina__Cordoba
+AR,CITY,Jacinto Arauz,1590,La Pampa,L,-38.08606,-63.43169,2773,142,America__Argentina__Salta
+AR,CITY,James Craik,1906,Córdoba Province,X,-32.1612,-63.46688,4560,246,America__Argentina__Cordoba
+AR,CITY,Jardín América,1188,Misiones Province,N,-27.04346,-55.22698,24905,227,America__Argentina__Cordoba
+AR,CITY,Jesús María,1453,Córdoba Province,X,-30.98153,-64.09424,26825,533,America__Argentina__Cordoba
+AR,CITY,Joaquín V. González,1958,Salta Province,A,-25.11364,-64.12628,19185,400,America__Argentina__Salta
+AR,CITY,José C. Paz,1491876,Buenos Aires Province,B,-34.51541,-58.76813,230208,,America__Argentina__Buenos_Aires
+AR,CITY,José María Ezeiza,1119,Buenos Aires Province,B,-34.84787,-58.52869,160219,12,America__Argentina__Buenos_Aires
+AR,CITY,José de San Martín,1471,Chubut Province,U,-44.05032,-70.46967,1453,740,America__Argentina__Catamarca
+AR,ADM2,Juan Martín de Pueyrredón,132692,San Luis Province,D,-33.27544,-66.32017,205000,,America__Argentina__San_Luis
+AR,CITY,Juan Pujol,1303,Corrientes,W,-30.41873,-57.85612,1487,63,America__Argentina__Cordoba
+AR,CITY,Junín,1010,Buenos Aires Province,B,-34.58382,-60.94332,85007,81,America__Argentina__Buenos_Aires
+AR,CITY,Junín de los Andes,1116,Neuquén Province,Q,-39.95043,-71.06936,10592,902,America__Argentina__Salta
+AR,CITY,Justiniano Posse,1370,Córdoba Province,X,-32.88411,-62.67788,7406,121,America__Argentina__Cordoba
+AR,CITY,Justo Daract,1399,San Luis Province,D,-33.8594,-65.18277,9680,403,America__Argentina__San_Luis
+AR,CITY,La Adela,2060,La Pampa,L,-38.98333,-64.08333,2000,130,America__Argentina__Salta
+AR,CITY,La Banda,1964,Santiago del Estero Province,G,-27.73348,-64.24278,106441,193,America__Argentina__Cordoba
+AR,ADM2,La Caldera,132633,Salta Province,A,-24.58333,-65.41667,5711,,America__Argentina__Salta
+AR,CITY,La Calera,1811,Córdoba Province,X,-31.34377,-64.33529,24796,495,America__Argentina__Cordoba
+AR,CITY,La Carlota,1655,Córdoba Province,X,-33.41993,-63.29769,11490,147,America__Argentina__Cordoba
+AR,CITY,La Cesira,1036,Córdoba Province,X,-33.95115,-62.97238,1140,133,America__Argentina__Cordoba
+AR,CITY,La Clotilde,1087,Chaco Province,H,-27.13333,-60.66667,3625,94,America__Argentina__Cordoba
+AR,CITY,La Cocha,1317,Tucumán Province,T,-27.76927,-65.58711,7066,397,America__Argentina__Tucuman
+AR,CITY,La Criolla,1158,Entre Ríos Province,E,-31.26904,-58.10558,1852,55,America__Argentina__Cordoba
+AR,CITY,La Cruz,1595,Corrientes,W,-29.17443,-56.64326,8591,69,America__Argentina__Cordoba
+AR,CITY,La Cumbre,1035,Córdoba Province,X,-30.98201,-64.49139,7235,1146,America__Argentina__Cordoba
+AR,CITY,La Eduvigis,1588,Chaco Province,H,-26.83607,-59.06211,3816,70,America__Argentina__Cordoba
+AR,CITY,La Escondida,1174,Chaco Province,H,-27.10724,-59.44784,3948,67,America__Argentina__Cordoba
+AR,CITY,La Falda,1729,Córdoba Province,X,-31.08841,-64.48987,15112,952,America__Argentina__Cordoba
+AR,CITY,La Francia,1755,Córdoba Province,X,-31.40675,-62.63396,3503,112,America__Argentina__Cordoba
+AR,CITY,La Granja,1634,Córdoba Province,X,-31.00919,-64.26869,2406,695,America__Argentina__Cordoba
+AR,CITY,La Leonesa,1205,Chaco Province,H,-27.03786,-58.70347,10067,66,America__Argentina__Cordoba
+AR,CITY,La Maruja,1489,La Pampa,L,-35.6736,-64.93997,1389,283,America__Argentina__Salta
+AR,CITY,La Mendieta,1692,Jujuy Province,Y,-24.31187,-64.96377,3812,700,America__Argentina__Jujuy
+AR,CITY,La Para,1747,Córdoba Province,X,-30.89416,-63.00107,3021,93,America__Argentina__Cordoba
+AR,CITY,La Paz,1492,Entre Ríos Province,E,-30.74179,-59.64517,24716,55,America__Argentina__Cordoba
+AR,CITY,La Plata,1244,Buenos Aires Province,B,-34.92145,-57.95453,694167,26,America__Argentina__Buenos_Aires
+AR,CITY,La Playosa,1574,Córdoba Province,X,-32.10002,-63.03088,2376,175,America__Argentina__Cordoba
+AR,CITY,La Puerta de San José,1338,Catamarca Province,K,-27.55,-67.01667,1073,1450,America__Argentina__Catamarca
+AR,CITY,La Punta,2718,San Luis Province,D,-33.18368,-66.3127,15000,700,America__Argentina__San_Luis
+AR,CITY,La Quiaca,1056,Jujuy Province,Y,-22.10236,-65.59299,14751,3442,America__Argentina__Jujuy
+AR,CITY,La Rioja,1451,La Rioja Province,F,-29.41105,-66.85067,162620,498,America__Argentina__La_Rioja
+AR,CITY,La Tigra,1881,Chaco Province,H,-27.10996,-60.58719,4505,93,America__Argentina__Cordoba
+AR,CITY,La Toma,1121,San Luis Province,D,-33.05258,-65.62385,6663,897,America__Argentina__San_Luis
+AR,CITY,La Verde,1498,Chaco Province,H,-27.12634,-59.37352,2995,67,America__Argentina__Cordoba
+AR,CITY,Laborde,1160,Córdoba Province,X,-33.15319,-62.85661,5492,127,America__Argentina__Cordoba
+AR,CITY,Laboulaye,1576,Córdoba Province,X,-34.12662,-63.39119,19908,131,America__Argentina__Cordoba
+AR,CITY,Lago Puelo,1124,Chubut Province,U,-42.06684,-71.60384,4046,230,America__Argentina__Catamarca
+AR,CITY,Laguna Larga,1898,Córdoba Province,X,-31.77652,-63.80104,7137,308,America__Argentina__Cordoba
+AR,CITY,Laguna Limpia,1816,Chaco Province,H,-26.49565,-59.68083,1594,229,America__Argentina__Cordoba
+AR,CITY,Laguna Naick-Neck,1778,Formosa Province,P,-25.24769,-58.09383,2115,78,America__Argentina__Cordoba
+AR,CITY,Laguna Paiva,1897,Santa Fe Province,S,-31.30391,-60.65894,12250,24,America__Argentina__Cordoba
+AR,CITY,Laguna Yema,1093,Formosa Province,P,-24.25391,-61.24466,2744,162,America__Argentina__Cordoba
+AR,CITY,Lamarque,1415,Río Negro Province,R,-39.42304,-65.70208,7819,128,America__Argentina__Salta
+AR,CITY,Lanús,1552,Buenos Aires Province,B,-34.70252,-58.3955,459263,9,America__Argentina__Buenos_Aires
+AR,CITY,Lapachito,1542,Chaco Province,H,-27.15997,-59.38605,1448,66,America__Argentina__Cordoba
+AR,CITY,Laprida,1214,Buenos Aires Province,B,-37.54415,-60.79969,8178,209,America__Argentina__Buenos_Aires
+AR,CITY,Larroque,1503,Entre Ríos Province,E,-33.03595,-59.00125,6200,54,America__Argentina__Cordoba
+AR,CITY,Las Acequias,1675,Córdoba Province,X,-33.28155,-63.9761,2116,295,America__Argentina__Cordoba
+AR,CITY,Las Breñas,1134,Chaco Province,H,-27.08966,-61.08161,26955,104,America__Argentina__Cordoba
+AR,CITY,Las Coloradas,1184,Neuquén Province,Q,-39.55534,-70.59491,873,974,America__Argentina__Salta
+AR,CITY,Las Garcitas,1701,Chaco Province,H,-26.61802,-59.80135,4244,86,America__Argentina__Cordoba
+AR,CITY,Las Heras,1073,Mendoza,M,-32.85273,-68.82837,203507,900,America__Argentina__Mendoza
+AR,CITY,Las Heras,1685,Santa Cruz Province,Z,-46.54186,-68.93593,9303,330,America__Argentina__Rio_Gallegos
+AR,CITY,Las Higueras,1041,Córdoba Province,X,-33.09231,-64.28899,5282,432,America__Argentina__Cordoba
+AR,CITY,Las Junturas,1924,Córdoba Province,X,-31.83125,-63.45016,1541,238,America__Argentina__Cordoba
+AR,CITY,Las Lajas,1728,Neuquén Province,Q,-38.52322,-70.36745,4673,703,America__Argentina__Salta
+AR,CITY,Las Lajitas,1790,Salta Province,A,-24.72762,-64.19335,9151,499,America__Argentina__Salta
+AR,CITY,Las Lomitas,1426,Formosa Province,P,-24.70955,-60.59303,10354,134,America__Argentina__Cordoba
+AR,CITY,Las Ovejas,1432,Neuquén Province,Q,-36.98881,-70.74991,1312,1264,America__Argentina__Salta
+AR,CITY,Las Parejas,1480,Santa Fe Province,S,-32.68478,-61.51637,11317,85,America__Argentina__Cordoba
+AR,CITY,Las Perdices,1777,Córdoba Province,X,-32.69794,-63.70634,4615,253,America__Argentina__Cordoba
+AR,CITY,Las Plumas,1301,Chubut Province,U,-43.72058,-67.28319,480,280,America__Argentina__Catamarca
+AR,CITY,Las Rosas,1589,Santa Fe Province,S,-32.47661,-61.58041,12793,98,America__Argentina__Cordoba
+AR,CITY,Las Toscas,1287,Santa Fe Province,S,-28.3529,-59.25795,11811,,America__Argentina__Cordoba
+AR,CITY,Las Varas,1284,Córdoba Province,X,-31.8026,-62.61655,1017,128,America__Argentina__Cordoba
+AR,CITY,Las Varillas,1318,Córdoba Province,X,-31.87208,-62.71946,14649,138,America__Argentina__Cordoba
+AR,CITY,Leones,1975,Córdoba Province,X,-32.66174,-62.29678,9971,120,America__Argentina__Cordoba
+AR,CITY,Libertad,1173,Corrientes,W,-30.043,-57.8202,1438,85,America__Argentina__Cordoba
+AR,CITY,Libertador General San Martín,1797,Jujuy Province,Y,-23.80644,-64.78757,49267,472,America__Argentina__Jujuy
+AR,CITY,Lincoln,1283,Buenos Aires Province,B,-34.86649,-61.5302,41808,76,America__Argentina__Buenos_Aires
+AR,CITY,Lomas de Vallejos,1102,Corrientes,W,-27.73501,-57.9185,1415,71,America__Argentina__Cordoba
+AR,CITY,Lomas de Zamora,1718,Buenos Aires Province,B,-34.76088,-58.40632,111897,20,America__Argentina__Buenos_Aires
+AR,CITY,Loncopué,1696,Neuquén Province,Q,-38.07284,-70.61609,4323,935,America__Argentina__Salta
+AR,CITY,Londres,1856,Catamarca Province,K,-27.71439,-67.13349,2627,1485,America__Argentina__Catamarca
+AR,CITY,Lonquimay,1307,La Pampa,L,-36.46546,-63.62429,1672,142,America__Argentina__Salta
+AR,CITY,Loreto,1145,Misiones Province,N,-27.33177,-55.52499,1201,173,America__Argentina__Cordoba
+AR,CITY,Loreto,1440,Corrientes,W,-27.76834,-57.27531,2856,79,America__Argentina__Cordoba
+AR,CITY,Los Altos,1286,Catamarca Province,K,-28.04845,-65.49945,6421,438,America__Argentina__Catamarca
+AR,CITY,Los Antiguos,1776,Santa Cruz Province,Z,-46.54972,-71.63086,2047,248,America__Argentina__Rio_Gallegos
+AR,CITY,Los Charrúas,1034,Entre Ríos Province,E,-31.17548,-58.18774,3414,72,America__Argentina__Cordoba
+AR,CITY,Los Cocos,1665,Córdoba Province,X,-30.92497,-64.50207,1035,,America__Argentina__Cordoba
+AR,CITY,Los Conquistadores,1194,Entre Ríos Province,E,-30.5908,-58.46773,1214,75,America__Argentina__Cordoba
+AR,CITY,Los Cóndores,1629,Córdoba Province,X,-32.31983,-64.27751,2720,542,America__Argentina__Cordoba
+AR,CITY,Los Frentones,1276,Chaco Province,H,-26.4077,-61.41367,6610,123,America__Argentina__Cordoba
+AR,CITY,Los Helechos,1953,Misiones Province,N,-27.55051,-55.07908,3616,369,America__Argentina__Cordoba
+AR,CITY,Los Juríes,1586,Santiago del Estero Province,G,-28.46539,-62.10862,3212,93,America__Argentina__Cordoba
+AR,CITY,Los Laureles,2424,Santa Fe Province,S,-29.36847,-59.73634,1519,,America__Argentina__Buenos_Aires
+AR,CITY,Los Menucos,1864,Río Negro Province,R,-40.84402,-68.08718,2689,803,America__Argentina__Salta
+AR,CITY,Los Polvorines,1197475,Buenos Aires Province,B,-34.50316,-58.70596,53354,22,America__Argentina__Buenos_Aires
+AR,CITY,Los Surgentes,1746,Córdoba Province,X,-32.98454,-62.02191,2804,101,America__Argentina__Cordoba
+AR,CITY,Los Telares,1936,Santiago del Estero Province,G,-28.98479,-63.44889,2032,98,America__Argentina__Cordoba
+AR,CITY,Los Varela,1146,Catamarca Province,K,-27.93003,-65.87153,1908,1144,America__Argentina__Catamarca
+AR,CITY,Lucas González,1668,Entre Ríos Province,E,-32.3843,-59.53013,4466,94,America__Argentina__Cordoba
+AR,CITY,Luján,1850,San Luis Province,D,-32.36674,-65.93642,1896,616,America__Argentina__San_Luis
+AR,CITY,Luján,1896,Buenos Aires Province,B,-34.57028,-59.105,81749,21,America__Argentina__Buenos_Aires
+AR,CITY,Macachín,1759,La Pampa,L,-37.13598,-63.6665,4768,130,America__Argentina__Salta
+AR,CITY,Machagai,1063,Chaco Province,H,-26.92614,-60.04955,28070,83,America__Argentina__Cordoba
+AR,CITY,Maciá,1080,Entre Ríos Province,E,-32.1722,-59.39947,5806,76,America__Argentina__Cordoba
+AR,CITY,Maimará,1263,Jujuy Province,Y,-23.62392,-65.40797,2470,2397,America__Argentina__Jujuy
+AR,CITY,Mainque,1814,Río Negro Province,R,-39.06667,-67.3,2658,218,America__Argentina__Salta
+AR,CITY,Makallé,1045,Chaco Province,H,-27.20687,-59.28696,4994,55,America__Argentina__Cordoba
+AR,CITY,Malabrigo,1928,Santa Fe Province,S,-29.34636,-59.96957,7026,59,America__Argentina__Cordoba
+AR,CITY,Malagueño,1760,Córdoba Province,X,-31.46467,-64.3584,9364,568,America__Argentina__Cordoba
+AR,CITY,Malvinas Argentinas,1940,Córdoba Province,X,-31.38194,-64.05545,8628,387,America__Argentina__Cordoba
+AR,CITY,Maquinchao,1979,Río Negro Province,R,-41.24912,-68.70321,2195,898,America__Argentina__Salta
+AR,CITY,Mar del Plata,1466,Buenos Aires Province,B,-38.00042,-57.5562,553935,38,America__Argentina__Buenos_Aires
+AR,CITY,Mar del Tuyú,1966,Buenos Aires Province,B,-36.57531,-56.68883,8070,16,America__Argentina__Buenos_Aires
+AR,CITY,Marcos Juárez,1312,Córdoba Province,X,-32.6978,-62.10672,24226,112,America__Argentina__Cordoba
+AR,CITY,Margarita Belén,1186,Chaco Province,H,-27.2616,-58.97219,5547,81,America__Argentina__Cordoba
+AR,CITY,Mariano I. Loza,1196,Corrientes,W,-29.37667,-58.19436,2015,122,America__Argentina__Cordoba
+AR,CITY,Mariano Moreno,1175,Neuquén Province,Q,-38.75029,-70.02367,2225,773,America__Argentina__Salta
+AR,CITY,Marull,1972,Córdoba Province,X,-30.99471,-62.82576,1765,93,America__Argentina__Cordoba
+AR,CITY,Mattaldi,999,Córdoba Province,X,-34.48194,-64.17255,1714,181,America__Argentina__Cordoba
+AR,CITY,Mburucuyá,1700,Corrientes,W,-28.04532,-58.22835,9012,79,America__Argentina__Cordoba
+AR,CITY,Melincué,1483,Santa Fe Province,S,-33.65847,-61.45459,2139,91,America__Argentina__Cordoba
+AR,CITY,Mendiolaza,1042,Córdoba Province,X,-31.26738,-64.30087,4204,540,America__Argentina__Cordoba
+AR,CITY,Mendoza,1144,Mendoza,M,-32.89084,-68.82717,876884,769,America__Argentina__Mendoza
+AR,CITY,Mercedes,1438,Buenos Aires Province,B,-34.65145,-59.43068,52949,38,America__Argentina__Buenos_Aires
+AR,CITY,Mercedes,1707,Corrientes,W,-29.18416,-58.07519,30649,96,America__Argentina__Cordoba
+AR,CITY,Merlo,1457,San Luis Province,D,-32.34288,-65.01396,11159,863,America__Argentina__San_Luis
+AR,CITY,Merlo,1619,Buenos Aires Province,B,-34.66627,-58.72927,244168,16,America__Argentina__Buenos_Aires
+AR,CITY,Miguel Riglos,1359,La Pampa,L,-36.85398,-63.68842,2385,144,America__Argentina__Salta
+AR,CITY,Mina Clavero,1039,Córdoba Province,X,-31.72101,-65.00619,6855,915,America__Argentina__Cordoba
+AR,CITY,Miramar,1182,Córdoba Province,X,-30.91859,-62.67814,1979,78,America__Argentina__Cordoba
+AR,CITY,Mocoretá,1723,Corrientes,W,-30.61891,-57.96344,6088,52,America__Argentina__Cordoba
+AR,CITY,Mojón Grande,1560,Misiones Province,N,-27.71165,-55.15631,2233,327,America__Argentina__Cordoba
+AR,CITY,Monte Buey,1386,Córdoba Province,X,-32.91642,-62.45669,5497,113,America__Argentina__Cordoba
+AR,CITY,Monte Caseros,1222,Corrientes,W,-30.25359,-57.63626,24671,53,America__Argentina__Cordoba
+AR,CITY,Monte Cristo,1591,Córdoba Province,X,-31.34312,-63.94437,6914,347,America__Argentina__Cordoba
+AR,CITY,Monte Maíz,1348,Córdoba Province,X,-33.20462,-62.60085,6920,119,America__Argentina__Cordoba
+AR,CITY,Montecarlo,1306,Misiones Province,N,-26.5662,-54.757,22229,205,America__Argentina__Cordoba
+AR,CITY,Monteros,1522,Tucumán Province,T,-27.16741,-65.49832,23771,324,America__Argentina__Tucuman
+AR,CITY,Morrison,1007,Córdoba Province,X,-32.5948,-62.83455,3245,148,America__Argentina__Cordoba
+AR,CITY,Morteros,1199,Córdoba Province,X,-30.71164,-61.99862,15129,99,America__Argentina__Cordoba
+AR,CITY,Morón,1598,Buenos Aires Province,B,-34.6509,-58.61956,319934,26,America__Argentina__Buenos_Aires
+AR,CITY,Mutquín,1395,Catamarca Province,K,-28.32104,-66.14253,1207,1509,America__Argentina__Catamarca
+AR,CITY,Muñiz,1197460,Buenos Aires Province,B,-34.55622,-58.70739,26221,23,America__Argentina__Buenos_Aires
+AR,CITY,Mártires,1828,Misiones Province,N,-27.42265,-55.37659,1135,171,America__Argentina__Cordoba
+AR,CITY,Napenay,1670,Chaco Province,H,-26.73333,-60.61667,3056,97,America__Argentina__Cordoba
+AR,CITY,Naschel,1817,San Luis Province,D,-32.91656,-65.37535,3157,867,America__Argentina__San_Luis
+AR,CITY,Necochea,1333,Buenos Aires Province,B,-38.5545,-58.73961,80478,16,America__Argentina__Buenos_Aires
+AR,CITY,Neuquén,1963,Neuquén Province,Q,-38.95161,-68.0591,242092,250,America__Argentina__Salta
+AR,CITY,Noetinger,1682,Córdoba Province,X,-32.36597,-62.31126,4508,114,America__Argentina__Cordoba
+AR,CITY,Nogoyá,1266,Entre Ríos Province,E,-32.39387,-59.78953,22824,57,America__Argentina__Cordoba
+AR,CITY,Nuestra Señora del Rosario de Caa Catí,1107,Corrientes,W,-27.75072,-57.62073,7573,59,America__Argentina__Cordoba
+AR,CITY,Nueve de Julio,1299,Buenos Aires Province,B,-35.44437,-60.88313,34718,162,America__Argentina__Buenos_Aires
+AR,CITY,Nueve de Julio,1513,San Juan Province,J,-31.66914,-68.39023,7652,578,America__Argentina__San_Juan
+AR,CITY,Nueve de Julio,1666,Corrientes,W,-28.84051,-58.8265,2671,74,America__Argentina__Cordoba
+AR,CITY,Oberá,1631,Misiones Province,N,-27.48706,-55.11994,56528,298,America__Argentina__Cordoba
+AR,CITY,Obispo Trejo,1903,Córdoba Province,X,-30.78128,-63.41349,1911,103,America__Argentina__Cordoba
+AR,CITY,Olavarría,1282,Buenos Aires Province,B,-36.89272,-60.32254,86320,162,America__Argentina__Buenos_Aires
+AR,CITY,Oliva,1281,Córdoba Province,X,-32.04158,-63.56978,11629,248,America__Argentina__Cordoba
+AR,CITY,Oncativo,1945,Córdoba Province,X,-31.91353,-63.68201,12660,282,America__Argentina__Cordoba
+AR,CITY,Ordóñez,1827,Córdoba Province,X,-32.84057,-62.86552,2328,138,America__Argentina__Cordoba
+AR,CITY,Oro Verde,1005,Entre Ríos Province,E,-31.82508,-60.51749,2548,86,America__Argentina__Cordoba
+AR,CITY,Palma Sola,1337,Jujuy Province,Y,-23.97771,-64.30311,5318,700,America__Argentina__Jujuy
+AR,CITY,Palmar Grande,1677,Corrientes,W,-27.94195,-57.90057,1672,75,America__Argentina__Cordoba
+AR,CITY,Palo Santo,1037,Formosa Province,P,-25.56332,-59.33781,5324,90,America__Argentina__Cordoba
+AR,CITY,Palpalá,1267,Jujuy Province,Y,-24.25647,-65.21163,48199,,America__Argentina__Jujuy
+AR,CITY,Pampa Almirón,1540,Chaco Province,H,-26.70039,-59.12331,1747,68,America__Argentina__Cordoba
+AR,CITY,Pampa de los Guanacos,1788,Santiago del Estero Province,G,-26.23002,-61.83774,4393,149,America__Argentina__Cordoba
+AR,CITY,Pampa del Indio,1061,Chaco Province,H,-26.04982,-59.93728,11588,96,America__Argentina__Cordoba
+AR,CITY,Pampa del Infierno,1161,Chaco Province,H,-26.50517,-61.17436,8176,111,America__Argentina__Cordoba
+AR,CITY,Panambí,1195,Misiones Province,N,-27.72369,-54.91515,5970,121,America__Argentina__Cordoba
+AR,CITY,Paraná,1400,Entre Ríos Province,E,-31.73271,-60.52897,262295,66,America__Argentina__Cordoba
+AR,CITY,Parera,1868,La Pampa,L,-35.146,-64.50089,2246,178,America__Argentina__Salta
+AR,ADM2,Partido de Adolfo Alsina,132666,Buenos Aires Province,B,-37.25,-63.0,16245,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Adolfo González Chaves,132529,Buenos Aires Province,B,-38.0,-60.25,12037,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Alberti,132664,Buenos Aires Province,B,-35.0,-60.33333,10322,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Almirante Brown,132315,Buenos Aires Province,B,-34.83333,-58.33333,555731,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Arrecifes,132311,Buenos Aires Province,B,-34.0,-60.0,27279,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Avellaneda,132320,Buenos Aires Province,B,-34.66667,-58.33333,340985,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Ayacucho,132319,Buenos Aires Province,B,-37.0,-58.5,19669,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Azul,132322,Buenos Aires Province,B,-36.75,-59.66667,62996,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Bahía Blanca,132651,Buenos Aires Province,B,-38.66667,-62.33333,284776,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Balcarce,132321,Buenos Aires Province,B,-37.75,-58.25,42040,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Baradero,132325,Buenos Aires Province,B,-33.83333,-59.5,29562,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Benito Juárez,132269,Buenos Aires Province,B,-37.5,-59.91667,20402,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Berazategui,132330,Buenos Aires Province,B,-34.83333,-58.16667,320224,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Berisso,132312,Buenos Aires Province,B,-34.91667,-57.83333,80092,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Bolívar,132646,Buenos Aires Province,B,-36.33333,-61.08333,32442,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Bragado,132632,Buenos Aires Province,B,-35.0,-60.66667,40259,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Brandsen,132314,Buenos Aires Province,B,-35.25,-58.16667,22515,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Campana,132316,Buenos Aires Province,B,-34.16667,-58.91667,83698,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Canuelas,132323,Buenos Aires Province,B,-35.08333,-58.75,42575,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Capitán Sarmiento,132327,Buenos Aires Province,B,-34.16667,-59.83333,12854,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Carlos Casares,132614,Buenos Aires Province,B,-35.75,-61.25,21125,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Carlos Tejedor,132612,Buenos Aires Province,B,-35.41667,-62.41667,11539,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Carmen de Areco,132329,Buenos Aires Province,B,-34.33333,-59.83333,13992,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Castelli,132326,Buenos Aires Province,B,-36.0,-57.66667,7852,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Chacabuco,132600,Buenos Aires Province,B,-34.66667,-60.33333,45445,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Chascomús,132306,Buenos Aires Province,B,-35.47745,-57.9776,38647,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Chivilcoy,132304,Buenos Aires Province,B,-34.91667,-59.91667,60762,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Colón,132586,Buenos Aires Province,B,-33.83333,-61.0,23179,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Coronel Dorrego,132587,Buenos Aires Province,B,-38.66667,-61.16667,16522,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Coronel Pringles,132591,Buenos Aires Province,B,-38.25,-61.33333,23794,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Coronel Rosales,132595,Buenos Aires Province,B,-38.83333,-61.83333,60892,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Coronel Suárez,132594,Buenos Aires Province,B,-37.5,-61.83333,36828,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Daireaux,132613,Buenos Aires Province,B,-36.59806,-61.74306,15857,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Dolores,132305,Buenos Aires Province,B,-36.41667,-57.66667,25980,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Ensenada,132299,Buenos Aires Province,B,-34.85833,-57.91889,51448,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Escobar,132294,Buenos Aires Province,B,-34.33333,-58.75,178155,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Esteban Echeverría,132283,Buenos Aires Province,B,-34.81917,-58.46583,298814,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Exaltación de la Cruz,132274,Buenos Aires Province,B,-34.25,-59.25,29805,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Ezeiza,132679,Buenos Aires Province,B,-34.85417,-58.52472,118807,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Florencio Varela,132290,Buenos Aires Province,B,-34.83333,-58.25,423992,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Florentino Ameghino,132672,Buenos Aires Province,B,-34.83889,-62.46722,8171,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de General Alvarado,132270,Buenos Aires Province,B,-38.16667,-58.08333,34391,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de General Alvear,132537,Buenos Aires Province,B,-36.0,-60.08333,14897,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de General Arenales,132541,Buenos Aires Province,B,-34.25,-61.25,14876,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de General Belgrano,132295,Buenos Aires Province,B,-35.8487,-58.67023,15381,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de General Guido,132282,Buenos Aires Province,B,-36.75,-58.0,2771,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de General La Madrid,132555,Buenos Aires Province,B,-37.5,-61.25,7923,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de General Las Heras,132289,Buenos Aires Province,B,-34.83333,-59.0,12799,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de General Lavalle,132286,Buenos Aires Province,B,-36.66667,-57.0,3063,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de General Madariaga,132293,Buenos Aires Province,B,-37.25,-57.25,18286,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de General Paz,132273,Buenos Aires Province,B,-35.5,-58.41667,10319,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de General Pinto,132545,Buenos Aires Province,B,-34.71779,-62.00155,11129,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de General Pueyrredón,132275,Buenos Aires Province,B,-38.0,-57.75,564056,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de General Rodríguez,132288,Buenos Aires Province,B,-34.66667,-59.0,87491,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de General San Martín,132298,Buenos Aires Province,B,-34.5733,-58.54099,28339,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de General Viamonte,132543,Buenos Aires Province,B,-35.0,-61.0,17641,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de General Villegas,132563,Buenos Aires Province,B,-34.75,-63.0,28960,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Guaminí,132522,Buenos Aires Province,B,-36.75,-62.5,11257,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Hipólito Yrigoyen,132527,Buenos Aires Province,B,-36.25,-61.66667,8819,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Hurlingham,132690,Buenos Aires Province,B,-34.58694,-58.62806,176505,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Ituzaingó,132674,Buenos Aires Province,B,-34.66028,-58.66611,158121,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de José C. Paz,132267,Buenos Aires Province,B,-34.5198,-58.76556,230208,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Junín,132517,Buenos Aires Province,B,-34.5,-61.0,88664,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de La Costa,132670,Buenos Aires Province,B,-36.57722,-56.6875,70214,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de La Matanza,132245,Buenos Aires Province,B,-34.75,-58.58333,1772130,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de La Plata,132263,Buenos Aires Province,B,-35.0,-58.0,774369,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Lanús,132260,Buenos Aires Province,B,-34.66667,-58.41667,212152,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Laprida,132501,Buenos Aires Province,B,-37.5,-60.75,9683,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Las Flores,132261,Buenos Aires Province,B,-36.08333,-59.08333,23551,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Leandro N. Alem,132494,Buenos Aires Province,B,-34.5,-61.5,16358,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Lincoln,132490,Buenos Aires Province,B,-34.8684,-61.52962,41127,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Lobería,132241,Buenos Aires Province,B,-38.08333,-58.75,17008,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Lobos,132252,Buenos Aires Province,B,-35.25,-59.16667,36172,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Lomas de Zamora,132236,Buenos Aires Province,B,-34.75,-58.41667,613192,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Luján,132235,Buenos Aires Province,B,-34.58333,-59.16667,93992,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Magdalena,132255,Buenos Aires Province,B,-35.18487,-57.68628,19301,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Maipú,132237,Buenos Aires Province,B,-36.83333,-57.5,10193,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Malvinas Argentinas,132681,Buenos Aires Province,B,-34.50771,-58.6956,320000,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Mar Chiquita,132256,Buenos Aires Province,B,-37.5,-57.75,17908,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Marcos Paz,132240,Buenos Aires Province,B,-34.83333,-58.83333,43400,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Mercedes,132242,Buenos Aires Province,B,-34.66667,-59.41667,62151,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Merlo,132258,Buenos Aires Province,B,-34.66583,-58.72828,524207,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Monte,132257,Buenos Aires Province,B,-35.5,-58.75,17488,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Monte Hermoso,132640,Buenos Aires Province,B,-38.97944,-61.29667,5602,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Moreno,132254,Buenos Aires Province,B,-34.6349,-58.79059,462242,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Morón,132238,Buenos Aires Province,B,-34.65139,-58.62194,319934,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Navarro,132222,Buenos Aires Province,B,-35.0,-59.5,15797,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Necochea,132233,Buenos Aires Province,B,-38.25,-59.25,89096,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Nueve de Julio,132459,Buenos Aires Province,B,-35.5,-61.0,46000,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Olavarría,132461,Buenos Aires Province,B,-36.75,-60.75,103961,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Patagones,132451,Buenos Aires Province,B,-40.25,-62.91667,27938,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Pehuajó,132446,Buenos Aires Province,B,-35.91667,-61.75,38400,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Pellegrini,132453,Buenos Aires Province,B,-36.2628,-63.11853,6030,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Pergamino,132455,Buenos Aires Province,B,-33.75,-60.58333,99193,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Pila,132234,Buenos Aires Province,B,-36.25,-58.33333,3318,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Pilar,132223,Buenos Aires Province,B,-34.41667,-58.83333,232463,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Pinamar,132251,Buenos Aires Province,B,-37.11028,-56.855,20666,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Presidente Perón,132246,Buenos Aires Province,B,-34.91778,-58.37917,60191,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Puan,132438,Buenos Aires Province,B,-38.16667,-63.0,16381,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Punta Indio,132268,Buenos Aires Province,B,-35.38722,-57.33833,9362,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Quilmes,132221,Buenos Aires Province,B,-34.75,-58.25,518788,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Ramallo,132435,Buenos Aires Province,B,-33.5,-60.08333,29179,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Rauch,132229,Buenos Aires Province,B,-36.58333,-58.83333,14434,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Rivadavia,132400,Buenos Aires Province,B,-35.5,-63.0,15452,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Rojas,132420,Buenos Aires Province,B,-34.25,-60.75,22842,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Roque Pérez,132210,Buenos Aires Province,B,-35.44512,-59.41064,10902,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Saavedra,132426,Buenos Aires Province,B,-37.75,-62.5,19715,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Saladillo,132215,Buenos Aires Province,B,-35.75,-59.66667,30000,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Salliqueló,132408,Buenos Aires Province,B,-36.66667,-63.08333,8682,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Salto,132422,Buenos Aires Province,B,-34.25,-60.25,29189,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de San Andrés de Giles,132202,Buenos Aires Province,B,-34.5,-59.5,20829,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de San Cayetano,132201,Buenos Aires Province,B,-38.41667,-59.66667,8399,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de San Fernando,132200,Buenos Aires Province,B,-34.44542,-58.54202,163462,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de San Isidro,132208,Buenos Aires Province,B,-34.49009,-58.53028,291608,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de San Miguel,132669,Buenos Aires Province,B,-34.55209,-58.69171,253086,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de San Nicolás,132375,Buenos Aires Province,B,-33.5,-60.33333,137867,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de San Pedro,132218,Buenos Aires Province,B,-33.75,-59.75,55234,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de San Vicente,132190,Buenos Aires Province,B,-35.08333,-58.5,44529,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Suipacha,132189,Buenos Aires Province,B,-34.75,-59.75,8904,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Tandil,132195,Buenos Aires Province,B,-37.33333,-59.25,108109,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Tapalqué,132360,Buenos Aires Province,B,-36.33333,-60.08333,8296,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Tigre,132188,Buenos Aires Province,B,-34.42058,-58.58279,380709,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Tordillo,132185,Buenos Aires Province,B,-36.5,-57.25,1742,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Tornquist,132358,Buenos Aires Province,B,-38.25,-62.25,11759,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Trenque Lauquen,132353,Buenos Aires Province,B,-36.0,-62.66667,40181,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Tres Arroyos,132341,Buenos Aires Province,B,-38.5,-60.25,57244,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Tres Lomas,132680,Buenos Aires Province,B,-36.45278,-62.8625,8712,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Tres de Febrero,132191,Buenos Aires Province,B,-34.59987,-58.56606,343774,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Veinticinco de Mayo,132345,Buenos Aires Province,B,-35.5,-60.25,34877,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Vicente López,132198,Buenos Aires Province,B,-34.52353,-58.47439,75527,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Villa Gesell,132678,Buenos Aires Province,B,-37.26167,-56.9725,24282,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Villarino,132334,Buenos Aires Province,B,-39.0,-62.75,26517,,America__Argentina__Buenos_Aires
+AR,ADM2,Partido de Zárate,132183,Buenos Aires Province,B,-34.0,-59.16667,101271,,America__Argentina__Buenos_Aires
+AR,CITY,Pascanas,1813,Córdoba Province,X,-33.1255,-63.04084,2567,140,America__Argentina__Cordoba
+AR,CITY,Pasco,1421,Córdoba Province,X,-32.74733,-63.34232,1072,187,America__Argentina__Cordoba
+AR,CITY,Paso de la Patria,1690,Corrientes,W,-27.31676,-58.57197,5818,56,America__Argentina__Cordoba
+AR,CITY,Paso de los Libres,1632,Corrientes,W,-29.71251,-57.08771,43805,,America__Argentina__Cordoba
+AR,CITY,Pedro R. Fernández,1815,Corrientes,W,-28.75097,-58.65583,2058,73,America__Argentina__Cordoba
+AR,CITY,Pergamino,1544,Buenos Aires Province,B,-33.88995,-60.57357,87652,56,America__Argentina__Buenos_Aires
+AR,CITY,Perito Moreno,1730,Santa Cruz Province,Z,-46.58995,-70.92975,3588,390,America__Argentina__Rio_Gallegos
+AR,CITY,Perugorría,1712,Corrientes,W,-29.34132,-58.61059,5685,64,America__Argentina__Cordoba
+AR,CITY,Picada Gobernador López,1900,Misiones Province,N,-27.67069,-55.24585,2256,299,America__Argentina__Cordoba
+AR,CITY,Pico Truncado,1626,Santa Cruz Province,Z,-46.7949,-67.95731,14985,284,America__Argentina__Rio_Gallegos
+AR,CITY,Picún Leufú,1004,Neuquén Province,Q,-39.51614,-69.28765,3222,411,America__Argentina__Salta
+AR,CITY,Piedra del Águila,1058,Neuquén Province,Q,-40.04811,-70.0741,3372,491,America__Argentina__Salta
+AR,CITY,Piedras Blancas,1918,Entre Ríos Province,E,-31.18592,-59.95181,1714,46,America__Argentina__Cordoba
+AR,CITY,Pilar,1187,Buenos Aires Province,B,-34.45866,-58.9142,226517,18,America__Argentina__Buenos_Aires
+AR,CITY,Pilar,1275,Córdoba Province,X,-31.6789,-63.87964,12488,334,America__Argentina__Cordoba
+AR,CITY,Pilcaniyeu,1429,Río Negro Province,R,-41.12288,-70.72152,1467,987,America__Argentina__Salta
+AR,CITY,Pinamar,1373,Buenos Aires Province,B,-37.10795,-56.8614,45000,17,America__Argentina__Buenos_Aires
+AR,CITY,Piquillín,1387,Córdoba Province,X,-31.30158,-63.75788,1170,285,America__Argentina__Cordoba
+AR,CITY,Pirané,1481,Formosa Province,P,-25.73239,-59.10879,19124,82,America__Argentina__Cordoba
+AR,CITY,Plaza Huincul,1635,Neuquén Province,Q,-38.92598,-69.20863,12273,600,America__Argentina__Salta
+AR,CITY,Plottier,1089,Neuquén Province,Q,-38.96667,-68.23333,25186,279,America__Argentina__Salta
+AR,CITY,Pocito,1915,San Juan Province,J,-31.68333,-68.58333,40969,661,America__Argentina__San_Juan
+AR,CITY,Pomán,1209,Catamarca Province,K,-28.39455,-66.22052,3387,1293,America__Argentina__Catamarca
+AR,CITY,Pontevedra,1191,Buenos Aires Province,B,-34.74785,-58.70072,33515,17,America__Argentina__Buenos_Aires
+AR,CITY,Porteña,1449,Córdoba Province,X,-31.01391,-62.0665,4624,105,America__Argentina__Cordoba
+AR,CITY,Posadas,1444,Misiones Province,N,-27.36708,-55.89608,323739,83,America__Argentina__Cordoba
+AR,CITY,Pozo del Molle,1550,Córdoba Province,X,-32.0186,-62.91984,5429,335,America__Argentina__Cordoba
+AR,CITY,Pozo del Tigre,1509,Formosa Province,P,-24.89682,-60.32359,3948,127,America__Argentina__Cordoba
+AR,CITY,Presidencia Roca,1032,Chaco Province,H,-26.1409,-59.59541,4987,91,America__Argentina__Cordoba
+AR,CITY,Presidencia Roque Sáenz Peña,1125,Chaco Province,H,-26.78522,-60.43876,81879,90,America__Argentina__Cordoba
+AR,CITY,Presidencia de la Plaza,1335,Chaco Province,H,-27.00147,-59.84243,12231,81,America__Argentina__Cordoba
+AR,CITY,Pronunciamiento,1952,Entre Ríos Province,E,-32.3448,-58.44268,1301,47,America__Argentina__Cordoba
+AR,CITY,Pueblo Libertador,1460,Corrientes,W,-30.22087,-59.38981,3973,38,America__Argentina__Cordoba
+AR,CITY,Puerta de Corral Quemado,1694,Catamarca Province,K,-27.23,-66.93635,1634,1901,America__Argentina__Catamarca
+AR,CITY,Puerto Bermejo,1803,Chaco Province,H,-26.92739,-58.50917,1832,60,America__Argentina__Cordoba
+AR,CITY,Puerto Deseado,1234,Santa Cruz Province,Z,-47.75034,-65.89382,10237,6,America__Argentina__Rio_Gallegos
+AR,CITY,Puerto Eldorado,1324,Misiones Province,N,-26.40843,-54.69463,54189,102,America__Argentina__Cordoba
+AR,CITY,Puerto Esperanza,1745,Misiones Province,N,-26.02267,-54.61356,15579,185,America__Argentina__Cordoba
+AR,CITY,Puerto Ibicuy,1316,Entre Ríos Province,E,-33.75305,-59.17762,4477,3,America__Argentina__Cordoba
+AR,CITY,Puerto Iguazú,1082,Misiones Province,N,-25.59912,-54.57355,32038,162,America__Argentina__Cordoba
+AR,CITY,Puerto Leoni,1860,Misiones Province,N,-26.98762,-55.16569,2329,95,America__Argentina__Cordoba
+AR,CITY,Puerto Libertad,1913,Misiones Province,N,-25.91958,-54.58229,6143,230,America__Argentina__Cordoba
+AR,CITY,Puerto Madryn,1488,Chubut Province,U,-42.7692,-65.03851,64555,17,America__Argentina__Catamarca
+AR,CITY,Puerto Piray,1098,Misiones Province,N,-26.46937,-54.70736,8557,137,America__Argentina__Cordoba
+AR,CITY,Puerto Rico,1686,Misiones Province,N,-26.79598,-55.02402,17491,181,America__Argentina__Cordoba
+AR,CITY,Puerto Santa Cruz,1841,Santa Cruz Province,Z,-50.0191,-68.52321,3397,0,America__Argentina__Rio_Gallegos
+AR,CITY,Puerto Tirol,1033,Chaco Province,H,-27.37218,-59.08206,9767,38,America__Argentina__Cordoba
+AR,CITY,Puerto Vilelas,1704,Chaco Province,H,-27.51414,-58.93906,8455,52,America__Argentina__Cordoba
+AR,CITY,Puerto Yeruá,1136,Entre Ríos Province,E,-31.53713,-58.01527,1541,26,America__Argentina__Cordoba
+AR,CITY,Punta Alta,1149,Buenos Aires Province,B,-38.87588,-62.07359,57209,2,America__Argentina__Buenos_Aires
+AR,CITY,Pérez,1784,Santa Fe Province,S,-32.99835,-60.76791,24436,37,America__Argentina__Cordoba
+AR,CITY,Quemú Quemú,1425,La Pampa,L,-36.05463,-63.56428,3851,103,America__Argentina__Salta
+AR,CITY,Quilino,1829,Córdoba Province,X,-30.21397,-64.50063,4534,398,America__Argentina__Cordoba
+AR,CITY,Quilmes,1549,Buenos Aires Province,B,-34.72904,-58.26374,230000,17,America__Argentina__Buenos_Aires
+AR,CITY,Quimilí,1570,Santiago del Estero Province,G,-27.64615,-62.41655,10959,137,America__Argentina__Cordoba
+AR,CITY,Quitilipi,1347,Chaco Province,H,-26.86913,-60.21683,32083,81,America__Argentina__Cordoba
+AR,CITY,Rada Tilly,1074,Chubut Province,U,-45.92462,-67.55424,6208,0,America__Argentina__Catamarca
+AR,CITY,Rafaela,1565,Santa Fe Province,S,-31.25033,-61.4867,88713,90,America__Argentina__Cordoba
+AR,CITY,Rancul,1390,La Pampa,L,-35.06862,-64.68107,3699,208,America__Argentina__Salta
+AR,CITY,Rawson,1699,Chubut Province,U,-43.30016,-65.10228,26335,4,America__Argentina__Catamarca
+AR,CITY,Realicó,1330,La Pampa,L,-35.03658,-64.2447,7151,146,America__Argentina__Salta
+AR,CITY,Reconquista,1855,Santa Fe Province,S,-29.15,-59.65,90184,,America__Argentina__Cordoba
+AR,CITY,Recreo,1128,Santa Fe Province,S,-31.49076,-60.73299,12798,23,America__Argentina__Cordoba
+AR,CITY,Recreo,1805,Catamarca Province,K,-29.28184,-65.06096,14204,210,America__Argentina__Catamarca
+AR,CITY,Resistencia,1236,Chaco Province,H,-27.46056,-58.98389,387158,20,America__Argentina__Cordoba
+AR,CITY,Retiro,1615,Buenos Aires,C,-34.58333,-58.38333,38635,,America__Argentina__Buenos_Aires
+AR,CITY,Riacho Eh-Eh,1143,Formosa Province,P,-25.36209,-58.2775,3566,78,America__Argentina__Cordoba
+AR,CITY,Riachuelo,1473,Corrientes,W,-27.58191,-58.74497,3668,61,America__Argentina__Cordoba
+AR,CITY,Roldán,1765,Santa Fe Province,S,-32.89846,-60.90681,12468,43,America__Argentina__Cordoba
+AR,CITY,Rosario,1494,Santa Fe Province,S,-32.94682,-60.63932,1173533,31,America__Argentina__Cordoba
+AR,CITY,Rosario del Tala,1652,Entre Ríos Province,E,-32.30286,-59.14545,13807,39,America__Argentina__Cordoba
+AR,CITY,Rufino,1261,Santa Fe Province,S,-34.26827,-62.71262,18361,118,America__Argentina__Cordoba
+AR,CITY,Ruiz de Montoya,1639,Misiones Province,N,-26.98333,-55.05,3374,178,America__Argentina__Cordoba
+AR,CITY,Río Ceballos,1464,Córdoba Province,X,-31.16486,-64.32241,16632,705,America__Argentina__Cordoba
+AR,CITY,Río Colorado,1210,Río Negro Province,R,-38.99397,-64.09295,11733,81,America__Argentina__Salta
+AR,CITY,Río Cuarto,1308,Córdoba Province,X,-33.13067,-64.34992,153757,425,America__Argentina__Cordoba
+AR,CITY,Río Gallegos,1155,Santa Cruz Province,Z,-51.62261,-69.21813,85700,6,America__Argentina__Rio_Gallegos
+AR,CITY,Río Grande,1008,Tierra del Fuego Province,V,-53.78769,-67.70946,52681,0,America__Argentina__Ushuaia
+AR,CITY,Río Mayo,1393,Chubut Province,U,-45.68573,-70.25797,2939,430,America__Argentina__Catamarca
+AR,CITY,Río Pico,1792,Chubut Province,U,-44.17905,-71.36847,1386,759,America__Argentina__Catamarca
+AR,CITY,Río Segundo,1206,Córdoba Province,X,-31.6526,-63.9099,18155,335,America__Argentina__Cordoba
+AR,CITY,Río Tercero,1394,Córdoba Province,X,-32.17301,-64.11405,53389,387,America__Argentina__Cordoba
+AR,CITY,Río Turbio,2428,Santa Cruz Province,Z,-51.53587,-72.33673,6650,352,America__Argentina__Rio_Gallegos
+AR,CITY,Sacanta,1430,Córdoba Province,X,-31.663,-63.04505,2791,166,America__Argentina__Cordoba
+AR,CITY,Saladas,1511,Corrientes,W,-28.25384,-58.62591,18349,75,America__Argentina__Cordoba
+AR,CITY,Saldán,1836,Córdoba Province,X,-31.30262,-64.307,2099,495,America__Argentina__Cordoba
+AR,CITY,Salliqueló,1163,Buenos Aires Province,B,-36.75216,-62.96053,11444,120,America__Argentina__Buenos_Aires
+AR,CITY,Salsacate,1152,Córdoba Province,X,-31.31842,-65.09003,1205,910,America__Argentina__Cordoba
+AR,CITY,Salsipuedes,1773,Córdoba Province,X,-31.13725,-64.29589,6411,739,America__Argentina__Cordoba
+AR,CITY,Salta,1910,Salta Province,A,-24.7859,-65.41166,512686,1152,America__Argentina__Salta
+AR,CITY,Sampacho,1566,Córdoba Province,X,-33.3839,-64.72211,7238,513,America__Argentina__Cordoba
+AR,CITY,Samuhú,1508,Chaco Province,H,-27.52116,-60.39167,2223,75,America__Argentina__Cordoba
+AR,CITY,San Agustín,1190,Córdoba Province,X,-31.97681,-64.374,2870,548,America__Argentina__Cordoba
+AR,CITY,San Agustín de Valle Fértil,1247,San Juan Province,J,-30.63353,-67.46821,6864,856,America__Argentina__San_Juan
+AR,CITY,San Antonio,1605,Catamarca Province,K,-28.01009,-65.70874,4290,1038,America__Argentina__Catamarca
+AR,CITY,San Antonio Oeste,1658,Río Negro Province,R,-40.73193,-64.94769,16966,3,America__Argentina__Salta
+AR,ADM2,San Antonio de Areco,132216,Buenos Aires Province,B,-34.24236,-59.46899,21333,,America__Argentina__Buenos_Aires
+AR,CITY,San Antonio de Litín,1502,Córdoba Province,X,-32.21377,-62.63237,1240,130,America__Argentina__Cordoba
+AR,CITY,San Antonio de los Cobres,1109,Salta Province,A,-24.21804,-66.31877,4000,3775,America__Argentina__Salta
+AR,CITY,San Basilio,1053,Córdoba Province,X,-33.49763,-64.31495,2882,303,America__Argentina__Cordoba
+AR,CITY,San Benito,1886,Entre Ríos Province,E,-31.78371,-60.44156,6771,61,America__Argentina__Cordoba
+AR,CITY,San Bernardo,1434,Chaco Province,H,-27.28782,-60.71252,11101,79,America__Argentina__Cordoba
+AR,CITY,San Carlos,1019,Córdoba Province,X,-31.17761,-65.10245,1215,756,America__Argentina__Cordoba
+AR,CITY,San Carlos,1926,Corrientes,W,-27.74586,-55.89731,3350,205,America__Argentina__Cordoba
+AR,CITY,San Carlos Centro,1334,Santa Fe Province,S,-31.72864,-61.09192,10465,44,America__Argentina__Cordoba
+AR,CITY,San Carlos de Bariloche,2200,Río Negro Province,R,-41.14557,-71.30822,95394,1093,America__Argentina__Salta
+AR,CITY,San Carlos de Bolívar,1507,Buenos Aires Province,B,-36.23071,-61.1157,26242,102,America__Argentina__Buenos_Aires
+AR,CITY,San Clemente del Tuyú,1463,Buenos Aires Province,B,-36.35694,-56.72351,11174,6,America__Argentina__Buenos_Aires
+AR,CITY,San Cosme,1715,Corrientes,W,-27.37123,-58.51214,4429,72,America__Argentina__Cordoba
+AR,CITY,San Cristóbal,1876,Santa Fe Province,S,-30.31053,-61.23724,14286,79,America__Argentina__Cordoba
+AR,CITY,San Fernando del Valle de Catamarca,1793,Catamarca Province,K,-28.46957,-65.78524,188812,500,America__Argentina__Catamarca
+AR,CITY,San Francisco,1622,Córdoba Province,X,-31.42797,-62.08266,59062,121,America__Argentina__Cordoba
+AR,CITY,San Francisco de Laishí,1049,Formosa Province,P,-26.24262,-58.63039,4384,73,America__Argentina__Cordoba
+AR,CITY,San Francisco del Chañar,1069,Córdoba Province,X,-29.7883,-63.94411,2067,640,America__Argentina__Cordoba
+AR,CITY,San Francisco del Monte de Oro,1376,San Luis Province,D,-32.59825,-66.12539,3295,792,America__Argentina__San_Luis
+AR,CITY,San Gustavo,1135,Entre Ríos Province,E,-30.68961,-59.3984,1307,56,America__Argentina__Cordoba
+AR,CITY,San Isidro,1642,Buenos Aires Province,B,-34.4721,-58.52708,45190,15,America__Argentina__Buenos_Aires
+AR,CITY,San Javier,1603,Santa Fe Province,S,-30.57781,-59.9317,15606,27,America__Argentina__Cordoba
+AR,CITY,San Jorge,1597,Santa Fe Province,S,-31.89618,-61.85984,16873,109,America__Argentina__Cordoba
+AR,CITY,San José,1774,Misiones Province,N,-27.76979,-55.7826,6452,169,America__Argentina__Cordoba
+AR,CITY,San José de Feliciano,1899,Entre Ríos Province,E,-30.38452,-58.75167,11137,68,America__Argentina__Cordoba
+AR,CITY,San José de Jáchal,1796,San Juan Province,J,-30.24057,-68.74693,21018,1170,America__Argentina__San_Juan
+AR,CITY,San José de la Dormida,1486,Córdoba Province,X,-30.3544,-63.94871,3272,468,America__Argentina__Cordoba
+AR,CITY,San Juan,1866,San Juan Province,J,-31.5375,-68.53639,447048,640,America__Argentina__San_Juan
+AR,CITY,San Julián,1714,Santa Cruz Province,Z,-49.30554,-67.72743,6143,1,America__Argentina__Rio_Gallegos
+AR,CITY,San Justo,1048,Buenos Aires Province,B,-34.6766,-58.56058,105274,26,America__Argentina__Buenos_Aires
+AR,CITY,San Justo,1322,Entre Ríos Province,E,-32.44654,-58.43569,1473,44,America__Argentina__Cordoba
+AR,CITY,San Justo,1648,Santa Fe Province,S,-30.78913,-60.59189,21809,59,America__Argentina__Cordoba
+AR,CITY,San Lorenzo,1461,Corrientes,W,-28.13306,-58.76733,47626,64,America__Argentina__Cordoba
+AR,CITY,San Luis,1159,San Luis Province,D,-33.29501,-66.33563,183982,709,America__Argentina__San_Luis
+AR,CITY,San Luis del Palmar,1798,Corrientes,W,-27.5079,-58.55454,15347,62,America__Argentina__Cordoba
+AR,CITY,San Martín,1329,Mendoza,M,-33.08103,-68.46814,82549,770,America__Argentina__Mendoza
+AR,CITY,San Martín,1937,San Juan Province,J,-31.42957,-68.50065,10140,,America__Argentina__San_Juan
+AR,CITY,San Martín de los Andes,1405,Neuquén Province,Q,-40.15789,-71.35337,23519,651,America__Argentina__Salta
+AR,CITY,San Miguel,1467,Corrientes,W,-27.99585,-57.58964,7396,80,America__Argentina__Cordoba
+AR,CITY,San Miguel,1197476,Buenos Aires Province,B,-34.54335,-58.71229,157532,28,America__Argentina__Buenos_Aires
+AR,CITY,San Miguel de Tucumán,1108,Tucumán Province,T,-26.82414,-65.2226,781023,431,America__Argentina__Tucuman
+AR,CITY,San Nicolás de los Arroyos,1878,Buenos Aires Province,B,-33.33425,-60.2108,127742,17,America__Argentina__Buenos_Aires
+AR,CITY,San Pedro,1030,Buenos Aires Province,B,-33.67918,-59.66633,47452,31,America__Argentina__Buenos_Aires
+AR,CITY,San Pedro,1563,Santiago del Estero Province,G,-27.95386,-65.16651,1715,382,America__Argentina__Catamarca
+AR,CITY,San Pedro,1657,Misiones Province,N,-26.62207,-54.10842,23736,554,America__Argentina__Cordoba
+AR,CITY,San Pedro de Jujuy,1872,Jujuy Province,Y,-24.23127,-64.86614,58430,553,America__Argentina__Jujuy
+AR,CITY,San Rafael,1787,Mendoza,M,-34.61772,-68.33007,109163,650,America__Argentina__Mendoza
+AR,CITY,San Ramón de la Nueva Orán,1392,Salta Province,A,-23.13705,-64.32426,74059,358,America__Argentina__Salta
+AR,CITY,San Salvador,1148,Entre Ríos Province,E,-31.62487,-58.50524,11626,53,America__Argentina__Cordoba
+AR,CITY,San Salvador de Jujuy,1409,Jujuy Province,Y,-24.19457,-65.29712,305891,1201,America__Argentina__Jujuy
+AR,CITY,San Vicente,1659,Misiones Province,N,-26.61667,-54.13333,38247,603,America__Argentina__Cordoba
+AR,CITY,Santa Ana,1179,Entre Ríos Province,E,-30.90004,-57.93162,2059,50,America__Argentina__Cordoba
+AR,CITY,Santa Anita,1366,Entre Ríos Province,E,-32.17476,-58.78622,1254,67,America__Argentina__Cordoba
+AR,CITY,Santa Catalina - Dique Lujan,2092,Buenos Aires Province,B,-34.38375,-58.70673,1600,10,America__Argentina__Buenos_Aires
+AR,CITY,Santa Clara,1285,Jujuy Province,Y,-24.30921,-64.66253,4883,507,America__Argentina__Jujuy
+AR,CITY,Santa Elena,1406,Entre Ríos Province,E,-30.94432,-59.78832,18410,66,America__Argentina__Cordoba
+AR,CITY,Santa Eufemia,1785,Córdoba Province,X,-33.17659,-63.28281,2179,155,America__Argentina__Cordoba
+AR,CITY,Santa Fe,1887,Santa Fe Province,S,-31.64881,-60.70868,489505,25,America__Argentina__Cordoba
+AR,CITY,Santa Isabel,1726,La Pampa,L,-36.22724,-66.9424,2493,306,America__Argentina__Salta
+AR,CITY,Santa Lucía,1437,San Juan Province,J,-31.53987,-68.49503,43565,,America__Argentina__San_Juan
+AR,CITY,Santa Lucía,1941,Corrientes,W,-28.98746,-59.10287,14056,35,America__Argentina__Cordoba
+AR,CITY,Santa Magdalena,1557,Córdoba Province,X,-34.51776,-63.94409,4059,158,America__Argentina__Cordoba
+AR,CITY,Santa María,1420,Misiones Province,N,-27.9349,-55.40742,1687,137,America__Argentina__Cordoba
+AR,CITY,Santa María,1614,Catamarca Province,K,-26.69547,-66.04732,17030,1885,America__Argentina__Catamarca
+AR,CITY,Santa Rosa,1066,La Pampa,L,-36.61667,-64.28333,111424,179,America__Argentina__Salta
+AR,CITY,Santa Rosa,1762,Corrientes,W,-28.26318,-58.11891,8330,79,America__Argentina__Cordoba
+AR,CITY,Santa Rosa de Calamuchita,1038,Córdoba Province,X,-32.06905,-64.53631,9504,583,America__Argentina__Cordoba
+AR,CITY,Santa Rosa de Río Primero,1252,Córdoba Province,X,-31.15231,-63.40191,6788,157,America__Argentina__Cordoba
+AR,CITY,Santa Rosa de Tastil,1072,Salta Province,A,-24.45166,-65.97452,2000,3110,America__Argentina__Salta
+AR,CITY,Santa Rosa del Conlara,1242,San Luis Province,D,-32.34286,-65.20323,4489,591,America__Argentina__San_Luis
+AR,CITY,Santa Sylvina,1534,Chaco Province,H,-27.83261,-61.13747,9040,61,America__Argentina__Cordoba
+AR,CITY,Santiago Temple,1101,Córdoba Province,X,-31.38731,-63.41821,2358,215,America__Argentina__Cordoba
+AR,CITY,Santiago del Estero,1500,Santiago del Estero Province,G,-27.79511,-64.26149,354692,182,America__Argentina__Cordoba
+AR,CITY,Santo Pipó,1847,Misiones Province,N,-27.14132,-55.40867,5447,174,America__Argentina__Cordoba
+AR,CITY,Santo Tomé,1141,Santa Fe Province,S,-31.66274,-60.7653,59072,19,America__Argentina__Cordoba
+AR,CITY,Santo Tomé,1217,Corrientes,W,-28.54939,-56.04077,22634,67,America__Argentina__Cordoba
+AR,CITY,Sarmiento,1300,Chubut Province,U,-45.58815,-69.06996,8292,258,America__Argentina__Catamarca
+AR,CITY,Sastre,1076,Santa Fe Province,S,-31.76762,-61.82887,5521,109,America__Argentina__Cordoba
+AR,CITY,Saturnino M. Laspiur,1888,Córdoba Province,X,-31.70287,-62.48202,2316,114,America__Argentina__Cordoba
+AR,CITY,Sauce de Luna,1203,Entre Ríos Province,E,-31.23794,-59.21872,2901,76,America__Argentina__Cordoba
+AR,CITY,Sebastián Elcano,1331,Córdoba Province,X,-30.16105,-63.5936,2042,211,America__Argentina__Cordoba
+AR,CITY,Seguí,1935,Entre Ríos Province,E,-31.95642,-60.12488,3646,102,America__Argentina__Cordoba
+AR,CITY,Senillosa,1291,Neuquén Province,Q,-39.01412,-68.43281,6394,290,America__Argentina__Salta
+AR,CITY,Serrano,1671,Córdoba Province,X,-34.46971,-63.53842,2670,147,America__Argentina__Cordoba
+AR,CITY,Serrezuela,1581,Córdoba Province,X,-30.63761,-65.38692,2291,276,America__Argentina__Cordoba
+AR,CITY,Sierra Colorada,1357,Río Negro Province,R,-40.58487,-67.75674,1374,684,America__Argentina__Salta
+AR,CITY,Sierra Grande,1215,Río Negro Province,R,-41.60603,-65.35574,6978,245,America__Argentina__Salta
+AR,CITY,Simoca,1310,Tucumán Province,T,-27.26272,-65.35647,7939,301,America__Argentina__Tucuman
+AR,CITY,Sumampa,1079,Santiago del Estero Province,G,-29.3847,-63.46907,4812,243,America__Argentina__Cordoba
+AR,CITY,Sunchales,1669,Santa Fe Province,S,-30.94404,-61.56148,18757,98,America__Argentina__Cordoba
+AR,CITY,Suncho Corral,1921,Santiago del Estero Province,G,-27.93357,-63.42938,6087,135,America__Argentina__Cordoba
+AR,CITY,Tabossi,1758,Entre Ríos Province,E,-31.80135,-59.93477,1333,100,America__Argentina__Cordoba
+AR,CITY,Taco Pozo,1766,Chaco Province,H,-25.61557,-63.26708,8470,244,America__Argentina__Cordoba
+AR,CITY,Tacuarendí,1362,Santa Fe Province,S,-28.41265,-59.26,3067,,America__Argentina__Cordoba
+AR,CITY,Tafí Viejo,1113,Tucumán Province,T,-26.73201,-65.25921,48459,591,America__Argentina__Tucuman
+AR,CITY,Tafí del Valle,1673,Tucumán Province,T,-26.85275,-65.70983,4028,2014,America__Argentina__Tucuman
+AR,CITY,Tancacha,1181,Córdoba Province,X,-32.24309,-63.9807,5184,354,America__Argentina__Cordoba
+AR,CITY,Tandil,1398,Buenos Aires Province,B,-37.32167,-59.13316,104325,188,America__Argentina__Buenos_Aires
+AR,CITY,Tartagal,1350,Salta Province,A,-22.51637,-63.80131,60819,490,America__Argentina__Salta
+AR,CITY,Tecka,1825,Chubut Province,U,-43.49489,-70.8102,1237,912,America__Argentina__Catamarca
+AR,CITY,Telén,1985,La Pampa,L,-36.26429,-65.51018,1549,303,America__Argentina__Salta
+AR,CITY,Termas de Río Hondo,1424,Santiago del Estero Province,G,-27.49362,-64.85972,27838,265,America__Argentina__Cordoba
+AR,CITY,Ticino,1323,Córdoba Province,X,-32.6935,-63.43606,1895,204,America__Argentina__Cordoba
+AR,CITY,Tigre,1569,Buenos Aires Province,B,-34.42603,-58.57962,31106,2,America__Argentina__Buenos_Aires
+AR,CITY,Tilcara,1407,Jujuy Province,Y,-23.57817,-65.39516,5640,2461,America__Argentina__Jujuy
+AR,CITY,Tilisarao,1883,San Luis Province,D,-32.73292,-65.29109,5478,752,America__Argentina__San_Luis
+AR,CITY,Tinogasta,1843,Catamarca Province,K,-28.06319,-67.56488,14509,1212,America__Argentina__Catamarca
+AR,CITY,Tintina,1411,Santiago del Estero Province,G,-27.02687,-62.70643,3868,164,America__Argentina__Cordoba
+AR,CITY,Toledo,1539,Córdoba Province,X,-31.55574,-64.00947,3046,371,America__Argentina__Cordoba
+AR,CITY,Tolhuin,2659,Tierra del Fuego Province,V,-54.51083,-67.1955,3000,120,America__Argentina__Ushuaia
+AR,CITY,Tortuguitas,1197469,Buenos Aires Province,B,-34.47513,-58.75367,41390,20,America__Argentina__Buenos_Aires
+AR,CITY,Tostado,1833,Santa Fe Province,S,-29.23202,-61.76917,14000,77,America__Argentina__Cordoba
+AR,CITY,Totoras,1485,Santa Fe Province,S,-32.5844,-61.16852,9587,56,America__Argentina__Cordoba
+AR,CITY,Trancas,1482,Tucumán Province,T,-26.23136,-65.28093,6658,750,America__Argentina__Tucuman
+AR,CITY,Trelew,1052,Chubut Province,U,-43.24895,-65.30505,93442,11,America__Argentina__Catamarca
+AR,CITY,Trenel,1380,La Pampa,L,-35.69837,-64.13218,3426,164,America__Argentina__Salta
+AR,CITY,Tres Algarrobos,1314,Buenos Aires Province,B,-35.19471,-62.77396,2993,99,America__Argentina__Buenos_Aires
+AR,CITY,Tres Arroyos,1512,Buenos Aires Province,B,-38.37394,-60.27978,47136,98,America__Argentina__Buenos_Aires
+AR,CITY,Tres Capones,1193,Misiones Province,N,-28.00641,-55.60471,1234,157,America__Argentina__Cordoba
+AR,CITY,Tres Isletas,1396,Chaco Province,H,-26.34067,-60.43207,24747,89,America__Argentina__Cordoba
+AR,CITY,Trevelin,1820,Chubut Province,U,-43.0858,-71.46386,6395,385,America__Argentina__Catamarca
+AR,CITY,Tío Pujio,1546,Córdoba Province,X,-32.2879,-63.35598,2383,226,America__Argentina__Cordoba
+AR,CITY,Ubajay,1343,Entre Ríos Province,E,-31.79358,-58.3135,2334,54,America__Argentina__Cordoba
+AR,CITY,Ucacha,1062,Córdoba Province,X,-33.03203,-63.50666,4747,197,America__Argentina__Cordoba
+AR,CITY,Unión,1192,San Luis Province,D,-35.15282,-65.94602,2341,378,America__Argentina__San_Luis
+AR,CITY,Unquillo,1002,Córdoba Province,X,-31.23073,-64.31615,15369,633,America__Argentina__Cordoba
+AR,CITY,Urdinarrain,1455,Entre Ríos Province,E,-32.68573,-58.89323,7992,68,America__Argentina__Cordoba
+AR,CITY,Uriburu,1517,La Pampa,L,-36.50682,-63.86225,1200,144,America__Argentina__Salta
+AR,CITY,Ushuaia,1462,Tierra del Fuego Province,V,-54.81084,-68.31591,58028,23,America__Argentina__Ushuaia
+AR,CITY,Valcheta,1965,Río Negro Province,R,-40.67989,-66.16283,3596,165,America__Argentina__Salta
+AR,CITY,Valle Hermoso,1980,Córdoba Province,X,-31.11732,-64.48084,5486,907,America__Argentina__Cordoba
+AR,CITY,Veinticinco de Mayo,1297,La Pampa,L,-37.7741,-67.71638,6962,348,America__Argentina__Salta
+AR,CITY,Veinticinco de Mayo,1727,Buenos Aires Province,B,-35.4323,-60.17271,24668,57,America__Argentina__Buenos_Aires
+AR,CITY,Veinticinco de Mayo,1904,Misiones Province,N,-27.37679,-54.74312,11928,396,America__Argentina__Cordoba
+AR,CITY,Venado Tuerto,1858,Santa Fe Province,S,-33.74556,-61.96885,72340,117,America__Argentina__Cordoba
+AR,CITY,Vera,1047,Santa Fe Province,S,-29.4593,-60.21261,19797,48,America__Argentina__Cordoba
+AR,CITY,Viale,1977,Entre Ríos Province,E,-31.86782,-60.00722,8939,71,America__Argentina__Cordoba
+AR,CITY,Viamonte,1197,Córdoba Province,X,-33.74647,-63.09764,1598,131,America__Argentina__Cordoba
+AR,CITY,Victoria,1863,Entre Ríos Province,E,-32.61841,-60.15478,25139,61,America__Argentina__Cordoba
+AR,CITY,Victorica,1384,La Pampa,L,-36.21505,-65.43586,6565,278,America__Argentina__Salta
+AR,CITY,Vicuña Mackenna,1725,Córdoba Province,X,-33.91965,-64.39215,8994,243,America__Argentina__Cordoba
+AR,CITY,Viedma,1764,Río Negro Province,R,-40.81345,-62.99668,48940,12,America__Argentina__Salta
+AR,CITY,Villa Allende,1611,Córdoba Province,X,-31.29458,-64.29538,21683,505,America__Argentina__Cordoba
+AR,CITY,Villa Ascasubi,1458,Córdoba Province,X,-32.16351,-63.89157,2081,337,America__Argentina__Cordoba
+AR,CITY,Villa Atamisqui,1436,Santiago del Estero Province,G,-28.49609,-63.81609,2683,115,America__Argentina__Cordoba
+AR,CITY,Villa Basilio Nievas,1422,San Juan Province,J,-31.55,-68.73333,4038,776,America__Argentina__San_Juan
+AR,CITY,Villa Berna,2616,Córdoba Province,X,-31.91419,-64.73249,5000,1500,America__Argentina__Cordoba
+AR,CITY,Villa Berthet,1078,Chaco Province,H,-27.29174,-60.41263,12029,78,America__Argentina__Cordoba
+AR,CITY,Villa Bustos,1439,La Rioja Province,F,-29.28636,-67.02067,2165,1005,America__Argentina__La_Rioja
+AR,CITY,Villa Carlos Paz,1057,Córdoba Province,X,-31.42414,-64.49778,69451,661,America__Argentina__Cordoba
+AR,CITY,Villa Cañás,1097,Santa Fe Province,S,-34.00565,-61.60757,9328,104,America__Argentina__Cordoba
+AR,CITY,Villa Concepción del Tío,1099,Córdoba Province,X,-31.32259,-62.81354,1585,125,America__Argentina__Cordoba
+AR,CITY,Villa Constitución,1974,Santa Fe Province,S,-33.22778,-60.3297,44271,42,America__Argentina__Cordoba
+AR,CITY,Villa Cura Brochero,1879,Córdoba Province,X,-31.70578,-65.01796,4707,959,America__Argentina__Cordoba
+AR,CITY,Villa Dolores,1246,Córdoba Province,X,-31.94585,-65.18958,28009,584,America__Argentina__Cordoba
+AR,CITY,Villa Elisa,1219,Entre Ríos Province,E,-32.1632,-58.40082,9334,57,America__Argentina__Cordoba
+AR,CITY,Villa Escolar,1021,Formosa Province,P,-26.62209,-58.67134,1261,69,America__Argentina__Cordoba
+AR,CITY,Villa General Belgrano,1744,Córdoba Province,X,-31.97828,-64.55627,5888,709,America__Argentina__Cordoba
+AR,CITY,Villa General Guemes,2024,Formosa Province,P,-24.7553,-59.4894,4000,91,America__Argentina__Cordoba
+AR,CITY,Villa General Mitre,1751,Santiago del Estero Province,G,-29.1431,-62.65248,3605,79,America__Argentina__Cordoba
+AR,CITY,Villa General Roca,1706,San Luis Province,D,-32.66535,-66.45052,196,631,America__Argentina__San_Luis
+AR,CITY,Villa Gesell,1771,Buenos Aires Province,B,-37.26394,-56.97304,23257,1,America__Argentina__Buenos_Aires
+AR,CITY,Villa Giardino,1616,Córdoba Province,X,-31.03333,-64.48333,4679,1086,America__Argentina__Cordoba
+AR,CITY,Villa Hernandarias,1944,Entre Ríos Province,E,-31.23097,-59.98464,5375,55,America__Argentina__Cordoba
+AR,CITY,Villa Huidobro,1737,Córdoba Province,X,-34.83826,-64.58686,5155,219,America__Argentina__Cordoba
+AR,CITY,Villa La Angostura,1861,Neuquén Province,Q,-40.76173,-71.64631,7526,780,America__Argentina__Salta
+AR,CITY,Villa Las Rosas,1374,Córdoba Province,X,-31.95021,-65.05354,2535,744,America__Argentina__Cordoba
+AR,CITY,Villa Lugano,1456,Buenos Aires,C,-34.67907,-58.47263,114000,,America__Argentina__Buenos_Aires
+AR,CITY,Villa Mantero,1889,Entre Ríos Province,E,-32.39727,-58.74596,1526,46,America__Argentina__Cordoba
+AR,CITY,Villa María,1572,Córdoba Province,X,-32.40751,-63.24016,92453,196,America__Argentina__Cordoba
+AR,CITY,Villa María Grande,1643,Entre Ríos Province,E,-31.66565,-59.90182,7101,94,America__Argentina__Cordoba
+AR,CITY,Villa Mercedes,2502,San Luis Province,D,-33.67571,-65.45783,96781,512,America__Argentina__San_Luis
+AR,CITY,Villa Mugueta,1839,Santa Fe Province,S,-33.31129,-61.05515,2789,85,America__Argentina__Cordoba
+AR,CITY,Villa Nueva,1885,Córdoba Province,X,-32.43293,-63.24763,16841,204,America__Argentina__Cordoba
+AR,CITY,Villa Ocampo,1104,Santa Fe Province,S,-28.48752,-59.35515,19101,54,America__Argentina__Cordoba
+AR,CITY,Villa Ojo de Agua,1320,Santiago del Estero Province,G,-29.50003,-63.69377,5832,504,America__Argentina__Cordoba
+AR,CITY,Villa Ortúzar,1139,Buenos Aires,C,-34.57973,-58.46829,22500,,America__Argentina__Buenos_Aires
+AR,CITY,Villa Paranacito,1054,Entre Ríos Province,E,-33.71381,-58.65844,3988,5,America__Argentina__Cordoba
+AR,CITY,Villa Paula de Sarmiento,1914,San Juan Province,J,-31.4933,-68.53838,19092,646,America__Argentina__San_Juan
+AR,CITY,Villa Reducción,1216,Córdoba Province,X,-33.20105,-63.86234,1467,265,America__Argentina__Cordoba
+AR,CITY,Villa Regina,1225,Río Negro Province,R,-39.1,-67.06667,31209,184,America__Argentina__Salta
+AR,CITY,Villa Rumipal,1138,Córdoba Province,X,-32.1879,-64.48027,1922,546,America__Argentina__Cordoba
+AR,CITY,Villa Santa Rita,2075,Buenos Aires,C,-34.61082,-58.481,34000,,America__Argentina__Buenos_Aires
+AR,CITY,Villa Trinidad,1516,Santa Fe Province,S,-30.21329,-61.87597,2945,95,America__Argentina__Cordoba
+AR,CITY,Villa Tulumba,1294,Córdoba Province,X,-30.39552,-64.12241,1161,688,America__Argentina__Cordoba
+AR,CITY,Villa Urquiza,1775,Entre Ríos Province,E,-31.64757,-60.37516,1566,61,America__Argentina__Cordoba
+AR,CITY,Villa Valeria,1687,Córdoba Province,X,-34.34093,-64.9203,2525,297,America__Argentina__Cordoba
+AR,CITY,Villa de Mayo,1197474,Buenos Aires Province,B,-34.5108,-58.68059,43405,20,America__Argentina__Buenos_Aires
+AR,CITY,Villa de Soto,1487,Córdoba Province,X,-30.85523,-64.99947,7303,538,America__Argentina__Cordoba
+AR,CITY,Villa del Dique,1001,Córdoba Province,X,-32.17667,-64.45543,2829,552,America__Argentina__Cordoba
+AR,CITY,Villa del Rosario,1288,Córdoba Province,X,-31.5566,-63.53452,15313,248,America__Argentina__Cordoba
+AR,CITY,Villa del Rosario,1821,Entre Ríos Province,E,-30.79567,-57.91257,3488,69,America__Argentina__Cordoba
+AR,CITY,Villa del Totoral,1304,Córdoba Province,X,-30.81667,-63.71667,7110,553,America__Argentina__Cordoba
+AR,CITY,Villa Ángela,1761,Chaco Province,H,-27.57383,-60.71526,43511,70,America__Argentina__Cordoba
+AR,CITY,Villaguay,1556,Entre Ríos Province,E,-31.8653,-59.02689,32027,10,America__Argentina__Cordoba
+AR,CITY,Vinchina,1962,La Rioja Province,F,-28.75964,-68.20692,2834,,America__Argentina__La_Rioja
+AR,CITY,Vista Alegre,1933,Neuquén Province,Q,-38.75,-68.18333,2857,336,America__Argentina__Salta
+AR,CITY,Wanda,1949,Misiones Province,N,-25.96879,-54.56285,15529,206,America__Argentina__Cordoba
+AR,CITY,Wenceslao Escalante,1459,Córdoba Province,X,-33.17303,-62.77078,1549,119,America__Argentina__Cordoba
+AR,CITY,Winifreda,1212,La Pampa,L,-36.22643,-64.23388,2902,169,America__Argentina__Salta
+AR,CITY,Yacimiento Río Turbio,1693,Santa Cruz Province,Z,-51.57321,-72.3508,6650,573,America__Argentina__Rio_Gallegos
+AR,CITY,Yapeyú,1573,Corrientes,W,-29.46914,-56.81841,2124,64,America__Argentina__Cordoba
+AR,CITY,Yataity Calle,1716,Corrientes,W,-29.01913,-58.90846,2114,72,America__Argentina__Cordoba
+AR,CITY,Yerba Buena,1332,Tucumán Province,T,-26.81667,-65.31667,50783,465,America__Argentina__Tucuman
+AR,CITY,Yuto,1367,Jujuy Province,Y,-23.64342,-64.47194,7732,355,America__Argentina__Jujuy
+AR,CITY,Zapala,1201,Neuquén Province,Q,-38.89916,-70.05442,31534,1012,America__Argentina__Salta
+AR,CITY,Zárate,1743,Buenos Aires Province,B,-34.09814,-59.02858,88781,27,America__Argentina__Buenos_Aires
+AR,CITY,Ñorquinco,1418,Río Negro Province,R,-41.85072,-70.90173,565,1158,America__Argentina__Salta

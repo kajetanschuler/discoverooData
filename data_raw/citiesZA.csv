@@ -1,0 +1,316 @@
+countryCode,type,cityName,cityId,regionName,regionCode,lat,lon,population,elevation,timezone
+ZA,CITY,Adelaide,131297,Eastern Cape,EC,-32.70747,26.29564,12212,587,Africa__Johannesburg
+ZA,CITY,Albertina,131458,Western Cape,WC,-34.20544,21.58001,6372,,Africa__Johannesburg
+ZA,CITY,Alberton,131181,Gauteng,GT,-26.26786,28.12225,121536,1570,Africa__Johannesburg
+ZA,ADM2,Alfred Nzo District Municipality,174514,Eastern Cape,EC,-30.66803,29.1549,479390,,Africa__Johannesburg
+ZA,CITY,Alice,131470,Eastern Cape,EC,-32.78749,26.8344,9788,522,Africa__Johannesburg
+ZA,CITY,Aliwal North,131126,Eastern Cape,EC,-30.69366,26.71141,44436,1325,Africa__Johannesburg
+ZA,CITY,Allanridge,131361,Free State,FS,-27.75431,26.64382,31700,1322,Africa__Johannesburg
+ZA,ADM2,Amajuba District Municipality,174509,KwaZulu-Natal,NL,-27.73558,30.13537,442266,,Africa__Johannesburg
+ZA,ADM2,Amathole District Municipality,174468,Eastern Cape,EC,-32.55895,27.45919,940441,,Africa__Johannesburg
+ZA,CITY,Arniston,131132,Western Cape,WC,-34.66739,20.23086,1267,19,Africa__Johannesburg
+ZA,CITY,Atlantis,131171,Western Cape,WC,-33.56668,18.48335,60266,178,Africa__Johannesburg
+ZA,CITY,Balfour,131492,Mpumalanga,MP,-26.66331,28.59016,46008,1622,Africa__Johannesburg
+ZA,CITY,Ballito,131153,KwaZulu-Natal,NL,-29.53897,31.21439,17218,,Africa__Johannesburg
+ZA,CITY,Barberton,131076,Mpumalanga,MP,-25.78842,31.05319,67927,853,Africa__Johannesburg
+ZA,CITY,Barkly West,131259,Northern Cape,NC,-28.53537,24.52151,11621,1104,Africa__Johannesburg
+ZA,CITY,Beaufort West,131323,Western Cape,WC,-32.35671,22.58295,44737,650,Africa__Johannesburg
+ZA,CITY,Belfast,131029,Mpumalanga,MP,-25.68991,30.03504,11916,1873,Africa__Johannesburg
+ZA,CITY,Benoni,131451,Gauteng,GT,-26.18848,28.32078,605344,1645,Africa__Johannesburg
+ZA,CITY,Berea,131292,KwaZulu-Natal,NL,-29.85185,30.99337,15000,,Africa__Johannesburg
+ZA,CITY,Bergvliet,131386,Western Cape,WC,-34.04746,18.4525,3902,27,Africa__Johannesburg
+ZA,CITY,Bethal,131090,Mpumalanga,MP,-26.45794,29.46553,101919,1660,Africa__Johannesburg
+ZA,CITY,Bethlehem,131465,Free State,FS,-28.23078,28.30707,83654,1687,Africa__Johannesburg
+ZA,CITY,Bhisho,131463,Eastern Cape,EC,-32.84721,27.44218,137287,435,Africa__Johannesburg
+ZA,CITY,Bloemfontein,131227,Free State,FS,-29.12107,26.214,463064,1395,Africa__Johannesburg
+ZA,CITY,Bloemhof,131450,North West,NW,-27.64685,25.60697,17122,1236,Africa__Johannesburg
+ZA,CITY,Bochum,131486,Limpopo,LP,-23.28609,29.13964,12000,,Africa__Johannesburg
+ZA,ADM2,Bojanala Platinum District Municipality,174489,North West,NW,-25.42612,27.2243,1268618,,Africa__Johannesburg
+ZA,CITY,Boksburg,131374,Gauteng,GT,-26.21197,28.25958,445168,1694,Africa__Johannesburg
+ZA,CITY,Bothaville,131407,Free State,FS,-27.3887,26.61701,71934,1276,Africa__Johannesburg
+ZA,CITY,Botshabelo,131187,Free State,FS,-29.26737,26.72595,309714,1423,Africa__Johannesburg
+ZA,CITY,Brakpan,131104,Gauteng,GT,-26.23656,28.36938,305692,1631,Africa__Johannesburg
+ZA,CITY,Brandfort,131024,Free State,FS,-28.70008,26.45968,12091,1403,Africa__Johannesburg
+ZA,CITY,Brandvlei,131163,Northern Cape,NC,-30.46532,20.48659,2859,922,Africa__Johannesburg
+ZA,CITY,Bredasdorp,131279,Western Cape,WC,-34.53215,20.04031,14936,84,Africa__Johannesburg
+ZA,CITY,Breyten,131201,Mpumalanga,MP,-26.30176,29.98696,12550,1753,Africa__Johannesburg
+ZA,CITY,Brits,131388,North West,NW,-25.63473,27.78022,122497,1118,Africa__Johannesburg
+ZA,CITY,Bronkhorstspruit,131343,Gauteng,GT,-25.81015,28.74248,27343,1375,Africa__Johannesburg
+ZA,ADM2,Buffalo City Metropolitan Municipality,174465,Eastern Cape,EC,-32.95141,27.61164,755200,,Africa__Johannesburg
+ZA,CITY,Burgersdorp,131018,Eastern Cape,EC,-30.99766,26.32862,12548,1405,Africa__Johannesburg
+ZA,CITY,Butterworth,131221,Eastern Cape,EC,-32.33083,28.14981,34353,545,Africa__Johannesburg
+ZA,CITY,Caledon,131042,Western Cape,WC,-34.22997,19.4265,4687,247,Africa__Johannesburg
+ZA,CITY,Calitzdorp,131146,Western Cape,WC,-33.52755,21.6762,4284,260,Africa__Johannesburg
+ZA,CITY,Calvinia,131353,Northern Cape,NC,-31.47069,19.77601,8146,987,Africa__Johannesburg
+ZA,CITY,Cape Town,131057,Western Cape,WC,-33.92584,18.42322,3433441,1590,Africa__Johannesburg
+ZA,ADM2,Cape Winelands District Municipality,174474,Western Cape,WC,-33.32249,19.68998,712413,,Africa__Johannesburg
+ZA,ADM2,Capricorn District Municipality,174513,Limpopo,LP,-23.48163,29.1835,1261463,,Africa__Johannesburg
+ZA,CITY,Carletonville,131234,Gauteng,GT,-26.36094,27.39767,182304,1529,Africa__Johannesburg
+ZA,CITY,Carnarvon,131512,Northern Cape,NC,-30.96827,22.13303,5785,1309,Africa__Johannesburg
+ZA,CITY,Carolina,131182,Mpumalanga,MP,-26.06927,30.11489,2952,1700,Africa__Johannesburg
+ZA,ADM2,Central Karoo District Municipality,174483,Western Cape,WC,-32.62812,22.21192,56230,,Africa__Johannesburg
+ZA,CITY,Centurion,131162,Gauteng,GT,-25.85891,28.18577,233386,1453,Africa__Johannesburg
+ZA,CITY,Ceres,131135,Western Cape,WC,-33.36889,19.31095,41596,450,Africa__Johannesburg
+ZA,ADM2,Chris Hani District Municipality,174487,Eastern Cape,EC,-31.79033,26.43965,798597,,Africa__Johannesburg
+ZA,CITY,Christiana,131208,North West,NW,-27.91402,25.16111,17523,1207,Africa__Johannesburg
+ZA,ADM2,City of Cape Town,174504,Western Cape,WC,-33.91667,18.41667,3740026,,Africa__Johannesburg
+ZA,ADM2,City of Johannesburg Metropolitan Municipality,174469,Gauteng,GT,-26.17673,27.96353,3888180,,Africa__Johannesburg
+ZA,ADM2,City of Tshwane Metropolitan Municipality,174490,Gauteng,GT,-25.65985,28.44343,2499447,,Africa__Johannesburg
+ZA,CITY,Clanwilliam,131305,Western Cape,WC,-32.18173,18.89217,7674,100,Africa__Johannesburg
+ZA,CITY,Claremont,131281,Western Cape,WC,-33.98056,18.46528,14531,38,Africa__Johannesburg
+ZA,CITY,Clocolan,131266,Free State,FS,-28.91367,27.56555,12318,1593,Africa__Johannesburg
+ZA,CITY,Colesberg,131276,Northern Cape,NC,-30.71999,25.09718,12423,1369,Africa__Johannesburg
+ZA,CITY,Constantia,131205,Western Cape,WC,-34.03139,18.41833,6922,91,Africa__Johannesburg
+ZA,CITY,Cradock,131108,Eastern Cape,EC,-32.16422,25.61918,32898,896,Africa__Johannesburg
+ZA,CITY,Cullinan,131117,Gauteng,GT,-25.67088,28.52364,25490,1450,Africa__Johannesburg
+ZA,CITY,Daniëlskuil,131080,Northern Cape,NC,-28.18873,23.53951,10123,1468,Africa__Johannesburg
+ZA,CITY,De Aar,131333,Northern Cape,NC,-30.64966,24.0123,32318,1286,Africa__Johannesburg
+ZA,CITY,De Rust,131050,Western Cape,WC,-33.49035,22.53523,3566,475,Africa__Johannesburg
+ZA,CITY,Delmas,131500,Mpumalanga,MP,-26.1466,28.68322,92046,1558,Africa__Johannesburg
+ZA,CITY,Deneysville,131072,Free State,FS,-26.8908,28.09707,12397,1513,Africa__Johannesburg
+ZA,CITY,Diepsloot,131375,Gauteng,GT,-25.93312,28.01213,350000,,Africa__Johannesburg
+ZA,CITY,Dordrecht,131206,Eastern Cape,EC,-31.372,27.04878,9123,1600,Africa__Johannesburg
+ZA,ADM2,Dr Kenneth Kaunda District Municipality,174506,North West,NW,-26.80678,26.56926,634127,,Africa__Johannesburg
+ZA,ADM2,Dr Ruth Segomotsi Mompati District Municipality,174516,North West,NW,-26.63765,24.27462,354554,,Africa__Johannesburg
+ZA,CITY,Driefontein,131264,Mpumalanga,MP,-27.0177,30.44979,28127,1345,Africa__Johannesburg
+ZA,CITY,Duiwelskloof,131423,Limpopo,LP,-23.69339,30.14002,24572,875,Africa__Johannesburg
+ZA,CITY,Dundee,131130,KwaZulu-Natal,NL,-28.16678,30.23371,84413,1260,Africa__Johannesburg
+ZA,CITY,Durban,131430,KwaZulu-Natal,NL,-29.8579,31.0292,3120282,22,Africa__Johannesburg
+ZA,CITY,East London,131177,Eastern Cape,EC,-33.01529,27.91162,478676,48,Africa__Johannesburg
+ZA,CITY,Eastleigh,131041,Gauteng,GT,-26.12965,28.15541,6988,,Africa__Johannesburg
+ZA,ADM2,Eden District Municipality,174476,Western Cape,WC,-33.82139,22.01263,513307,,Africa__Johannesburg
+ZA,CITY,Eden Glen,131252,Gauteng,GT,-26.1323,28.16859,7345,,Africa__Johannesburg
+ZA,CITY,Eden Glen Ext 60,131318,Gauteng,GT,-26.12593,28.165,5494,,Africa__Johannesburg
+ZA,CITY,Edenvale,131044,Gauteng,GT,-26.14095,28.15247,49292,1651,Africa__Johannesburg
+ZA,ADM2,Ehlanzeni District,174475,Mpumalanga,MP,-25.351,31.361,1688615,,Africa__Johannesburg
+ZA,CITY,Ekangala,131419,Gauteng,GT,-25.69619,28.74918,37650,1504,Africa__Johannesburg
+ZA,ADM2,Ekurhuleni Metropolitan Municipality,174505,Gauteng,GT,-26.1989,28.31262,2724229,,Africa__Johannesburg
+ZA,CITY,Ekuvukeni,131394,KwaZulu-Natal,NL,-28.46752,30.15513,14331,1006,Africa__Johannesburg
+ZA,CITY,Elliot,131011,Eastern Cape,EC,-31.33333,27.85,11836,1451,Africa__Johannesburg
+ZA,CITY,Empangeni,131143,KwaZulu-Natal,NL,-28.76197,31.89329,28093,103,Africa__Johannesburg
+ZA,CITY,Ermelo,131049,Mpumalanga,MP,-26.53333,29.98333,41124,1700,Africa__Johannesburg
+ZA,CITY,Eshowe,131230,KwaZulu-Natal,NL,-28.88649,31.4699,14786,539,Africa__Johannesburg
+ZA,ADM2,Fezile Dabi District Municipality,174477,Free State,FS,-27.33918,27.71927,474089,,Africa__Johannesburg
+ZA,CITY,Fochville,131482,North West,NW,-26.48862,27.49387,62416,1478,Africa__Johannesburg
+ZA,CITY,Fort Beaufort,131202,Eastern Cape,EC,-32.77477,26.63376,58419,444,Africa__Johannesburg
+ZA,ADM2,Frances Baard District Municipality,174510,Northern Cape,NC,-28.30003,24.38188,353200,,Africa__Johannesburg
+ZA,CITY,Frankfort,131324,Free State,FS,-27.27888,28.49696,1900,,Africa__Johannesburg
+ZA,CITY,Fraserburg,131260,Northern Cape,NC,-31.91566,21.51335,3029,,Africa__Johannesburg
+ZA,CITY,Ga-Kgapane,131131,Limpopo,LP,-23.64378,30.22324,13000,709,Africa__Johannesburg
+ZA,CITY,Ga-Rankuwa,131066,North West,NW,-25.61692,27.99471,68767,1246,Africa__Johannesburg
+ZA,CITY,George,131240,Western Cape,WC,-33.963,22.46173,12345,232,Africa__Johannesburg
+ZA,ADM2,Gert Sibande District Municipality,174501,Mpumalanga,MP,-26.671,29.92953,1043194,,Africa__Johannesburg
+ZA,CITY,Giyani,131357,Limpopo,LP,-23.30246,30.71868,37024,484,Africa__Johannesburg
+ZA,CITY,Glencoe,131113,KwaZulu-Natal,NL,-28.17827,30.14702,13547,1293,Africa__Johannesburg
+ZA,CITY,Graaff-Reinet,131370,Eastern Cape,EC,-32.25215,24.53075,62896,756,Africa__Johannesburg
+ZA,CITY,Grabouw,131253,Western Cape,WC,-34.15152,19.01509,29885,332,Africa__Johannesburg
+ZA,CITY,Grahamstown,131334,Eastern Cape,EC,-33.30422,26.53276,91548,580,Africa__Johannesburg
+ZA,CITY,Greytown,131258,KwaZulu-Natal,NL,-29.06415,30.59279,13912,1050,Africa__Johannesburg
+ZA,CITY,Hardys Memories of Africa,131282,Western Cape,WC,-33.90539,20.7169,7500,358,Africa__Johannesburg
+ZA,CITY,Harrismith,131021,Free State,FS,-28.27276,29.12946,35108,1643,Africa__Johannesburg
+ZA,CITY,Heidelberg,131056,Gauteng,GT,-26.50476,28.35921,64199,1525,Africa__Johannesburg
+ZA,CITY,Heilbron,131466,Free State,FS,-27.28115,27.9709,55196,1539,Africa__Johannesburg
+ZA,CITY,Hendrina,131447,Mpumalanga,MP,-26.15881,29.71528,15871,1686,Africa__Johannesburg
+ZA,CITY,Hennenman,131192,Free State,FS,-27.97654,27.02423,22847,1396,Africa__Johannesburg
+ZA,CITY,Hermanus,131435,Western Cape,WC,-34.4187,19.23446,25153,27,Africa__Johannesburg
+ZA,CITY,Hluhluwe,131316,KwaZulu-Natal,NL,-28.01895,32.26762,1500,65,Africa__Johannesburg
+ZA,CITY,Hoopstad,131241,Free State,FS,-27.83273,25.90833,12663,1253,Africa__Johannesburg
+ZA,CITY,Howick,131359,KwaZulu-Natal,NL,-29.47795,30.23057,28725,1048,Africa__Johannesburg
+ZA,CITY,Ilinge,131454,Eastern Cape,EC,-31.97676,27.04267,10899,1107,Africa__Johannesburg
+ZA,CITY,Jan Kempdorp,131119,North West,NW,-27.92246,24.83051,13485,1159,Africa__Johannesburg
+ZA,ADM2,Joe Gqabi District Municipality,174498,Eastern Cape,EC,-30.94178,27.06053,308365,,Africa__Johannesburg
+ZA,CITY,Johannesburg,131204,Gauteng,GT,-26.20227,28.04363,2026469,1753,Africa__Johannesburg
+ZA,ADM2,John Taolo Gaetsewe District Municipality,174508,Northern Cape,NC,-27.04549,23.04706,173454,,Africa__Johannesburg
+ZA,CITY,Kathu,131243,Northern Cape,NC,-27.69569,23.04929,9219,1233,Africa__Johannesburg
+ZA,CITY,Kenhardt,131372,Northern Cape,NC,-29.34574,21.15786,4842,,Africa__Johannesburg
+ZA,CITY,Kimberley,131380,Northern Cape,NC,-28.73226,24.76232,142089,1184,Africa__Johannesburg
+ZA,CITY,Kirkwood,131294,Eastern Cape,EC,-33.39829,25.44279,10148,113,Africa__Johannesburg
+ZA,CITY,Klerksdorp,131364,North West,NW,-26.85213,26.66672,178921,1837,Africa__Johannesburg
+ZA,CITY,Knysna,131188,Western Cape,WC,-34.03627,23.04713,68659,9,Africa__Johannesburg
+ZA,CITY,Kokstad,131048,KwaZulu-Natal,NL,-30.54723,29.42412,25373,1302,Africa__Johannesburg
+ZA,CITY,Komatipoort,131040,Mpumalanga,MP,-25.43321,31.95478,20508,159,Africa__Johannesburg
+ZA,CITY,Koppies,131099,Free State,FS,-27.24179,27.57422,11445,1413,Africa__Johannesburg
+ZA,CITY,Koster,131441,North West,NW,-25.86301,26.89756,12126,1620,Africa__Johannesburg
+ZA,CITY,Kraaifontein,131059,Western Cape,WC,-33.84808,18.71723,57911,102,Africa__Johannesburg
+ZA,CITY,Kriel,131433,Mpumalanga,MP,-26.27391,29.2253,15055,1552,Africa__Johannesburg
+ZA,CITY,Kroonstad,131467,Free State,FS,-27.65036,27.23488,103992,1399,Africa__Johannesburg
+ZA,CITY,Krugersdorp,131459,Gauteng,GT,-26.08577,27.77515,378821,1724,Africa__Johannesburg
+ZA,CITY,Kruisfontein,131184,Eastern Cape,EC,-34.00333,24.73142,18991,228,Africa__Johannesburg
+ZA,CITY,Kuruman,131229,Northern Cape,NC,-27.4524,23.43246,9093,1131,Africa__Johannesburg
+ZA,CITY,Kutloanong,131320,Free State,FS,-27.83333,26.75,95008,1326,Africa__Johannesburg
+ZA,CITY,KwaDukuza,131261,KwaZulu-Natal,NL,-29.32816,31.28954,59899,111,Africa__Johannesburg
+ZA,CITY,Ladismith,131045,Western Cape,WC,-33.49331,21.26755,7127,540,Africa__Johannesburg
+ZA,CITY,Lady Frere,131510,Eastern Cape,EC,-31.70312,27.2329,25041,1020,Africa__Johannesburg
+ZA,CITY,Ladybrand,131023,Free State,FS,-29.19448,27.45739,17228,1578,Africa__Johannesburg
+ZA,CITY,Lansdowne,131133,Western Cape,WC,-33.98735,18.49746,17399,22,Africa__Johannesburg
+ZA,CITY,Lebowakgomo,131277,Limpopo,LP,-24.2,29.5,33308,1161,Africa__Johannesburg
+ZA,ADM2,Lejweleputswa District Municipality,174470,Free State,FS,-28.23982,26.12649,639651,,Africa__Johannesburg
+ZA,CITY,Lichtenburg,131178,North West,NW,-26.152,26.15968,65863,1486,Africa__Johannesburg
+ZA,CITY,Lindley,131315,Free State,FS,-27.8791,27.91348,12000,1519,Africa__Johannesburg
+ZA,CITY,Louis Trichardt,131223,Limpopo,LP,-23.04385,29.90319,86854,922,Africa__Johannesburg
+ZA,CITY,Lydenburg,131365,Mpumalanga,MP,-25.09598,30.44393,21695,1371,Africa__Johannesburg
+ZA,CITY,Mabopane,131100,Gauteng,GT,-25.49768,28.10065,97417,1225,Africa__Johannesburg
+ZA,CITY,Mahikeng,131064,North West,NW,-25.86522,25.64421,14000,1500,Africa__Johannesburg
+ZA,CITY,Maile,131479,North West,NW,-25.44152,27.28165,10000,,Africa__Johannesburg
+ZA,CITY,Malmesbury,131155,Western Cape,WC,-33.4608,18.72714,34991,101,Africa__Johannesburg
+ZA,ADM2,Mangaung Metropolitan Municipality,174488,Free State,FS,-29.15627,26.35116,752906,,Africa__Johannesburg
+ZA,CITY,Mankoeng,131026,Limpopo,LP,-23.9,29.81667,12499,1389,Africa__Johannesburg
+ZA,CITY,Margate,131286,KwaZulu-Natal,NL,-30.8636,30.37052,34407,20,Africa__Johannesburg
+ZA,CITY,Marquard,131179,Free State,FS,-28.66449,27.43048,10839,1518,Africa__Johannesburg
+ZA,CITY,Middelburg,131124,Eastern Cape,EC,-31.49285,25.00633,18164,1253,Africa__Johannesburg
+ZA,CITY,Middelburg,131337,Mpumalanga,MP,-25.77507,29.46482,154706,1490,Africa__Johannesburg
+ZA,CITY,Midrand,131078,Gauteng,GT,-25.98953,28.12843,173009,1562,Africa__Johannesburg
+ZA,CITY,Midstream,131478,Gauteng,GT,-25.91849,28.19881,25000,1520,Africa__Johannesburg
+ZA,CITY,Mmabatho,131413,North West,NW,-25.85,25.63333,76754,1282,Africa__Johannesburg
+ZA,CITY,Modderfontein,131140,Gauteng,GT,-26.08909,28.16534,3000,1625,Africa__Johannesburg
+ZA,CITY,Modimolle,131022,Limpopo,LP,-24.7,28.4,20527,,Africa__Johannesburg
+ZA,CITY,Mokopane,131355,Limpopo,LP,-24.19436,29.00974,101090,1117,Africa__Johannesburg
+ZA,CITY,Molteno,131290,Eastern Cape,EC,-31.39675,26.36246,10078,1590,Africa__Johannesburg
+ZA,CITY,Mondlo,131128,KwaZulu-Natal,NL,-27.98299,30.71769,44922,1155,Africa__Johannesburg
+ZA,CITY,Montagu,131222,Western Cape,WC,-33.78664,20.12106,15176,,Africa__Johannesburg
+ZA,CITY,Mooirivier,131352,KwaZulu-Natal,NL,-29.20824,29.9946,10132,1393,Africa__Johannesburg
+ZA,CITY,Moorreesburg,131219,Western Cape,WC,-33.15388,18.66031,12877,252,Africa__Johannesburg
+ZA,ADM2,Mopani District Municipality,174485,Limpopo,LP,-23.76661,30.836,1068568,,Africa__Johannesburg
+ZA,CITY,Mossel Bay,131511,Western Cape,WC,-34.18307,22.14605,59031,43,Africa__Johannesburg
+ZA,CITY,Mpophomeni,131210,KwaZulu-Natal,NL,-29.56822,30.18618,26229,1103,Africa__Johannesburg
+ZA,CITY,Mpumalanga,131453,KwaZulu-Natal,NL,-29.81292,30.63646,140121,711,Africa__Johannesburg
+ZA,CITY,Mthatha,131308,Eastern Cape,EC,-31.58893,28.78443,78663,694,Africa__Johannesburg
+ZA,CITY,Mtubatuba,131262,KwaZulu-Natal,NL,-28.41789,32.18483,1589,67,Africa__Johannesburg
+ZA,CITY,Muldersdriseloop,131238,Gauteng,GT,-26.03673,27.83798,1500,,Africa__Johannesburg
+ZA,CITY,Musina,131105,Limpopo,LP,-22.34881,30.04074,42678,,Africa__Johannesburg
+ZA,ADM2,Namakwa District Municipality,174471,Northern Cape,NC,-30.53561,19.42892,126494,,Africa__Johannesburg
+ZA,CITY,Ndwedwe,131216,KwaZulu-Natal,NL,-29.51686,30.92687,140820,,Africa__Johannesburg
+ZA,ADM2,Nelson Mandela Bay Metropolitan Municipality,174492,Eastern Cape,EC,-33.80399,25.49213,1050930,,Africa__Johannesburg
+ZA,CITY,Nelspruit,131289,Mpumalanga,MP,-25.47448,30.97033,110159,619,Africa__Johannesburg
+ZA,CITY,Newcastle,131476,KwaZulu-Natal,NL,-27.75796,29.9318,404838,1194,Africa__Johannesburg
+ZA,CITY,Newlands,131141,Western Cape,WC,-33.97846,18.4481,5343,70,Africa__Johannesburg
+ZA,ADM2,Ngaka Modiri Molema District Municipality,174486,North West,NW,-25.95559,25.80782,798783,,Africa__Johannesburg
+ZA,CITY,Nigel,131351,Gauteng,GT,-26.43138,28.47713,140644,1566,Africa__Johannesburg
+ZA,ADM2,Nkangala District Municipality,174479,Mpumalanga,MP,-25.71222,29.42431,1226500,,Africa__Johannesburg
+ZA,CITY,Nkowakowa,131469,Limpopo,LP,-23.88782,30.28708,30138,584,Africa__Johannesburg
+ZA,CITY,Noupoort,131436,Northern Cape,NC,-31.18736,24.94991,3924,1494,Africa__Johannesburg
+ZA,ADM2,OR Tambo District Municipality,174478,Eastern Cape,EC,-31.4674,29.05247,1862218,,Africa__Johannesburg
+ZA,CITY,Orange Farm,131496,Gauteng,GT,-26.48333,27.86667,10000,1572,Africa__Johannesburg
+ZA,CITY,Orania,131226,Northern Cape,NC,-29.81381,24.41205,1200,2156,Africa__Johannesburg
+ZA,CITY,Orkney,131299,North West,NW,-26.98023,26.67272,145801,,Africa__Johannesburg
+ZA,CITY,Oudtshoorn,131028,Western Cape,WC,-33.60047,22.19955,61507,319,Africa__Johannesburg
+ZA,ADM2,Overberg District Municipality,174482,Western Cape,WC,-34.26131,19.93985,212787,,Africa__Johannesburg
+ZA,CITY,Paarl,131233,Western Cape,WC,-33.73378,18.97523,190000,132,Africa__Johannesburg
+ZA,CITY,Pampierstad,131356,Northern Cape,NC,-27.78324,24.68768,21800,1078,Africa__Johannesburg
+ZA,CITY,Parys,131325,Free State,FS,-26.9033,27.45727,71319,1398,Africa__Johannesburg
+ZA,CITY,Phalaborwa,131360,Limpopo,LP,-23.94299,31.14107,109468,435,Africa__Johannesburg
+ZA,CITY,Phuthaditjhaba,131217,Free State,FS,-28.52423,28.81582,84258,1646,Africa__Johannesburg
+ZA,CITY,Piet Retief,131039,Mpumalanga,MP,-27.00706,30.81323,84349,1251,Africa__Johannesburg
+ZA,CITY,Pietermaritzburg,131477,KwaZulu-Natal,NL,-29.61679,30.39278,750845,596,Africa__Johannesburg
+ZA,CITY,Piketberg,131013,Western Cape,WC,-32.90323,18.75704,12075,252,Africa__Johannesburg
+ZA,ADM2,Pixley ka Seme District Municipality,174503,Northern Cape,NC,-30.2892,23.25818,166849,,Africa__Johannesburg
+ZA,CITY,Plettenberg Bay,131263,Western Cape,WC,-34.05274,23.3716,19445,77,Africa__Johannesburg
+ZA,CITY,Pofadder,131339,Northern Cape,NC,-29.1283,19.39492,3287,992,Africa__Johannesburg
+ZA,CITY,Polokwane,131114,Limpopo,LP,-23.90449,29.46885,123749,1312,Africa__Johannesburg
+ZA,CITY,Port Alfred,131490,Eastern Cape,EC,-33.58601,26.88329,17959,35,Africa__Johannesburg
+ZA,CITY,Port Elizabeth,131319,Eastern Cape,EC,-33.96109,25.61494,967677,15,Africa__Johannesburg
+ZA,CITY,Port Saint John’s,131410,Eastern Cape,EC,-31.62291,29.54477,5939,7,Africa__Johannesburg
+ZA,CITY,Port Shepstone,131400,KwaZulu-Natal,NL,-30.74137,30.45499,52793,36,Africa__Johannesburg
+ZA,CITY,Postmasburg,131480,Northern Cape,NC,-28.33392,23.06541,30089,,Africa__Johannesburg
+ZA,CITY,Potchefstroom,131069,North West,NW,-26.71667,27.1,123669,1350,Africa__Johannesburg
+ZA,CITY,Pretoria,131464,Gauteng,GT,-25.74486,28.18783,1619438,1339,Africa__Johannesburg
+ZA,CITY,Prieska,131065,Northern Cape,NC,-29.66803,22.74251,11236,942,Africa__Johannesburg
+ZA,CITY,Prince Albert,131166,Western Cape,WC,-33.22476,22.02673,13136,633,Africa__Johannesburg
+ZA,CITY,Queensdale,131015,Eastern Cape,EC,-31.87101,26.97862,20009,1205,Africa__Johannesburg
+ZA,CITY,Queenstown,131445,Eastern Cape,EC,-31.89756,26.87533,105309,1081,Africa__Johannesburg
+ZA,CITY,Randburg,131344,Gauteng,GT,-26.0941,28.00123,337053,,Africa__Johannesburg
+ZA,CITY,Randfontein,131035,Gauteng,GT,-26.1844,27.70203,133654,1709,Africa__Johannesburg
+ZA,CITY,Reitz,131051,Free State,FS,-27.80138,28.42726,16637,1630,Africa__Johannesburg
+ZA,CITY,Retreat,131327,Western Cape,WC,-34.05515,18.47617,32289,8,Africa__Johannesburg
+ZA,CITY,Richards Bay,131103,KwaZulu-Natal,NL,-28.78301,32.03768,252968,9,Africa__Johannesburg
+ZA,CITY,Richmond,131493,KwaZulu-Natal,NL,-29.87196,30.27235,32445,,Africa__Johannesburg
+ZA,CITY,Ritchie,131313,Northern Cape,NC,-29.03801,24.60278,9960,1115,Africa__Johannesburg
+ZA,CITY,Riversdale,131118,Western Cape,WC,-34.09345,21.25725,16176,,Africa__Johannesburg
+ZA,CITY,Robertson,131347,Western Cape,WC,-33.80342,19.88537,27715,187,Africa__Johannesburg
+ZA,CITY,Rondebosch,131348,Western Cape,WC,-33.96333,18.47639,15158,28,Africa__Johannesburg
+ZA,CITY,Roodepoort,131156,Gauteng,GT,-26.1625,27.8725,225000,1738,Africa__Johannesburg
+ZA,CITY,Rosebank,131046,Western Cape,WC,-33.95556,18.47417,10000,11,Africa__Johannesburg
+ZA,CITY,Rustenburg,131265,North West,NW,-25.66756,27.24208,124064,1170,Africa__Johannesburg
+ZA,CITY,Saldanha,131385,Western Cape,WC,-33.01167,17.9442,68284,20,Africa__Johannesburg
+ZA,ADM2,Sarah Baartman District Municipality,174512,Eastern Cape,EC,-33.06583,24.77583,450584,,Africa__Johannesburg
+ZA,CITY,Sasolburg,131322,Free State,FS,-26.81358,27.81695,77016,1500,Africa__Johannesburg
+ZA,CITY,Schweizer-Reneke,131175,North West,NW,-27.18871,25.32931,70214,1312,Africa__Johannesburg
+ZA,CITY,Scottburgh,131129,KwaZulu-Natal,NL,-30.28666,30.75316,23949,48,Africa__Johannesburg
+ZA,CITY,Secunda,131514,Mpumalanga,MP,-26.55,29.16667,20418,1592,Africa__Johannesburg
+ZA,ADM2,Sedibeng District Municipality,174511,Gauteng,GT,-26.56686,28.18277,800819,,Africa__Johannesburg
+ZA,ADM2,Sekhukhune District Municipality,174497,Limpopo,LP,-24.82806,29.83803,1090424,,Africa__Johannesburg
+ZA,CITY,Senekal,131338,Free State,FS,-28.31971,27.62082,39584,1431,Africa__Johannesburg
+ZA,ADM2,Sisonke District Municipality,174494,KwaZulu-Natal,NL,-30.11082,29.66009,500082,,Africa__Johannesburg
+ZA,CITY,Siyabuswa,131346,Mpumalanga,MP,-25.11319,29.04454,26236,935,Africa__Johannesburg
+ZA,ADM2,Siyanda District Municipality,174502,Northern Cape,NC,-28.00013,21.18459,236783,,Africa__Johannesburg
+ZA,CITY,Somerset East,131085,Eastern Cape,EC,-32.72173,25.58804,16155,748,Africa__Johannesburg
+ZA,CITY,Soweto,131403,Gauteng,GT,-26.26781,27.85849,1695047,1600,Africa__Johannesburg
+ZA,CITY,Springbok,131304,Northern Cape,NC,-29.66434,17.8865,10438,950,Africa__Johannesburg
+ZA,CITY,Springs,131270,Gauteng,GT,-26.25,28.4,186394,1627,Africa__Johannesburg
+ZA,CITY,Standerton,131038,Mpumalanga,MP,-26.93366,29.24152,74021,1569,Africa__Johannesburg
+ZA,CITY,Stellenbosch,131047,Western Cape,WC,-33.93462,18.86676,94263,136,Africa__Johannesburg
+ZA,CITY,Stilfontein,131267,North West,NW,-26.84493,26.76829,93110,1357,Africa__Johannesburg
+ZA,CITY,Stutterheim,131088,Eastern Cape,EC,-32.57076,27.42396,35510,849,Africa__Johannesburg
+ZA,CITY,Sundumbili,131485,KwaZulu-Natal,NL,-29.13371,31.39752,12455,64,Africa__Johannesburg
+ZA,CITY,Sunset Beach,131306,Western Cape,WC,-33.85395,18.49231,2000,20,Africa__Johannesburg
+ZA,CITY,Swellendam,131269,Western Cape,WC,-34.02262,20.44171,13674,,Africa__Johannesburg
+ZA,CITY,Tembisa,131508,Gauteng,GT,-25.99636,28.2268,511655,1613,Africa__Johannesburg
+ZA,CITY,Thaba Nchu,131457,Free State,FS,-29.20932,26.83898,38616,1531,Africa__Johannesburg
+ZA,CITY,Thabazimbi,131106,Limpopo,LP,-24.59165,27.41155,10365,979,Africa__Johannesburg
+ZA,ADM2,Thabo Mofutsanyana District Municipality,174467,Free State,FS,-28.24378,28.34077,753344,,Africa__Johannesburg
+ZA,CITY,Theunissen,131107,Free State,FS,-28.41098,26.70107,34718,1406,Africa__Johannesburg
+ZA,CITY,Thohoyandou,131095,Limpopo,LP,-22.94564,30.48497,44046,724,Africa__Johannesburg
+ZA,CITY,Thornhill,2199960,Eastern Cape,EC,-33.89511,25.13914,5000,220,Africa__Johannesburg
+ZA,CITY,Thulamahashi,131075,Limpopo,LP,-24.72459,31.19939,11655,488,Africa__Johannesburg
+ZA,CITY,Tzaneen,131314,Limpopo,LP,-23.83322,30.16351,16954,900,Africa__Johannesburg
+ZA,ADM2,Ugu District Municipality,174515,KwaZulu-Natal,NL,-30.54365,30.2748,709918,,Africa__Johannesburg
+ZA,CITY,Uitenhage,131502,Eastern Cape,EC,-33.75757,25.3971,228912,103,Africa__Johannesburg
+ZA,CITY,Ulundi,131384,KwaZulu-Natal,NL,-28.33523,31.41617,20753,540,Africa__Johannesburg
+ZA,CITY,Upington,131070,Northern Cape,NC,-28.44776,21.25612,71373,848,Africa__Johannesburg
+ZA,CITY,Utrecht,131257,KwaZulu-Natal,NL,-27.65862,30.32166,3575,1217,Africa__Johannesburg
+ZA,CITY,Van Wyksvlei,131358,Northern Cape,NC,-30.35101,21.82498,1721,,Africa__Johannesburg
+ZA,CITY,Vanderbijlpark,131395,Gauteng,GT,-26.71171,27.83795,246754,1468,Africa__Johannesburg
+ZA,CITY,Ventersburg,131489,Free State,FS,-28.08561,27.13814,10698,1435,Africa__Johannesburg
+ZA,CITY,Vereeniging,131209,Gauteng,GT,-26.67313,27.92615,474681,1479,Africa__Johannesburg
+ZA,ADM2,Vhembe District Municipality,174495,Limpopo,LP,-22.75467,30.1936,1240035,,Africa__Johannesburg
+ZA,CITY,Viljoenskroon,131481,Free State,FS,-27.20841,26.94855,54955,1345,Africa__Johannesburg
+ZA,CITY,Villiers,131488,Free State,FS,-27.03026,28.60061,11240,1517,Africa__Johannesburg
+ZA,CITY,Virginia,131151,Free State,FS,-28.10391,26.86593,122502,1326,Africa__Johannesburg
+ZA,CITY,Volksrust,131169,Mpumalanga,MP,-27.36541,29.88175,43378,1660,Africa__Johannesburg
+ZA,CITY,Vrede,131020,Free State,FS,-27.42573,29.16585,14622,1675,Africa__Johannesburg
+ZA,CITY,Vredefort,131096,Free State,FS,-27.00805,27.3646,10649,1425,Africa__Johannesburg
+ZA,CITY,Vredenburg,131336,Western Cape,WC,-32.90719,17.98997,38382,252,Africa__Johannesburg
+ZA,CITY,Vredendal,131016,Western Cape,WC,-31.66833,18.50119,14806,36,Africa__Johannesburg
+ZA,CITY,Vryburg,131207,North West,NW,-26.95659,24.7284,49588,1202,Africa__Johannesburg
+ZA,CITY,Vryheid,131071,KwaZulu-Natal,NL,-27.76952,30.79165,150012,1170,Africa__Johannesburg
+ZA,CITY,Warmbaths,131087,Limpopo,LP,-24.88333,28.28333,90210,1136,Africa__Johannesburg
+ZA,CITY,Warrenton,131381,Northern Cape,NC,-28.11396,24.84753,17946,1180,Africa__Johannesburg
+ZA,ADM2,Waterberg District Municipality,174484,Limpopo,LP,-24.20514,27.9787,596092,,Africa__Johannesburg
+ZA,CITY,Welkom,131098,Free State,FS,-27.97742,26.73506,431944,1333,Africa__Johannesburg
+ZA,CITY,Wellington,131067,Western Cape,WC,-33.63981,19.0112,55543,127,Africa__Johannesburg
+ZA,CITY,Wesselsbron,131092,Free State,FS,-27.8549,26.36583,42552,1315,Africa__Johannesburg
+ZA,ADM2,West Coast District Municipality,174466,Western Cape,WC,-32.09506,18.62695,286751,,Africa__Johannesburg
+ZA,ADM2,West Rand District Municipality,174499,Gauteng,GT,-26.24565,27.55538,754903,,Africa__Johannesburg
+ZA,CITY,Westonaria,131160,Gauteng,GT,-26.31905,27.6486,156831,,Africa__Johannesburg
+ZA,CITY,White River,131144,Mpumalanga,MP,-25.33177,31.01166,15954,944,Africa__Johannesburg
+ZA,CITY,Whittlesea,131054,Eastern Cape,EC,-32.17588,26.82437,12080,1062,Africa__Johannesburg
+ZA,CITY,Willowmore,131228,Eastern Cape,EC,-33.29265,23.48954,7100,828,Africa__Johannesburg
+ZA,CITY,Winburg,131293,Free State,FS,-28.51805,27.00933,11072,1438,Africa__Johannesburg
+ZA,CITY,Witbank,131109,Mpumalanga,MP,-25.87133,29.23323,262491,,Africa__Johannesburg
+ZA,CITY,Wolmaransstad,131093,North West,NW,-27.1974,25.98311,49366,1357,Africa__Johannesburg
+ZA,CITY,Worcester,131418,Western Cape,WC,-33.64651,19.44852,127597,220,Africa__Johannesburg
+ZA,ADM2,Xhariep District Municipality,174472,Free State,FS,-29.84311,25.83286,153069,,Africa__Johannesburg
+ZA,CITY,Zastron,131446,Free State,FS,-30.30225,27.08395,12449,1668,Africa__Johannesburg
+ZA,CITY,Zeerust,131425,North West,NW,-25.53695,26.07512,17708,1213,Africa__Johannesburg
+ZA,CITY,Zoar,131237,Western Cape,WC,-33.4956,21.44373,4659,504,Africa__Johannesburg
+ZA,ADM2,Zululand District Municipality,174481,KwaZulu-Natal,NL,-27.81139,31.29426,902890,,Africa__Johannesburg
+ZA,CITY,eMbalenhle,131503,Mpumalanga,MP,-26.53333,29.06667,141741,1575,Africa__Johannesburg
+ZA,CITY,eMkhomazi,131195,KwaZulu-Natal,NL,-30.20674,30.79776,20410,41,Africa__Johannesburg
+ZA,CITY,eSikhaleni,131082,KwaZulu-Natal,NL,-28.87097,31.89961,49265,15,Africa__Johannesburg
+ZA,ADM2,eThekwini Metropolitan Municipality,174500,KwaZulu-Natal,NL,-29.8667,31.0167,3442361,,Africa__Johannesburg
+ZA,ADM2,iLembe District Municipality,174473,KwaZulu-Natal,NL,-29.27326,31.14253,528198,,Africa__Johannesburg
+ZA,ADM2,uMgungundlovu District Municipality,174480,KwaZulu-Natal,NL,-29.50927,30.19838,1017763,,Africa__Johannesburg
+ZA,ADM2,uMkhanyakude District Municipality,174493,KwaZulu-Natal,NL,-27.62236,32.32945,625846,,Africa__Johannesburg
+ZA,ADM2,uMzinyathi District Municipality,174496,KwaZulu-Natal,NL,-28.5857,30.55883,510838,,Africa__Johannesburg
+ZA,ADM2,uThukela District Municipality,174507,KwaZulu-Natal,NL,-28.7192,29.65799,714908,,Africa__Johannesburg
+ZA,ADM2,uThungulu District Municipality,174491,KwaZulu-Natal,NL,-28.70046,31.51527,907519,,Africa__Johannesburg
