@@ -404,7 +404,7 @@ def main():
                                  })
 
                 print("Row with City ID - " + str(city_id) + " - inserted succesfully!")
-                time.sleep(1)
+                time.sleep(20)
 
 
 # Funtion to build the request url
