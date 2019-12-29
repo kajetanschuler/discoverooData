@@ -11,5 +11,6 @@ def main():
                 writer.writerow(row)
                 print("Written")
 
+
 if __name__ == '__main__':
     main()
