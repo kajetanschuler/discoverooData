@@ -1,0 +1,1261 @@
+countryCode,type,cityName,cityId,regionName,regionCode,lat,lon,population,elevation,timezone
+TH,CITY,Amnat Charoen,108933,Amnat Charoen,37,15.85851,104.62883,34769,,Asia__Bangkok
+TH,ADM2,Amphoe Akat Amnuai,167057,Sakon Nakhon,47,17.63589,103.9759,62240,,Asia__Bangkok
+TH,ADM2,Amphoe Amphawa,166664,Samut Songkhram,75,13.36721,99.91232,49252,,Asia__Bangkok
+TH,ADM2,Amphoe Ao Luek,167090,Krabi,81,8.38526,98.75378,45866,,Asia__Bangkok
+TH,ADM2,Amphoe Aranyaprathet,167058,Sa Kaeo,27,13.69086,102.47693,88477,,Asia__Bangkok
+TH,ADM2,Amphoe At Samat,167056,Roi Et,45,15.84014,103.86619,60592,,Asia__Bangkok
+TH,ADM2,Amphoe Ba Cho,167061,Narathiwat,96,6.54591,101.64923,47066,,Asia__Bangkok
+TH,ADM2,Amphoe Bamnet Narong,167059,Chaiyaphum,36,15.46942,101.6445,46858,,Asia__Bangkok
+TH,ADM2,Amphoe Ban Bueng,167060,Chon Buri,20,13.2528,101.18151,100381,,Asia__Bangkok
+TH,ADM2,Amphoe Ban Chang,167385,Rayong,21,12.7323,101.04878,63659,,Asia__Bangkok
+TH,ADM2,Amphoe Ban Dan,167397,Buri Ram,31,15.12363,103.18937,24012,,Asia__Bangkok
+TH,ADM2,Amphoe Ban Dan Lan Hoi,166666,Sukhothai,64,17.05278,99.49148,47537,,Asia__Bangkok
+TH,ADM2,Amphoe Ban Dung,167048,Udon Thani,41,17.71134,103.26729,99759,,Asia__Bangkok
+TH,ADM2,Amphoe Ban Fang,167286,Khon Kaen,40,16.49162,102.61669,45143,,Asia__Bangkok
+TH,ADM2,Amphoe Ban Haet,167289,Khon Kaen,40,16.20067,102.77465,26214,,Asia__Bangkok
+TH,ADM2,Amphoe Ban Hong,166661,Lamphun,51,18.27422,98.83794,37162,,Asia__Bangkok
+TH,ADM2,Amphoe Ban Kha,167161,Ratchaburi,70,13.32374,99.37323,22813,,Asia__Bangkok
+TH,ADM2,Amphoe Ban Khai,167026,Rayong,21,12.83827,101.3421,74347,,Asia__Bangkok
+TH,ADM2,Amphoe Ban Khok,167306,Uttaradit,53,18.1468,101.0661,13403,,Asia__Bangkok
+TH,ADM2,Amphoe Ban Khwao,167024,Chaiyaphum,36,15.82766,101.83945,39978,,Asia__Bangkok
+TH,ADM2,Amphoe Ban Kruat,167025,Buri Ram,31,14.39205,103.11494,60777,,Asia__Bangkok
+TH,ADM2,Amphoe Ban Laem,167023,Phetchaburi,76,13.16968,99.98771,55781,,Asia__Bangkok
+TH,ADM2,Amphoe Ban Lat,166662,Phetchaburi,76,13.04533,99.83788,52513,,Asia__Bangkok
+TH,ADM2,Amphoe Ban Luang,167301,Nan,55,18.88375,100.46014,11197,,Asia__Bangkok
+TH,ADM2,Amphoe Ban Lueam,167330,Nakhon Ratchasima,30,15.57431,102.14204,15872,,Asia__Bangkok
+TH,ADM2,Amphoe Ban Mai Chaiyaphot,167303,Buri Ram,31,15.57857,102.84394,22924,,Asia__Bangkok
+TH,ADM2,Amphoe Ban Mi,167020,Lopburi,16,15.06154,100.552,72229,,Asia__Bangkok
+TH,ADM2,Amphoe Ban Mo,167022,Saraburi,19,14.60804,100.72404,45206,,Asia__Bangkok
+TH,ADM2,Amphoe Ban Muang,167435,Sakon Nakhon,47,17.89569,103.52793,54265,,Asia__Bangkok
+TH,ADM2,Amphoe Ban Na,167021,Nakhon Nayok,26,14.26799,101.06445,64323,,Asia__Bangkok
+TH,ADM2,Amphoe Ban Na Doem,167181,Surat Thani,84,8.9061,99.28136,22493,,Asia__Bangkok
+TH,ADM2,Amphoe Ban Na San,166660,Surat Thani,84,8.80063,99.40201,69150,,Asia__Bangkok
+TH,ADM2,Amphoe Ban Phaeng,167017,Nakhon Phanom,48,17.86955,104.22744,28784,,Asia__Bangkok
+TH,ADM2,Amphoe Ban Phaeo,167018,Samut Sakhon,74,13.58747,100.11789,86663,,Asia__Bangkok
+TH,ADM2,Amphoe Ban Phai,167015,Khon Kaen,40,16.04603,102.77755,92671,,Asia__Bangkok
+TH,ADM2,Amphoe Ban Pho,167016,Chachoengsao,24,13.61,101.07838,45252,,Asia__Bangkok
+TH,ADM2,Amphoe Ban Phraek,167012,Phra Nakhon Si Ayutthaya,14,14.64381,100.54883,7661,,Asia__Bangkok
+TH,ADM2,Amphoe Ban Phue,167013,Udon Thani,41,17.67709,102.44563,89610,,Asia__Bangkok
+TH,ADM2,Amphoe Ban Pong,166659,Ratchaburi,70,13.8166,99.82147,153094,,Asia__Bangkok
+TH,ADM2,Amphoe Ban Rai,166658,Uthai Thani,61,15.24921,99.32817,62961,,Asia__Bangkok
+TH,ADM2,Amphoe Ban Sang,167014,Prachin Buri,25,13.95005,101.25063,38245,,Asia__Bangkok
+TH,ADM2,Amphoe Ban Tak,166657,Tak,63,17.09163,99.06648,46255,,Asia__Bangkok
+TH,ADM2,Amphoe Ban Takhun,167132,Surat Thani,84,9.10423,98.67222,14989,,Asia__Bangkok
+TH,ADM2,Amphoe Ban Thaen,167009,Chaiyaphum,36,16.38167,102.35678,38375,,Asia__Bangkok
+TH,ADM2,Amphoe Ban Thi,167178,Lamphun,51,18.65894,99.15883,18103,,Asia__Bangkok
+TH,ADM2,Amphoe Bang Ban,167050,Phra Nakhon Si Ayutthaya,14,14.38333,100.46667,31615,,Asia__Bangkok
+TH,ADM2,Amphoe Bang Bo,167043,Samut Prakan,11,13.5896,100.86711,105742,,Asia__Bangkok
+TH,ADM2,Amphoe Bang Bua Thong,167031,Nonthaburi,12,13.92641,100.3936,256290,,Asia__Bangkok
+TH,ADM2,Amphoe Bang Kaeo,167285,Phatthalung,93,7.41775,100.17164,25485,,Asia__Bangkok
+TH,ADM2,Amphoe Bang Khan,167143,Nakhon Si Thammarat,80,8.01208,99.48449,46798,,Asia__Bangkok
+TH,ADM2,Amphoe Bang Khla,167049,Chachoengsao,24,13.74186,101.20754,45394,,Asia__Bangkok
+TH,ADM2,Amphoe Bang Khonthi,166665,Samut Songkhram,75,13.47448,99.94838,39183,,Asia__Bangkok
+TH,ADM2,Amphoe Bang Klam,167154,Songkhla,90,7.06404,100.40664,34559,,Asia__Bangkok
+TH,ADM2,Amphoe Bang Krathum,167038,Phitsanulok,65,16.59323,100.35042,52519,,Asia__Bangkok
+TH,ADM2,Amphoe Bang Kruai,167042,Nonthaburi,12,13.80249,100.41525,111631,,Asia__Bangkok
+TH,ADM2,Amphoe Bang Len,167055,Nakhon Pathom,73,14.05,100.18333,93031,,Asia__Bangkok
+TH,ADM2,Amphoe Bang Mun Nak,167047,Phichit,66,16.02656,100.43194,42426,,Asia__Bangkok
+TH,ADM2,Amphoe Bang Nam Priao,167041,Chachoengsao,24,13.88034,101.03232,77252,,Asia__Bangkok
+TH,ADM2,Amphoe Bang Pa-in,167034,Phra Nakhon Si Ayutthaya,14,14.23482,100.5941,136733,,Asia__Bangkok
+TH,ADM2,Amphoe Bang Pahan,167027,Phra Nakhon Si Ayutthaya,14,14.47174,100.54731,40115,,Asia__Bangkok
+TH,ADM2,Amphoe Bang Pakong,167035,Chachoengsao,24,13.53241,100.96045,115534,,Asia__Bangkok
+TH,ADM2,Amphoe Bang Phae,166663,Ratchaburi,70,13.68333,99.98333,41377,,Asia__Bangkok
+TH,ADM2,Amphoe Bang Phli,167037,Samut Prakan,11,13.61972,100.72582,326114,,Asia__Bangkok
+TH,ADM2,Amphoe Bang Pla Ma,167053,Suphanburi,72,14.34985,100.14479,79965,,Asia__Bangkok
+TH,ADM2,Amphoe Bang Rachan,167044,Sing Buri,17,14.89959,100.27795,32059,,Asia__Bangkok
+TH,ADM2,Amphoe Bang Rakam,167030,Phitsanulok,65,16.71844,100.04217,103294,,Asia__Bangkok
+TH,ADM2,Amphoe Bang Sai,167438,Phra Nakhon Si Ayutthaya,14,14.21043,100.49422,47362,,Asia__Bangkok
+TH,ADM2,Amphoe Bang Sao Thong,167102,Samut Prakan,11,13.63286,100.81038,201624,,Asia__Bangkok
+TH,ADM2,Amphoe Bang Saphan,166667,Prachuap Khiri Khan,77,11.29402,99.44406,63085,,Asia__Bangkok
+TH,ADM2,Amphoe Bang Saphan Noi,167434,Prachuap Khiri Khan,77,11.07057,99.34105,29069,,Asia__Bangkok
+TH,ADM2,Amphoe Bang Yai,167051,Nonthaburi,12,13.85385,100.37318,129594,,Asia__Bangkok
+TH,ADM2,Amphoe Bannang Sata,167019,Yala,95,6.25643,101.27852,44659,,Asia__Bangkok
+TH,ADM2,Amphoe Banphot Phisai,167011,Nakhon Sawan,60,15.99714,99.99409,80429,,Asia__Bangkok
+TH,ADM2,Amphoe Benchalak,167183,Si Sa Ket,33,14.78319,104.71879,26107,,Asia__Bangkok
+TH,ADM2,Amphoe Betong,167417,Yala,95,5.86362,101.22737,46578,,Asia__Bangkok
+TH,ADM2,Amphoe Bo Kluea,167352,Nan,55,19.08994,101.18952,14077,,Asia__Bangkok
+TH,ADM2,Amphoe Bo Phloi,166655,Kanchanaburi,71,14.38723,99.4499,51181,,Asia__Bangkok
+TH,ADM2,Amphoe Bo Rai,167063,Trat,23,12.55816,102.56566,37157,,Asia__Bangkok
+TH,ADM2,Amphoe Bo Thong,167273,Chon Buri,20,13.24227,101.50864,44177,,Asia__Bangkok
+TH,ADM2,Amphoe Borabue,167005,Maha Sarakham,44,15.98881,103.12521,91133,,Asia__Bangkok
+TH,ADM2,Amphoe Bua Chet,167114,Surin,32,14.48406,103.97809,33862,,Asia__Bangkok
+TH,ADM2,Amphoe Bua Lai,167430,Nakhon Ratchasima,30,15.66917,102.51761,18621,,Asia__Bangkok
+TH,ADM2,Amphoe Bua Yai,166999,Nakhon Ratchasima,30,15.58488,102.38738,66953,,Asia__Bangkok
+TH,ADM2,Amphoe Bueng Bun,167246,Si Sa Ket,33,15.30288,104.06166,7704,,Asia__Bangkok
+TH,ADM2,Amphoe Bueng Khong Long,167392,Bueng Kan,38,18.00899,104.07302,32155,,Asia__Bangkok
+TH,ADM2,Amphoe Bueng Na Rang,167241,Phichit,66,16.18642,100.14293,30367,,Asia__Bangkok
+TH,ADM2,Amphoe Bueng Sam Phan,167395,Phetchabun,67,15.8165,101.00399,67692,,Asia__Bangkok
+TH,ADM2,Amphoe Bueng Samakkhi,167137,Kamphaeng Phet,62,16.21262,99.9672,26786,,Asia__Bangkok
+TH,ADM2,Amphoe Bung Khla,167280,Bueng Kan,38,18.24726,103.99427,11732,,Asia__Bangkok
+TH,ADM2,Amphoe Buntharik,167002,Ubon Ratchathani,34,14.70495,105.40444,85209,,Asia__Bangkok
+TH,ADM2,Amphoe Cha-am,166649,Phetchaburi,76,12.75374,99.89828,73894,,Asia__Bangkok
+TH,ADM2,Amphoe Cha-uat,166989,Nakhon Si Thammarat,80,7.95645,99.98929,79422,,Asia__Bangkok
+TH,ADM2,Amphoe Chae Hom,166654,Lampang,52,18.75404,99.66822,40429,,Asia__Bangkok
+TH,ADM2,Amphoe Chai Badan,166993,Lopburi,16,15.18944,101.12682,91281,,Asia__Bangkok
+TH,ADM2,Amphoe Chai Buri,167169,Surat Thani,84,8.43883,99.07721,25539,,Asia__Bangkok
+TH,ADM2,Amphoe Chai Prakan,167119,Chiang Mai,50,19.674,99.17478,38803,,Asia__Bangkok
+TH,ADM2,Amphoe Chai Wan,167299,Udon Thani,41,17.21581,103.27832,31290,,Asia__Bangkok
+TH,ADM2,Amphoe Chaiya,166653,Surat Thani,84,9.49141,98.99568,50308,,Asia__Bangkok
+TH,ADM2,Amphoe Chaiyo,167001,Ang Thong,15,14.67225,100.46786,22933,,Asia__Bangkok
+TH,ADM2,Amphoe Chakkarat,167000,Nakhon Ratchasima,30,14.95686,102.43718,53643,,Asia__Bangkok
+TH,ADM2,Amphoe Chaloem Phra Kiat,167110,Nan,55,19.50618,101.14249,10460,,Asia__Bangkok
+TH,ADM2,Amphoe Chaloem Phra Kiat,167199,Saraburi,19,14.65671,100.90838,40009,,Asia__Bangkok
+TH,ADM2,Amphoe Chaloem Phra Kiat,167325,Nakhon Si Thammarat,80,8.18333,100.05,29319,,Asia__Bangkok
+TH,ADM2,Amphoe Chaloem Phra Kiat,167344,Buri Ram,31,14.55725,102.89878,32010,,Asia__Bangkok
+TH,ADM2,Amphoe Chaloem Phra Kiat,167376,Nakhon Ratchasima,30,14.9754,102.29372,28304,,Asia__Bangkok
+TH,ADM2,Amphoe Chamni,167386,Buri Ram,31,14.78636,102.85386,28363,,Asia__Bangkok
+TH,ADM2,Amphoe Chana,166997,Songkhla,90,6.89584,100.70126,103594,,Asia__Bangkok
+TH,ADM2,Amphoe Chanae,167095,Narathiwat,96,6.04591,101.61765,33534,,Asia__Bangkok
+TH,ADM2,Amphoe Chang Klang,167124,Nakhon Si Thammarat,80,8.35697,99.64592,29610,,Asia__Bangkok
+TH,ADM2,Amphoe Changhan,167228,Roi Et,45,16.16213,103.61605,40113,,Asia__Bangkok
+TH,ADM2,Amphoe Chanuman,167006,Amnat Charoen,37,16.12553,104.92279,32283,,Asia__Bangkok
+TH,ADM2,Amphoe Charoen Sin,167262,Sakon Nakhon,47,17.63327,103.52218,34003,,Asia__Bangkok
+TH,ADM2,Amphoe Chat Trakan,167232,Phitsanulok,65,17.39357,100.6846,44801,,Asia__Bangkok
+TH,ADM2,Amphoe Chatturat,167405,Chaiyaphum,36,15.56495,101.8456,65546,,Asia__Bangkok
+TH,ADM2,Amphoe Chaturaphak Phiman,166994,Roi Et,45,15.8267,103.54934,68103,,Asia__Bangkok
+TH,ADM2,Amphoe Chawang,166652,Nakhon Si Thammarat,80,8.46322,99.51107,70053,,Asia__Bangkok
+TH,ADM2,Amphoe Chian Yai,166991,Nakhon Si Thammarat,80,8.11719,100.15819,38292,,Asia__Bangkok
+TH,ADM2,Amphoe Chiang Dao,166650,Chiang Mai,50,19.51279,98.9418,80205,,Asia__Bangkok
+TH,ADM2,Amphoe Chiang Kham,166995,Phayao,56,19.47061,100.33868,65826,,Asia__Bangkok
+TH,ADM2,Amphoe Chiang Khan,166996,Loei,42,17.82441,101.73424,54059,,Asia__Bangkok
+TH,ADM2,Amphoe Chiang Khong,167004,Chiang Rai,57,20.13587,100.36527,61321,,Asia__Bangkok
+TH,ADM2,Amphoe Chiang Khwan,167331,Roi Et,45,16.14887,103.74924,23351,,Asia__Bangkok
+TH,ADM2,Amphoe Chiang Klang,167394,Nan,55,19.30637,100.87878,25560,,Asia__Bangkok
+TH,ADM2,Amphoe Chiang Muan,167406,Phayao,56,18.90385,100.31792,16834,,Asia__Bangkok
+TH,ADM2,Amphoe Chiang Saen,167008,Chiang Rai,57,20.23572,100.15537,49026,,Asia__Bangkok
+TH,ADM2,Amphoe Chiang Yuen,166992,Maha Sarakham,44,16.40942,103.07005,54271,,Asia__Bangkok
+TH,ADM2,Amphoe Cho-airong,167098,Narathiwat,96,6.23011,101.84721,36881,,Asia__Bangkok
+TH,ADM2,Amphoe Chok Chai,166990,Nakhon Ratchasima,30,14.76341,102.20338,84212,,Asia__Bangkok
+TH,ADM2,Amphoe Chom Bueng,166651,Ratchaburi,70,13.6252,99.5187,60410,,Asia__Bangkok
+TH,ADM2,Amphoe Chom Phra,166998,Surin,32,15.14356,103.57881,48252,,Asia__Bangkok
+TH,ADM2,Amphoe Chom Thong,166656,Chiang Mai,50,18.39242,98.59761,70546,,Asia__Bangkok
+TH,ADM2,Amphoe Chon Daen,167003,Phetchabun,67,16.10735,100.83572,75205,,Asia__Bangkok
+TH,ADM2,Amphoe Chonnabot,166988,Khon Kaen,40,16.02249,102.55946,43828,,Asia__Bangkok
+TH,ADM2,Amphoe Chuen Chom,167292,Maha Sarakham,44,16.54801,103.14796,21538,,Asia__Bangkok
+TH,ADM2,Amphoe Chulabhorn,167162,Nakhon Si Thammarat,80,8.07591,99.85365,30973,,Asia__Bangkok
+TH,ADM2,Amphoe Chum Phae,166977,Khon Kaen,40,16.61591,102.09619,113319,,Asia__Bangkok
+TH,ADM2,Amphoe Chum Phuang,166976,Nakhon Ratchasima,30,15.2599,102.75756,61742,,Asia__Bangkok
+TH,ADM2,Amphoe Chum Ta Bong,167151,Nakhon Sawan,60,15.68311,99.56908,16207,,Asia__Bangkok
+TH,ADM2,Amphoe Chumphon Buri,166961,Surin,32,15.37942,103.37095,58164,,Asia__Bangkok
+TH,ADM2,Amphoe Chumsaeng,166964,Nakhon Sawan,60,15.84745,100.28971,62775,,Asia__Bangkok
+TH,ADM2,Amphoe Chun,166969,Phayao,56,19.36803,100.14492,41024,,Asia__Bangkok
+TH,ADM2,Amphoe Damnoen Saduak,166982,Ratchaburi,70,13.56537,99.97042,83860,,Asia__Bangkok
+TH,ADM2,Amphoe Dan Chang,167163,Suphanburi,72,14.88388,99.51642,65886,,Asia__Bangkok
+TH,ADM2,Amphoe Dan Khun Thot,166987,Nakhon Ratchasima,30,15.21835,101.6979,113852,,Asia__Bangkok
+TH,ADM2,Amphoe Dan Makham Tia,167155,Kanchanaburi,71,13.83422,99.34125,28722,,Asia__Bangkok
+TH,ADM2,Amphoe Dan Sai,166963,Loei,42,17.22101,101.22373,45744,,Asia__Bangkok
+TH,ADM2,Amphoe Den Chai,166955,Phrae,54,17.91667,100.03333,29971,,Asia__Bangkok
+TH,ADM2,Amphoe Det Udom,166957,Ubon Ratchathani,34,14.85153,105.07511,152723,,Asia__Bangkok
+TH,ADM2,Amphoe Doembang Nangbuat,166981,Suphanburi,72,14.87394,100.04669,73012,,Asia__Bangkok
+TH,ADM2,Amphoe Doi Lo,167123,Chiang Mai,50,18.5333,98.76843,28409,,Asia__Bangkok
+TH,ADM2,Amphoe Doi Luang,167106,Chiang Rai,57,20.14496,100.15712,17233,,Asia__Bangkok
+TH,ADM2,Amphoe Doi Saket,166643,Chiang Mai,50,18.92372,99.21272,57544,,Asia__Bangkok
+TH,ADM2,Amphoe Doi Tao,167150,Chiang Mai,50,17.89703,98.66292,24694,,Asia__Bangkok
+TH,ADM2,Amphoe Dok Kham Tai,166975,Phayao,56,19.10813,100.05657,61754,,Asia__Bangkok
+TH,ADM2,Amphoe Don Chan,167328,Kalasin,46,16.46667,103.71667,20676,,Asia__Bangkok
+TH,ADM2,Amphoe Don Chedi,166973,Suphanburi,72,14.64804,99.94734,43691,,Asia__Bangkok
+TH,ADM2,Amphoe Don Mot Daeng,167396,Ubon Ratchathani,34,15.37694,105.02107,24898,,Asia__Bangkok
+TH,ADM2,Amphoe Don Phut,167322,Saraburi,19,14.60758,100.61578,7963,,Asia__Bangkok
+TH,ADM2,Amphoe Don Sak,167136,Surat Thani,84,9.21063,99.68887,36781,,Asia__Bangkok
+TH,ADM2,Amphoe Don Tan,166965,Mukdahan,49,16.28796,104.82231,47237,,Asia__Bangkok
+TH,ADM2,Amphoe Don Tum,166968,Nakhon Pathom,73,13.94499,100.09003,44614,,Asia__Bangkok
+TH,ADM2,Amphoe Dong Charoen,167190,Phichit,66,15.99848,100.59572,22095,,Asia__Bangkok
+TH,ADM2,Amphoe Dong Luang,167371,Mukdahan,49,16.79649,104.35562,41031,,Asia__Bangkok
+TH,ADM2,Amphoe Erawan,167187,Loei,42,17.28823,101.97443,26755,,Asia__Bangkok
+TH,ADM2,Amphoe Fak Tha,166978,Uttaradit,53,18.00078,100.88885,14267,,Asia__Bangkok
+TH,ADM2,Amphoe Fang,166627,Chiang Mai,50,19.8755,99.16345,116263,,Asia__Bangkok
+TH,ADM2,Amphoe Fao Rai,167357,Nong Khai,43,18.00275,103.2964,45472,,Asia__Bangkok
+TH,ADM2,Amphoe Galyani Vadhana,167393,Chiang Mai,50,18.94439,98.30329,10190,,Asia__Bangkok
+TH,ADM2,Amphoe Hang Chat,166645,Lampang,52,18.35497,99.27978,48274,,Asia__Bangkok
+TH,ADM2,Amphoe Hang Dong,166642,Chiang Mai,50,18.73869,98.88439,84325,,Asia__Bangkok
+TH,ADM2,Amphoe Hankha,166637,Chai Nat,18,15.05048,99.9609,50728,,Asia__Bangkok
+TH,ADM2,Amphoe Hat Samran,167401,Trang,92,7.25733,99.5816,14581,,Asia__Bangkok
+TH,ADM2,Amphoe Hat Yai,166959,Songkhla,90,6.98092,100.46539,438576,,Asia__Bangkok
+TH,ADM2,Amphoe Hot,166625,Chiang Mai,50,18.11581,98.46377,39086,,Asia__Bangkok
+TH,ADM2,Amphoe Hua Hin,166634,Prachuap Khiri Khan,77,12.53522,99.70366,109327,,Asia__Bangkok
+TH,ADM2,Amphoe Hua Sai,166958,Nakhon Si Thammarat,80,8.01181,100.24614,61868,,Asia__Bangkok
+TH,ADM2,Amphoe Hua Taphan,167276,Amnat Charoen,37,15.67594,104.52702,37273,,Asia__Bangkok
+TH,ADM2,Amphoe Huai Khot,167179,Uthai Thani,61,15.32761,99.51941,18024,,Asia__Bangkok
+TH,ADM2,Amphoe Huai Krachao,167175,Kanchanaburi,71,14.34056,99.67633,31363,,Asia__Bangkok
+TH,ADM2,Amphoe Huai Mek,167252,Kalasin,46,16.58868,103.24098,44022,,Asia__Bangkok
+TH,ADM2,Amphoe Huai Phueng,167307,Kalasin,46,16.66972,103.87997,26711,,Asia__Bangkok
+TH,ADM2,Amphoe Huai Rat,167310,Buri Ram,31,15.00896,103.23499,31385,,Asia__Bangkok
+TH,ADM2,Amphoe Huai Thalaeng,166972,Nakhon Ratchasima,30,15.04244,102.63535,56494,,Asia__Bangkok
+TH,ADM2,Amphoe Huai Thap Than,167336,Si Sa Ket,33,15.01808,104.03875,28497,,Asia__Bangkok
+TH,ADM2,Amphoe Huai Yot,166626,Trang,92,7.80063,99.605,82795,,Asia__Bangkok
+TH,ADM2,Amphoe In Buri,166962,Sing Buri,17,15.02057,100.34865,52999,,Asia__Bangkok
+TH,ADM2,Amphoe Kabang,167094,Yala,95,6.37923,100.98348,20009,,Asia__Bangkok
+TH,ADM2,Amphoe Kabin Buri,166980,Prachin Buri,25,13.9,101.8,140056,,Asia__Bangkok
+TH,ADM2,Amphoe Kae Dam,167267,Maha Sarakham,44,16.04961,103.38953,24694,,Asia__Bangkok
+TH,ADM2,Amphoe Kaeng Hang Maeo,167282,Chanthaburi,22,13.0969,101.88543,37698,,Asia__Bangkok
+TH,ADM2,Amphoe Kaeng Khoi,166984,Saraburi,19,14.58166,101.05297,115212,,Asia__Bangkok
+TH,ADM2,Amphoe Kaeng Khro,166954,Chaiyaphum,36,16.13183,102.20176,81785,,Asia__Bangkok
+TH,ADM2,Amphoe Kaeng Krachan,167167,Phetchaburi,76,12.85919,99.46339,28569,,Asia__Bangkok
+TH,ADM2,Amphoe Kaeng Sanam Nang,167191,Nakhon Ratchasima,30,15.69561,102.25366,28236,,Asia__Bangkok
+TH,ADM2,Amphoe Kamalasai,166970,Kalasin,46,16.27999,103.6001,59381,,Asia__Bangkok
+TH,ADM2,Amphoe Kanchanadit,166640,Surat Thani,84,9.07256,99.5439,101578,,Asia__Bangkok
+TH,ADM2,Amphoe Kantang,166639,Trang,92,7.38563,99.47064,83685,,Asia__Bangkok
+TH,ADM2,Amphoe Kantharalak,166971,Si Sa Ket,33,14.568,104.6708,147336,,Asia__Bangkok
+TH,ADM2,Amphoe Kanthararom,166979,Si Sa Ket,33,15.12447,104.57318,73020,,Asia__Bangkok
+TH,ADM2,Amphoe Kantharawichai,166974,Maha Sarakham,44,16.27992,103.25892,79733,,Asia__Bangkok
+TH,ADM2,Amphoe Kao Liao,167238,Nakhon Sawan,60,15.88778,100.09647,33973,,Asia__Bangkok
+TH,ADM2,Amphoe Kap Choeng,166953,Surin,32,14.46795,103.58476,45668,,Asia__Bangkok
+TH,ADM2,Amphoe Kapho,167254,Pattani,94,6.60264,101.54327,15550,,Asia__Bangkok
+TH,ADM2,Amphoe Kapoe,166633,Ranong,85,9.53028,98.62369,24522,,Asia__Bangkok
+TH,ADM2,Amphoe Kapong,166635,Phang Nga,82,8.74139,98.47542,14609,,Asia__Bangkok
+TH,ADM2,Amphoe Kaset Sombun,166966,Chaiyaphum,36,16.27207,101.9222,98702,,Asia__Bangkok
+TH,ADM2,Amphoe Kaset Wisai,166985,Roi Et,45,15.60285,103.56652,79126,,Asia__Bangkok
+TH,ADM2,Amphoe Kathu,166647,Phuket,83,7.91456,98.3333,101410,,Asia__Bangkok
+TH,ADM2,Amphoe Khaen Dong,167229,Buri Ram,31,15.3062,103.13286,25789,,Asia__Bangkok
+TH,ADM2,Amphoe Khai Bang Rachan,167446,Sing Buri,17,14.81438,100.31389,26881,,Asia__Bangkok
+TH,ADM2,Amphoe Kham Khuan Kaeo,166956,Yasothon,35,15.67197,104.33372,57881,,Asia__Bangkok
+TH,ADM2,Amphoe Kham Muang,167214,Kalasin,46,16.93884,103.6398,40793,,Asia__Bangkok
+TH,ADM2,Amphoe Kham Sakae Saeng,167424,Nakhon Ratchasima,30,15.38042,102.16636,33904,,Asia__Bangkok
+TH,ADM2,Amphoe Kham Ta Kla,167334,Sakon Nakhon,47,17.82547,103.78598,31208,,Asia__Bangkok
+TH,ADM2,Amphoe Kham Thale So,166983,Nakhon Ratchasima,30,15.03639,101.9317,25438,,Asia__Bangkok
+TH,ADM2,Amphoe Khamcha-i,166986,Mukdahan,49,16.61452,104.35929,47332,,Asia__Bangkok
+TH,ADM2,Amphoe Khanom,166623,Nakhon Si Thammarat,80,9.18317,99.80192,32759,,Asia__Bangkok
+TH,ADM2,Amphoe Khanu Woralaksaburi,166622,Kamphaeng Phet,62,16.00233,99.67618,107743,,Asia__Bangkok
+TH,ADM2,Amphoe Khao Chaison,166912,Phatthalung,93,7.46305,100.09055,43912,,Asia__Bangkok
+TH,ADM2,Amphoe Khao Chakan,167223,Sa Kaeo,27,13.62293,102.02665,57234,,Asia__Bangkok
+TH,ADM2,Amphoe Khao Chamao,167233,Rayong,21,12.99042,101.67847,23928,,Asia__Bangkok
+TH,ADM2,Amphoe Khao Khitchakut,167369,Chanthaburi,22,12.93726,102.09762,25893,,Asia__Bangkok
+TH,ADM2,Amphoe Khao Kho,167367,Phetchabun,67,16.66313,100.9945,32803,,Asia__Bangkok
+TH,ADM2,Amphoe Khao Phanom,167382,Krabi,81,8.26953,99.11813,45561,,Asia__Bangkok
+TH,ADM2,Amphoe Khao Saming,166940,Trat,23,12.42885,102.41784,38941,,Asia__Bangkok
+TH,ADM2,Amphoe Khao Suan Kwang,167211,Khon Kaen,40,16.91682,102.78206,32702,,Asia__Bangkok
+TH,ADM2,Amphoe Khao Wong,167368,Kalasin,46,16.67959,104.1003,30898,,Asia__Bangkok
+TH,ADM2,Amphoe Khao Yoi,166638,Phetchaburi,76,13.2424,99.80753,39254,,Asia__Bangkok
+TH,ADM2,Amphoe Khemmarat,166950,Ubon Ratchathani,34,15.97114,105.15168,69330,,Asia__Bangkok
+TH,ADM2,Amphoe Khian Sa,167237,Surat Thani,84,8.72766,99.1324,46612,,Asia__Bangkok
+TH,ADM2,Amphoe Khiri Mat,166644,Sukhothai,64,16.82923,99.73976,61014,,Asia__Bangkok
+TH,ADM2,Amphoe Khiri Rat Nikhom,166648,Surat Thani,84,9.0059,98.94404,42351,,Asia__Bangkok
+TH,ADM2,Amphoe Khlong Hat,167403,Sa Kaeo,27,13.47396,102.27604,37108,,Asia__Bangkok
+TH,ADM2,Amphoe Khlong Hoi Khong,167116,Songkhla,90,6.86623,100.35353,27359,,Asia__Bangkok
+TH,ADM2,Amphoe Khlong Khlung,166631,Kamphaeng Phet,62,16.22191,99.67654,78733,,Asia__Bangkok
+TH,ADM2,Amphoe Khlong Khuean,167249,Chachoengsao,24,13.77961,101.15633,10802,,Asia__Bangkok
+TH,ADM2,Amphoe Khlong Lan,167160,Kamphaeng Phet,62,16.25992,99.21806,64567,,Asia__Bangkok
+TH,ADM2,Amphoe Khlong Luang,166952,Pathum Thani,13,14.09323,100.68106,420211,,Asia__Bangkok
+TH,ADM2,Amphoe Khlong Thom,166630,Krabi,81,7.9147,99.19935,60096,,Asia__Bangkok
+TH,ADM2,Amphoe Khlong Yai,166942,Trat,23,11.8554,102.82596,38099,,Asia__Bangkok
+TH,ADM2,Amphoe Khlung,166923,Chanthaburi,22,12.57246,102.30783,49199,,Asia__Bangkok
+TH,ADM2,Amphoe Kho Wang,167418,Yasothon,35,15.38164,104.34109,22418,,Asia__Bangkok
+TH,ADM2,Amphoe Khok Charoen,167242,Lopburi,16,15.40384,100.84968,20368,,Asia__Bangkok
+TH,ADM2,Amphoe Khok Pho,166935,Pattani,94,6.70858,101.11693,56418,,Asia__Bangkok
+TH,ADM2,Amphoe Khok Pho Chai,167309,Khon Kaen,40,16.07194,102.38428,18662,,Asia__Bangkok
+TH,ADM2,Amphoe Khok Samrong,166920,Lopburi,16,15.04303,100.77151,79598,,Asia__Bangkok
+TH,ADM2,Amphoe Khok Si Suphan,167227,Sakon Nakhon,47,17.02297,104.30346,30751,,Asia__Bangkok
+TH,ADM2,Amphoe Khok Sung,167258,Sa Kaeo,27,13.87388,102.66075,26592,,Asia__Bangkok
+TH,ADM2,Amphoe Khon Buri,166922,Nakhon Ratchasima,30,14.37634,102.21746,91134,,Asia__Bangkok
+TH,ADM2,Amphoe Khon San,166947,Chaiyaphum,36,16.54688,101.71789,49502,,Asia__Bangkok
+TH,ADM2,Amphoe Khon Sawan,166937,Chaiyaphum,36,15.92382,102.27293,45423,,Asia__Bangkok
+TH,ADM2,Amphoe Khong,166927,Nakhon Ratchasima,30,15.43311,102.29617,58447,,Asia__Bangkok
+TH,ADM2,Amphoe Khong Chai,167200,Kalasin,46,16.25845,103.48167,23731,,Asia__Bangkok
+TH,ADM2,Amphoe Khong Chiam,167033,Ubon Ratchathani,34,15.45432,105.50363,30983,,Asia__Bangkok
+TH,ADM2,Amphoe Khu Mueang,167316,Buri Ram,31,15.26844,103.02717,54139,,Asia__Bangkok
+TH,ADM2,Amphoe Khuan Don,167117,Satun,91,6.76978,100.12216,22996,,Asia__Bangkok
+TH,ADM2,Amphoe Khuan Kalong,167118,Satun,91,6.90593,100.04178,29837,,Asia__Bangkok
+TH,ADM2,Amphoe Khuan Khanun,166936,Phatthalung,93,7.76438,100.04349,77005,,Asia__Bangkok
+TH,ADM2,Amphoe Khuan Niang,167159,Songkhla,90,7.18231,100.37403,34408,,Asia__Bangkok
+TH,ADM2,Amphoe Khueang Nai,166924,Ubon Ratchathani,34,15.39097,104.54363,98584,,Asia__Bangkok
+TH,ADM2,Amphoe Khukhan,166944,Si Sa Ket,33,14.73783,104.1859,108214,,Asia__Bangkok
+TH,ADM2,Amphoe Khun Han,166934,Si Sa Ket,33,14.53455,104.40739,77936,,Asia__Bangkok
+TH,ADM2,Amphoe Khun Tan,167107,Chiang Rai,57,19.86481,100.28731,31041,,Asia__Bangkok
+TH,ADM2,Amphoe Khun Yuam,166646,Mae Hong Son,58,18.82643,97.93303,17761,,Asia__Bangkok
+TH,ADM2,Amphoe Khura Buri,167436,Phang Nga,82,9.18972,98.40806,23594,,Asia__Bangkok
+TH,ADM2,Amphoe Khwao Sinarin,167296,Surin,32,15.00733,103.62064,28221,,Asia__Bangkok
+TH,ADM2,Amphoe Klaeng,166931,Rayong,21,12.77179,101.65666,135390,,Asia__Bangkok
+TH,ADM2,Amphoe Ko Chan,167359,Chon Buri,20,13.40253,101.388,34105,,Asia__Bangkok
+TH,ADM2,Amphoe Ko Chang,167068,Trat,23,12.05947,102.32941,12346,,Asia__Bangkok
+TH,ADM2,Amphoe Ko Kha,166632,Lampang,52,18.14408,99.35229,60828,,Asia__Bangkok
+TH,ADM2,Amphoe Ko Kut,167399,Trat,23,11.65714,102.56694,2894,,Asia__Bangkok
+TH,ADM2,Amphoe Ko Lanta,166641,Krabi,81,7.71267,99.07813,26805,,Asia__Bangkok
+TH,ADM2,Amphoe Ko Pha-ngan,167400,Surat Thani,84,9.74939,100.02649,15254,,Asia__Bangkok
+TH,ADM2,Amphoe Ko Samui,166636,Surat Thani,84,9.50841,99.99644,57845,,Asia__Bangkok
+TH,ADM2,Amphoe Ko Si Chang,166926,Chon Buri,20,13.15286,100.81156,3113,,Asia__Bangkok
+TH,ADM2,Amphoe Ko Yao,166628,Phang Nga,82,8.06549,98.57851,12645,,Asia__Bangkok
+TH,ADM2,Amphoe Kong Krailat,166916,Sukhothai,64,16.93115,99.97414,70457,,Asia__Bangkok
+TH,ADM2,Amphoe Kong Ra,167366,Phatthalung,93,7.41674,99.95719,34719,,Asia__Bangkok
+TH,ADM2,Amphoe Kosamphi Nakhon,167177,Kamphaeng Phet,62,16.60702,99.34795,30680,,Asia__Bangkok
+TH,ADM2,Amphoe Kosum Phisai,166911,Maha Sarakham,44,16.23882,102.99081,102844,,Asia__Bangkok
+TH,ADM2,Amphoe Kra Buri,166629,Ranong,85,10.45895,98.84373,56670,,Asia__Bangkok
+TH,ADM2,Amphoe Kranuan,166943,Khon Kaen,40,16.75261,103.08044,63105,,Asia__Bangkok
+TH,ADM2,Amphoe Krasae Sin,167404,Songkhla,90,7.61254,100.32827,14971,,Asia__Bangkok
+TH,ADM2,Amphoe Krasang,166941,Buri Ram,31,14.94167,103.31898,81596,,Asia__Bangkok
+TH,ADM2,Amphoe Krathum Baen,166915,Samut Sakhon,74,13.6557,100.27282,264206,,Asia__Bangkok
+TH,ADM2,Amphoe Krok Phra,166913,Nakhon Sawan,60,15.58638,100.01815,32873,,Asia__Bangkok
+TH,ADM2,Amphoe Krong Pinang,167100,Yala,95,6.39932,101.2571,24487,,Asia__Bangkok
+TH,ADM2,Amphoe Ku Kaeo,167383,Udon Thani,41,17.16286,103.16754,18614,,Asia__Bangkok
+TH,ADM2,Amphoe Kuchinarai,166938,Kalasin,46,16.51977,104.05097,90091,,Asia__Bangkok
+TH,ADM2,Amphoe Kui Buri,166624,Prachuap Khiri Khan,77,12.11311,99.75462,37801,,Asia__Bangkok
+TH,ADM2,Amphoe Kumphawapi,166932,Udon Thani,41,17.09209,102.99395,100109,,Asia__Bangkok
+TH,ADM2,Amphoe Kusuman,166918,Sakon Nakhon,47,17.35402,104.26677,37056,,Asia__Bangkok
+TH,ADM2,Amphoe Kut Bak,166945,Sakon Nakhon,47,17.08205,103.81469,27111,,Asia__Bangkok
+TH,ADM2,Amphoe Kut Chap,167413,Udon Thani,41,17.44009,102.54083,55425,,Asia__Bangkok
+TH,ADM2,Amphoe Kut Chum,166933,Yasothon,35,16.0462,104.30545,55933,,Asia__Bangkok
+TH,ADM2,Amphoe Kut Khaopun,167314,Ubon Ratchathani,34,15.81907,105.04066,41044,,Asia__Bangkok
+TH,ADM2,Amphoe Kut Rang,167219,Maha Sarakham,44,16.0297,102.95059,30817,,Asia__Bangkok
+TH,ADM2,Amphoe La-Ngu,166608,Satun,91,6.90392,99.79836,65068,,Asia__Bangkok
+TH,ADM2,Amphoe La-un,166584,Ranong,85,10.09691,98.78498,18611,,Asia__Bangkok
+TH,ADM2,Amphoe Laem Ngop,166946,Trat,23,12.22028,102.36558,17198,,Asia__Bangkok
+TH,ADM2,Amphoe Laem Sing,166914,Chanthaburi,22,12.45689,102.14262,28663,,Asia__Bangkok
+TH,ADM2,Amphoe Lahan Sai,166917,Buri Ram,31,14.32194,102.87994,59782,,Asia__Bangkok
+TH,ADM2,Amphoe Lam Luk Ka,166949,Pathum Thani,13,13.97744,100.79244,265870,,Asia__Bangkok
+TH,ADM2,Amphoe Lam Plai Mat,166928,Buri Ram,31,15.01688,102.87479,105156,,Asia__Bangkok
+TH,ADM2,Amphoe Lam Sonthi,167283,Lopburi,16,15.32833,101.34783,25198,,Asia__Bangkok
+TH,ADM2,Amphoe Lam Thamen Chai,167216,Nakhon Ratchasima,30,15.28424,102.90723,25802,,Asia__Bangkok
+TH,ADM2,Amphoe Lam Thap,167120,Krabi,81,8.04799,99.33543,20641,,Asia__Bangkok
+TH,ADM2,Amphoe Lamae,167135,Chumphon,86,9.75567,99.04378,27758,,Asia__Bangkok
+TH,ADM2,Amphoe Lamduan,167379,Surin,32,14.71907,103.69911,25337,,Asia__Bangkok
+TH,ADM2,Amphoe Lan Krabue,167128,Kamphaeng Phet,62,16.60348,99.86521,47952,,Asia__Bangkok
+TH,ADM2,Amphoe Lan Sak,167153,Uthai Thani,61,15.52289,99.4611,50571,,Asia__Bangkok
+TH,ADM2,Amphoe Lan Saka,166606,Nakhon Si Thammarat,80,8.37799,99.78328,40786,,Asia__Bangkok
+TH,ADM2,Amphoe Lang Suan,166611,Chumphon,86,9.93386,99.05292,63190,,Asia__Bangkok
+TH,ADM2,Amphoe Lao Khwan,167145,Kanchanaburi,71,14.59488,99.68338,51698,,Asia__Bangkok
+TH,ADM2,Amphoe Lao Suea Kok,167343,Ubon Ratchathani,34,15.43952,104.91662,25062,,Asia__Bangkok
+TH,ADM2,Amphoe Lap Lae,166919,Uttaradit,53,17.65741,100.01484,53492,,Asia__Bangkok
+TH,ADM2,Amphoe Lat Bua Luang,166910,Phra Nakhon Si Ayutthaya,14,14.1681,100.34892,37978,,Asia__Bangkok
+TH,ADM2,Amphoe Lat Lum Kaeo,166921,Pathum Thani,13,14.04459,100.40948,74970,,Asia__Bangkok
+TH,ADM2,Amphoe Lat Yao,166588,Nakhon Sawan,60,15.77526,99.80046,74117,,Asia__Bangkok
+TH,ADM2,Amphoe Li,166594,Lamphun,51,17.78639,98.88674,61579,,Asia__Bangkok
+TH,ADM2,Amphoe Loeng Nok Tha,166909,Yasothon,35,16.20433,104.51442,88118,,Asia__Bangkok
+TH,ADM2,Amphoe Lom Kao,166948,Phetchabun,67,16.97209,101.26185,62885,,Asia__Bangkok
+TH,ADM2,Amphoe Lom Sak,166930,Phetchabun,67,16.72837,101.31139,149577,,Asia__Bangkok
+TH,ADM2,Amphoe Long,166610,Phrae,54,18.14262,99.90901,48682,,Asia__Bangkok
+TH,ADM2,Amphoe Lue Amnat,167335,Amnat Charoen,37,15.70781,104.71118,28454,,Asia__Bangkok
+TH,ADM2,Amphoe Mae Ai,166590,Chiang Mai,50,19.99136,99.33976,68652,,Asia__Bangkok
+TH,ADM2,Amphoe Mae Chaem,166616,Chiang Mai,50,18.66694,98.3245,58079,,Asia__Bangkok
+TH,ADM2,Amphoe Mae Chai,166620,Phayao,56,19.37925,99.80141,29123,,Asia__Bangkok
+TH,ADM2,Amphoe Mae Chan,166593,Chiang Rai,57,20.1991,99.88468,97930,,Asia__Bangkok
+TH,ADM2,Amphoe Mae Charim,166668,Nan,55,18.71336,101.11011,15752,,Asia__Bangkok
+TH,ADM2,Amphoe Mae Fa Luang,167103,Chiang Rai,57,20.22228,99.64147,67061,,Asia__Bangkok
+TH,ADM2,Amphoe Mae La Noi,167428,Mae Hong Son,58,18.47823,97.98295,28076,,Asia__Bangkok
+TH,ADM2,Amphoe Mae Lan,167422,Pattani,94,6.66833,101.23149,14384,,Asia__Bangkok
+TH,ADM2,Amphoe Mae Lao,167112,Chiang Rai,57,19.77223,99.71128,29530,,Asia__Bangkok
+TH,ADM2,Amphoe Mae Mo,167171,Lampang,52,18.40244,99.82135,38464,,Asia__Bangkok
+TH,ADM2,Amphoe Mae On,167113,Chiang Mai,50,18.73496,99.30378,22427,,Asia__Bangkok
+TH,ADM2,Amphoe Mae Phrik,166598,Lampang,52,17.5045,99.05847,16655,,Asia__Bangkok
+TH,ADM2,Amphoe Mae Poen,167152,Nakhon Sawan,60,15.70656,99.34827,18876,,Asia__Bangkok
+TH,ADM2,Amphoe Mae Ramat,166613,Tak,63,17.1118,98.58635,48209,,Asia__Bangkok
+TH,ADM2,Amphoe Mae Rim,166603,Chiang Mai,50,18.94139,98.88667,86093,,Asia__Bangkok
+TH,ADM2,Amphoe Mae Sai,166576,Chiang Rai,57,20.365,99.92604,84843,,Asia__Bangkok
+TH,ADM2,Amphoe Mae Sariang,166592,Mae Hong Son,58,18.26474,97.77057,43691,,Asia__Bangkok
+TH,ADM2,Amphoe Mae Sot,166617,Tak,63,16.72154,98.71074,121062,,Asia__Bangkok
+TH,ADM2,Amphoe Mae Suai,166604,Chiang Rai,57,19.69037,99.48459,77710,,Asia__Bangkok
+TH,ADM2,Amphoe Mae Taeng,166621,Chiang Mai,50,19.16667,98.83333,74144,,Asia__Bangkok
+TH,ADM2,Amphoe Mae Tha,166597,Lamphun,51,18.3954,99.09233,35512,,Asia__Bangkok
+TH,ADM2,Amphoe Mae Tha,166607,Lampang,52,18.11122,99.57826,59997,,Asia__Bangkok
+TH,ADM2,Amphoe Mae Wang,167156,Chiang Mai,50,18.67457,98.68714,33106,,Asia__Bangkok
+TH,ADM2,Amphoe Mae Wong,167133,Nakhon Sawan,60,15.83538,99.40785,34699,,Asia__Bangkok
+TH,ADM2,Amphoe Maha Chana Chai,166857,Yasothon,35,15.51267,104.26104,49182,,Asia__Bangkok
+TH,ADM2,Amphoe Maha Rat,166837,Phra Nakhon Si Ayutthaya,14,14.57064,100.54089,21105,,Asia__Bangkok
+TH,ADM2,Amphoe Mai Kaen,167420,Pattani,94,6.61603,101.67864,10257,,Asia__Bangkok
+TH,ADM2,Amphoe Makham,166841,Chanthaburi,22,12.73333,102.21667,29996,,Asia__Bangkok
+TH,ADM2,Amphoe Manang,167148,Satun,91,7.01822,99.95399,14085,,Asia__Bangkok
+TH,ADM2,Amphoe Mancha Khiri,166838,Khon Kaen,40,16.21242,102.51973,65027,,Asia__Bangkok
+TH,ADM2,Amphoe Manorom,166819,Chai Nat,18,15.31894,100.15677,29974,,Asia__Bangkok
+TH,ADM2,Amphoe Mayo,166835,Pattani,94,6.70764,101.40359,47801,,Asia__Bangkok
+TH,ADM2,Amphoe Moeiwadi,167294,Roi Et,45,16.37155,104.11137,18094,,Asia__Bangkok
+TH,ADM2,Amphoe Muak Lek,167271,Saraburi,19,14.77706,101.27151,61999,,Asia__Bangkok
+TH,ADM2,Amphoe Muang Sam Sip,166885,Ubon Ratchathani,34,15.52637,104.71661,82071,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Amnat Charoen,167062,Amnat Charoen,37,15.87864,104.64284,101768,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Ang Thong,166877,Ang Thong,15,14.57815,100.44393,49651,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Bueng Kan,167007,Bueng Kan,38,18.2995,103.64016,78423,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Buriram,166908,Buri Ram,31,14.94078,103.06244,184589,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Chachoengsao,166896,Chachoengsao,24,13.71758,101.02152,184922,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Chainat,166886,Chai Nat,18,15.19104,100.1354,67918,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Chaiyaphum,166876,Chaiyaphum,36,15.86162,102.03721,162361,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Chan,167337,Si Sa Ket,33,15.18249,104.02471,12320,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Chanthaburi,166905,Chanthaburi,22,12.59542,102.12263,121549,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Chiang Mai,166585,Chiang Mai,50,18.79008,98.96869,346746,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Chiang Rai,166595,Chiang Rai,57,19.90824,99.77299,224436,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Chumphon,166591,Chumphon,86,10.46077,99.10608,137303,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Kalasin,166849,Kalasin,46,16.50918,103.54984,127635,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Kamphaeng Phet,166612,Kamphaeng Phet,62,16.43254,99.48831,240370,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Kanchanaburi,166579,Kanchanaburi,71,14.06987,99.32769,169316,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Khon Kaen,166820,Khon Kaen,40,16.46048,102.80873,510763,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Krabi,166587,Krabi,81,8.15947,98.86661,83211,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Lampang,166605,Lampang,52,18.38901,99.54388,227137,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Lamphun,166619,Lamphun,51,18.55217,99.05905,171818,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Loei,166860,Loei,42,17.54211,101.71932,113328,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Mae Hong Son,166602,Mae Hong Son,58,19.28862,98.00607,46277,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Maha Sarakham,166868,Maha Sarakham,44,16.11882,103.3116,145845,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Mukdahan,166881,Mukdahan,49,16.5511,104.64605,139390,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Nakhon Nayok,166892,Nakhon Nayok,26,14.2773,101.23379,95965,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Nakhon Pathom,166873,Nakhon Pathom,73,13.81944,100.02375,269208,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Nakhon Phanom,166852,Nakhon Phanom,48,17.31965,104.68232,128313,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Nakhon Ratchasima,166874,Nakhon Ratchasima,30,14.95678,102.08933,596216,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Nakhon Sawan,166840,Nakhon Sawan,60,15.71991,100.10067,258882,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Nakhon Si Thammarat,166850,Nakhon Si Thammarat,80,8.44013,99.98537,237174,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Nan,166829,Nan,55,18.89008,100.67472,84098,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Narathiwat,166823,Narathiwat,96,6.39391,101.81316,104051,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Nong Bua Lamphu,166834,Nong Bua Lam Phu,39,17.15818,102.3986,134116,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Nong Khai,166826,Nong Khai,43,17.84661,102.78911,131965,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Nonthaburi,166862,Nonthaburi,12,13.85581,100.49264,481487,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Pan,167300,Lampang,52,18.79093,99.45408,31069,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Pathum Thani,166872,Pathum Thani,13,13.99105,100.53554,220154,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Pattani,166861,Pattani,94,6.85581,101.26761,109226,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Phangnga,166600,Phang Nga,82,8.4935,98.50775,40480,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Phatthalung,166897,Phatthalung,93,7.6025,100.07425,106454,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Phayao,166570,Phayao,56,19.14857,99.87325,110738,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Phetchabun,166854,Phetchabun,67,16.38215,101.17652,199366,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Phetchaburi,166582,Phetchaburi,76,13.08173,99.96721,121712,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Phichit,166855,Phichit,66,16.40986,100.34578,112827,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Phitsanulok,166846,Phitsanulok,65,16.8404,100.27298,306594,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Phrae,166822,Phrae,54,18.12258,100.2562,120894,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Phuket,166589,Phuket,83,7.85609,98.37183,311585,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Prachin Buri,166893,Prachin Buri,25,14.09335,101.39776,132067,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Prachuap Khiri Khan,166609,Prachuap Khiri Khan,77,11.87144,99.73563,78519,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Ranong,166575,Ranong,85,9.86238,98.62229,135564,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Ratchaburi,166581,Ratchaburi,70,13.54559,99.77678,188721,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Rayong,166847,Rayong,21,12.71864,101.34491,364544,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Roi Et,166833,Roi Et,45,16.01497,103.61584,145849,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Sa Kaeo,166723,Sa Kaeo,27,13.92969,102.10626,111322,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Sakon Nakhon,166853,Sakon Nakhon,47,17.16163,104.10519,168495,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Samut Prakan,166882,Samut Prakan,11,13.56855,100.65148,794867,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Samut Sakhon,166859,Samut Sakhon,74,13.53163,100.25326,536323,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Samut Songkhram,166865,Samut Songkhram,75,13.39587,99.99929,97130,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Sara Buri,166899,Saraburi,19,14.49721,100.93829,127431,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Satun,167091,Satun,91,6.62314,100.06681,97892,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Sing Buri,166864,Sing Buri,17,14.90239,100.39731,53252,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Sisaket,166845,Si Sa Ket,33,15.08168,104.35126,113383,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Songkhla,166863,Songkhla,90,7.11075,100.60814,198594,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Suang,167431,Roi Et,45,15.78619,103.75071,18269,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Sukhothai,166599,Sukhothai,64,17.02318,99.77864,107018,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Suphan Buri,166831,Suphanburi,72,14.49189,100.07458,167059,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Surat Thani,166615,Surat Thani,84,9.10132,99.32614,172412,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Surin,166884,Surin,32,14.88359,103.51272,231945,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Tak,166577,Tak,63,16.8765,99.16617,100533,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Trang,166614,Trang,92,7.60944,99.61772,148500,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Trat,166856,Trat,23,12.26667,102.60945,101241,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Ubon Ratchathani,166843,Ubon Ratchathani,34,15.29662,104.83052,243154,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Udon Thani,166895,Udon Thani,41,17.39085,102.78912,347497,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Uthai Thani,166880,Uthai Thani,61,15.40857,100.02794,48909,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Uttaradit,166907,Uttaradit,53,17.68138,100.19963,148203,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Yala,166894,Yala,95,6.54378,101.25105,145319,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Yang,167353,Nakhon Ratchasima,30,15.43842,102.89331,20537,,Asia__Bangkok
+TH,ADM2,Amphoe Mueang Yasothon,166672,Yasothon,35,15.8555,104.17804,130313,,Asia__Bangkok
+TH,ADM2,Amphoe Na Bon,167140,Nakhon Si Thammarat,80,8.26976,99.55694,23421,,Asia__Bangkok
+TH,ADM2,Amphoe Na Chaluai,167423,Ubon Ratchathani,34,14.56695,105.22367,51940,,Asia__Bangkok
+TH,ADM2,Amphoe Na Chueak,166828,Maha Sarakham,44,15.8018,103.05725,50956,,Asia__Bangkok
+TH,ADM2,Amphoe Na Di,167207,Prachin Buri,25,14.19253,101.84557,57466,,Asia__Bangkok
+TH,ADM2,Amphoe Na Duang,167389,Loei,42,17.53833,101.99639,21262,,Asia__Bangkok
+TH,ADM2,Amphoe Na Dun,167222,Maha Sarakham,44,15.71952,103.23004,31456,,Asia__Bangkok
+TH,ADM2,Amphoe Na Haeo,167351,Loei,42,17.43942,100.99654,10429,,Asia__Bangkok
+TH,ADM2,Amphoe Na Kae,166875,Nakhon Phanom,48,16.95737,104.49349,62500,,Asia__Bangkok
+TH,ADM2,Amphoe Na Khu,167277,Kalasin,46,16.75018,104.00062,26199,,Asia__Bangkok
+TH,ADM2,Amphoe Na Klang,166879,Nong Bua Lam Phu,39,17.32466,102.21456,87690,,Asia__Bangkok
+TH,ADM2,Amphoe Na Mom,167101,Songkhla,90,6.9599,100.57161,27955,,Asia__Bangkok
+TH,ADM2,Amphoe Na Mon,167257,Kalasin,46,16.56994,103.78015,27783,,Asia__Bangkok
+TH,ADM2,Amphoe Na Muen,167193,Nan,55,18.12524,100.6027,13763,,Asia__Bangkok
+TH,ADM2,Amphoe Na Noi,166851,Nan,55,18.30269,100.72393,30246,,Asia__Bangkok
+TH,ADM2,Amphoe Na Pho,167354,Buri Ram,31,15.69565,102.93857,25684,,Asia__Bangkok
+TH,ADM2,Amphoe Na Tan,167288,Ubon Ratchathani,34,15.93485,105.28454,34808,,Asia__Bangkok
+TH,ADM2,Amphoe Na Thawi,166867,Songkhla,90,6.63849,100.68173,69676,,Asia__Bangkok
+TH,ADM2,Amphoe Na Thom,167250,Nakhon Phanom,48,17.82134,104.10871,18007,,Asia__Bangkok
+TH,ADM2,Amphoe Na Wa,167432,Nakhon Phanom,48,17.49922,104.11833,39494,,Asia__Bangkok
+TH,ADM2,Amphoe Na Wang,167347,Nong Bua Lam Phu,39,17.3429,102.07157,34347,,Asia__Bangkok
+TH,ADM2,Amphoe Na Yai Am,167348,Chanthaburi,22,12.73833,101.87502,31609,,Asia__Bangkok
+TH,ADM2,Amphoe Na Yia,167224,Ubon Ratchathani,34,15.0414,105.05729,22813,,Asia__Bangkok
+TH,ADM2,Amphoe Na Yong,167146,Trang,92,7.56257,99.74791,42531,,Asia__Bangkok
+TH,ADM2,Amphoe Na Yung,167349,Udon Thani,41,17.9347,102.13417,23115,,Asia__Bangkok
+TH,ADM2,Amphoe Nakhon Chai Si,166848,Nakhon Pathom,73,13.81173,100.18157,114233,,Asia__Bangkok
+TH,ADM2,Amphoe Nakhon Luang,166836,Phra Nakhon Si Ayutthaya,14,14.46703,100.62572,50170,,Asia__Bangkok
+TH,ADM2,Amphoe Nakhon Thai,166827,Phitsanulok,65,17.09426,100.86437,95074,,Asia__Bangkok
+TH,ADM2,Amphoe Nam Khun,167255,Ubon Ratchathani,34,14.55508,104.89872,30327,,Asia__Bangkok
+TH,ADM2,Amphoe Nam Kliang,167203,Si Sa Ket,33,14.91022,104.52545,31221,,Asia__Bangkok
+TH,ADM2,Amphoe Nam Nao,167313,Phetchabun,67,16.84489,101.6008,16285,,Asia__Bangkok
+TH,ADM2,Amphoe Nam Pat,166891,Uttaradit,53,17.70025,100.72738,31347,,Asia__Bangkok
+TH,ADM2,Amphoe Nam Phong,166825,Khon Kaen,40,16.69946,102.88125,100311,,Asia__Bangkok
+TH,ADM2,Amphoe Nam Som,167411,Udon Thani,41,17.74338,102.17328,46692,,Asia__Bangkok
+TH,ADM2,Amphoe Nam Yuen,167439,Ubon Ratchathani,34,14.48671,105.00269,61835,,Asia__Bangkok
+TH,ADM2,Amphoe Nang Rong,166821,Buri Ram,31,14.63333,102.76667,99518,,Asia__Bangkok
+TH,ADM2,Amphoe Ngao,166580,Lampang,52,18.75948,99.95295,56295,,Asia__Bangkok
+TH,ADM2,Amphoe Nikhom Kham Soi,167304,Mukdahan,49,16.35375,104.55864,42861,,Asia__Bangkok
+TH,ADM2,Amphoe Nikhom Nam Un,167341,Sakon Nakhon,47,17.17349,103.73511,11896,,Asia__Bangkok
+TH,ADM2,Amphoe Nikhom Phattana,167220,Rayong,21,12.84489,101.15341,61447,,Asia__Bangkok
+TH,ADM2,Amphoe Noen Kham,167147,Chai Nat,18,14.98254,99.8459,14795,,Asia__Bangkok
+TH,ADM2,Amphoe Noen Maprang,167196,Phitsanulok,65,16.564,100.70995,55072,,Asia__Bangkok
+TH,ADM2,Amphoe Noen Sa-nga,167270,Chaiyaphum,36,15.55169,101.99408,20900,,Asia__Bangkok
+TH,ADM2,Amphoe Non Daeng,167415,Nakhon Ratchasima,30,15.44479,102.54565,17547,,Asia__Bangkok
+TH,ADM2,Amphoe Non Din Daeng,167256,Buri Ram,31,14.2201,102.68233,23427,,Asia__Bangkok
+TH,ADM2,Amphoe Non Khun,167265,Si Sa Ket,33,14.90188,104.69564,29598,,Asia__Bangkok
+TH,ADM2,Amphoe Non Narai,167364,Surin,32,15.19111,103.92242,27617,,Asia__Bangkok
+TH,ADM2,Amphoe Non Sa-at,167345,Udon Thani,41,16.95002,102.8999,40095,,Asia__Bangkok
+TH,ADM2,Amphoe Non Sang,166889,Nong Bua Lam Phu,39,16.9022,102.53084,60687,,Asia__Bangkok
+TH,ADM2,Amphoe Non Sila,167374,Khon Kaen,40,15.9642,102.69074,23569,,Asia__Bangkok
+TH,ADM2,Amphoe Non Sung,166903,Nakhon Ratchasima,30,15.20892,102.284,100377,,Asia__Bangkok
+TH,ADM2,Amphoe Non Suwan,167247,Buri Ram,31,14.55511,102.58339,21857,,Asia__Bangkok
+TH,ADM2,Amphoe Non Thai,166870,Nakhon Ratchasima,30,15.18106,102.03001,62012,,Asia__Bangkok
+TH,ADM2,Amphoe Nong Bua,166898,Nakhon Sawan,60,15.86591,100.6286,55579,,Asia__Bangkok
+TH,ADM2,Amphoe Nong Bua Daeng,166858,Chaiyaphum,36,16.19684,101.62625,80653,,Asia__Bangkok
+TH,ADM2,Amphoe Nong Bua Rawe,167375,Chaiyaphum,36,15.82831,101.63048,33944,,Asia__Bangkok
+TH,ADM2,Amphoe Nong Bun Mak,167398,Nakhon Ratchasima,30,14.71295,102.37447,45724,,Asia__Bangkok
+TH,ADM2,Amphoe Nong Chang,166596,Uthai Thani,61,15.36755,99.77273,40294,,Asia__Bangkok
+TH,ADM2,Amphoe Nong Chik,166883,Pattani,94,6.80011,101.17057,64304,,Asia__Bangkok
+TH,ADM2,Amphoe Nong Don,167346,Saraburi,19,14.6888,100.68527,15069,,Asia__Bangkok
+TH,ADM2,Amphoe Nong Han,166902,Udon Thani,41,17.36853,103.1151,91404,,Asia__Bangkok
+TH,ADM2,Amphoe Nong Hi,167297,Roi Et,45,15.57983,104.01134,18191,,Asia__Bangkok
+TH,ADM2,Amphoe Nong Hin,167208,Loei,42,17.08087,101.82643,20114,,Asia__Bangkok
+TH,ADM2,Amphoe Nong Hong,167244,Buri Ram,31,14.86149,102.6708,40822,,Asia__Bangkok
+TH,ADM2,Amphoe Nong Khae,166839,Saraburi,19,14.38125,100.86451,106878,,Asia__Bangkok
+TH,ADM2,Amphoe Nong Khayang,166578,Uthai Thani,61,15.34892,99.94706,13852,,Asia__Bangkok
+TH,ADM2,Amphoe Nong Ki,167248,Buri Ram,31,14.72696,102.55798,57385,,Asia__Bangkok
+TH,ADM2,Amphoe Nong Kung Si,167218,Kalasin,46,16.71932,103.31922,52296,,Asia__Bangkok
+TH,ADM2,Amphoe Nong Mamong,167165,Chai Nat,18,15.23372,99.81087,17465,,Asia__Bangkok
+TH,ADM2,Amphoe Nong Muang,167253,Lopburi,16,15.2774,100.70413,33718,,Asia__Bangkok
+TH,ADM2,Amphoe Nong Muang Khai,167205,Phrae,54,18.28845,100.15231,17890,,Asia__Bangkok
+TH,ADM2,Amphoe Nong Na Kham,167186,Khon Kaen,40,16.8101,102.328,22195,,Asia__Bangkok
+TH,ADM2,Amphoe Nong Phai,166878,Phetchabun,67,16.01162,101.15042,107060,,Asia__Bangkok
+TH,ADM2,Amphoe Nong Phok,166901,Roi Et,45,16.30357,104.22144,52564,,Asia__Bangkok
+TH,ADM2,Amphoe Nong Prue,167168,Kanchanaburi,71,14.67801,99.41075,29171,,Asia__Bangkok
+TH,ADM2,Amphoe Nong Ruea,166890,Khon Kaen,40,16.49166,102.44572,85044,,Asia__Bangkok
+TH,ADM2,Amphoe Nong Saeng,166904,Saraburi,19,14.48283,100.80463,20128,,Asia__Bangkok
+TH,ADM2,Amphoe Nong Saeng,167185,Udon Thani,41,17.14166,102.78592,21902,,Asia__Bangkok
+TH,ADM2,Amphoe Nong Song Hong,166888,Khon Kaen,40,15.76419,102.79174,73728,,Asia__Bangkok
+TH,ADM2,Amphoe Nong Suea,166844,Pathum Thani,13,14.1603,100.83929,56955,,Asia__Bangkok
+TH,ADM2,Amphoe Nong Sung,167192,Mukdahan,49,16.44759,104.33649,20444,,Asia__Bangkok
+TH,ADM2,Amphoe Nong Wua So,167279,Udon Thani,41,17.18691,102.58986,49990,,Asia__Bangkok
+TH,ADM2,Amphoe Nong Ya Plong,167180,Phetchaburi,76,13.1259,99.4688,15027,,Asia__Bangkok
+TH,ADM2,Amphoe Nong Yai,167269,Chon Buri,20,13.11772,101.37471,22066,,Asia__Bangkok
+TH,ADM2,Amphoe Nong Yasai,167126,Suphanburi,72,14.77644,99.85751,48019,,Asia__Bangkok
+TH,ADM2,Amphoe Nopphitam,167158,Nakhon Si Thammarat,80,8.75166,99.67087,30648,,Asia__Bangkok
+TH,ADM2,Amphoe Nuea Khlong,167355,Krabi,81,8.06058,99.04039,49107,,Asia__Bangkok
+TH,ADM2,Amphoe Om Koi,166601,Chiang Mai,50,17.69842,98.35433,59830,,Asia__Bangkok
+TH,ADM2,Amphoe Ongkharak,166871,Nakhon Nayok,26,14.07554,101.00891,64064,,Asia__Bangkok
+TH,ADM2,Amphoe Pa Bon,167311,Phatthalung,93,7.21994,100.13078,48797,,Asia__Bangkok
+TH,ADM2,Amphoe Pa Daet,166514,Chiang Rai,57,19.50643,99.97615,24605,,Asia__Bangkok
+TH,ADM2,Amphoe Pa Kham,167365,Buri Ram,31,14.4,102.66667,35799,,Asia__Bangkok
+TH,ADM2,Amphoe Pa Mok,166778,Ang Thong,15,14.4862,100.4573,28835,,Asia__Bangkok
+TH,ADM2,Amphoe Pa Phayom,167172,Phatthalung,93,7.83154,99.87448,33293,,Asia__Bangkok
+TH,ADM2,Amphoe Pa Sang,166547,Lamphun,51,18.41397,98.88281,55390,,Asia__Bangkok
+TH,ADM2,Amphoe Pa Tio,167263,Yasothon,35,15.84415,104.39994,31773,,Asia__Bangkok
+TH,ADM2,Amphoe Pai,166586,Mae Hong Son,58,19.36036,98.40638,26015,,Asia__Bangkok
+TH,ADM2,Amphoe Pak Chom,167416,Loei,42,17.911,101.95777,34449,,Asia__Bangkok
+TH,ADM2,Amphoe Pak Chong,166866,Nakhon Ratchasima,30,14.61923,101.44814,253946,,Asia__Bangkok
+TH,ADM2,Amphoe Pak Khat,167264,Bueng Kan,38,18.27738,103.3414,30590,,Asia__Bangkok
+TH,ADM2,Amphoe Pak Kret,166817,Nonthaburi,12,13.91626,100.50397,294223,,Asia__Bangkok
+TH,ADM2,Amphoe Pak Phanang,166906,Nakhon Si Thammarat,80,8.30711,100.17361,85487,,Asia__Bangkok
+TH,ADM2,Amphoe Pak Phayun,166887,Phatthalung,93,7.29622,100.29542,43406,,Asia__Bangkok
+TH,ADM2,Amphoe Pak Phli,166900,Nakhon Nayok,26,14.22499,101.34482,22515,,Asia__Bangkok
+TH,ADM2,Amphoe Pak Tho,166618,Ratchaburi,70,13.38761,99.677,63650,,Asia__Bangkok
+TH,ADM2,Amphoe Pak Thong Chai,166832,Nakhon Ratchasima,30,14.66228,101.94227,107257,,Asia__Bangkok
+TH,ADM2,Amphoe Palian,166583,Trang,92,7.2334,99.79491,63899,,Asia__Bangkok
+TH,ADM2,Amphoe Panare,166773,Pattani,94,6.81211,101.51247,41065,,Asia__Bangkok
+TH,ADM2,Amphoe Pang Mapha,167419,Mae Hong Son,58,19.60451,98.2056,16893,,Asia__Bangkok
+TH,ADM2,Amphoe Pang Sila Thong,167139,Kamphaeng Phet,62,16.02525,99.35593,32185,,Asia__Bangkok
+TH,ADM2,Amphoe Pathio,166571,Chumphon,86,10.81008,99.33938,49911,,Asia__Bangkok
+TH,ADM2,Amphoe Pathum Rat,166791,Roi Et,45,15.62371,103.38733,44743,,Asia__Bangkok
+TH,ADM2,Amphoe Pathum Ratchawongsa,167266,Amnat Charoen,37,15.89542,104.89611,35395,,Asia__Bangkok
+TH,ADM2,Amphoe Pha Khao,167381,Loei,42,17.05638,102.01575,31050,,Asia__Bangkok
+TH,ADM2,Amphoe Phachi,166771,Phra Nakhon Si Ayutthaya,14,14.43795,100.7278,29265,,Asia__Bangkok
+TH,ADM2,Amphoe Phai Sali,166792,Nakhon Sawan,60,15.58723,100.6853,63764,,Asia__Bangkok
+TH,ADM2,Amphoe Phak Hai,166788,Phra Nakhon Si Ayutthaya,14,14.45073,100.33949,32685,,Asia__Bangkok
+TH,ADM2,Amphoe Phakdi Chumphon,167327,Chaiyaphum,36,15.96852,101.41123,23856,,Asia__Bangkok
+TH,ADM2,Amphoe Phan,166561,Chiang Rai,57,19.5745,99.77299,121778,,Asia__Bangkok
+TH,ADM2,Amphoe Phan Thong,166804,Chon Buri,20,13.463,101.09131,70423,,Asia__Bangkok
+TH,ADM2,Amphoe Phana,166786,Amnat Charoen,37,15.66895,104.85675,19482,,Asia__Bangkok
+TH,ADM2,Amphoe Phanat Nikhom,166787,Chon Buri,20,13.46434,101.21428,119749,,Asia__Bangkok
+TH,ADM2,Amphoe Phang Khon,167427,Sakon Nakhon,47,17.38267,103.75146,42871,,Asia__Bangkok
+TH,ADM2,Amphoe Phanna Nikhom,166763,Sakon Nakhon,47,17.31369,103.89791,68838,,Asia__Bangkok
+TH,ADM2,Amphoe Phanom,166558,Surat Thani,84,8.82254,98.71709,36606,,Asia__Bangkok
+TH,ADM2,Amphoe Phanom Dong Rak,167115,Surin,32,14.42745,103.31007,29255,,Asia__Bangkok
+TH,ADM2,Amphoe Phanom Phrai,166805,Roi Et,45,15.693,104.0755,58698,,Asia__Bangkok
+TH,ADM2,Amphoe Phanom Sarakham,166767,Chachoengsao,24,13.73806,101.41202,77569,,Asia__Bangkok
+TH,ADM2,Amphoe Phanom Thuan,166572,Kanchanaburi,71,14.15941,99.66904,53772,,Asia__Bangkok
+TH,ADM2,Amphoe Phato,166568,Chumphon,86,9.81066,98.80178,21769,,Asia__Bangkok
+TH,ADM2,Amphoe Phatthana Nikhom,166802,Lopburi,16,14.90917,101.02673,78957,,Asia__Bangkok
+TH,ADM2,Amphoe Phaya Mengrai,167109,Chiang Rai,57,19.8732,100.16257,39023,,Asia__Bangkok
+TH,ADM2,Amphoe Phayakkhaphum Phisai,166815,Maha Sarakham,44,15.51963,103.23268,71756,,Asia__Bangkok
+TH,ADM2,Amphoe Phayu,167332,Si Sa Ket,33,14.90639,104.38293,24018,,Asia__Bangkok
+TH,ADM2,Amphoe Phayuha Khiri,166775,Nakhon Sawan,60,15.50783,100.21226,57415,,Asia__Bangkok
+TH,ADM2,Amphoe Phen,166789,Udon Thani,41,17.66033,102.93052,94888,,Asia__Bangkok
+TH,ADM2,Amphoe Phibun Mangsahan,166774,Ubon Ratchathani,34,15.14589,105.24094,120296,,Asia__Bangkok
+TH,ADM2,Amphoe Phibun Rak,167315,Udon Thani,41,17.5263,103.07497,19347,,Asia__Bangkok
+TH,ADM2,Amphoe Phichai,166779,Uttaradit,53,17.30188,100.11281,72782,,Asia__Bangkok
+TH,ADM2,Amphoe Phimai,166765,Nakhon Ratchasima,30,15.24622,102.54217,111419,,Asia__Bangkok
+TH,ADM2,Amphoe Phipun,167130,Nakhon Si Thammarat,80,8.60289,99.59528,30443,,Asia__Bangkok
+TH,ADM2,Amphoe Phlapphla Chai,167350,Buri Ram,31,14.73299,103.17015,34278,,Asia__Bangkok
+TH,ADM2,Amphoe Pho Chai,167206,Roi Et,45,16.30969,103.79004,48872,,Asia__Bangkok
+TH,ADM2,Amphoe Pho Prathap Chang,167414,Phichit,66,16.31294,100.19897,47290,,Asia__Bangkok
+TH,ADM2,Amphoe Pho Sai,167305,Ubon Ratchathani,34,15.76739,105.34339,40803,,Asia__Bangkok
+TH,ADM2,Amphoe Pho Si Suwan,167377,Si Sa Ket,33,15.2337,104.06739,16269,,Asia__Bangkok
+TH,ADM2,Amphoe Pho Tak,167272,Nong Khai,43,17.88819,102.43023,13431,,Asia__Bangkok
+TH,ADM2,Amphoe Pho Thale,166770,Phichit,66,16.05885,100.24579,60720,,Asia__Bangkok
+TH,ADM2,Amphoe Pho Thong,166793,Ang Thong,15,14.67344,100.34569,49880,,Asia__Bangkok
+TH,ADM2,Amphoe Phon,166777,Khon Kaen,40,15.80672,102.59111,85204,,Asia__Bangkok
+TH,ADM2,Amphoe Phon Charoen,167407,Bueng Kan,38,18.07967,103.65453,37918,,Asia__Bangkok
+TH,ADM2,Amphoe Phon Na Kaeo,167358,Sakon Nakhon,47,17.21248,104.307,31500,,Asia__Bangkok
+TH,ADM2,Amphoe Phon Sai,167226,Roi Et,45,15.49244,103.94139,21907,,Asia__Bangkok
+TH,ADM2,Amphoe Phon Sawan,167372,Nakhon Phanom,48,17.46868,104.42234,43860,,Asia__Bangkok
+TH,ADM2,Amphoe Phon Thong,166810,Roi Et,45,16.29007,103.96388,86547,,Asia__Bangkok
+TH,ADM2,Amphoe Phonphisai,166784,Nong Khai,43,17.95443,103.12279,87241,,Asia__Bangkok
+TH,ADM2,Amphoe Phop Phra,167164,Tak,63,16.47215,98.83501,60046,,Asia__Bangkok
+TH,ADM2,Amphoe Photharam,166560,Ratchaburi,70,13.70707,99.75622,132457,,Asia__Bangkok
+TH,ADM2,Amphoe Phra Nakhon Si Ayutthaya,166776,Phra Nakhon Si Ayutthaya,14,14.35172,100.56719,150856,,Asia__Bangkok
+TH,ADM2,Amphoe Phra Phrom,167141,Nakhon Si Thammarat,80,8.32652,99.9324,44621,,Asia__Bangkok
+TH,ADM2,Amphoe Phra Phutthabat,166795,Saraburi,19,14.71912,100.80622,65338,,Asia__Bangkok
+TH,ADM2,Amphoe Phra Pradaeng,166797,Samut Prakan,11,13.65246,100.55271,282245,,Asia__Bangkok
+TH,ADM2,Amphoe Phra Samut Chedi,167083,Samut Prakan,11,13.55622,100.51485,118102,,Asia__Bangkok
+TH,ADM2,Amphoe Phra Thong Kham,167342,Nakhon Ratchasima,30,15.35114,101.99355,35188,,Asia__Bangkok
+TH,ADM2,Amphoe Phra Yuen,167243,Khon Kaen,40,16.30823,102.67108,29626,,Asia__Bangkok
+TH,ADM2,Amphoe Phrai Bueng,167318,Si Sa Ket,33,14.77989,104.36599,35778,,Asia__Bangkok
+TH,ADM2,Amphoe Phran Kratai,166565,Kamphaeng Phet,62,16.70541,99.53704,90539,,Asia__Bangkok
+TH,ADM2,Amphoe Phrao,166574,Chiang Mai,50,19.2846,99.22277,47736,,Asia__Bangkok
+TH,ADM2,Amphoe Phrasaeng,166573,Surat Thani,84,8.55124,99.1052,66024,,Asia__Bangkok
+TH,ADM2,Amphoe Phrom Buri,166780,Sing Buri,17,14.78333,100.45,22129,,Asia__Bangkok
+TH,ADM2,Amphoe Phrom Khiri,167125,Nakhon Si Thammarat,80,8.54242,99.79229,36756,,Asia__Bangkok
+TH,ADM2,Amphoe Phrom Phiram,166799,Phitsanulok,65,17.06894,100.1535,93593,,Asia__Bangkok
+TH,ADM2,Amphoe Phu Kam Yao,167149,Phayao,56,19.3117,99.96614,19623,,Asia__Bangkok
+TH,ADM2,Amphoe Phu Khiao,166809,Chaiyaphum,36,16.35423,102.16188,108193,,Asia__Bangkok
+TH,ADM2,Amphoe Phu Kradueng,166814,Loei,42,16.9019,101.84562,24598,,Asia__Bangkok
+TH,ADM2,Amphoe Phu Luang,167340,Loei,42,17.09782,101.64413,21008,,Asia__Bangkok
+TH,ADM2,Amphoe Phu Pha Man,167240,Khon Kaen,40,16.71864,101.87081,22022,,Asia__Bangkok
+TH,ADM2,Amphoe Phu Phan,167290,Sakon Nakhon,47,16.92862,103.924,28779,,Asia__Bangkok
+TH,ADM2,Amphoe Phu Phiang,167217,Nan,55,18.7803,100.87497,35190,,Asia__Bangkok
+TH,ADM2,Amphoe Phu Ruea,167408,Loei,42,17.35076,101.41329,19599,,Asia__Bangkok
+TH,ADM2,Amphoe Phu Sang,167108,Phayao,56,19.62372,100.37246,26295,,Asia__Bangkok
+TH,ADM2,Amphoe Phu Sing,167387,Si Sa Ket,33,14.48873,104.15603,36504,,Asia__Bangkok
+TH,ADM2,Amphoe Phu Wiang,166782,Khon Kaen,40,16.6791,102.39893,65529,,Asia__Bangkok
+TH,ADM2,Amphoe Phunphin,166548,Surat Thani,84,9.02472,99.14304,91195,,Asia__Bangkok
+TH,ADM2,Amphoe Phutthaisong,166808,Buri Ram,31,15.53249,102.98701,40361,,Asia__Bangkok
+TH,ADM2,Amphoe Phutthamonthon,167081,Nakhon Pathom,73,13.82559,100.29239,48840,,Asia__Bangkok
+TH,ADM2,Amphoe Pla Pak,166772,Nakhon Phanom,48,17.20133,104.54674,44848,,Asia__Bangkok
+TH,ADM2,Amphoe Plaeng Yao,167231,Chachoengsao,24,13.56381,101.33972,50286,,Asia__Bangkok
+TH,ADM2,Amphoe Plai Phraya,167127,Krabi,81,8.54087,98.83671,30916,,Asia__Bangkok
+TH,ADM2,Amphoe Pluak Daeng,167235,Rayong,21,12.98333,101.25,71531,,Asia__Bangkok
+TH,ADM2,Amphoe Pong,166807,Phayao,56,19.185,100.3878,46163,,Asia__Bangkok
+TH,ADM2,Amphoe Pong Nam Ron,166813,Chanthaburi,22,12.93467,102.37189,37601,,Asia__Bangkok
+TH,ADM2,Amphoe Prachak Sinlapakhom,167338,Udon Thani,41,17.24648,102.98713,19940,,Asia__Bangkok
+TH,ADM2,Amphoe Prachantakham,166785,Prachin Buri,25,14.22813,101.5744,59696,,Asia__Bangkok
+TH,ADM2,Amphoe Prakhon Chai,166762,Buri Ram,31,14.61041,103.06054,103801,,Asia__Bangkok
+TH,ADM2,Amphoe Pran Buri,166550,Prachuap Khiri Khan,77,12.3904,99.6969,66782,,Asia__Bangkok
+TH,ADM2,Amphoe Prang Ku,166790,Si Sa Ket,33,14.85443,104.0374,45605,,Asia__Bangkok
+TH,ADM2,Amphoe Prasat,166812,Surin,32,14.62602,103.41569,123790,,Asia__Bangkok
+TH,ADM2,Amphoe Prathai,166811,Nakhon Ratchasima,30,15.55911,102.69786,57432,,Asia__Bangkok
+TH,ADM2,Amphoe Pua,166794,Nan,55,19.16306,101.02796,57693,,Asia__Bangkok
+TH,ADM2,Amphoe Pueai Noi,167204,Khon Kaen,40,15.88867,102.87618,15195,,Asia__Bangkok
+TH,ADM2,Amphoe Ra-ngae,166816,Narathiwat,96,6.25504,101.70496,75802,,Asia__Bangkok
+TH,ADM2,Amphoe Raman,166766,Yala,95,6.48985,101.43442,80927,,Asia__Bangkok
+TH,ADM2,Amphoe Ranot,166800,Songkhla,90,7.8139,100.28323,62220,,Asia__Bangkok
+TH,ADM2,Amphoe Rasi Salai,166768,Si Sa Ket,33,15.34637,104.18617,58475,,Asia__Bangkok
+TH,ADM2,Amphoe Ratchasan,167260,Chachoengsao,24,13.7866,101.28136,10649,,Asia__Bangkok
+TH,ADM2,Amphoe Ratsada,167157,Trang,92,7.93779,99.66771,25857,,Asia__Bangkok
+TH,ADM2,Amphoe Rattanaburi,166764,Surin,32,15.3378,103.90541,72237,,Asia__Bangkok
+TH,ADM2,Amphoe Rattanawapi,167362,Nong Khai,43,18.19255,103.2376,33729,,Asia__Bangkok
+TH,ADM2,Amphoe Rattaphum,166798,Songkhla,90,7.07488,100.19515,71860,,Asia__Bangkok
+TH,ADM2,Amphoe Renu Nakhon,167209,Nakhon Phanom,48,17.0508,104.65664,35892,,Asia__Bangkok
+TH,ADM2,Amphoe Ron Phibun,166557,Nakhon Si Thammarat,80,8.17997,99.89248,75406,,Asia__Bangkok
+TH,ADM2,Amphoe Rong Kham,167225,Kalasin,46,16.27925,103.71238,14470,,Asia__Bangkok
+TH,ADM2,Amphoe Rong Kwang,166730,Phrae,54,18.32614,100.39418,47132,,Asia__Bangkok
+TH,ADM2,Amphoe Rueso,166749,Narathiwat,96,6.3745,101.51491,60595,,Asia__Bangkok
+TH,ADM2,Amphoe Sa Bot,167363,Lopburi,16,15.23832,100.88318,21361,,Asia__Bangkok
+TH,ADM2,Amphoe Sa Khrai,167356,Nong Khai,43,17.65985,102.70847,23147,,Asia__Bangkok
+TH,ADM2,Amphoe Saba Yoi,166760,Songkhla,90,6.52971,100.91232,65920,,Asia__Bangkok
+TH,ADM2,Amphoe Sadao,166747,Songkhla,90,6.67135,100.42409,131095,,Asia__Bangkok
+TH,ADM2,Amphoe Sahatsakhan,166742,Kalasin,46,16.70987,103.57909,31916,,Asia__Bangkok
+TH,ADM2,Amphoe Sai Buri,166754,Pattani,94,6.7,101.58333,65144,,Asia__Bangkok
+TH,ADM2,Amphoe Sai Mun,167412,Yasothon,35,15.97917,104.1907,24785,,Asia__Bangkok
+TH,ADM2,Amphoe Sai Ngam,167433,Kamphaeng Phet,62,16.43956,99.87457,52958,,Asia__Bangkok
+TH,ADM2,Amphoe Sai Noi,166753,Nonthaburi,12,14.00627,100.31072,60858,,Asia__Bangkok
+TH,ADM2,Amphoe Sai Thong Watthana,167174,Kamphaeng Phet,62,16.30859,99.87854,24877,,Asia__Bangkok
+TH,ADM2,Amphoe Sai Yok,166562,Kanchanaburi,71,14.25652,98.93372,47206,,Asia__Bangkok
+TH,ADM2,Amphoe Sak Lek,167230,Phichit,66,16.50717,100.5235,22362,,Asia__Bangkok
+TH,ADM2,Amphoe Sam Chai,167261,Kalasin,46,16.86909,103.52243,21773,,Asia__Bangkok
+TH,ADM2,Amphoe Sam Chuk,166559,Suphanburi,72,14.75598,100.0648,55442,,Asia__Bangkok
+TH,ADM2,Amphoe Sam Khok,166738,Pathum Thani,13,14.07944,100.53336,61288,,Asia__Bangkok
+TH,ADM2,Amphoe Sam Ko,166737,Ang Thong,15,14.59982,100.25404,19016,,Asia__Bangkok
+TH,ADM2,Amphoe Sam Ngam,166734,Phichit,66,16.43832,100.14155,41774,,Asia__Bangkok
+TH,ADM2,Amphoe Sam Ngao,166554,Tak,63,17.31322,98.87561,32871,,Asia__Bangkok
+TH,ADM2,Amphoe Sam Phran,166731,Nakhon Pathom,73,13.72035,100.21071,256128,,Asia__Bangkok
+TH,ADM2,Amphoe Sam Roi Yot,167138,Prachuap Khiri Khan,77,12.25586,99.7401,41686,,Asia__Bangkok
+TH,ADM2,Amphoe Sam Sung,167184,Khon Kaen,40,16.56208,103.05473,21370,,Asia__Bangkok
+TH,ADM2,Amphoe Samoeng,166544,Chiang Mai,50,18.90027,98.6565,24866,,Asia__Bangkok
+TH,ADM2,Amphoe Samrong,167380,Ubon Ratchathani,34,14.98532,104.79139,51784,,Asia__Bangkok
+TH,ADM2,Amphoe Samrong Thap,166721,Surin,32,15.0398,103.94089,41296,,Asia__Bangkok
+TH,ADM2,Amphoe San Kamphaeng,166553,Chiang Mai,50,18.73497,99.18609,81355,,Asia__Bangkok
+TH,ADM2,Amphoe San Pa Tong,166546,Chiang Mai,50,18.60567,98.88531,76431,,Asia__Bangkok
+TH,ADM2,Amphoe San Sai,166555,Chiang Mai,50,18.94101,99.04048,113285,,Asia__Bangkok
+TH,ADM2,Amphoe Sanam Chai Khet,166722,Chachoengsao,24,13.62612,101.65475,61501,,Asia__Bangkok
+TH,ADM2,Amphoe Sang Khom,167429,Udon Thani,41,17.79433,103.05114,23227,,Asia__Bangkok
+TH,ADM2,Amphoe Sangkha,166746,Surin,32,14.57051,103.83911,102940,,Asia__Bangkok
+TH,ADM2,Amphoe Sangkhla Buri,166542,Kanchanaburi,71,15.19337,98.52791,31081,,Asia__Bangkok
+TH,ADM2,Amphoe Sangkhom,166757,Nong Khai,43,18.05392,102.22677,21440,,Asia__Bangkok
+TH,ADM2,Amphoe Sankhaburi,166740,Chai Nat,18,15.02105,100.17038,60184,,Asia__Bangkok
+TH,ADM2,Amphoe Sanom,167426,Surin,32,15.17099,103.78475,33881,,Asia__Bangkok
+TH,ADM2,Amphoe Santi Suk,167194,Nan,55,18.9119,101.00016,14257,,Asia__Bangkok
+TH,ADM2,Amphoe Sao Hai,166727,Saraburi,19,14.57549,100.8439,40708,,Asia__Bangkok
+TH,ADM2,Amphoe Sap Yai,167268,Chaiyaphum,36,15.6062,101.65005,11578,,Asia__Bangkok
+TH,ADM2,Amphoe Sapphaya,166736,Chai Nat,18,15.14873,100.25506,41666,,Asia__Bangkok
+TH,ADM2,Amphoe Saraphi,166556,Chiang Mai,50,18.70511,99.02989,71021,,Asia__Bangkok
+TH,ADM2,Amphoe Sathing Phra,166741,Songkhla,90,7.47963,100.42227,46832,,Asia__Bangkok
+TH,ADM2,Amphoe Sattahip,166732,Chon Buri,20,12.71743,100.92754,140643,,Asia__Bangkok
+TH,ADM2,Amphoe Satuek,166726,Buri Ram,31,15.22699,103.33006,81459,,Asia__Bangkok
+TH,ADM2,Amphoe Sawaeng Ha,166758,Ang Thong,15,14.74635,100.28963,28513,,Asia__Bangkok
+TH,ADM2,Amphoe Sawang Arom,166569,Uthai Thani,61,15.6025,99.7849,27626,,Asia__Bangkok
+TH,ADM2,Amphoe Sawang Daen Din,166743,Sakon Nakhon,47,17.4559,103.4495,121842,,Asia__Bangkok
+TH,ADM2,Amphoe Sawang Wirawong,167370,Ubon Ratchathani,34,15.23439,105.076,26035,,Asia__Bangkok
+TH,ADM2,Amphoe Sawankhalok,166551,Sukhothai,64,17.29899,99.85396,92263,,Asia__Bangkok
+TH,ADM2,Amphoe Sawi,166549,Chumphon,86,10.24008,99.01865,63650,,Asia__Bangkok
+TH,ADM2,Amphoe Seka,166750,Bueng Kan,38,17.98734,103.89616,74616,,Asia__Bangkok
+TH,ADM2,Amphoe Selaphum,166720,Roi Et,45,16.047,104.00031,96618,,Asia__Bangkok
+TH,ADM2,Amphoe Sena,166719,Phra Nakhon Si Ayutthaya,14,14.29605,100.37486,60524,,Asia__Bangkok
+TH,ADM2,Amphoe Senangkhanikhom,167198,Amnat Charoen,37,16.0513,104.68441,29074,,Asia__Bangkok
+TH,ADM2,Amphoe Si Banphot,167284,Phatthalung,93,7.69259,99.87322,17642,,Asia__Bangkok
+TH,ADM2,Amphoe Si Bun Rueang,166744,Nong Bua Lam Phu,39,16.99775,102.22528,103518,,Asia__Bangkok
+TH,ADM2,Amphoe Si Chiang Mai,166739,Nong Khai,43,17.93574,102.50306,27745,,Asia__Bangkok
+TH,ADM2,Amphoe Si Chom Phu,167188,Khon Kaen,40,16.76258,102.13078,64212,,Asia__Bangkok
+TH,ADM2,Amphoe Si Khoraphum,166759,Surin,32,14.94753,103.7831,106302,,Asia__Bangkok
+TH,ADM2,Amphoe Si Maha Phot,166725,Prachin Buri,25,13.89041,101.54181,100563,,Asia__Bangkok
+TH,ADM2,Amphoe Si Mahosot,167373,Prachin Buri,25,13.87669,101.42499,18903,,Asia__Bangkok
+TH,ADM2,Amphoe Si Mueang Mai,166925,Ubon Ratchathani,34,15.56297,105.3483,63956,,Asia__Bangkok
+TH,ADM2,Amphoe Si Nakhon,167142,Sukhothai,64,17.39275,99.97666,30627,,Asia__Bangkok
+TH,ADM2,Amphoe Si Narong,167281,Surin,32,14.78085,103.88651,35873,,Asia__Bangkok
+TH,ADM2,Amphoe Si Prachan,166718,Suphanburi,72,14.6381,100.1505,62810,,Asia__Bangkok
+TH,ADM2,Amphoe Si Racha,166735,Chon Buri,20,13.12976,101.04008,332984,,Asia__Bangkok
+TH,ADM2,Amphoe Si Rattana,167361,Si Sa Ket,33,14.81062,104.47634,35856,,Asia__Bangkok
+TH,ADM2,Amphoe Si Sakhon,167097,Narathiwat,96,6.1936,101.51257,34966,,Asia__Bangkok
+TH,ADM2,Amphoe Si Samrong,166567,Sukhothai,64,17.16397,99.74672,77075,,Asia__Bangkok
+TH,ADM2,Amphoe Si Satchanalai,166563,Sukhothai,64,17.59927,99.70591,94408,,Asia__Bangkok
+TH,ADM2,Amphoe Si Sawat,166564,Kanchanaburi,71,14.67254,99.12992,22576,,Asia__Bangkok
+TH,ADM2,Amphoe Si Somdet,167182,Roi Et,45,16.01947,103.51427,33187,,Asia__Bangkok
+TH,ADM2,Amphoe Si Songkhram,166748,Nakhon Phanom,48,17.62989,104.24495,58441,,Asia__Bangkok
+TH,ADM2,Amphoe Si That,167390,Udon Thani,41,17.03388,103.23084,42713,,Asia__Bangkok
+TH,ADM2,Amphoe Si Thep,167410,Phetchabun,67,15.44253,101.14767,65811,,Asia__Bangkok
+TH,ADM2,Amphoe Si Wilai,167319,Bueng Kan,38,18.15528,103.77975,34992,,Asia__Bangkok
+TH,ADM2,Amphoe Sichon,166545,Nakhon Si Thammarat,80,8.94981,99.81322,82010,,Asia__Bangkok
+TH,ADM2,Amphoe Sida,167360,Nakhon Ratchasima,30,15.56406,102.55823,18286,,Asia__Bangkok
+TH,ADM2,Amphoe Sikao,167440,Trang,92,7.57122,99.33915,38055,,Asia__Bangkok
+TH,ADM2,Amphoe Sikhio,166729,Nakhon Ratchasima,30,14.94275,101.60672,123636,,Asia__Bangkok
+TH,CITY,Amphoe Sikhiu,108528,Nakhon Ratchasima,30,14.89944,101.70833,28681,,Asia__Bangkok
+TH,ADM2,Amphoe Sila Lat,167308,Si Sa Ket,33,15.4807,104.09478,13811,,Asia__Bangkok
+TH,ADM2,Amphoe Singhanakhon,167069,Songkhla,90,7.28453,100.48809,81830,,Asia__Bangkok
+TH,ADM2,Amphoe Sirindhorn,167245,Ubon Ratchathani,34,15.11249,105.42837,48825,,Asia__Bangkok
+TH,ADM2,Amphoe So Phisai,167293,Bueng Kan,38,18.14176,103.44923,62328,,Asia__Bangkok
+TH,ADM2,Amphoe Soem Ngam,167213,Lampang,52,18.09406,99.17297,32280,,Asia__Bangkok
+TH,ADM2,Amphoe Soeng Sang,167239,Nakhon Ratchasima,30,14.34456,102.49297,60471,,Asia__Bangkok
+TH,ADM2,Amphoe Soi Dao,167287,Chanthaburi,22,13.17034,102.22796,60104,,Asia__Bangkok
+TH,ADM2,Amphoe Somdet,166717,Kalasin,46,16.76973,103.75012,51125,,Asia__Bangkok
+TH,ADM2,Amphoe Song,166751,Phrae,54,18.57006,100.22911,47985,,Asia__Bangkok
+TH,ADM2,Amphoe Song Dao,167425,Sakon Nakhon,47,17.30883,103.44987,25421,,Asia__Bangkok
+TH,ADM2,Amphoe Song Khwae,167323,Nan,55,19.40911,100.66174,10454,,Asia__Bangkok
+TH,ADM2,Amphoe Song Phi Nong,166761,Suphanburi,72,14.18895,99.9758,128471,,Asia__Bangkok
+TH,ADM2,Amphoe Sop Moei,166552,Mae Hong Son,58,17.96333,97.93149,30440,,Asia__Bangkok
+TH,ADM2,Amphoe Sop Prap,166543,Lampang,52,17.89861,99.34081,27240,,Asia__Bangkok
+TH,ADM2,Amphoe Srinagarindra,167384,Phatthalung,93,7.57574,99.91053,24334,,Asia__Bangkok
+TH,ADM2,Amphoe Su-ngai Kolok,166733,Narathiwat,96,6.07674,101.99818,61638,,Asia__Bangkok
+TH,ADM2,Amphoe Su-ngai Padi,166724,Narathiwat,96,6.10425,101.89333,48153,,Asia__Bangkok
+TH,ADM2,Amphoe Suan Phueng,167122,Ratchaburi,70,13.56361,99.31133,38817,,Asia__Bangkok
+TH,ADM2,Amphoe Suk Samran,167176,Ranong,85,9.4157,98.49117,13651,,Asia__Bangkok
+TH,ADM2,Amphoe Sukhirin,167096,Narathiwat,96,5.91513,101.73811,22898,,Asia__Bangkok
+TH,ADM2,Amphoe Sung Men,166756,Phrae,54,18.03542,100.12538,73038,,Asia__Bangkok
+TH,ADM2,Amphoe Sung Noen,166755,Nakhon Ratchasima,30,14.85623,101.83049,87548,,Asia__Bangkok
+TH,ADM2,Amphoe Suwannakhuha,167197,Nong Bua Lam Phu,39,17.54605,102.24852,65617,,Asia__Bangkok
+TH,ADM2,Amphoe Suwannaphum,166752,Roi Et,45,15.60529,103.8063,93537,,Asia__Bangkok
+TH,ADM2,Amphoe Ta Phraya,166705,Sa Kaeo,27,14.06272,102.72601,53804,,Asia__Bangkok
+TH,ADM2,Amphoe Tak Bai,166700,Narathiwat,96,6.23748,102.00238,57776,,Asia__Bangkok
+TH,ADM2,Amphoe Tak Fa,167234,Nakhon Sawan,60,15.38249,100.46693,39281,,Asia__Bangkok
+TH,ADM2,Amphoe Takhli,166697,Nakhon Sawan,60,15.25928,100.38058,100747,,Asia__Bangkok
+TH,ADM2,Amphoe Takua Pa,167441,Phang Nga,82,8.86883,98.33892,47755,,Asia__Bangkok
+TH,ADM2,Amphoe Takua Thung,166528,Phang Nga,82,8.28433,98.3895,46483,,Asia__Bangkok
+TH,ADM2,Amphoe Tamot,167195,Phatthalung,93,7.28783,100.04358,25929,,Asia__Bangkok
+TH,ADM2,Amphoe Tan Sum,167312,Ubon Ratchathani,34,15.39035,105.16273,31097,,Asia__Bangkok
+TH,ADM2,Amphoe Tao Ngoi,167274,Sakon Nakhon,47,16.94022,104.15863,22991,,Asia__Bangkok
+TH,ADM2,Amphoe Taphan Hin,166696,Phichit,66,16.21103,100.41739,65485,,Asia__Bangkok
+TH,ADM2,Amphoe Tha Bo,166676,Nong Khai,43,17.79499,102.56608,74602,,Asia__Bangkok
+TH,ADM2,Amphoe Tha Chana,166518,Surat Thani,84,9.61142,99.03611,53075,,Asia__Bangkok
+TH,ADM2,Amphoe Tha Chang,166527,Surat Thani,84,9.33475,98.95619,32571,,Asia__Bangkok
+TH,ADM2,Amphoe Tha Chang,166703,Sing Buri,17,14.77941,100.39349,12662,,Asia__Bangkok
+TH,ADM2,Amphoe Tha Khantho,166704,Kalasin,46,16.88333,103.25,29857,,Asia__Bangkok
+TH,ADM2,Amphoe Tha Li,166693,Loei,42,17.61279,101.44141,25637,,Asia__Bangkok
+TH,ADM2,Amphoe Tha Luang,167210,Lopburi,16,15.04786,101.19986,30010,,Asia__Bangkok
+TH,ADM2,Amphoe Tha Mai,166674,Chanthaburi,22,12.73848,101.97696,63300,,Asia__Bangkok
+TH,ADM2,Amphoe Tha Maka,166524,Kanchanaburi,71,13.94665,99.779,138582,,Asia__Bangkok
+TH,ADM2,Amphoe Tha Muang,166515,Kanchanaburi,71,13.90947,99.6154,102862,,Asia__Bangkok
+TH,ADM2,Amphoe Tha Phae,167121,Satun,91,6.79542,99.91985,24618,,Asia__Bangkok
+TH,ADM2,Amphoe Tha Pla,166690,Uttaradit,53,17.85868,100.47061,43030,,Asia__Bangkok
+TH,ADM2,Amphoe Tha Ruea,166701,Phra Nakhon Si Ayutthaya,14,14.53587,100.71268,44563,,Asia__Bangkok
+TH,ADM2,Amphoe Tha Sae,166523,Chumphon,86,10.76864,99.09878,80948,,Asia__Bangkok
+TH,ADM2,Amphoe Tha Sala,166540,Nakhon Si Thammarat,80,8.69367,99.88539,105952,,Asia__Bangkok
+TH,ADM2,Amphoe Tha Song Yang,166519,Tak,63,17.47481,98.12079,59624,,Asia__Bangkok
+TH,ADM2,Amphoe Tha Takiap,167326,Chachoengsao,24,13.3951,101.73457,36441,,Asia__Bangkok
+TH,ADM2,Amphoe Tha Tako,166715,Nakhon Sawan,60,15.65434,100.45939,63132,,Asia__Bangkok
+TH,ADM2,Amphoe Tha Tum,166716,Surin,32,15.3094,103.65111,78259,,Asia__Bangkok
+TH,ADM2,Amphoe Tha Uthen,166680,Nakhon Phanom,48,17.59263,104.49884,45585,,Asia__Bangkok
+TH,ADM2,Amphoe Tha Wang Pha,166686,Nan,55,19.13148,100.76117,45940,,Asia__Bangkok
+TH,ADM2,Amphoe Tha Wung,166692,Lopburi,16,14.82506,100.50921,52869,,Asia__Bangkok
+TH,ADM2,Amphoe Tha Yang,166531,Phetchaburi,76,12.81743,99.78738,85839,,Asia__Bangkok
+TH,ADM2,Amphoe Thai Charoen,167320,Yasothon,35,16.07936,104.42778,27572,,Asia__Bangkok
+TH,ADM2,Amphoe Thai Mueang,166537,Phang Nga,82,8.48995,98.31292,49898,,Asia__Bangkok
+TH,ADM2,Amphoe Thalang,166520,Phuket,83,8.03407,98.33399,112714,,Asia__Bangkok
+TH,ADM2,Amphoe Tham Phannara,167166,Nakhon Si Thammarat,80,8.45822,99.37718,20989,,Asia__Bangkok
+TH,ADM2,Amphoe Than To,167093,Yala,95,6.08042,101.25941,18552,,Asia__Bangkok
+TH,ADM2,Amphoe Thanyaburi,166684,Pathum Thani,13,14.02852,100.76291,227699,,Asia__Bangkok
+TH,ADM2,Amphoe Thap Khlo,167221,Phichit,66,16.19167,100.60082,43674,,Asia__Bangkok
+TH,ADM2,Amphoe Thap Put,166522,Phang Nga,82,8.53768,98.63208,23070,,Asia__Bangkok
+TH,ADM2,Amphoe Thap Sakae,166535,Prachuap Khiri Khan,77,11.54787,99.57159,41197,,Asia__Bangkok
+TH,ADM2,Amphoe Thap Than,166517,Uthai Thani,61,15.49057,99.82224,35256,,Asia__Bangkok
+TH,ADM2,Amphoe That Phanom,166687,Nakhon Phanom,48,16.96457,104.70277,65771,,Asia__Bangkok
+TH,ADM2,Amphoe Thawatchaburi,166699,Roi Et,45,16.02783,103.77833,58493,,Asia__Bangkok
+TH,ADM2,Amphoe Thep Sathit,167251,Chaiyaphum,36,15.59174,101.46566,56254,,Asia__Bangkok
+TH,ADM2,Amphoe Thepha,166675,Songkhla,90,6.79726,100.91025,71572,,Asia__Bangkok
+TH,ADM2,Amphoe Thepharak,167278,Nakhon Ratchasima,30,15.28639,101.50373,21007,,Asia__Bangkok
+TH,ADM2,Amphoe Thoen,166536,Lampang,52,17.58128,99.28836,61126,,Asia__Bangkok
+TH,ADM2,Amphoe Thoeng,166711,Chiang Rai,57,19.6765,100.20095,82687,,Asia__Bangkok
+TH,ADM2,Amphoe Thong Pha Phum,166516,Kanchanaburi,71,14.83277,98.69233,43989,,Asia__Bangkok
+TH,ADM2,Amphoe Thong Saen Khan,167329,Uttaradit,53,17.4993,100.39658,28797,,Asia__Bangkok
+TH,ADM2,Amphoe Thung Chang,166714,Nan,55,19.46342,100.91937,16267,,Asia__Bangkok
+TH,ADM2,Amphoe Thung Fon,167378,Udon Thani,41,17.49061,103.22088,25724,,Asia__Bangkok
+TH,ADM2,Amphoe Thung Hua Chang,167129,Lamphun,51,17.98333,99.05,17419,,Asia__Bangkok
+TH,ADM2,Amphoe Thung Khao Luang,167215,Roi Et,45,15.98966,103.87086,18135,,Asia__Bangkok
+TH,ADM2,Amphoe Thung Saliam,166538,Sukhothai,64,17.37082,99.55265,49308,,Asia__Bangkok
+TH,ADM2,Amphoe Thung Si Udom,167295,Ubon Ratchathani,34,14.73936,104.91731,24379,,Asia__Bangkok
+TH,ADM2,Amphoe Thung Song,166530,Nakhon Si Thammarat,80,8.11757,99.66907,144123,,Asia__Bangkok
+TH,ADM2,Amphoe Thung Tako,167170,Chumphon,86,10.09223,99.05337,23271,,Asia__Bangkok
+TH,ADM2,Amphoe Thung Wa,166534,Satun,91,7.04915,99.76587,20367,,Asia__Bangkok
+TH,ADM2,Amphoe Thung Yai,166526,Nakhon Si Thammarat,80,8.28708,99.37196,73555,,Asia__Bangkok
+TH,ADM2,Amphoe Thung Yang Daeng,167409,Pattani,94,6.6416,101.44652,20009,,Asia__Bangkok
+TH,ADM2,Amphoe Trakan Phuet Phon,166709,Ubon Ratchathani,34,15.6136,105.06444,118498,,Asia__Bangkok
+TH,ADM2,Amphoe Tron,166694,Uttaradit,53,17.47231,100.13467,33257,,Asia__Bangkok
+TH,ADM2,Amphoe U Thong,166529,Suphanburi,72,14.41093,99.88949,121205,,Asia__Bangkok
+TH,ADM2,Amphoe Ubolratana,167391,Khon Kaen,40,16.77766,102.67536,37419,,Asia__Bangkok
+TH,ADM2,Amphoe Umphang,166532,Tak,63,15.79496,98.87787,27192,,Asia__Bangkok
+TH,ADM2,Amphoe Uthai,166691,Phra Nakhon Si Ayutthaya,14,14.35321,100.69643,76469,,Asia__Bangkok
+TH,ADM2,Amphoe Uthumphon Phisai,166708,Si Sa Ket,33,15.12305,104.16002,71324,,Asia__Bangkok
+TH,ADM2,Amphoe Wachira Barami,167202,Phichit,66,16.51667,100.11667,35084,,Asia__Bangkok
+TH,ADM2,Amphoe Waeng,166683,Narathiwat,96,5.90042,101.86195,48063,,Asia__Bangkok
+TH,ADM2,Amphoe Waeng Noi,167259,Khon Kaen,40,15.80631,102.42358,38388,,Asia__Bangkok
+TH,ADM2,Amphoe Waeng Yai,167317,Khon Kaen,40,15.92532,102.46221,27461,,Asia__Bangkok
+TH,ADM2,Amphoe Wan Yai,167402,Mukdahan,49,16.7203,104.72865,19043,,Asia__Bangkok
+TH,ADM2,Amphoe Wang Chan,167324,Rayong,21,12.96245,101.51533,26226,,Asia__Bangkok
+TH,ADM2,Amphoe Wang Chao,167131,Tak,63,16.63311,99.14826,30589,,Asia__Bangkok
+TH,ADM2,Amphoe Wang Chin,166533,Phrae,54,17.86667,99.6499,41806,,Asia__Bangkok
+TH,ADM2,Amphoe Wang Hin,167388,Si Sa Ket,33,14.96133,104.21928,35959,,Asia__Bangkok
+TH,ADM2,Amphoe Wang Muang,167302,Saraburi,19,14.82287,101.13346,22212,,Asia__Bangkok
+TH,ADM2,Amphoe Wang Nam Khiao,167333,Nakhon Ratchasima,30,14.44786,101.85533,44728,,Asia__Bangkok
+TH,ADM2,Amphoe Wang Nam Yen,167275,Sa Kaeo,27,13.519,102.08718,64149,,Asia__Bangkok
+TH,ADM2,Amphoe Wang Noi,166707,Phra Nakhon Si Ayutthaya,14,14.24348,100.725,86342,,Asia__Bangkok
+TH,ADM2,Amphoe Wang Nuea,166525,Lampang,52,19.16011,99.64767,43348,,Asia__Bangkok
+TH,ADM2,Amphoe Wang Pong,167212,Phetchabun,67,16.35049,100.80772,35629,,Asia__Bangkok
+TH,ADM2,Amphoe Wang Sai Phun,167339,Phichit,66,16.37922,100.53668,24137,,Asia__Bangkok
+TH,ADM2,Amphoe Wang Sam Mo,167291,Udon Thani,41,17.04595,103.46262,47025,,Asia__Bangkok
+TH,ADM2,Amphoe Wang Saphung,166712,Loei,42,17.28028,101.73342,97997,,Asia__Bangkok
+TH,ADM2,Amphoe Wang Sombun,167201,Sa Kaeo,27,13.36112,102.1249,37336,,Asia__Bangkok
+TH,ADM2,Amphoe Wang Thong,166710,Phitsanulok,65,16.85,100.58333,118879,,Asia__Bangkok
+TH,ADM2,Amphoe Wang Wiset,166566,Trang,92,7.76061,99.40861,40838,,Asia__Bangkok
+TH,ADM2,Amphoe Wangyang,167189,Nakhon Phanom,48,17.07189,104.45373,12231,,Asia__Bangkok
+TH,ADM2,Amphoe Wanon Niwat,166698,Sakon Nakhon,47,17.61516,103.76536,102464,,Asia__Bangkok
+TH,ADM2,Amphoe Wapi Pathum,166706,Maha Sarakham,44,15.85953,103.34091,92776,,Asia__Bangkok
+TH,ADM2,Amphoe Warin Chamrap,166679,Ubon Ratchathani,34,15.12394,104.87499,166340,,Asia__Bangkok
+TH,ADM2,Amphoe Waritchaphum,166678,Sakon Nakhon,47,17.25692,103.62283,40080,,Asia__Bangkok
+TH,ADM2,Amphoe Wat Bot,166681,Phitsanulok,65,17.16384,100.36298,43001,,Asia__Bangkok
+TH,ADM2,Amphoe Wat Phleng,166521,Ratchaburi,70,13.44705,99.86959,11548,,Asia__Bangkok
+TH,ADM2,Amphoe Wat Sing,166682,Chai Nat,18,15.21574,99.9668,22857,,Asia__Bangkok
+TH,ADM2,Amphoe Watthana Nakhon,166695,Sa Kaeo,27,13.88582,102.35652,79940,,Asia__Bangkok
+TH,ADM2,Amphoe Wiang Chai,167111,Chiang Rai,57,19.8636,100.00065,43005,,Asia__Bangkok
+TH,ADM2,Amphoe Wiang Chiang Rung,167105,Chiang Rai,57,20.02208,100.07472,25667,,Asia__Bangkok
+TH,ADM2,Amphoe Wiang Haeng,167144,Chiang Mai,50,19.59188,98.65845,23203,,Asia__Bangkok
+TH,ADM2,Amphoe Wiang Kaen,167104,Chiang Rai,57,20.00874,100.48641,30097,,Asia__Bangkok
+TH,ADM2,Amphoe Wiang Kao,167321,Khon Kaen,40,16.70138,102.29186,19263,,Asia__Bangkok
+TH,ADM2,Amphoe Wiang Nong Long,167134,Lamphun,51,18.41844,98.75856,15758,,Asia__Bangkok
+TH,ADM2,Amphoe Wiang Pa Pao,166539,Chiang Rai,57,19.3046,99.44925,65935,,Asia__Bangkok
+TH,ADM2,Amphoe Wiang Sa,166745,Nan,55,18.55088,100.72754,67861,,Asia__Bangkok
+TH,ADM2,Amphoe Wiang Sa,167298,Surat Thani,84,8.59813,99.35277,60283,,Asia__Bangkok
+TH,ADM2,Amphoe Wichian Buri,166685,Phetchabun,67,15.65,101.1,127762,,Asia__Bangkok
+TH,ADM2,Amphoe Wihan Daeng,166677,Saraburi,19,14.33435,100.96458,48899,,Asia__Bangkok
+TH,ADM2,Amphoe Wiphawadi,167173,Surat Thani,84,9.21972,98.87028,14286,,Asia__Bangkok
+TH,ADM2,Amphoe Wiset Chai Chan,166689,Ang Thong,15,14.5499,100.31743,55464,,Asia__Bangkok
+TH,ADM2,Amphoe Yaha,166688,Yala,95,6.40529,101.12679,52636,,Asia__Bangkok
+TH,ADM2,Amphoe Yan Ta Khao,166541,Trang,92,7.4258,99.73438,58135,,Asia__Bangkok
+TH,ADM2,Amphoe Yang Chum Noi,167421,Si Sa Ket,33,15.23688,104.39083,27045,,Asia__Bangkok
+TH,ADM2,Amphoe Yang Si Surat,167236,Maha Sarakham,44,15.64953,103.08916,29819,,Asia__Bangkok
+TH,ADM2,Amphoe Yang Talat,166671,Kalasin,46,16.43961,103.34085,105177,,Asia__Bangkok
+TH,ADM2,Amphoe Yarang,166670,Pattani,94,6.6924,101.31408,83922,,Asia__Bangkok
+TH,ADM2,Amphoe Yaring,166673,Pattani,94,6.83507,101.39073,80934,,Asia__Bangkok
+TH,ADM2,Amphoe Yi-ngo,166669,Narathiwat,96,6.41655,101.70035,38579,,Asia__Bangkok
+TH,CITY,Ang Thong,108866,Ang Thong,15,14.58839,100.45283,13738,,Asia__Bangkok
+TH,CITY,Ao Luek,107771,Krabi,81,8.37803,98.72117,9628,15,Asia__Bangkok
+TH,CITY,Aranyaprathet,108792,Sa Kaeo,27,13.69276,102.50128,20236,50,Asia__Bangkok
+TH,CITY,Bamnet Narong,109073,Chaiyaphum,36,15.50189,101.68982,14890,,Asia__Bangkok
+TH,CITY,Ban Ao Nang,107532,Phang Nga,82,8.0458,98.81035,8000,,Asia__Bangkok
+TH,CITY,Ban Bang Kadi Pathum Thani,108096,Phra Nakhon Si Ayutthaya,14,13.99904,100.54962,27911,,Asia__Bangkok
+TH,CITY,Ban Bueng,108311,Chon Buri,20,13.311,101.11214,23509,,Asia__Bangkok
+TH,CITY,Ban Chalong,108877,Phuket,83,7.84468,98.33897,18072,,Asia__Bangkok
+TH,CITY,Ban Chang,108871,Rayong,21,12.72543,101.05531,28204,,Asia__Bangkok
+TH,CITY,Ban Dan Lan Hoi,107549,Sukhothai,64,17.00683,99.57497,5791,,Asia__Bangkok
+TH,CITY,Ban Dung,108686,Udon Thani,41,17.699,103.25957,19479,,Asia__Bangkok
+TH,CITY,Ban Huai Thalaeng,107440,Nakhon Ratchasima,30,14.98333,102.65,15352,,Asia__Bangkok
+TH,CITY,Ban Karon,107678,Phuket,83,7.84769,98.2985,7094,,Asia__Bangkok
+TH,CITY,Ban Kata,1380526,Phuket,83,7.82125,98.30703,5000,,Asia__Bangkok
+TH,CITY,Ban Khao Lak,107580,Phang Nga,82,8.61501,98.23994,1700,,Asia__Bangkok
+TH,CITY,Ban Khlong Bang Sao Thong,107670,Samut Prakan,11,13.64172,100.83272,31153,,Asia__Bangkok
+TH,CITY,Ban Ko Kaeo,107345,Phuket,83,7.93599,98.39664,10136,,Asia__Bangkok
+TH,CITY,Ban Ko Lan,108673,Chon Buri,20,12.92419,100.78794,2000,,Asia__Bangkok
+TH,CITY,Ban Lam Luk Ka,108527,Pathum Thani,13,13.97738,100.77776,60700,,Asia__Bangkok
+TH,CITY,Ban Mai,107170,Songkhla,90,7.20411,100.54508,86899,,Asia__Bangkok
+TH,CITY,Ban Mai Khao,1380542,Phuket,83,8.12713,98.30738,5000,,Asia__Bangkok
+TH,CITY,Ban Mo,108362,Saraburi,19,14.61544,100.72731,15959,,Asia__Bangkok
+TH,CITY,Ban Na,107463,Sukhothai,64,17.01717,99.73283,40174,,Asia__Bangkok
+TH,CITY,Ban Na San,107658,Surat Thani,84,8.80036,99.36372,21900,,Asia__Bangkok
+TH,CITY,Ban Nam Yuen,107282,Chumphon,86,9.87686,98.86592,12335,,Asia__Bangkok
+TH,CITY,Ban Nong Wua So,107278,Udon Thani,41,17.2675,103.22472,21722,,Asia__Bangkok
+TH,CITY,Ban Phaeo,108937,Samut Sakhon,74,13.59072,100.10748,41904,,Asia__Bangkok
+TH,CITY,Ban Phai,108180,Khon Kaen,40,16.05997,102.73097,35583,,Asia__Bangkok
+TH,CITY,Ban Phan Don,108761,Udon Thani,41,17.14272,102.97261,29211,,Asia__Bangkok
+TH,CITY,Ban Phe,108381,Rayong,21,12.62824,101.43757,17414,,Asia__Bangkok
+TH,CITY,Ban Phru Nai,107509,Phang Nga,82,7.95458,98.58989,5713,,Asia__Bangkok
+TH,CITY,Ban Pong,107294,Ratchaburi,70,13.81629,99.87739,57559,,Asia__Bangkok
+TH,CITY,Ban Ratsada,108974,Phuket,83,7.90963,98.40248,33534,,Asia__Bangkok
+TH,CITY,Ban Sam Chuk,108110,Suphanburi,72,14.74219,100.09531,13438,,Asia__Bangkok
+TH,CITY,Ban Selaphum,108219,Roi Et,45,16.01667,103.95,17412,,Asia__Bangkok
+TH,CITY,Ban Su-ngai Pa Di,107787,Narathiwat,96,6.07239,101.87172,14274,,Asia__Bangkok
+TH,CITY,Ban Tak,107193,Tak,63,17.04325,99.08128,18384,,Asia__Bangkok
+TH,CITY,Ban Talat Bueng,108499,Chon Buri,20,13.07147,101.00314,26113,,Asia__Bangkok
+TH,CITY,Ban Talat Nua,107986,Phuket,83,7.88489,98.38557,23381,,Asia__Bangkok
+TH,CITY,Ban Talat Yai,107954,Phuket,83,7.88481,98.40008,52192,,Asia__Bangkok
+TH,CITY,Ban Thai Tan,108883,Ang Thong,15,14.62161,100.48739,14430,,Asia__Bangkok
+TH,CITY,Bang Ban,108951,Phra Nakhon Si Ayutthaya,14,14.37395,100.48528,16588,,Asia__Bangkok
+TH,CITY,Bang Bo District,108139,Samut Prakan,11,13.58333,100.81667,28376,,Asia__Bangkok
+TH,ADM2,Bang Bon,167099,Bangkok,10,13.6592,100.38801,138698,,Asia__Bangkok
+TH,CITY,Bang Bua Thong,108704,Nonthaburi,12,13.91783,100.42403,41567,,Asia__Bangkok
+TH,ADM2,Bang Kapi,167028,Bangkok,10,13.77258,100.63847,355591,,Asia__Bangkok
+TH,ADM2,Bang Khae,167010,Bangkok,10,13.71927,100.39278,290911,,Asia__Bangkok
+TH,ADM2,Bang Khen,167040,Bangkok,10,13.86901,100.62769,245310,,Asia__Bangkok
+TH,CITY,Bang Khla,108942,Chachoengsao,24,13.72144,101.20814,13528,5,Asia__Bangkok
+TH,ADM2,Bang Kho laen,167085,Bangkok,10,13.70025,100.50971,130138,,Asia__Bangkok
+TH,ADM2,Bang Khun thain,167039,Bangkok,10,13.59482,100.42694,276488,,Asia__Bangkok
+TH,CITY,Bang Krathum,108394,Phitsanulok,65,16.57831,100.30034,18874,45,Asia__Bangkok
+TH,CITY,Bang Kruai,108589,Nonthaburi,12,13.805,100.47283,78305,7,Asia__Bangkok
+TH,CITY,Bang Lamung,109045,Chon Buri,20,13.04704,100.92891,39620,7,Asia__Bangkok
+TH,ADM2,Bang Lamung District,167036,Chon Buri,20,12.92579,100.89243,335415,,Asia__Bangkok
+TH,CITY,Bang Len,108601,Nakhon Pathom,73,14.02188,100.17183,17914,7,Asia__Bangkok
+TH,CITY,Bang Mun Nak,108931,Phichit,66,16.02781,100.37917,15616,33,Asia__Bangkok
+TH,ADM2,Bang Na,167088,Bangkok,10,13.67252,100.62089,181625,,Asia__Bangkok
+TH,CITY,Bang Nam Priao,108757,Chachoengsao,24,13.84739,101.05306,8642,6,Asia__Bangkok
+TH,CITY,Bang Pa-in,108691,Phra Nakhon Si Ayutthaya,14,14.22783,100.57589,20484,8,Asia__Bangkok
+TH,CITY,Bang Pakong,108667,Chachoengsao,24,13.54297,100.99333,25620,8,Asia__Bangkok
+TH,CITY,Bang Phae,107122,Ratchaburi,70,13.69157,99.92982,29548,11,Asia__Bangkok
+TH,ADM2,Bang Phlat,167073,Bangkok,10,13.78668,100.49152,174275,,Asia__Bangkok
+TH,CITY,Bang Racham,108467,Sing Buri,17,14.892,100.31728,15313,14,Asia__Bangkok
+TH,ADM2,Bang Rak,167045,Bangkok,10,13.73058,100.52388,50728,,Asia__Bangkok
+TH,CITY,Bang Rakam,108631,Phitsanulok,65,16.75847,100.11742,16841,47,Asia__Bangkok
+TH,CITY,Bang Saphan,107300,Prachuap Khiri Khan,77,11.21259,99.51167,15134,,Asia__Bangkok
+TH,ADM2,Bang Sue,167029,Bangkok,10,13.81921,100.5279,132948,,Asia__Bangkok
+TH,CITY,Bang Yai,108909,Nonthaburi,12,13.84341,100.36251,14012,5,Asia__Bangkok
+TH,CITY,Bangkok,108822,Bangkok,10,13.75398,100.50144,5104476,2,Asia__Bangkok
+TH,ADM2,Bangkok Noi,167046,Bangkok,10,13.76551,100.46988,158533,,Asia__Bangkok
+TH,ADM2,Bangkok Yai,167054,Bangkok,10,13.73748,100.47428,89508,,Asia__Bangkok
+TH,CITY,Betong,109007,Yala,95,5.77434,101.07231,29604,269,Asia__Bangkok
+TH,CITY,Bo Phloi,107798,Kanchanaburi,71,14.32517,99.51467,16786,96,Asia__Bangkok
+TH,CITY,Bo Rai,108890,Trat,23,12.57283,102.53714,13620,,Asia__Bangkok
+TH,CITY,Bua Yai,109041,Nakhon Ratchasima,30,15.58552,102.42587,16832,,Asia__Bangkok
+TH,CITY,Bueng Kan,108129,Bueng Kan,38,18.36303,103.65194,9712,,Asia__Bangkok
+TH,ADM2,Bueng Kum,167064,Bangkok,10,13.81023,100.6514,135671,,Asia__Bangkok
+TH,CITY,Bueng Na Rang,108224,Phichit,66,16.1712,100.12531,4948,,Asia__Bangkok
+TH,CITY,Buri Ram,108284,Buri Ram,31,14.99433,103.10392,28283,163,Asia__Bangkok
+TH,CITY,Cha-am,107257,Phetchaburi,76,12.8,99.96667,49375,5,Asia__Bangkok
+TH,CITY,Chachoengsao,108132,Chachoengsao,24,13.6882,101.07156,49741,,Asia__Bangkok
+TH,CITY,Chai Badan,109001,Lopburi,16,15.2,101.13333,25196,,Asia__Bangkok
+TH,CITY,Chai Buri,107927,Surat Thani,84,8.46222,99.07631,6126,,Asia__Bangkok
+TH,CITY,Chai Nat,108380,Chai Nat,18,15.18636,100.12353,15469,,Asia__Bangkok
+TH,CITY,Chai Prakan,108705,Chiang Mai,50,19.73136,99.13997,16090,,Asia__Bangkok
+TH,CITY,Chaiya,107153,Surat Thani,84,9.38625,99.19861,12223,,Asia__Bangkok
+TH,CITY,Chaiyaphum,108990,Chaiyaphum,36,15.81047,102.02881,58350,185,Asia__Bangkok
+TH,CITY,Chaiyo,108921,Ang Thong,15,14.67639,100.46861,13255,,Asia__Bangkok
+TH,CITY,Chanthaburi,108838,Chanthaburi,22,12.60961,102.10447,99819,10,Asia__Bangkok
+TH,CITY,Chat Trakan,108732,Phitsanulok,65,17.27606,100.60022,4608,,Asia__Bangkok
+TH,ADM2,Chatu Chak,167076,Bangkok,10,13.82888,100.56374,332877,,Asia__Bangkok
+TH,CITY,Chawang,107232,Nakhon Si Thammarat,80,8.42614,99.50472,10923,,Asia__Bangkok
+TH,CITY,Chiang Kham,108868,Phayao,56,19.52331,100.3,14092,,Asia__Bangkok
+TH,CITY,Chiang Khong,109046,Chiang Rai,57,20.26125,100.40461,14505,,Asia__Bangkok
+TH,CITY,Chiang Klang,108644,Nan,55,19.29378,100.86169,13244,,Asia__Bangkok
+TH,CITY,Chiang Mai,107701,Chiang Mai,50,18.79038,98.98468,200952,310,Asia__Bangkok
+TH,CITY,Chiang Rai,107506,Chiang Rai,57,19.90858,99.8325,78756,390,Asia__Bangkok
+TH,CITY,Chiang Saen,108999,Chiang Rai,57,20.27511,100.08689,10807,,Asia__Bangkok
+TH,CITY,Chok Chai,108109,Nakhon Ratchasima,30,14.72844,102.16524,23337,,Asia__Bangkok
+TH,CITY,Chom Bueng,107362,Ratchaburi,70,13.62,99.59169,15143,,Asia__Bangkok
+TH,CITY,Chom Thong,107203,Chiang Mai,50,18.41742,98.67428,12488,,Asia__Bangkok
+TH,ADM2,Chom Thong,167092,Bangkok,10,13.6891,100.46175,197409,,Asia__Bangkok
+TH,CITY,Chon Buri,108300,Chon Buri,20,13.3622,100.98345,219164,9,Asia__Bangkok
+TH,CITY,Chon Daen,108530,Phetchabun,67,16.18953,100.85958,17567,,Asia__Bangkok
+TH,CITY,Chum Phae,108832,Khon Kaen,40,16.5443,102.09924,46335,,Asia__Bangkok
+TH,CITY,Chumphon,107352,Chumphon,86,10.4957,99.17971,55835,12,Asia__Bangkok
+TH,CITY,Damnoen Saduak,107782,Ratchaburi,70,13.51825,99.95469,23296,,Asia__Bangkok
+TH,CITY,Dan Khun Thot,108269,Nakhon Ratchasima,30,15.2085,101.77138,15580,,Asia__Bangkok
+TH,CITY,Den Chai,108891,Phrae,54,17.98372,100.05217,17019,,Asia__Bangkok
+TH,CITY,Det Udom,108720,Ubon Ratchathani,34,14.90598,105.07836,35669,,Asia__Bangkok
+TH,ADM2,Din Daeng,167070,Bangkok,10,13.77728,100.56235,158288,,Asia__Bangkok
+TH,CITY,Doembang Nangbuat,108385,Suphanburi,72,14.83333,100.1,14671,,Asia__Bangkok
+TH,CITY,Dok Kham Tai,107605,Phayao,56,19.16242,99.99342,23824,,Asia__Bangkok
+TH,ADM2,Don Mueang,167052,Bangkok,10,13.92601,100.59365,214970,,Asia__Bangkok
+TH,CITY,Don Sak,107350,Surat Thani,84,9.31676,99.69184,12422,,Asia__Bangkok
+TH,ADM2,Dusit,166960,Bangkok,10,13.78235,100.51677,102656,,Asia__Bangkok
+TH,CITY,Fang,107745,Chiang Mai,50,19.91689,99.2145,7635,,Asia__Bangkok
+TH,CITY,Hang Dong,107220,Chiang Mai,50,18.68703,98.91939,17931,,Asia__Bangkok
+TH,CITY,Hat Yai,108615,Songkhla,90,7.00836,100.47668,191696,,Asia__Bangkok
+TH,CITY,Hua Hin,107889,Prachuap Khiri Khan,77,12.57065,99.95876,50456,,Asia__Bangkok
+TH,CITY,Huai Khot,107467,Uthai Thani,61,15.29095,99.61661,5940,,Asia__Bangkok
+TH,ADM2,Huai Khwang,167065,Bangkok,10,13.7706,100.58119,168583,,Asia__Bangkok
+TH,CITY,Huai Mek,108747,Kalasin,46,16.58975,103.23547,12352,,Asia__Bangkok
+TH,CITY,Huai Yot,107555,Trang,92,7.78937,99.63469,16586,,Asia__Bangkok
+TH,CITY,In Buri,108805,Sing Buri,17,15.00787,100.32691,5032,,Asia__Bangkok
+TH,CITY,Kabin Buri,108967,Prachin Buri,25,13.95114,101.71769,20212,,Asia__Bangkok
+TH,CITY,Kaeng Khoi,109061,Saraburi,19,14.58617,100.99758,30332,,Asia__Bangkok
+TH,CITY,Kaeng Khro,108415,Chaiyaphum,36,16.10864,102.25808,29056,,Asia__Bangkok
+TH,CITY,Kalasin,108341,Kalasin,46,16.43281,103.50658,55102,152,Asia__Bangkok
+TH,CITY,Kamalasai,108837,Kalasin,46,16.33839,103.57564,23393,,Asia__Bangkok
+TH,CITY,Kamphaeng Phet,107433,Kamphaeng Phet,62,16.48344,99.52153,58787,80,Asia__Bangkok
+TH,ADM2,Kamphaeng Saen District,166967,Nakhon Pathom,73,14.02823,99.96152,117839,,Asia__Bangkok
+TH,CITY,Kanchanaburi,107452,Kanchanaburi,71,14.00412,99.54832,63699,30,Asia__Bangkok
+TH,CITY,Kanchanadit,107797,Surat Thani,84,9.16611,99.47014,9492,,Asia__Bangkok
+TH,CITY,Kantang,107283,Trang,92,7.40542,99.51561,14156,,Asia__Bangkok
+TH,CITY,Kantharalak,108529,Si Sa Ket,33,14.64056,104.64992,36621,,Asia__Bangkok
+TH,CITY,Kao Liao,108950,Nakhon Sawan,60,15.85053,100.07914,4988,,Asia__Bangkok
+TH,CITY,Kaset Sombun,108718,Chaiyaphum,36,16.28053,101.95422,16996,,Asia__Bangkok
+TH,CITY,Kaset Wisai,108565,Roi Et,45,15.65558,103.58361,18569,,Asia__Bangkok
+TH,CITY,Kathu,108029,Phuket,83,7.91779,98.33322,34835,,Asia__Bangkok
+TH,CITY,Kham Sakae Saeng,108812,Nakhon Ratchasima,30,15.33221,102.17278,11018,,Asia__Bangkok
+TH,ADM2,Khan Na Yao,167077,Bangkok,10,13.8238,100.67649,126856,,Asia__Bangkok
+TH,CITY,Khanu Woralaksaburi,107703,Kamphaeng Phet,62,16.0617,99.86058,21889,,Asia__Bangkok
+TH,CITY,Khao Wong,108314,Kalasin,46,16.70008,104.09019,15184,,Asia__Bangkok
+TH,CITY,Khao Yoi,107457,Phetchaburi,76,13.24025,99.82428,18506,,Asia__Bangkok
+TH,CITY,Khiri Mat,107943,Sukhothai,64,16.83333,99.8,11272,,Asia__Bangkok
+TH,CITY,Khlong Khuean,108670,Chachoengsao,24,13.79131,101.16353,3703,,Asia__Bangkok
+TH,CITY,Khlong Luang,109035,Pathum Thani,13,14.06467,100.64578,118551,,Asia__Bangkok
+TH,ADM2,Khlong Sam Wa,167075,Bangkok,10,13.87633,100.73805,220339,,Asia__Bangkok
+TH,ADM2,Khlong San,166929,Bangkok,10,13.72602,100.50071,96784,,Asia__Bangkok
+TH,ADM2,Khlong Toei,166951,Bangkok,10,13.71806,100.57065,179394,,Asia__Bangkok
+TH,CITY,Khlong Yai,108387,Trat,23,11.77645,102.88567,4913,6,Asia__Bangkok
+TH,CITY,Khlung,108920,Chanthaburi,22,12.45467,102.22142,13286,,Asia__Bangkok
+TH,CITY,Khon Buri,108125,Nakhon Ratchasima,30,14.52541,102.24591,18596,,Asia__Bangkok
+TH,CITY,Khon Kaen,108250,Khon Kaen,40,16.44671,102.833,147579,162,Asia__Bangkok
+TH,CITY,Klaeng,108977,Rayong,21,12.77972,101.64831,55619,,Asia__Bangkok
+TH,CITY,Ko Chang Tai,108339,Trat,23,12.00171,102.37267,2346,,Asia__Bangkok
+TH,CITY,Ko Lanta,107119,Krabi,81,7.53362,99.08647,6090,,Asia__Bangkok
+TH,CITY,Ko Pha Ngan,108119,Surat Thani,84,9.75778,100.02914,11846,,Asia__Bangkok
+TH,CITY,Ko Samui,107147,Surat Thani,84,9.53567,99.93567,50000,,Asia__Bangkok
+TH,CITY,Ko Si Chang,108695,Chon Buri,20,13.16389,100.80547,4811,,Asia__Bangkok
+TH,CITY,Koh Tao,108383,Surat Thani,84,10.09808,99.83809,1382,,Asia__Bangkok
+TH,CITY,Kosum Phisai,108463,Maha Sarakham,44,16.24858,103.06739,10672,,Asia__Bangkok
+TH,CITY,Krabi,107543,Krabi,81,8.07257,98.91052,31219,16,Asia__Bangkok
+TH,CITY,Kranuan,109038,Khon Kaen,40,16.70672,103.07878,13475,,Asia__Bangkok
+TH,CITY,Krathum Baen,108703,Samut Sakhon,74,13.6533,100.25972,72819,,Asia__Bangkok
+TH,CITY,Kuchinarai,108901,Kalasin,46,16.541,104.05004,20532,,Asia__Bangkok
+TH,CITY,Kui Buri,107333,Prachuap Khiri Khan,77,12.08283,99.85431,19046,,Asia__Bangkok
+TH,CITY,Kumphawapi,108793,Udon Thani,41,17.10875,103.01487,8667,,Asia__Bangkok
+TH,CITY,Kut Chap,108687,Udon Thani,41,17.4257,102.56692,24696,,Asia__Bangkok
+TH,CITY,Laem Sing,108889,Chanthaburi,22,12.48164,102.07375,16066,,Asia__Bangkok
+TH,ADM2,Lak Si,167078,Bangkok,10,13.8821,100.56889,167415,,Asia__Bangkok
+TH,CITY,Lampang,107263,Lampang,52,18.29232,99.49277,156139,,Asia__Bangkok
+TH,CITY,Lamphun,107483,Lamphun,51,18.58054,99.00745,43196,,Asia__Bangkok
+TH,CITY,Lan Krabue,107559,Kamphaeng Phet,62,16.60003,99.84889,7633,,Asia__Bangkok
+TH,CITY,Lan Sak,107349,Uthai Thani,61,15.45289,99.57606,13905,,Asia__Bangkok
+TH,CITY,Lang Suan,108060,Chumphon,86,9.94561,99.07847,16142,,Asia__Bangkok
+TH,ADM2,Lat Krabang,166939,Bangkok,10,13.745,100.79224,299775,,Asia__Bangkok
+TH,ADM2,Lat Phrao,167074,Bangkok,10,13.82779,100.60672,165220,,Asia__Bangkok
+TH,CITY,Lat Yao,107597,Nakhon Sawan,60,15.751,99.78925,17506,,Asia__Bangkok
+TH,CITY,Loei,108386,Loei,42,17.49052,101.72749,35273,253,Asia__Bangkok
+TH,CITY,Lom Sak,108326,Phetchabun,67,16.77983,101.24225,17309,,Asia__Bangkok
+TH,CITY,Long,107176,Phrae,54,18.07422,99.83073,11802,,Asia__Bangkok
+TH,CITY,Lop Buri,108273,Lopburi,16,14.79808,100.65397,57761,19,Asia__Bangkok
+TH,CITY,Mae Chai,107268,Phayao,56,19.34597,99.814,5094,,Asia__Bangkok
+TH,CITY,Mae Chan,107570,Chiang Rai,57,20.14675,99.85256,37672,,Asia__Bangkok
+TH,CITY,Mae Hong Son,107495,Mae Hong Son,58,19.30029,97.96852,9109,240,Asia__Bangkok
+TH,CITY,Mae Ramat,107413,Tak,63,16.98403,98.51665,17316,,Asia__Bangkok
+TH,CITY,Mae Sai,107540,Chiang Rai,57,20.43353,99.87617,27520,,Asia__Bangkok
+TH,CITY,Mae Sot,107353,Tak,63,16.71667,98.56667,44563,,Asia__Bangkok
+TH,CITY,Mae Tha,107482,Lamphun,51,18.46456,99.14026,10048,,Asia__Bangkok
+TH,CITY,Maha Sarakham,108207,Maha Sarakham,44,16.18483,103.30067,51584,,Asia__Bangkok
+TH,ADM2,Min Buri,166869,Bangkok,10,13.81254,100.75334,225452,,Asia__Bangkok
+TH,CITY,Moeiwadi,107095,Roi Et,45,16.38944,104.1572,5609,,Asia__Bangkok
+TH,ADM2,Muang Lop Buri District,166830,Lopburi,16,14.82334,100.67557,264338,,Asia__Bangkok
+TH,ADM2,Mueang Chonburi District,166824,Chon Buri,20,13.34271,101.00111,352301,,Asia__Bangkok
+TH,CITY,Mueang Nonthaburi,107809,Nonthaburi,12,13.86075,100.51477,291555,,Asia__Bangkok
+TH,CITY,Mukdahan,107156,Mukdahan,49,16.54531,104.72351,40480,140,Asia__Bangkok
+TH,CITY,Na Klang,107384,Nong Bua Lam Phu,39,17.3072,102.18886,31024,,Asia__Bangkok
+TH,CITY,Na Mom,108028,Songkhla,90,6.95856,100.55683,7537,,Asia__Bangkok
+TH,CITY,Na Wa,107654,Nakhon Phanom,48,17.4897,104.10056,12989,,Asia__Bangkok
+TH,CITY,Nai Harn,108599,Phuket,83,7.77859,98.30661,4767,,Asia__Bangkok
+TH,CITY,Nakhon Luang,107985,Phra Nakhon Si Ayutthaya,14,14.46281,100.60832,15008,,Asia__Bangkok
+TH,CITY,Nakhon Nayok,107612,Nakhon Nayok,26,14.20463,101.21295,21309,,Asia__Bangkok
+TH,CITY,Nakhon Pathom,108037,Nakhon Pathom,73,13.8196,100.04427,117927,,Asia__Bangkok
+TH,CITY,Nakhon Phanom,107604,Nakhon Phanom,48,17.41081,104.77856,34595,149,Asia__Bangkok
+TH,CITY,Nakhon Ratchasima,107637,Nakhon Ratchasima,30,14.97066,102.10196,208781,,Asia__Bangkok
+TH,CITY,Nakhon Sawan,107534,Nakhon Sawan,60,15.70472,100.13717,91802,33,Asia__Bangkok
+TH,CITY,Nakhon Si Thammarat,107175,Nakhon Si Thammarat,80,8.43333,99.96667,120836,9,Asia__Bangkok
+TH,CITY,Nakhon Thai,107770,Phitsanulok,65,17.10056,100.83739,12345,,Asia__Bangkok
+TH,CITY,Nam Som,107726,Udon Thani,41,17.77036,102.18947,19324,,Asia__Bangkok
+TH,CITY,Nan,108086,Nan,55,18.78378,100.77899,24670,,Asia__Bangkok
+TH,CITY,Nang Rong,107609,Buri Ram,31,14.6377,102.79138,21961,,Asia__Bangkok
+TH,CITY,Narathiwat,107875,Narathiwat,96,6.42639,101.82308,47771,9,Asia__Bangkok
+TH,CITY,Non Sang,107838,Nong Bua Lam Phu,39,16.8687,102.56642,11819,,Asia__Bangkok
+TH,CITY,Non Sung,107803,Nakhon Ratchasima,30,15.18014,102.25695,18399,,Asia__Bangkok
+TH,CITY,Non Thai,107308,Nakhon Ratchasima,30,15.1958,102.07145,11959,,Asia__Bangkok
+TH,CITY,Nong Bua,107685,Nakhon Sawan,60,15.86458,100.58581,14160,,Asia__Bangkok
+TH,CITY,Nong Bua Lamphu,107335,Nong Bua Lam Phu,39,17.20406,102.44068,34401,,Asia__Bangkok
+TH,CITY,Nong Chik,107700,Pattani,94,6.84356,101.17803,11385,,Asia__Bangkok
+TH,ADM2,Nong Chok,166818,Bangkok,10,13.8528,100.85788,167896,,Asia__Bangkok
+TH,CITY,Nong Khae,107098,Saraburi,19,14.34062,100.86733,41067,,Asia__Bangkok
+TH,ADM2,Nong Khaem,166842,Bangkok,10,13.69979,100.35364,192489,,Asia__Bangkok
+TH,CITY,Nong Khai,107421,Nong Khai,43,17.87847,102.742,63609,,Asia__Bangkok
+TH,CITY,Nong Ki,107900,Buri Ram,31,14.68679,102.538,13592,,Asia__Bangkok
+TH,CITY,Nong Kung Si,107898,Kalasin,46,16.65,103.3,17001,,Asia__Bangkok
+TH,CITY,Nong Phai,108069,Phetchabun,67,15.99025,101.06183,27756,,Asia__Bangkok
+TH,CITY,Nong Wua So,107523,Udon Thani,41,17.16261,102.57272,7503,,Asia__Bangkok
+TH,CITY,Nuea Khlong,107099,Krabi,81,8.07143,98.99933,12217,,Asia__Bangkok
+TH,CITY,Pa Daet,107668,Chiang Rai,57,19.50489,99.99241,13624,,Asia__Bangkok
+TH,CITY,Pa Sang,107356,Lamphun,51,18.52617,98.93936,15607,,Asia__Bangkok
+TH,CITY,Pai,107763,Chiang Mai,50,19.36168,98.43973,2284,,Asia__Bangkok
+TH,CITY,Pak Chong,107845,Nakhon Ratchasima,30,14.70802,101.41614,48999,,Asia__Bangkok
+TH,CITY,Pak Kret,107804,Nonthaburi,12,13.91301,100.49883,182926,,Asia__Bangkok
+TH,CITY,Pak Phanang,107235,Nakhon Si Thammarat,80,8.35109,100.20195,25014,,Asia__Bangkok
+TH,CITY,Pak Thong Chai,107545,Nakhon Ratchasima,30,14.7226,102.02512,5251,,Asia__Bangkok
+TH,ADM2,Parthum Wan,166781,Bangkok,10,13.74265,100.53398,84356,,Asia__Bangkok
+TH,CITY,Pathum Thani,107993,Pathum Thani,13,14.01346,100.53049,24547,,Asia__Bangkok
+TH,CITY,Patong,108170,Phuket,83,7.89607,98.29661,14797,,Asia__Bangkok
+TH,CITY,Pattani,107173,Pattani,94,6.86814,101.25009,43690,,Asia__Bangkok
+TH,CITY,Pattaya,108603,Chon Buri,20,12.93333,100.88333,97296,,Asia__Bangkok
+TH,CITY,Phai Sali,107536,Nakhon Sawan,60,15.60003,100.64937,13088,,Asia__Bangkok
+TH,CITY,Phak Hai,108042,Phra Nakhon Si Ayutthaya,14,14.45736,100.36989,19386,,Asia__Bangkok
+TH,CITY,Phan Thong,108024,Chon Buri,20,13.46804,101.09532,18708,,Asia__Bangkok
+TH,CITY,Phanat Nikhom,107769,Chon Buri,20,13.44581,101.18445,21924,,Asia__Bangkok
+TH,CITY,Phang Nga,107304,Phang Nga,82,8.45091,98.52985,9676,,Asia__Bangkok
+TH,CITY,Phanom Sarakham,107197,Chachoengsao,24,13.74872,101.34888,16057,,Asia__Bangkok
+TH,CITY,Phanom Thuan,107768,Kanchanaburi,71,14.13031,99.69858,12469,,Asia__Bangkok
+TH,ADM2,Phasi Charoen,166801,Bangkok,10,13.72597,100.44103,197426,,Asia__Bangkok
+TH,CITY,Phatthalung,107408,Phatthalung,93,7.61786,100.07792,43522,,Asia__Bangkok
+TH,ADM2,Phaya Thai,166796,Bangkok,10,13.78442,100.54306,127799,,Asia__Bangkok
+TH,CITY,Phayakkhaphum Phisai,107566,Maha Sarakham,44,15.51631,103.19367,10212,,Asia__Bangkok
+TH,CITY,Phayao,107699,Phayao,56,19.19203,99.87883,21058,,Asia__Bangkok
+TH,CITY,Phayuha Khiri,108032,Nakhon Sawan,60,15.45525,100.13533,12271,,Asia__Bangkok
+TH,CITY,Phetchabun,107717,Phetchabun,67,16.41904,101.16056,50656,120,Asia__Bangkok
+TH,CITY,Phetchaburi,107847,Phetchaburi,76,13.11189,99.94467,46601,,Asia__Bangkok
+TH,CITY,Phibun Mangsahan,107632,Ubon Ratchathani,34,15.24467,105.22908,19883,,Asia__Bangkok
+TH,CITY,Phichit,107112,Phichit,66,16.44184,100.34879,35760,,Asia__Bangkok
+TH,CITY,Phimai,107393,Nakhon Ratchasima,30,15.22324,102.49473,13084,,Asia__Bangkok
+TH,CITY,Phitsanulok,107179,Phitsanulok,65,16.82481,100.25858,103427,45,Asia__Bangkok
+TH,CITY,Pho Chai,107630,Roi Et,45,16.32827,103.77033,13671,,Asia__Bangkok
+TH,CITY,Pho Thong,108048,Ang Thong,15,14.66731,100.40878,12200,,Asia__Bangkok
+TH,CITY,Phon,107584,Khon Kaen,40,15.816,102.59981,14596,,Asia__Bangkok
+TH,CITY,Phon Charoen,107760,Nong Khai,43,18.03333,103.16667,15208,,Asia__Bangkok
+TH,CITY,Photharam,107418,Ratchaburi,70,13.69234,99.84969,36248,,Asia__Bangkok
+TH,ADM2,Phra Khanong,166803,Bangkok,10,13.69705,100.61234,142859,,Asia__Bangkok
+TH,ADM2,Phra Nakhon,166783,Bangkok,10,13.75831,100.49613,56715,,Asia__Bangkok
+TH,CITY,Phra Nakhon Si Ayutthaya,107152,Phra Nakhon Si Ayutthaya,14,14.35167,100.57739,81962,,Asia__Bangkok
+TH,CITY,Phra Phutthabat,107524,Saraburi,19,14.72526,100.79536,57008,,Asia__Bangkok
+TH,CITY,Phra Pradaeng,107141,Samut Prakan,11,13.65855,100.53362,171333,,Asia__Bangkok
+TH,CITY,Phrae,107211,Phrae,54,18.14589,100.14103,38538,159,Asia__Bangkok
+TH,CITY,Phrai Bueng,107163,Si Sa Ket,33,14.74833,104.36261,11494,,Asia__Bangkok
+TH,CITY,Phu Khiao,107510,Chaiyaphum,36,16.3765,102.12853,17122,,Asia__Bangkok
+TH,CITY,Phu Kradueng,107529,Loei,42,16.88425,101.88467,16079,,Asia__Bangkok
+TH,CITY,Phuket,107248,Phuket,83,7.89059,98.3981,89072,,Asia__Bangkok
+TH,ADM2,Pom Prap Sattru Phai,166806,Bangkok,10,13.7548,100.50995,42262,,Asia__Bangkok
+TH,CITY,Pong,107885,Phayao,56,19.14931,100.27522,14392,,Asia__Bangkok
+TH,CITY,Pong Nam Ron,107367,Chanthaburi,22,12.90575,102.26225,8878,,Asia__Bangkok
+TH,ADM2,Pra Wet,167086,Bangkok,10,13.71735,100.69452,220197,,Asia__Bangkok
+TH,CITY,Prachin Buri,107908,Prachin Buri,25,14.04992,101.36864,32600,5,Asia__Bangkok
+TH,CITY,Prachuap Khiri Khan,107291,Prachuap Khiri Khan,77,11.82098,99.7841,33521,9,Asia__Bangkok
+TH,CITY,Prakhon Chai,107702,Buri Ram,31,14.60592,103.12081,15564,,Asia__Bangkok
+TH,CITY,Pran Buri,107827,Prachuap Khiri Khan,77,12.38487,99.90157,47293,,Asia__Bangkok
+TH,CITY,Pueai Noi,107640,Khon Kaen,40,15.86978,102.90767,4468,,Asia__Bangkok
+TH,CITY,Ra-ngae,108013,Narathiwat,96,6.29678,101.72844,16862,,Asia__Bangkok
+TH,CITY,Ranong,107848,Ranong,85,9.96583,98.63476,24561,9,Asia__Bangkok
+TH,CITY,Ranot,107492,Songkhla,90,7.77768,100.32134,19780,,Asia__Bangkok
+TH,ADM2,Rat Burana,166769,Bangkok,10,13.67633,100.49881,110391,,Asia__Bangkok
+TH,CITY,Ratchaburi,107402,Ratchaburi,70,13.53671,99.81712,92448,,Asia__Bangkok
+TH,ADM2,Ratchathewi,167067,Bangkok,10,13.76029,100.53724,108851,,Asia__Bangkok
+TH,CITY,Rawai,107594,Phuket,83,7.77965,98.32532,13623,,Asia__Bangkok
+TH,CITY,Rayong,107608,Rayong,21,12.68095,101.25798,106737,,Asia__Bangkok
+TH,CITY,Roi Et,107964,Roi Et,45,16.0567,103.65309,39328,150,Asia__Bangkok
+TH,CITY,Ron Phibun,108027,Nakhon Si Thammarat,80,8.17911,99.85425,26621,37,Asia__Bangkok
+TH,CITY,Rong Kwang,107910,Phrae,54,18.33903,100.31736,12087,,Asia__Bangkok
+TH,CITY,Sa Kaeo,107713,Sa Kaeo,27,13.81411,102.07222,28497,,Asia__Bangkok
+TH,CITY,Sadao,107949,Songkhla,90,6.63883,100.42342,46236,,Asia__Bangkok
+TH,CITY,Sai Buri,107581,Pattani,94,6.70131,101.61675,14356,,Asia__Bangkok
+TH,ADM2,Sai Mai,167079,Bangkok,10,13.90727,100.65181,212560,,Asia__Bangkok
+TH,CITY,Sakon Nakhon,107635,Sakon Nakhon,47,17.16116,104.14725,76237,175,Asia__Bangkok
+TH,CITY,Saladan,108093,Krabi,81,7.61342,99.03651,7946,,Asia__Bangkok
+TH,CITY,Sam Phran,108011,Nakhon Pathom,73,13.72698,100.21526,37115,,Asia__Bangkok
+TH,CITY,Sam Roi Yot,107752,Prachuap Khiri Khan,77,12.27081,99.87203,19709,,Asia__Bangkok
+TH,ADM2,Samphanthawong,166728,Bangkok,10,13.74233,100.50765,20765,,Asia__Bangkok
+TH,CITY,Samut Prakan,107429,Samut Prakan,11,13.59934,100.59675,388920,,Asia__Bangkok
+TH,CITY,Samut Sakhon,107239,Samut Sakhon,74,13.54753,100.27362,63498,,Asia__Bangkok
+TH,CITY,Samut Songkhram,107714,Samut Songkhram,75,13.41456,100.00264,35065,,Asia__Bangkok
+TH,CITY,San Kamphaeng,107677,Chiang Mai,50,18.74486,99.11953,32950,,Asia__Bangkok
+TH,CITY,San Pa Tong,107620,Chiang Mai,50,18.62828,98.89572,17773,,Asia__Bangkok
+TH,CITY,Sangkhla Buri,107617,Kanchanaburi,71,15.15553,98.45361,10000,,Asia__Bangkok
+TH,CITY,Sangkhom,107844,Nong Khai,43,18.06389,102.27364,3846,,Asia__Bangkok
+TH,ADM2,Saphan Sung,167071,Bangkok,10,13.76531,100.69001,120165,,Asia__Bangkok
+TH,CITY,Saraburi,107471,Saraburi,19,14.53333,100.91667,67763,,Asia__Bangkok
+TH,ADM2,Sathon,167089,Bangkok,10,13.71745,100.52999,138490,,Asia__Bangkok
+TH,CITY,Sattahip,107935,Chon Buri,20,12.66644,100.90073,65444,,Asia__Bangkok
+TH,CITY,Satuek,107674,Buri Ram,31,15.29703,103.29192,11481,,Asia__Bangkok
+TH,CITY,Satun,107531,Satun,91,6.62314,100.06676,34544,,Asia__Bangkok
+TH,CITY,Sawang Daen Din,107945,Sakon Nakhon,47,17.47531,103.45753,16825,,Asia__Bangkok
+TH,CITY,Sawang Wirawong,108419,Ubon Ratchathani,34,15.24158,105.0922,7773,,Asia__Bangkok
+TH,CITY,Sawankhalok,107899,Sukhothai,64,17.31597,99.83186,19805,,Asia__Bangkok
+TH,CITY,Seka,107378,Bueng Kan,38,17.92851,103.95519,16493,,Asia__Bangkok
+TH,CITY,Si Bun Rueang,107293,Nong Bua Lam Phu,39,16.96705,102.27607,12842,,Asia__Bangkok
+TH,CITY,Si Chiang Mai,107168,Nong Khai,43,17.95639,102.58667,14068,,Asia__Bangkok
+TH,CITY,Si Racha,107759,Chon Buri,20,13.17372,100.93111,178916,,Asia__Bangkok
+TH,CITY,Si Sa Ket,108058,Si Sa Ket,33,15.11481,104.32938,44751,,Asia__Bangkok
+TH,CITY,Si Satchanalai,107217,Sukhothai,64,17.51692,99.75978,25942,,Asia__Bangkok
+TH,CITY,Sing Buri,107247,Sing Buri,17,14.88786,100.40464,20046,,Asia__Bangkok
+TH,CITY,Soeng Sang,107565,Nakhon Ratchasima,30,14.42642,102.46058,14138,,Asia__Bangkok
+TH,CITY,Songkhla,107603,Songkhla,90,7.19882,100.5951,84264,11,Asia__Bangkok
+TH,CITY,Su-ngai Kolok,107950,Narathiwat,96,6.02977,101.96586,42776,,Asia__Bangkok
+TH,ADM2,Suanluang,167087,Bangkok,10,13.72989,100.62677,235063,,Asia__Bangkok
+TH,CITY,Sukhothai,107858,Sukhothai,64,17.00778,99.823,37000,,Asia__Bangkok
+TH,CITY,Sung Noen,107550,Nakhon Ratchasima,30,14.8992,101.82075,14365,,Asia__Bangkok
+TH,CITY,Suphan Buri,107904,Suphanburi,72,14.47418,100.12218,53399,,Asia__Bangkok
+TH,CITY,Surat Thani,107660,Surat Thani,84,9.14011,99.33311,127201,9,Asia__Bangkok
+TH,CITY,Surin,107133,Surin,32,14.88181,103.49364,46673,150,Asia__Bangkok
+TH,CITY,Suwannaphum,107131,Roi Et,45,15.60348,103.80207,12221,,Asia__Bangkok
+TH,CITY,Tak,107180,Tak,63,16.86968,99.12898,24149,,Asia__Bangkok
+TH,CITY,Tak Bai,107396,Narathiwat,96,6.25947,102.05461,17241,,Asia__Bangkok
+TH,CITY,Takhli,107454,Nakhon Sawan,60,15.26336,100.34378,24563,,Asia__Bangkok
+TH,ADM2,Taling Chan,166702,Bangkok,10,13.77271,100.43289,136546,,Asia__Bangkok
+TH,CITY,Taphan Hin,107807,Phichit,66,16.22095,100.41978,21895,,Asia__Bangkok
+TH,CITY,Tha Bo,107516,Nong Khai,43,17.85003,102.58139,35292,,Asia__Bangkok
+TH,CITY,Tha Kham,107856,Surat Thani,84,9.11072,99.23208,25810,,Asia__Bangkok
+TH,CITY,Tha Khanon,107973,Surat Thani,84,9.0302,98.95286,7300,,Asia__Bangkok
+TH,CITY,Tha Mai,107819,Chanthaburi,22,12.62137,102.00481,22445,,Asia__Bangkok
+TH,CITY,Tha Maka,107813,Kanchanaburi,71,13.9,99.76667,52907,,Asia__Bangkok
+TH,CITY,Tha Muang,107231,Kanchanaburi,71,13.96118,99.64122,26746,,Asia__Bangkok
+TH,CITY,Tha Ruea,107732,Phra Nakhon Si Ayutthaya,14,14.56739,100.72598,19116,,Asia__Bangkok
+TH,CITY,Tha Yang,107990,Phetchaburi,76,12.95772,99.90555,42602,,Asia__Bangkok
+TH,CITY,Tham Phannara,107818,Nakhon Si Thammarat,80,8.42045,99.39517,7119,,Asia__Bangkok
+TH,CITY,Thap Khlo,107994,Phichit,66,16.16003,100.59656,15528,,Asia__Bangkok
+TH,CITY,Thap Than,107114,Uthai Thani,61,15.46063,99.89166,16615,,Asia__Bangkok
+TH,CITY,That Phanom,107661,Nakhon Phanom,48,16.93636,104.71039,14424,,Asia__Bangkok
+TH,ADM2,Thawi Watthana,167080,Bangkok,10,13.77637,100.3662,90218,,Asia__Bangkok
+TH,CITY,Thoen,107886,Lampang,52,17.61289,99.21612,18459,,Asia__Bangkok
+TH,ADM2,Thon buri,166713,Bangkok,10,13.71874,100.48367,155583,,Asia__Bangkok
+TH,CITY,Thung Song,107094,Nakhon Si Thammarat,80,8.16453,99.68039,28223,,Asia__Bangkok
+TH,ADM2,Thung khru,167082,Bangkok,10,13.63387,100.49641,150358,,Asia__Bangkok
+TH,CITY,Trang,107873,Trang,92,7.55633,99.61141,66713,20,Asia__Bangkok
+TH,CITY,Trat,107359,Trat,23,12.24364,102.51514,21590,,Asia__Bangkok
+TH,CITY,Ubon Ratchathani,107952,Ubon Ratchathani,34,15.23844,104.84866,122533,125,Asia__Bangkok
+TH,CITY,Udon Thani,108000,Udon Thani,41,17.41567,102.78589,247231,,Asia__Bangkok
+TH,CITY,Uthai Thani,107961,Uthai Thani,61,15.37939,100.0245,22219,,Asia__Bangkok
+TH,CITY,Uttaradit,107365,Uttaradit,53,17.62557,100.09421,58313,64,Asia__Bangkok
+TH,ADM2,Vadhana,167084,Bangkok,10,13.73501,100.5828,171150,,Asia__Bangkok
+TH,CITY,Waeng,107959,Roi Et,45,16.30006,103.97786,13317,,Asia__Bangkok
+TH,CITY,Wang Nam Yen,108052,Sa Kaeo,27,13.50325,102.18115,16299,,Asia__Bangkok
+TH,CITY,Wang Noi,107790,Phra Nakhon Si Ayutthaya,14,14.22689,100.7155,15865,,Asia__Bangkok
+TH,CITY,Wang Nuea,107360,Lampang,52,19.14678,99.61933,2150,,Asia__Bangkok
+TH,CITY,Wang Sai Phun,107896,Phichit,66,16.3885,100.53801,8899,,Asia__Bangkok
+TH,CITY,Wang Saphung,107970,Loei,42,17.30097,101.7685,15747,,Asia__Bangkok
+TH,ADM2,Wang Thong Lang,167072,Bangkok,10,13.78188,100.60804,224013,,Asia__Bangkok
+TH,CITY,Wapi Pathum,107696,Maha Sarakham,44,15.84523,103.37678,10198,,Asia__Bangkok
+TH,CITY,Warin Chamrap,107274,Ubon Ratchathani,34,15.19319,104.8628,43102,,Asia__Bangkok
+TH,CITY,Wiang Sa,107209,Surat Thani,84,8.63585,99.3666,11933,,Asia__Bangkok
+TH,CITY,Wichian Buri,107909,Phetchabun,67,15.65778,101.10603,39272,,Asia__Bangkok
+TH,CITY,Wichit,108758,Phuket,83,7.8894,98.38523,38701,,Asia__Bangkok
+TH,CITY,Wiset Chaichan,107148,Ang Thong,15,14.5945,100.33825,19129,,Asia__Bangkok
+TH,CITY,Yala,107977,Yala,95,6.53995,101.28128,93558,31,Asia__Bangkok
+TH,ADM2,Yan na wa,167066,Bangkok,10,13.69177,100.5395,182621,,Asia__Bangkok
+TH,CITY,Yang Talat,107368,Kalasin,46,16.39982,103.36785,13360,,Asia__Bangkok
+TH,CITY,Yaring,108038,Pattani,94,6.86617,101.36894,31111,,Asia__Bangkok
+TH,CITY,Yasothon,107725,Yasothon,35,15.79408,104.1451,21643,,Asia__Bangkok

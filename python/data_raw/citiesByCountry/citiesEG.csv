@@ -1,0 +1,139 @@
+countryCode,type,cityName,cityId,regionName,regionCode,lat,lon,population,elevation,timezone
+EG,CITY,Abnūb,26399,Asyut Governorate,AST,27.26881,31.15232,68749,57,Africa__Cairo
+EG,CITY,Abu Simbel,26712,Aswan Governorate,ASN,22.3457,31.61624,5000,189,Africa__Cairo
+EG,CITY,Abū Kabīr,26865,Al Sharqia Governorate,SHR,30.72508,31.67148,100684,17,Africa__Cairo
+EG,CITY,Abū Qurqāş,26142,Minya Governorate,MN,27.9312,30.83841,61182,54,Africa__Cairo
+EG,CITY,Abū Tīj,26697,Asyut Governorate,AST,27.04514,31.31845,71257,54,Africa__Cairo
+EG,CITY,Abū al Maţāmīr,26080,Beheira Governorate,BH,30.91018,30.17438,41302,,Africa__Cairo
+EG,CITY,Ad Dilinjāt,26911,Beheira Governorate,BH,30.82796,30.53552,40386,5,Africa__Cairo
+EG,CITY,Ain Sukhna,26427,Suez Governorate,SUZ,29.60018,32.31671,45552,,Africa__Cairo
+EG,CITY,Ajā,26640,Dakahlia Governorate,DK,30.94162,31.29039,34692,12,Africa__Cairo
+EG,CITY,Akhmīm,26611,Sohag Governorate,SHG,26.56217,31.74503,99446,85,Africa__Cairo
+EG,CITY,Al Badārī,26300,Asyut Governorate,AST,26.99257,31.41554,44132,,Africa__Cairo
+EG,CITY,Al Balyanā,26797,Sohag Governorate,SHG,26.23568,32.00347,48801,75,Africa__Cairo
+EG,CITY,Al Bawīţī,26616,Giza Governorate,GZ,28.34919,28.86591,20000,130,Africa__Cairo
+EG,CITY,Al Bājūr,26418,Monufia Governorate,MNF,30.43046,31.03679,36633,15,Africa__Cairo
+EG,CITY,Al Fashn,26823,Beni Suef Governorate,BNS,28.82431,30.89948,63793,37,Africa__Cairo
+EG,CITY,Al Fayyūm,26362,Faiyum Governorate,FYM,29.30995,30.8418,306393,29,Africa__Cairo
+EG,CITY,Al Ibrāhīmīyah,26274,Al Sharqia Governorate,SHR,30.71877,31.56299,34638,14,Africa__Cairo
+EG,CITY,Al Jammālīyah,26693,Dakahlia Governorate,DK,31.18065,31.86497,68381,11,Africa__Cairo
+EG,CITY,Al Khānkah,26353,Qalyubia Governorate,KB,30.21035,31.36812,62434,19,Africa__Cairo
+EG,CITY,Al Khārijah,25944,New Valley Governorate,WAD,25.45141,30.54635,67700,81,Africa__Cairo
+EG,CITY,Al Manshāh,26595,Sohag Governorate,SHG,26.47686,31.8035,61134,72,Africa__Cairo
+EG,CITY,Al Manzalah,26415,Dakahlia Governorate,DK,31.15823,31.936,67486,10,Africa__Cairo
+EG,CITY,Al Manşūrah,26442,Dakahlia Governorate,DK,31.03637,31.38069,420195,15,Africa__Cairo
+EG,CITY,Al Maţarīyah,26567,Dakahlia Governorate,DK,31.18287,32.03108,99357,10,Africa__Cairo
+EG,CITY,Al Maḩallah al Kubrá,26154,Gharbia Governorate,GH,30.97063,31.1669,431052,17,Africa__Cairo
+EG,CITY,Al Minyā,26127,Minya Governorate,MN,28.10988,30.7503,227150,49,Africa__Cairo
+EG,CITY,Al Qanāyāt,26223,Al Sharqia Governorate,SHR,30.61927,31.46165,42912,14,Africa__Cairo
+EG,CITY,Al Qanāţir al Khayrīyah,26631,Qalyubia Governorate,KB,30.19327,31.13703,56302,20,Africa__Cairo
+EG,CITY,Al Qurayn,26283,Al Sharqia Governorate,SHR,30.61618,31.73514,61730,12,Africa__Cairo
+EG,CITY,Al Quşayr,26337,Red Sea Governorate,BA,26.10611,34.27716,24653,21,Africa__Cairo
+EG,CITY,Al Qūşīyah,26457,Asyut Governorate,AST,27.44023,30.81712,68394,54,Africa__Cairo
+EG,CITY,Al Wāsiţah,26113,Faiyum Governorate,FYM,29.33778,31.20556,37453,33,Africa__Cairo
+EG,CITY,Al Ḩawāmidīyah,26654,Giza Governorate,GZ,29.9,31.25,106841,23,Africa__Cairo
+EG,CITY,Al Ḩāmūl,26121,Kafr el-Sheikh Governorate,KFS,31.31146,31.14766,45798,5,Africa__Cairo
+EG,CITY,Al ‘Alamayn,26914,Matrouh Governorate,MT,30.83007,28.95502,7400,7,Africa__Cairo
+EG,CITY,Al ‘Ayyāţ,26325,Giza Governorate,GZ,29.61972,31.2575,34796,25,Africa__Cairo
+EG,CITY,Alexandria,26543,Alexandria Governorate,ALX,31.20176,29.91582,3811516,-1,Africa__Cairo
+EG,CITY,Arish,26805,North Sinai Governorate,SIN,31.13159,33.79844,128855,15,Africa__Cairo
+EG,CITY,Ash Shuhadā’,25966,Monufia Governorate,MNF,30.59683,30.89931,48060,12,Africa__Cairo
+EG,CITY,Ashmūn,26533,Monufia Governorate,MNF,30.29735,30.97641,82507,17,Africa__Cairo
+EG,CITY,Aswan,25976,Aswan Governorate,ASN,24.09082,32.89942,241261,99,Africa__Cairo
+EG,CITY,Asyūţ,26257,Asyut Governorate,AST,27.18096,31.18368,420585,56,Africa__Cairo
+EG,CITY,At Tall al Kabīr,26830,Al Sharqia Governorate,SHR,30.54323,31.78504,51569,11,Africa__Cairo
+EG,CITY,Awsīm,26412,Giza Governorate,GZ,30.12303,31.13571,63862,25,Africa__Cairo
+EG,CITY,Az Zarqā,26275,Damietta Governorate,DT,31.20864,31.63528,40010,4,Africa__Cairo
+EG,CITY,Aş Şaff,26026,Giza Governorate,GZ,29.56472,31.28111,38213,27,Africa__Cairo
+EG,CITY,Banhā,26064,Qalyubia Governorate,KB,30.45977,31.1842,167029,17,Africa__Cairo
+EG,CITY,Banī Mazār,25968,Minya Governorate,MN,28.5036,30.8004,58153,43,Africa__Cairo
+EG,CITY,Banī Suwayf,25938,Beni Suef Governorate,BNS,29.07441,31.09785,189624,33,Africa__Cairo
+EG,CITY,Basyūn,26508,Gharbia Governorate,GH,30.93976,30.81338,55523,12,Africa__Cairo
+EG,CITY,Bilbays,26197,Al Sharqia Governorate,SHR,30.42039,31.56223,129211,17,Africa__Cairo
+EG,CITY,Bilqās,26314,Dakahlia Governorate,DK,31.21452,31.35798,103596,13,Africa__Cairo
+EG,CITY,Būsh,26009,Beni Suef Governorate,BNS,29.14816,31.12733,86608,31,Africa__Cairo
+EG,CITY,Cairo,26079,Cairo Governorate,C,30.06263,31.24967,7734614,23,Africa__Cairo
+EG,CITY,Dahab,26083,South Sinai Governorate,JS,28.48208,34.49505,8000,21,Africa__Cairo
+EG,CITY,Damanhūr,26183,Beheira Governorate,BH,31.03408,30.46823,227943,9,Africa__Cairo
+EG,CITY,Damietta,26092,Damietta Governorate,DT,31.41648,31.81332,76839,16,Africa__Cairo
+EG,CITY,Dayr Mawās,26506,Minya Governorate,MN,27.64176,30.84662,40609,48,Africa__Cairo
+EG,CITY,Dayrūţ,26035,Asyut Governorate,AST,27.55602,30.80764,67788,52,Africa__Cairo
+EG,CITY,Dikirnis,25956,Dakahlia Governorate,DK,31.08898,31.59478,137542,13,Africa__Cairo
+EG,CITY,Dishnā,26733,Qena Governorate,KN,26.12467,32.47598,54197,75,Africa__Cairo
+EG,CITY,Disūq,26675,Kafr el-Sheikh Governorate,KFS,31.13259,30.64784,102037,11,Africa__Cairo
+EG,CITY,Diyarb Najm,26287,Al Sharqia Governorate,SHR,30.75438,31.44016,51841,10,Africa__Cairo
+EG,CITY,El Gouna,26713,Red Sea Governorate,BA,27.39417,33.67825,15000,8,Africa__Cairo
+EG,CITY,El-Tor,26384,South Sinai Governorate,JS,28.24168,33.6222,14972,14,Africa__Cairo
+EG,CITY,Farshūţ,26184,Qena Governorate,KN,26.05494,32.16329,53851,78,Africa__Cairo
+EG,CITY,Fuwwah,26536,Kafr el-Sheikh Governorate,KFS,31.20365,30.54908,63310,9,Africa__Cairo
+EG,CITY,Fāqūs,26754,Al Sharqia Governorate,SHR,30.72816,31.79697,62821,13,Africa__Cairo
+EG,CITY,Fāraskūr,26247,Damietta Governorate,DT,31.32977,31.71507,58284,15,Africa__Cairo
+EG,CITY,Giza,26400,Giza Governorate,GZ,30.00944,31.20861,2443203,30,Africa__Cairo
+EG,CITY,Hihyā,26301,Al Sharqia Governorate,SHR,30.6713,31.58801,43432,14,Africa__Cairo
+EG,CITY,Hurghada,26312,Red Sea Governorate,BA,27.25738,33.81291,95622,11,Africa__Cairo
+EG,CITY,Ibshawāy,26466,Faiyum Governorate,FYM,29.35896,30.68061,51173,2,Africa__Cairo
+EG,CITY,Idfū,26375,Aswan Governorate,ASN,24.97916,32.87722,133000,86,Africa__Cairo
+EG,CITY,Idkū,25954,Beheira Governorate,BH,31.3073,30.2981,210678,6,Africa__Cairo
+EG,CITY,Ismailia,26892,Ismailia Governorate,IS,30.60427,32.27225,284813,14,Africa__Cairo
+EG,CITY,Isnā,26155,Qena Governorate,KN,25.29336,32.55402,69335,86,Africa__Cairo
+EG,CITY,Iţsā,26895,Faiyum Governorate,FYM,29.2376,30.78944,45269,20,Africa__Cairo
+EG,CITY,Jirjā,25998,Sohag Governorate,SHG,26.33826,31.89161,128250,70,Africa__Cairo
+EG,CITY,Juhaynah,26883,Sohag Governorate,SHG,26.67319,31.4976,47821,64,Africa__Cairo
+EG,CITY,Kafr ad Dawwār,26825,Beheira Governorate,BH,31.13379,30.12969,267370,5,Africa__Cairo
+EG,CITY,Kafr ash Shaykh,26715,Kafr el-Sheikh Governorate,KFS,31.11174,30.93991,143970,,Africa__Cairo
+EG,CITY,Kafr az Zayyāt,26764,Gharbia Governorate,GH,30.8248,30.81805,73725,18,Africa__Cairo
+EG,CITY,Kafr Şaqr,26341,Al Sharqia Governorate,SHR,30.79336,31.62575,34967,11,Africa__Cairo
+EG,CITY,Kawm Umbū,26887,Aswan Governorate,ASN,24.47669,32.94626,59787,108,Africa__Cairo
+EG,CITY,Kawm Ḩamādah,26627,Beheira Governorate,BH,30.76128,30.69972,36751,9,Africa__Cairo
+EG,CITY,Kousa,26633,Qena Governorate,KN,25.91544,32.76287,60181,81,Africa__Cairo
+EG,CITY,Luxor,26819,Luxor Governorate,LX,25.69893,32.6421,422407,89,Africa__Cairo
+EG,CITY,Madīnat Sittah Uktūbar,26383,Giza Governorate,GZ,29.81667,31.05,41930,,Africa__Cairo
+EG,CITY,Makadi Bay,26778,Red Sea Governorate,BA,26.99123,33.89952,4000,5,Africa__Cairo
+EG,CITY,Mallawī,26677,Minya Governorate,MN,27.7314,30.84165,142504,52,Africa__Cairo
+EG,CITY,Manfalūţ,26298,Asyut Governorate,AST,27.3126,30.96987,78744,53,Africa__Cairo
+EG,ADM2,Markaz Disūq,144096,Kafr el-Sheikh Governorate,KFS,31.1459,30.71609,129604,,Africa__Cairo
+EG,ADM2,Markaz Jirjā,144076,Sohag Governorate,SHG,26.30683,31.84574,102701,,Africa__Cairo
+EG,ADM2,Markaz Sūhāj,144056,Sohag Governorate,SHG,26.53948,31.67524,201339,,Africa__Cairo
+EG,ADM2,Markaz al Uqşur,144109,Luxor Governorate,LX,25.62986,32.59017,422407,,Africa__Cairo
+EG,CITY,Marsa Alam,26705,Red Sea Governorate,BA,25.06305,34.89005,10000,18,Africa__Cairo
+EG,CITY,Mashtūl as Sūq,26768,Al Sharqia Governorate,SHR,30.36056,31.3776,45798,15,Africa__Cairo
+EG,CITY,Maţāy,26001,Minya Governorate,MN,28.41899,30.77924,45215,40,Africa__Cairo
+EG,CITY,Mersa Matruh,26139,Matrouh Governorate,MT,31.3529,27.23725,62042,7,Africa__Cairo
+EG,CITY,Minyat an Naşr,26428,Dakahlia Governorate,DK,31.12624,31.64313,56951,4,Africa__Cairo
+EG,CITY,Munshāt ‘Alī Āghā,26324,Kafr el-Sheikh Governorate,KFS,31.15791,30.70177,3847,,Africa__Cairo
+EG,CITY,Munūf,26756,Monufia Governorate,MNF,30.46597,30.93199,83651,20,Africa__Cairo
+EG,CITY,Naja' Ḥammādī,26525,Qena Governorate,KN,26.04949,32.24142,41184,78,Africa__Cairo
+EG,CITY,New Cairo,26310,Cairo Governorate,C,30.03,31.47,200000,271,Africa__Cairo
+EG,CITY,Nuwaybi‘a,26096,South Sinai Governorate,JS,29.04681,34.6634,5000,11,Africa__Cairo
+EG,CITY,Port Said,26765,Port Said Governorate,PTS,31.26531,32.3019,538378,6,Africa__Cairo
+EG,CITY,Qalyūb,26773,Qalyubia Governorate,KB,30.17922,31.2056,100495,22,Africa__Cairo
+EG,CITY,Qaşr al Farāfirah,26864,New Valley Governorate,WAD,27.0568,27.96979,5000,76,Africa__Cairo
+EG,CITY,Qinā,26879,Qena Governorate,KN,26.16418,32.72671,235362,80,Africa__Cairo
+EG,CITY,Quwaysinā,26578,Monufia Governorate,MNF,30.56482,31.15777,42708,15,Africa__Cairo
+EG,CITY,Quţūr,26318,Gharbia Governorate,GH,30.97225,30.95614,23842,9,Africa__Cairo
+EG,CITY,Ras Gharib,26012,Red Sea Governorate,BA,28.35831,33.07829,32000,16,Africa__Cairo
+EG,CITY,Rosetta,26371,Beheira Governorate,BH,31.39951,30.41718,64481,15,Africa__Cairo
+EG,CITY,Safaga,26861,Red Sea Governorate,BA,26.74906,33.93891,32944,23,Africa__Cairo
+EG,CITY,Saint Catherine,26671,South Sinai Governorate,JS,28.56191,33.94934,4603,1586,Africa__Cairo
+EG,CITY,Samannūd,26289,Gharbia Governorate,GH,30.9616,31.24069,54980,12,Africa__Cairo
+EG,CITY,Samālūţ,26493,Minya Governorate,MN,28.31214,30.71007,90465,41,Africa__Cairo
+EG,CITY,Sharm el-Sheikh,25970,South Sinai Governorate,JS,27.91582,34.32995,12000,1,Africa__Cairo
+EG,CITY,Shibīn al Kawm,26201,Monufia Governorate,MNF,30.55258,31.00904,186345,23,Africa__Cairo
+EG,CITY,Shibīn al Qanāṭir,26622,Qalyubia Governorate,KB,30.31269,31.32018,56872,,Africa__Cairo
+EG,CITY,Shirbīn,26519,Dakahlia Governorate,DK,31.19688,31.5243,54676,11,Africa__Cairo
+EG,CITY,Siwa Oasis,26619,Matrouh Governorate,MT,29.2032,25.51965,7000,,Africa__Cairo
+EG,CITY,Sohag,26669,Sohag Governorate,SHG,26.55695,31.69478,209419,,Africa__Cairo
+EG,CITY,Suez,26647,Suez Governorate,SUZ,29.97371,32.52627,488125,11,Africa__Cairo
+EG,CITY,Sumusţā as Sulţānī,26719,Beni Suef Governorate,BNS,28.91667,30.85,37260,28,Africa__Cairo
+EG,CITY,Sīdī Sālim,26251,Kafr el-Sheikh Governorate,KFS,31.27133,30.78617,47998,6,Africa__Cairo
+EG,CITY,Talā,26642,Monufia Governorate,MNF,30.6798,30.94364,51498,16,Africa__Cairo
+EG,CITY,Tanda,26884,Gharbia Governorate,GH,30.78847,31.00192,404901,12,Africa__Cairo
+EG,CITY,Toukh,26550,Qalyubia Governorate,KB,30.35487,31.20105,67599,20,Africa__Cairo
+EG,CITY,Zagazig,26607,Al Sharqia Governorate,SHR,30.58768,31.502,285097,16,Africa__Cairo
+EG,CITY,Zefta,26452,Gharbia Governorate,GH,30.7142,31.24425,92667,16,Africa__Cairo
+EG,CITY,Ţahţā,26164,Sohag Governorate,SHG,26.76866,31.50198,90591,66,Africa__Cairo
+EG,CITY,Ţalkhā,26629,Dakahlia Governorate,DK,31.0539,31.37787,157737,7,Africa__Cairo
+EG,CITY,Ţāmiyah,26812,Faiyum Governorate,FYM,29.47639,30.96119,46866,,Africa__Cairo
+EG,CITY,Ḩalwān,26576,Cairo Governorate,C,29.84144,31.30084,230000,28,Africa__Cairo
+EG,CITY,Ḩawsh ‘Īsá,26446,Beheira Governorate,BH,30.9128,30.29019,85352,6,Africa__Cairo
+EG,CITY,‘Izbat al Burj,26483,Dakahlia Governorate,DK,31.5084,31.84106,37953,8,Africa__Cairo
