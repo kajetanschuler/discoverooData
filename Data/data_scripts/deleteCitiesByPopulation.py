@@ -1,4 +1,6 @@
 import csv
+import country_converter as coco
+
 
 def main():
     with open('../data_raw/allCities.csv', 'rt') as inp, open('../data_processed/allCitiesMinPopulation.csv', 'wt') as out:
