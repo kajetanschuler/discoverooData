@@ -1,3 +1,4 @@
+countryCode,type,cityName,cityId,regionName,regionCode,lat,lon,population,elevation,timezone
 AE,CITY,Abu Dhabi,659,Abu Dhabi Emirate,AZ,24.45118,54.39696,603492,14,Asia__Dubai
 AE,ADM2,Abu Dhabi Municipality,466804,Abu Dhabi Emirate,AZ,24.41361,54.43295,1797294,,Asia__Dubai
 AE,ADM2,Ajman,757530,Ajman Emirate,AJ,25.40328,55.52341,490035,,Asia__Dubai
