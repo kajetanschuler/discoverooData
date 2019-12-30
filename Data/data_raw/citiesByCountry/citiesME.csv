@@ -1,0 +1,39 @@
+countryCode,type,cityName,cityId,regionName,regionCode,lat,lon,population,elevation,timezone
+ME,CITY,Andrijevica,71210,Andrijevica Municipality,01,42.73389,19.79194,1073,,Europe__Podgorica
+ME,CITY,Bar,71179,Bar Municipality,02,42.0937,19.09841,17727,5,Europe__Podgorica
+ME,CITY,Berane,71167,Berane Municipality,03,42.8425,19.87333,11073,,Europe__Podgorica
+ME,CITY,Bijela,71256,Herceg Novi,08,42.45333,18.65556,2395,,Europe__Podgorica
+ME,CITY,Bijelo Polje,70836,Bijelo Polje Municipality,04,43.03834,19.74758,15400,,Europe__Podgorica
+ME,CITY,Budva,70907,Budva Municipality,05,42.28639,18.84,18000,,Europe__Podgorica
+ME,CITY,Cetinje,71065,Old Royal Capital Cetinje,06,42.39063,18.91417,15137,,Europe__Podgorica
+ME,CITY,Danilovgrad,71319,Danilovgrad Municipality,07,42.55384,19.14608,5208,,Europe__Podgorica
+ME,CITY,Dobrota,70882,Kotor Municipality,10,42.45417,18.76833,5435,,Europe__Podgorica
+ME,CITY,Golubovci,71070,Podgorica Municipality,16,42.335,19.23111,4,,Europe__Podgorica
+ME,CITY,Goričani,71168,Podgorica Municipality,16,42.33222,19.21194,1205,,Europe__Podgorica
+ME,CITY,Gusinje,71536,Gusinje Municipality,22,42.56194,19.83389,4,1014,Europe__Podgorica
+ME,CITY,Herceg-Novi,70994,Herceg Novi,08,42.45306,18.5375,19536,40,Europe__Podgorica
+ME,CITY,Igalo,71014,Herceg Novi,08,42.46007,18.50647,3754,0,Europe__Podgorica
+ME,CITY,Kolašin,71198,Kolašin Municipality,09,42.82229,19.51653,2989,,Europe__Podgorica
+ME,CITY,Kotor,71294,Kotor Municipality,10,42.42067,18.76825,5345,635,Europe__Podgorica
+ME,CITY,Lipci,71704,Kotor Municipality,10,42.49722,18.65806,1200,,Europe__Podgorica
+ME,CITY,Mataguži,71560,Podgorica Municipality,16,42.32361,19.27278,1132,,Europe__Podgorica
+ME,CITY,Mojanovići,70808,Podgorica Municipality,16,42.34167,19.22139,1800,,Europe__Podgorica
+ME,CITY,Mojkovac,71308,Mojkovac Municipality,11,42.96044,19.5833,4120,,Europe__Podgorica
+ME,CITY,Nikšić,70838,Nikšić Municipality,12,42.7731,18.94446,58212,,Europe__Podgorica
+ME,CITY,Petrovac na Moru,71244,Budva Municipality,05,42.20556,18.9425,1485,76,Europe__Podgorica
+ME,CITY,Plav,71351,Plav Municipality,13,42.59694,19.94556,3615,1065,Europe__Podgorica
+ME,CITY,Pljevlja,71050,Pljevlja Municipality,14,43.3567,19.35843,19489,,Europe__Podgorica
+ME,CITY,Plužine,70891,Plužine Municipality,15,43.15278,18.83944,1494,,Europe__Podgorica
+ME,CITY,Podgorica,70981,Podgorica Municipality,16,42.44111,19.26361,136473,48,Europe__Podgorica
+ME,CITY,Prčanj,71741,Kotor Municipality,10,42.4575,18.74222,1244,268,Europe__Podgorica
+ME,CITY,Risan,71126,Kotor Municipality,10,42.515,18.69556,2083,,Europe__Podgorica
+ME,CITY,Rožaje,71716,Rožaje Municipality,17,42.83299,20.16652,9121,1109,Europe__Podgorica
+ME,CITY,Spuž,71056,Danilovgrad Municipality,07,42.515,19.195,1241,,Europe__Podgorica
+ME,CITY,Stari Bar,70797,Bar Municipality,02,42.097,19.136,1514,241,Europe__Podgorica
+ME,CITY,Sutomore,70829,Bar Municipality,02,42.14278,19.04667,1827,4,Europe__Podgorica
+ME,CITY,Tivat,71670,Tivat Municipality,19,42.43623,18.69361,6280,,Europe__Podgorica
+ME,CITY,Tuzi,71669,Tivat Municipality,19,42.36556,19.33139,3789,44,Europe__Podgorica
+ME,CITY,Ulcinj,71441,Ulcinj Municipality,20,41.92936,19.22436,10828,7,Europe__Podgorica
+ME,CITY,Šavnik,70770,Šavnik Municipality,18,42.95639,19.09667,633,,Europe__Podgorica
+ME,CITY,Šušanj,71601,Bar Municipality,02,42.11556,19.08833,2521,46,Europe__Podgorica
+ME,CITY,Žabljak,71003,Žabljak Municipality,21,43.15423,19.12325,1937,1456,Europe__Podgorica

@@ -1,0 +1,1084 @@
+countryCode,type,cityName,cityId,regionName,regionCode,lat,lon,population,elevation,timezone
+CA,CITY,100 Mile House,2374705,British Columbia,BC,51.64982,-121.28594,1980,927,America__Vancouver
+CA,CITY,Abbotsford,10740,British Columbia,BC,49.05798,-122.25257,151683,38,America__Vancouver
+CA,ADM2,Abitibi-Témiscamingue,139963,Quebec,QC,48.10018,-77.7828,145000,,America__Toronto
+CA,CITY,Acton Vale,10451,Quebec,QC,45.65007,-72.56582,5135,,America__Toronto
+CA,CITY,Adstock,10146,Quebec,QC,46.05007,-71.08235,2643,,America__Toronto
+CA,CITY,Agassiz,10674,British Columbia,BC,49.23298,-121.76926,4738,,America__Vancouver
+CA,CITY,Airdrie,10065,Alberta,AB,51.30011,-114.03528,24673,1098,America__Edmonton
+CA,CITY,Ajax,10372,Ontario,ON,43.85012,-79.03288,90167,90,America__Toronto
+CA,CITY,Albanel,10890,Quebec,QC,48.88324,-72.44867,1087,,America__Toronto
+CA,ADM2,Albert County,139967,New Brunswick,NB,45.83346,-64.91548,27562,,America__Moncton
+CA,CITY,Alberton,10411,Prince Edward Island,PE,46.81685,-64.06542,1147,,America__Halifax
+CA,CITY,Aldergrove,11036,British Columbia,BC,49.05801,-122.47087,12363,102,America__Vancouver
+CA,CITY,Aldergrove East,1219670,British Columbia,BC,49.05593,-122.42299,3491,,America__Vancouver
+CA,ADM2,Algoma,139965,Ontario,ON,47.88364,-84.42406,115870,,America__Toronto
+CA,CITY,Alliston,1209022,Ontario,ON,44.15011,-79.86635,18809,,America__Toronto
+CA,CITY,Alma,10116,Quebec,QC,48.55009,-71.6491,29526,,America__Toronto
+CA,CITY,Altona,10492,Manitoba,MB,49.10469,-97.55961,3613,247,America__Winnipeg
+CA,CITY,Amherst,10558,Nova Scotia,NS,45.83345,-64.19874,9336,22,America__Halifax
+CA,CITY,Amherstburg,1219650,Ontario,ON,42.10009,-83.09985,13910,181,America__Toronto
+CA,CITY,Amigo Beach,1230226,Ontario,ON,44.70011,-79.39963,1545,,America__Toronto
+CA,CITY,Amos,10410,Quebec,QC,48.56688,-78.11624,17918,310,America__Toronto
+CA,CITY,Amqui,11891,Quebec,QC,48.46382,-67.43134,6261,,America__Toronto
+CA,CITY,Ancaster,11799,Ontario,ON,43.21806,-79.98716,33232,,America__Toronto
+CA,CITY,Ange-Gardien,9958,Quebec,QC,45.35008,-72.93244,2420,,America__Toronto
+CA,CITY,Angus,10559,Ontario,ON,44.31681,-79.88295,10269,,America__Toronto
+CA,CITY,Anmore,10790,British Columbia,BC,49.31637,-122.85263,2210,180,America__Vancouver
+CA,ADM2,Annapolis County,139969,Nova Scotia,NS,44.58345,-65.16551,18252,,America__Halifax
+CA,CITY,Antigonish,10114,Nova Scotia,NS,45.61685,-61.99858,5003,34,America__Halifax
+CA,ADM2,Antigonish County,139971,Nova Scotia,NS,45.66685,-61.91528,18836,,America__Halifax
+CA,CITY,Arbutus Ridge,1240783,British Columbia,BC,49.24966,-123.16934,1063,,America__Vancouver
+CA,CITY,Armstrong,10419,British Columbia,BC,50.44979,-119.20235,4275,360,America__Vancouver
+CA,CITY,Arnprior,10545,Ontario,ON,45.43341,-76.34939,9607,74,America__Toronto
+CA,CITY,Asbestos,10234,Quebec,QC,45.76678,-71.9324,7190,,America__Toronto
+CA,CITY,Ashcroft,10836,British Columbia,BC,50.72372,-121.28207,1796,335,America__Vancouver
+CA,CITY,Assiniboia,10447,Saskatchewan,SK,49.63336,-105.98446,2320,,America__Regina
+CA,CITY,Athabasca,10393,Alberta,AB,54.71687,-113.28537,2539,515,America__Edmonton
+CA,CITY,Atikokan,10746,Ontario,ON,48.75667,-91.62409,3400,,America__Atikokan
+CA,CITY,Attawapiskat,1230211,Ontario,ON,52.92774,-82.41669,1501,,America__Toronto
+CA,CITY,Aurora,1261877,Ontario,ON,44.00011,-79.46632,55445,,America__Toronto
+CA,CITY,Aylmer,10032,Ontario,ON,42.76679,-80.98302,7527,235,America__Toronto
+CA,CITY,Azilda,1230212,Ontario,ON,46.55008,-81.09975,4663,,America__Toronto
+CA,CITY,Baie Ste. Anne,1240807,New Brunswick,NB,47.05231,-64.95355,1319,,America__Moncton
+CA,CITY,Baie-Comeau,10861,Quebec,QC,49.21679,-68.14894,29808,21,America__Toronto
+CA,CITY,Baie-D'Urfé,10612,Quebec,QC,45.41397,-73.91586,3902,,America__Toronto
+CA,CITY,Baie-Saint-Paul,10983,Quebec,QC,47.44109,-70.49858,7288,,America__Toronto
+CA,CITY,Ballantrae,1230225,Ontario,ON,44.03342,-79.2996,3223,334,America__Toronto
+CA,CITY,Bancroft,10716,Ontario,ON,45.05752,-77.85702,3838,,America__Toronto
+CA,CITY,Banff,10772,Alberta,AB,51.17622,-115.56982,7502,1400,America__Edmonton
+CA,CITY,Barraute,10546,Quebec,QC,48.43349,-77.63279,1180,,America__Toronto
+CA,CITY,Barrhead,10203,Alberta,AB,54.13345,-114.40211,4430,645,America__Edmonton
+CA,CITY,Barrie,10733,Ontario,ON,44.40011,-79.66634,182041,252,America__Toronto
+CA,CITY,Barrière,1240792,British Columbia,BC,51.18308,-120.1192,1283,,America__Vancouver
+CA,ADM2,Bas-Saint-Laurent,140208,Quebec,QC,48.0503,-68.02266,200000,,America__Toronto
+CA,CITY,Bassano,10586,Alberta,AB,50.78342,-112.46854,1388,792,America__Edmonton
+CA,CITY,Bath,1209036,Ontario,ON,44.18342,-76.78273,1180,,America__Toronto
+CA,CITY,Bathurst,10955,New Brunswick,NB,47.61814,-65.65112,12714,,America__Moncton
+CA,CITY,Bay Roberts,10329,Newfoundland and Labrador,NL,47.59989,-53.26478,13737,,America__St_Johns
+CA,CITY,Bay St. George South,1240787,Newfoundland and Labrador,NL,48.22781,-58.84162,1103,,America__St_Johns
+CA,CITY,Beaconsfield,10866,Quebec,QC,45.43341,-73.86586,19194,,America__Toronto
+CA,CITY,Beauceville,10330,Quebec,QC,46.21785,-70.77873,6226,229,America__Toronto
+CA,CITY,Beauharnois,10036,Quebec,QC,45.31341,-73.8725,11918,,America__Toronto
+CA,CITY,Beaumont,10182,Alberta,AB,53.35013,-113.41871,7366,735,America__Edmonton
+CA,CITY,Beaupré,10663,Quebec,QC,47.04428,-70.89529,2803,,America__Toronto
+CA,CITY,Beausejour,10255,Manitoba,MB,50.0622,-96.51669,2886,251,America__Winnipeg
+CA,CITY,Beaverlodge,10934,Alberta,AB,55.21664,-119.43605,2219,730,America__Edmonton
+CA,CITY,Bedford,10879,Quebec,QC,45.11678,-72.98244,2684,53,America__Toronto
+CA,CITY,Behchokǫ̀,11765,Northwest Territories,NT,62.8025,-116.04639,1926,7,America__Yellowknife
+CA,CITY,Belfast,10408,Prince Edward Island,PE,46.08341,-62.88197,1839,,America__Halifax
+CA,CITY,Belleville,9983,Ontario,ON,44.16682,-77.38277,49454,,America__Toronto
+CA,CITY,Bells Corners,10046,Ontario,ON,45.31588,-75.83012,9977,90,America__Toronto
+CA,CITY,Belmont,1219638,Ontario,ON,42.88339,-81.08303,1140,,America__Toronto
+CA,CITY,Beloeil,10425,Quebec,QC,45.56839,-73.20568,18927,14,America__Toronto
+CA,CITY,Berthierville,10822,Quebec,QC,46.08336,-73.18245,4411,,America__Toronto
+CA,CITY,Berwick,10368,Nova Scotia,NS,45.05015,-64.73208,2271,43,America__Halifax
+CA,CITY,Biggar,10136,Saskatchewan,SK,52.0668,-108.00135,2068,,America__Regina
+CA,CITY,Binbrook,10254,Ontario,ON,43.12135,-79.81104,8796,,America__Toronto
+CA,CITY,Black Diamond,10497,Alberta,AB,50.70011,-114.2353,3663,1159,America__Edmonton
+CA,CITY,Blackfalds,10648,Alberta,AB,52.38342,-113.7853,3198,880,America__Edmonton
+CA,CITY,Blainville,10353,Quebec,QC,45.66678,-73.88249,46493,,America__Toronto
+CA,CITY,Bluewater,10351,Ontario,ON,43.46679,-81.59977,7044,,America__Toronto
+CA,CITY,Bois-des-Filion,10424,Quebec,QC,45.66678,-73.74918,8383,,America__Toronto
+CA,CITY,Boisbriand,10244,Quebec,QC,45.61678,-73.83249,26483,,America__Toronto
+CA,CITY,Boissevain,10617,Manitoba,MB,49.23062,-100.05586,1557,,America__Winnipeg
+CA,CITY,Bon Accord,10247,Alberta,AB,53.83345,-113.41872,1611,625,America__Edmonton
+CA,CITY,Bonaventure,11373,Quebec,QC,48.04573,-65.49259,2673,,America__Toronto
+CA,CITY,Bonavista,10658,Newfoundland and Labrador,NL,48.64989,-53.11474,3658,,America__St_Johns
+CA,CITY,Bonnyville,10304,Alberta,AB,54.26684,-110.73505,6003,564,America__Edmonton
+CA,CITY,Botwood,10079,Newfoundland and Labrador,NL,49.14994,-55.34819,2940,41,America__St_Johns
+CA,CITY,Boucherville,10517,Quebec,QC,45.59104,-73.43605,39062,,America__Toronto
+CA,CITY,Bouctouche,10872,New Brunswick,NB,46.46844,-64.73905,1895,,America__Moncton
+CA,CITY,Bourget,10334,Ontario,ON,45.4334,-75.1493,1169,,America__Toronto
+CA,CITY,Bow Island,10090,Alberta,AB,49.86676,-111.36843,2025,799,America__Edmonton
+CA,CITY,Bowen Island,10805,British Columbia,BC,49.3847,-123.33622,3551,,America__Vancouver
+CA,CITY,Bracebridge,10508,Ontario,ON,45.03341,-79.31633,8238,,America__Toronto
+CA,CITY,Brampton,10813,Ontario,ON,43.68341,-79.76633,433806,218,America__Toronto
+CA,CITY,Brandon,10283,Manitoba,MB,49.84692,-99.95306,26234,409,America__Winnipeg
+CA,CITY,Brant,9981,Ontario,ON,43.1334,-80.34967,34415,,America__Toronto
+CA,CITY,Brantford,10881,Ontario,ON,43.1334,-80.26636,87759,248,America__Toronto
+CA,CITY,Breakeyville,11052,Quebec,QC,46.68037,-71.22327,5000,101,America__Toronto
+CA,CITY,Bridgewater,10235,Nova Scotia,NS,44.37856,-64.51882,8070,22,America__Halifax
+CA,CITY,Brockville,9961,Ontario,ON,44.59132,-75.68705,23886,,America__Toronto
+CA,CITY,Bromont,10530,Quebec,QC,45.31678,-72.64912,3895,139,America__Toronto
+CA,CITY,Brooks,10461,Alberta,AB,50.58341,-111.88509,12744,760,America__Edmonton
+CA,CITY,Brossard,10587,Quebec,QC,45.45008,-73.46583,69575,,America__Toronto
+CA,CITY,Brownsburg-Chatham,10143,Quebec,QC,45.68342,-74.4159,6664,,America__Toronto
+CA,CITY,Brussels,1219642,Ontario,ON,43.73339,-81.24975,1158,,America__Toronto
+CA,CITY,Buckingham,1209104,Quebec,QC,45.58563,-75.4208,16685,,America__Toronto
+CA,CITY,Burford,1240788,Ontario,ON,43.10292,-80.42869,1615,,America__Toronto
+CA,CITY,Burgeo,10300,Newfoundland and Labrador,NL,47.61668,-57.61516,1627,,America__St_Johns
+CA,CITY,Burlington,10485,Ontario,ON,43.38621,-79.83713,164415,74,America__Toronto
+CA,CITY,Burnaby,10806,British Columbia,BC,49.26636,-122.95263,202799,370,America__Vancouver
+CA,CITY,Burns Lake,9993,British Columbia,BC,54.22972,-125.76084,2635,720,America__Vancouver
+CA,CITY,Bécancour,10045,Quebec,QC,46.34106,-72.43224,11134,,America__Toronto
+CA,CITY,Cabano,11075,Quebec,QC,47.68065,-68.8781,3199,,America__Toronto
+CA,CITY,Cache Creek,10456,British Columbia,BC,50.81011,-121.3246,1061,396,America__Vancouver
+CA,CITY,Cacouna,11093,Quebec,QC,47.91657,-69.50054,1939,,America__Toronto
+CA,CITY,Calgary,10509,Alberta,AB,51.05011,-114.08529,1019942,1048,America__Edmonton
+CA,CITY,Calmar,10199,Alberta,AB,53.26683,-113.81874,2000,730,America__Edmonton
+CA,CITY,Cambridge,10765,Ontario,ON,43.3601,-80.31269,120372,329,America__Toronto
+CA,CITY,Camlachie,10148,Ontario,ON,43.03596,-82.1616,7506,,America__Toronto
+CA,CITY,Campbell River,10486,British Columbia,BC,50.01634,-125.24459,33430,24,America__Vancouver
+CA,CITY,Campbellton,11460,New Brunswick,NB,48.00751,-66.67272,7384,148,America__Moncton
+CA,CITY,Camrose,10850,Alberta,AB,53.01684,-112.83525,15686,740,America__Edmonton
+CA,CITY,Candiac,10056,Quebec,QC,45.38338,-73.51587,15947,,America__Toronto
+CA,CITY,Canmore,10661,Alberta,AB,51.08335,-115.35206,12288,1375,America__Edmonton
+CA,CITY,Canora,10147,Saskatchewan,SK,51.63328,-102.43425,2055,487,America__Regina
+CA,CITY,Cantley,10564,Quebec,QC,45.5668,-75.78265,10412,,America__Toronto
+CA,CITY,Cap-Chat,10406,Quebec,QC,49.09736,-66.68514,1466,,America__Toronto
+CA,CITY,Cap-Santé,11524,Quebec,QC,46.67159,-71.78812,2666,,America__Toronto
+CA,ADM2,Cape Breton County,139979,Nova Scotia,NS,46.00014,-60.31516,147000,,America__Glace_Bay
+CA,ADM2,Capitale-Nationale,140204,Quebec,QC,47.376,-71.12337,70000,,America__Toronto
+CA,CITY,Capreol,1219633,Ontario,ON,46.70626,-80.92109,2815,,America__Toronto
+CA,CITY,Carberry,10736,Manitoba,MB,49.86893,-99.36021,1575,409,America__Winnipeg
+CA,CITY,Carbonear,10210,Newfoundland and Labrador,NL,47.73319,-53.21478,6814,34,America__St_Johns
+CA,CITY,Cardston,10074,Alberta,AB,49.19998,-113.3019,3654,1130,America__Edmonton
+CA,CITY,Carignan,10348,Quebec,QC,45.45008,-73.29916,7426,,America__Toronto
+CA,CITY,Carleton,1209085,Quebec,QC,48.09838,-66.10036,1101,,America__Toronto
+CA,CITY,Carleton Place,10708,Ontario,ON,45.13341,-76.14938,9743,,America__Toronto
+CA,CITY,Carleton-sur-Mer,11392,Quebec,QC,48.10749,-66.128,4077,,America__Toronto
+CA,CITY,Carlyle,10579,Saskatchewan,SK,49.63334,-102.26765,1177,,America__Regina
+CA,CITY,Carman,10400,Manitoba,MB,49.4992,-98.00156,2948,880,America__Winnipeg
+CA,CITY,Carstairs,10870,Alberta,AB,51.56681,-114.102,2370,1060,America__Edmonton
+CA,CITY,Casselman,10704,Ontario,ON,45.3168,-75.0826,3074,,America__Toronto
+CA,CITY,Castlegar,10845,British Columbia,BC,49.32317,-117.65831,8715,450,America__Vancouver
+CA,CITY,Catalina,10429,Newfoundland and Labrador,NL,48.51659,-53.08135,1352,,America__St_Johns
+CA,CITY,Cedar,1219636,British Columbia,BC,49.11633,-123.8527,2836,,America__Vancouver
+CA,ADM2,Central Coast Regional District,139985,British Columbia,BC,52.16638,-127.00323,3319,,America__Vancouver
+CA,ADM2,Centre-du-Québec,140210,Quebec,QC,46.01985,-71.98242,234000,,America__Toronto
+CA,CITY,Chambly,10598,Quebec,QC,45.45008,-73.28246,22608,,America__Toronto
+CA,CITY,Chambord,10287,Quebec,QC,48.43339,-72.06583,1773,,America__Toronto
+CA,CITY,Chandler,11317,Quebec,QC,48.34935,-64.67926,7914,,America__Toronto
+CA,CITY,Channel-Port aux Basques,10327,Newfoundland and Labrador,NL,47.57286,-59.13808,4220,23,America__St_Johns
+CA,CITY,Chapais,10739,Quebec,QC,49.78344,-74.84919,1824,,America__Toronto
+CA,CITY,Charlemagne,10088,Quebec,QC,45.71678,-73.48247,5594,,America__Toronto
+CA,CITY,Charlottetown,10880,Prince Edward Island,PE,46.23459,-63.1256,42402,49,America__Halifax
+CA,CITY,Chase,10590,British Columbia,BC,50.8165,-119.68571,2471,380,America__Vancouver
+CA,CITY,Chatham,10160,Ontario,ON,42.41224,-82.18494,43550,,America__Toronto
+CA,CITY,Chatham-Kent,139987,Ontario,ON,42.40009,-82.1831,108589,,America__Toronto
+CA,ADM2,Chaudière-Appalaches,140205,Quebec,QC,46.555,-70.8308,410000,,America__Toronto
+CA,CITY,Chemainus,1209046,British Columbia,BC,48.91633,-123.71937,3021,,America__Vancouver
+CA,CITY,Chertsey,9987,Quebec,QC,46.07109,-73.89095,4836,,America__Toronto
+CA,CITY,Chester,10213,Nova Scotia,NS,44.54225,-64.23891,1531,17,America__Halifax
+CA,CITY,Chestermere,10896,Alberta,AB,51.03341,-113.81867,3590,1030,America__Edmonton
+CA,CITY,Chetwynd,10211,British Columbia,BC,55.69988,-121.63627,2587,615,America__Dawson_Creek
+CA,CITY,Chibougamau,10434,Quebec,QC,49.91684,-74.36586,7563,,America__Toronto
+CA,CITY,Chilliwack,10929,British Columbia,BC,49.16638,-121.95257,77000,10,America__Vancouver
+CA,CITY,Chute-aux-Outardes,10643,Quebec,QC,49.11679,-68.39896,2000,,America__Toronto
+CA,CITY,Château-Richer,10127,Quebec,QC,46.96031,-71.03219,3563,,America__Toronto
+CA,CITY,Châteauguay,10909,Quebec,QC,45.38338,-73.74919,42786,,America__Toronto
+CA,CITY,Clarence-Rockland,10336,Ontario,ON,45.5501,-75.29101,20790,,America__Toronto
+CA,CITY,Clarenville-Shoal Harbour,10917,Newfoundland and Labrador,NL,48.1805,-53.96982,3478,,America__St_Johns
+CA,CITY,Claresholm,10846,Alberta,AB,50.03332,-113.58524,3808,1030,America__Edmonton
+CA,CITY,Clyde River,10842,Nunavut,NU,70.47233,-68.58987,1017,27,America__Iqaluit
+CA,CITY,Coaldale,10151,Alberta,AB,49.7167,-112.61854,6317,863,America__Edmonton
+CA,CITY,Coalhurst,10266,Alberta,AB,49.7464,-112.93246,1552,,America__Edmonton
+CA,CITY,Coaticook,10295,Quebec,QC,45.13339,-71.79907,7021,,America__Toronto
+CA,CITY,Cobourg,10804,Ontario,ON,43.95977,-78.16515,18099,173,America__Toronto
+CA,CITY,Cochrane,10195,Alberta,AB,51.18341,-114.46871,16365,1159,America__Edmonton
+CA,ADM2,Cochrane District,139991,Ontario,ON,50.00022,-82.99979,82503,,America__Toronto
+CA,ADM2,Colchester,139989,Nova Scotia,NS,45.33345,-63.24868,50000,,America__Halifax
+CA,CITY,Cold Lake,10118,Alberta,AB,54.46525,-110.18154,11595,540,America__Edmonton
+CA,CITY,Cole Harbour,11340,Nova Scotia,NS,44.67244,-63.47506,20000,50,America__Halifax
+CA,CITY,Collingwood,10504,Ontario,ON,44.4834,-80.21638,15809,,America__Toronto
+CA,CITY,Colwood,10035,British Columbia,BC,48.43293,-123.48591,14687,80,America__Vancouver
+CA,CITY,Conception Bay South,10633,Newfoundland and Labrador,NL,47.49989,-52.99806,17087,14,America__St_Johns
+CA,CITY,Concord,10293,Ontario,ON,43.80011,-79.48291,8255,,America__Toronto
+CA,CITY,Constance Bay,1230217,Ontario,ON,45.50011,-76.08267,2314,,America__Toronto
+CA,CITY,Contrecoeur,10416,Quebec,QC,45.85008,-73.23245,3587,,America__Toronto
+CA,CITY,Cookshire,1230218,Quebec,QC,45.41536,-71.62962,1021,,America__Toronto
+CA,CITY,Cookshire-Eaton,10267,Quebec,QC,45.41675,-71.6324,1568,,America__Toronto
+CA,CITY,Cookstown,1219645,Ontario,ON,44.18341,-79.69964,1214,,America__Toronto
+CA,CITY,Coombs,1240791,British Columbia,BC,49.29963,-124.41946,1612,,America__Vancouver
+CA,CITY,Coquitlam,10153,British Columbia,BC,49.2846,-122.78217,140000,24,America__Vancouver
+CA,CITY,Corner Brook,10791,Newfoundland and Labrador,NL,48.95001,-57.95202,18693,304,America__St_Johns
+CA,CITY,Cornwall,9940,Ontario,ON,45.01809,-74.72815,48821,64,America__Toronto
+CA,CITY,Cornwall,10892,Prince Edward Island,PE,46.22652,-63.21809,2272,27,America__Halifax
+CA,CITY,Corunna,1219639,Ontario,ON,42.88338,-82.43313,5686,,America__Toronto
+CA,CITY,Coteau-du-Lac,1261872,Quebec,QC,45.30008,-74.18253,7044,,America__Toronto
+CA,CITY,Courtenay,10727,British Columbia,BC,49.68657,-124.9936,32793,13,America__Vancouver
+CA,CITY,Cow Bay,1240795,Nova Scotia,NS,44.63141,-63.43218,1257,,America__Halifax
+CA,CITY,Cowansville,10055,Quebec,QC,45.20008,-72.74913,10887,,America__Toronto
+CA,CITY,Cowichan Bay,1209089,British Columbia,BC,48.73366,-123.61739,2394,,America__Vancouver
+CA,CITY,Crabtree,10533,Quebec,QC,45.96677,-73.46586,2248,,America__Toronto
+CA,CITY,Cranbrook,10155,British Columbia,BC,49.49991,-115.76879,18610,921,America__Edmonton
+CA,CITY,Creston,9955,British Columbia,BC,49.09987,-116.50211,4816,597,America__Creston
+CA,CITY,Cross Lake 19A,1219653,Manitoba,MB,54.65135,-97.76848,2018,,America__Winnipeg
+CA,CITY,Crossfield,10560,Alberta,AB,51.43341,-114.03528,2512,1113,America__Edmonton
+CA,CITY,Cumberland,10192,British Columbia,BC,49.61634,-125.03613,2630,160,America__Vancouver
+CA,ADM2,Côte-Nord,140010,Quebec,QC,50.86683,-65.81541,95000,,America__Toronto
+CA,CITY,Côte-Saint-Luc,10101,Quebec,QC,45.46536,-73.66585,31395,,America__Toronto
+CA,CITY,Dalmeny,10481,Saskatchewan,SK,52.33339,-106.76792,1504,,America__Regina
+CA,CITY,Danville,10201,Quebec,QC,45.78337,-72.0158,1761,,America__Toronto
+CA,CITY,Dartmouth,10714,Nova Scotia,NS,44.67134,-63.57719,101343,113,America__Halifax
+CA,CITY,Dauphin,10695,Manitoba,MB,51.14941,-100.05023,8418,268,America__Winnipeg
+CA,CITY,Daveluyville,10527,Quebec,QC,46.20006,-72.13239,1318,,America__Toronto
+CA,CITY,Dawson City,11301,Yukon,YT,64.06013,-139.43328,1319,370,America__Dawson
+CA,CITY,Dawson Creek,10645,British Columbia,BC,55.75984,-120.2403,10802,665,America__Dawson_Creek
+CA,ADM2,De Salaberry,140015,Manitoba,MB,49.39999,-97.00894,3580,,America__Winnipeg
+CA,CITY,Deep River,10196,Ontario,ON,46.10012,-77.49949,4296,,America__Toronto
+CA,CITY,Deer Lake,10691,Newfoundland and Labrador,NL,49.16671,-57.43163,4602,30,America__St_Johns
+CA,CITY,Delaware,10309,Ontario,ON,42.91679,-81.41646,2521,,America__Toronto
+CA,CITY,Deloraine,10614,Manitoba,MB,49.19082,-100.49477,1068,,America__Winnipeg
+CA,CITY,Delson,10448,Quebec,QC,45.36678,-73.54917,7322,,America__Toronto
+CA,CITY,Delta,10552,British Columbia,BC,49.14399,-122.9068,101668,,America__Vancouver
+CA,CITY,Denman Island,10091,British Columbia,BC,49.53294,-124.8195,1020,,America__Vancouver
+CA,CITY,Denman Island Trust Area,1240819,British Columbia,BC,49.55189,-124.79881,1165,,America__Vancouver
+CA,CITY,Deseronto,10258,Ontario,ON,44.20012,-77.04944,1897,,America__Toronto
+CA,CITY,Deux-Montagnes,10239,Quebec,QC,45.53455,-73.90168,17402,,America__Toronto
+CA,CITY,Devon,10811,Alberta,AB,53.36683,-113.73533,5225,709,America__Edmonton
+CA,CITY,Didsbury,10185,Alberta,AB,51.66681,-114.13529,4134,1037,America__Edmonton
+CA,CITY,Dieppe,10884,New Brunswick,NB,46.07844,-64.68735,18565,,America__Moncton
+CA,CITY,Digby,10034,Nova Scotia,NS,44.62188,-65.7586,2052,,America__Halifax
+CA,ADM2,Digby County,140016,Nova Scotia,NS,44.36685,-65.69884,18992,,America__Halifax
+CA,CITY,Disraeli,1209055,Quebec,QC,45.90007,-71.34907,2212,,America__Toronto
+CA,CITY,Dolbeau-Mistassini,10418,Quebec,QC,48.8786,-72.23142,12916,,America__Toronto
+CA,CITY,Dollard-Des Ormeaux,10828,Quebec,QC,45.49452,-73.82419,48930,,America__Toronto
+CA,CITY,Donnacona,11197,Quebec,QC,46.68042,-71.7239,5564,,America__Toronto
+CA,CITY,Dorchester,10066,Ontario,ON,42.98339,-81.06643,9329,,America__Toronto
+CA,CITY,Dorval,10442,Quebec,QC,45.4473,-73.75335,18088,,America__Toronto
+CA,CITY,Dowling,1209053,Ontario,ON,46.59111,-81.33917,1466,,America__Toronto
+CA,CITY,Drayton Valley,10070,Alberta,AB,53.21682,-114.98544,6099,869,America__Edmonton
+CA,CITY,Drummondville,10236,Quebec,QC,45.88336,-72.48241,59489,365,America__Toronto
+CA,CITY,Dryden,10081,Ontario,ON,49.78334,-92.75032,8195,,America__Winnipeg
+CA,CITY,Duck Lake,1219667,British Columbia,BC,50.0088,-119.39672,6982,,America__Vancouver
+CA,CITY,Duncan,10161,British Columbia,BC,48.78293,-123.70266,22199,20,America__Vancouver
+CA,CITY,Dunham,10273,Quebec,QC,45.13338,-72.79913,3471,,America__Toronto
+CA,ADM2,Durham,140019,Ontario,ON,44.20012,-78.99957,608124,,America__Toronto
+CA,CITY,Ear Falls,10306,Ontario,ON,50.63955,-93.23526,1026,360,America__Winnipeg
+CA,CITY,East Angus,10063,Quebec,QC,45.48338,-71.66577,3634,,America__Toronto
+CA,CITY,East Broughton,1209098,Quebec,QC,46.21358,-71.07674,1832,,America__Toronto
+CA,CITY,East Gwillimbury,1219651,Ontario,ON,44.10087,-79.43785,23991,239,America__Toronto
+CA,CITY,East Wellington,1240779,British Columbia,BC,49.17385,-124.01745,1444,,America__Vancouver
+CA,CITY,East York,11817,Ontario,ON,43.69053,-79.32794,115365,,America__Toronto
+CA,CITY,Edmonton,10232,Alberta,AB,53.55014,-113.46871,712391,668,America__Edmonton
+CA,CITY,Edmundston,11533,New Brunswick,NB,47.3737,-68.32512,16643,200,America__Moncton
+CA,CITY,Edson,9949,Alberta,AB,53.58345,-116.43559,7975,920,America__Edmonton
+CA,CITY,Elk Point,10048,Alberta,AB,53.90017,-110.9017,1514,598,America__Edmonton
+CA,CITY,Elkford,10522,British Columbia,BC,50.05007,-114.8854,2585,,America__Edmonton
+CA,CITY,Elliot Lake,10449,Ontario,ON,46.38336,-82.63315,12508,,America__Toronto
+CA,CITY,Ellison,1240781,British Columbia,BC,49.93307,-119.36907,3094,,America__Vancouver
+CA,CITY,Elmvale,1209070,Ontario,ON,44.5834,-79.86636,2314,,America__Toronto
+CA,CITY,Enderby,10121,British Columbia,BC,50.5498,-119.15234,2830,360,America__Vancouver
+CA,CITY,Englehart,10047,Ontario,ON,47.81686,-79.8664,1685,,America__Toronto
+CA,CITY,English Corner,1209038,Nova Scotia,NS,44.73345,-63.78201,1151,,America__Halifax
+CA,CITY,Eskasoni 3,1219657,Nova Scotia,NS,45.94522,-60.61617,2120,,America__Glace_Bay
+CA,CITY,Espanola,10256,Ontario,ON,46.25837,-81.76649,4682,,America__Toronto
+CA,CITY,Essex,1209050,Ontario,ON,42.17509,-82.82483,7446,,America__Toronto
+CA,CITY,Esterhazy,10756,Saskatchewan,SK,50.65001,-102.08426,2194,,America__Regina
+CA,CITY,Estevan,10750,Saskatchewan,SK,49.13337,-102.98422,9904,,America__Regina
+CA,CITY,Etobicoke,10528,Ontario,ON,43.65421,-79.56711,347948,,America__Toronto
+CA,CITY,Fairview,10106,Alberta,AB,56.06675,-118.38606,3312,670,America__Edmonton
+CA,CITY,Fairwinds,1219654,British Columbia,BC,49.27588,-124.12782,1147,,America__Vancouver
+CA,CITY,Falher,10407,Alberta,AB,55.73339,-117.20262,1166,587,America__Edmonton
+CA,CITY,Fall River,10604,Nova Scotia,NS,44.81685,-63.6154,11526,,America__Halifax
+CA,CITY,Fallingbrook,1209101,Prince Edward Island,PE,45.47558,-75.48401,25000,,America__Toronto
+CA,CITY,Farnham,10077,Quebec,QC,45.28338,-72.98244,6061,,America__Toronto
+CA,CITY,Ferme-Neuve,10248,Quebec,QC,46.70011,-75.44929,2115,,America__Toronto
+CA,CITY,Fermont,10838,Quebec,QC,52.78345,-67.08204,2966,606,America__Toronto
+CA,CITY,Fernie,10630,British Columbia,BC,49.49996,-115.06871,5019,1010,America__Edmonton
+CA,CITY,Flin Flon,10622,Manitoba,MB,54.76703,-101.87433,6002,980,America__Winnipeg
+CA,CITY,Florenceville-Bristol,11790,New Brunswick,NB,46.44353,-67.61536,1639,150,America__Moncton
+CA,CITY,Foam Lake,10226,Saskatchewan,SK,51.65001,-103.53431,1138,,America__Regina
+CA,CITY,Fogo Island,11408,Newfoundland and Labrador,NL,49.71649,-54.16981,2244,,America__St_Johns
+CA,CITY,Forestville,11894,Quebec,QC,48.73808,-69.08478,2333,,America__Toronto
+CA,CITY,Fort Erie,10833,Ontario,ON,42.90012,-78.93286,15953,,America__Toronto
+CA,CITY,Fort Frances,10490,Ontario,ON,48.61667,-93.4003,7931,,America__Winnipeg
+CA,CITY,Fort Macleod,10935,Alberta,AB,49.71671,-113.41857,3060,945,America__Edmonton
+CA,CITY,Fort McMurray,9998,Alberta,AB,56.72676,-111.38103,76000,,America__Edmonton
+CA,CITY,Fort McPherson,10887,Northwest Territories,NT,67.43863,-134.88543,1069,43,America__Yellowknife
+CA,CITY,Fort Nelson,10218,British Columbia,BC,58.80533,-122.7002,4514,410,America__Fort_Nelson
+CA,CITY,Fort Saskatchewan,10029,Alberta,AB,53.71684,-113.2187,14957,610,America__Edmonton
+CA,CITY,Fort Smith,10328,Northwest Territories,NT,60.00439,-111.88871,2364,205,America__Yellowknife
+CA,CITY,Fort St. John,10937,British Columbia,BC,56.24988,-120.85292,17402,690,America__Dawson_Creek
+CA,CITY,Fort-Coulonge,10519,Quebec,QC,45.85011,-76.73272,2911,,America__Toronto
+CA,CITY,Fossambault-sur-le-Lac,11316,Quebec,QC,46.87662,-71.61541,2000,367,America__Toronto
+CA,CITY,Fox Creek,10083,Alberta,AB,54.40007,-116.80238,2457,808,America__Edmonton
+CA,CITY,Franklin,10557,Quebec,QC,45.03338,-73.91591,1688,,America__Toronto
+CA,ADM2,Fraser Valley Regional District,140027,British Columbia,BC,49.58299,-121.83587,277000,,America__Vancouver
+CA,CITY,Fredericton,10741,New Brunswick,NB,45.94541,-66.66558,52337,20,America__Moncton
+CA,CITY,French Creek,1251344,British Columbia,BC,49.34123,-124.35541,1024,,America__Vancouver
+CA,CITY,Fruitvale,10039,British Columbia,BC,49.11654,-117.55222,3790,2234,America__Vancouver
+CA,CITY,Fundy Bay,1240810,New Brunswick,NB,44.741,-66.76041,1167,,America__Moncton
+CA,CITY,Gambo,10228,Newfoundland and Labrador,NL,48.7832,-54.21482,1614,,America__St_Johns
+CA,CITY,Gananoque,10915,Ontario,ON,44.33342,-76.16607,5458,,America__Toronto
+CA,CITY,Gaspé,9959,Quebec,QC,48.83341,-64.48194,14819,34,America__Toronto
+CA,ADM2,Gaspésie-Îles-de-la-Madeleine,140207,Quebec,QC,48.87555,-65.4071,94000,,America__Toronto
+CA,CITY,Gatineau,10109,Quebec,QC,45.47723,-75.70164,242124,64,America__Toronto
+CA,CITY,Gibbons,10728,Alberta,AB,53.83345,-113.33531,2790,643,America__Edmonton
+CA,CITY,Gibsons,10144,British Columbia,BC,49.39539,-123.50555,6821,10,America__Vancouver
+CA,CITY,Gimli,10269,Manitoba,MB,50.63362,-96.99066,2009,222,America__Winnipeg
+CA,CITY,Gjoa Haven,10839,Nunavut,NU,68.62602,-95.87836,1109,47,America__Cambridge_Bay
+CA,CITY,Glace Bay,10391,Nova Scotia,NS,46.19695,-59.95698,19968,,America__Glace_Bay
+CA,CITY,Glencoe,1209020,Ontario,ON,42.75009,-81.71648,2126,,America__Toronto
+CA,CITY,Godefroy,1230221,Quebec,QC,51.75012,-68.08213,1410,,America__Toronto
+CA,CITY,Goderich,10653,Ontario,ON,43.74171,-81.71339,8032,213,America__Toronto
+CA,CITY,Golden,10177,British Columbia,BC,51.29995,-116.9689,4038,800,America__Edmonton
+CA,CITY,Golden,1219658,Ontario,ON,51.05917,-93.73568,1154,,America__Winnipeg
+CA,CITY,Goulds,1240790,Newfoundland and Labrador,NL,47.45532,-52.77552,4418,,America__St_Johns
+CA,CITY,Granby,10556,Quebec,QC,45.40008,-72.73243,53979,,America__Toronto
+CA,CITY,Grand Bank,10383,Newfoundland and Labrador,NL,47.09995,-55.76504,4623,7,America__St_Johns
+CA,CITY,Grand Centre,1219662,Alberta,AB,54.41628,-110.21304,7256,,America__Edmonton
+CA,CITY,Grand Falls-Windsor,10204,Newfoundland and Labrador,NL,48.93324,-55.66492,12076,48,America__St_Johns
+CA,CITY,Grand Forks,10326,British Columbia,BC,49.03309,-118.4356,4208,520,America__Vancouver
+CA,CITY,Grande Cache,10296,Alberta,AB,53.88335,-119.13585,4025,1220,America__Edmonton
+CA,CITY,Grande Prairie,10040,Alberta,AB,55.16667,-118.80271,41462,650,America__Edmonton
+CA,CITY,Grande-Digue,1240784,New Brunswick,NB,46.30014,-64.56546,2261,,America__Moncton
+CA,CITY,Gravelbourg,10342,Saskatchewan,SK,49.88336,-106.55122,1109,,America__Regina
+CA,CITY,Gravenhurst,10357,Ontario,ON,44.91681,-79.36633,5839,,America__Toronto
+CA,CITY,Greater Lakeburn,1251350,New Brunswick,NB,46.07651,-64.66818,1014,,America__Moncton
+CA,CITY,Greater Napanee,9939,Ontario,ON,44.25012,-76.94944,15132,,America__Toronto
+CA,CITY,Greater Sudbury,10180,Ontario,ON,46.49,-80.99001,157857,347,America__Toronto
+CA,CITY,Greenstone,10818,Ontario,ON,49.73343,-87.16668,4200,348,America__Toronto
+CA,CITY,Greenwood,10926,Nova Scotia,NS,44.97413,-64.93169,6915,28,America__Halifax
+CA,CITY,Grimshaw,10205,Alberta,AB,56.18339,-117.6027,2560,603,America__Edmonton
+CA,CITY,Grunthal,1240770,Manitoba,MB,49.40668,-96.85873,1680,,America__Winnipeg
+CA,CITY,Guelph,10043,Ontario,ON,43.54594,-80.25599,115760,338,America__Toronto
+CA,CITY,Haines Junction,10384,Yukon,YT,60.75216,-137.51082,1148,,America__Whitehorse
+CA,ADM2,Haldimand County,140034,Ontario,ON,42.98341,-79.86633,45212,,America__Toronto
+CA,CITY,Haliburton Village,1230245,Ontario,ON,45.05154,-78.52245,1149,,America__Toronto
+CA,CITY,Halifax,10364,Nova Scotia,NS,44.6464,-63.57291,359111,,America__Halifax
+CA,ADM2,Halton,140036,Ontario,ON,43.50011,-79.88294,500000,,America__Toronto
+CA,CITY,Hamilton,10660,Ontario,ON,43.25011,-79.84963,519949,,America__Toronto
+CA,CITY,Hampstead,10277,Quebec,QC,45.48064,-73.66307,6996,,America__Toronto
+CA,CITY,Hampton,10932,New Brunswick,NB,45.52876,-65.85354,3436,,America__Moncton
+CA,CITY,Hanceville,10895,British Columbia,BC,51.91922,-123.04458,10000,,America__Vancouver
+CA,CITY,Hanna,10012,Alberta,AB,51.63343,-111.90181,3140,785,America__Edmonton
+CA,CITY,Hanover,10361,Ontario,ON,44.15009,-81.03303,7255,270,America__Toronto
+CA,CITY,Hantsport,10312,Nova Scotia,NS,45.06685,-64.16544,1253,,America__Halifax
+CA,CITY,Happy Valley-Goose Bay,10450,Newfoundland and Labrador,NL,53.3038,-60.32576,7572,12,America__Goose_Bay
+CA,CITY,Harbour Breton,10240,Newfoundland and Labrador,NL,47.48325,-55.79833,1898,,America__St_Johns
+CA,CITY,Harrison Brook,11219,New Brunswick,NB,47.21304,-67.92847,3200,,America__Moncton
+CA,CITY,Harriston,1209073,Ontario,ON,43.90009,-80.88302,1797,,America__Toronto
+CA,CITY,Hauterive,1230242,Quebec,QC,49.19572,-68.25813,11549,,America__Toronto
+CA,CITY,Havre-Saint-Pierre,10187,Quebec,QC,50.24342,-63.60264,2966,,America__Toronto
+CA,CITY,Hawkesbury,10178,Ontario,ON,45.60009,-74.61595,12283,33,America__Toronto
+CA,CITY,Hay River,10700,Northwest Territories,NT,60.81555,-115.79993,2728,165,America__Yellowknife
+CA,CITY,Hayes Subdivision,1219669,Nova Scotia,NS,45.05519,-64.58795,1121,,America__Halifax
+CA,CITY,Headingley,10404,Manitoba,MB,49.8753,-97.40896,3215,,America__Winnipeg
+CA,CITY,Hearst,10014,Ontario,ON,49.68351,-83.66654,4746,,America__Toronto
+CA,CITY,Heritage Pointe,1219659,Alberta,AB,50.84213,-114.00493,2075,,America__Edmonton
+CA,CITY,High Level,10905,Alberta,AB,58.51688,-117.13605,3621,320,America__Edmonton
+CA,CITY,High Prairie,10513,Alberta,AB,55.4334,-116.4858,2878,595,America__Edmonton
+CA,CITY,High River,10768,Alberta,AB,50.58341,-113.86867,9826,1040,America__Edmonton
+CA,CITY,Hinton,10262,Alberta,AB,53.40009,-117.58567,9889,990,America__Edmonton
+CA,CITY,Hope,10071,British Columbia,BC,49.38299,-121.44144,4598,41,America__Vancouver
+CA,CITY,Hornby Island,10278,British Columbia,BC,49.53448,-124.66923,1100,,America__Vancouver
+CA,CITY,Hornepayne,10305,Ontario,ON,49.21451,-84.77617,1050,,America__Toronto
+CA,CITY,Houston,10030,British Columbia,BC,54.39976,-126.67008,2884,610,America__Vancouver
+CA,CITY,Hudson,10412,Quebec,QC,45.45008,-74.14922,5088,,America__Toronto
+CA,CITY,Hudson Bay,10288,Saskatchewan,SK,52.85003,-102.38425,1661,,America__Regina
+CA,CITY,Humboldt,10891,Saskatchewan,SK,52.20005,-105.1255,4822,548,America__Regina
+CA,CITY,Huntingdon,10275,Quebec,QC,45.08339,-74.16593,2865,,America__Toronto
+CA,CITY,Huntsville,10611,Ontario,ON,45.33341,-79.21632,19579,,America__Toronto
+CA,CITY,Huron East,10885,Ontario,ON,43.61679,-81.29975,9264,,America__Toronto
+CA,CITY,Hérouxville,11359,Quebec,QC,46.66617,-72.62512,1340,,America__Toronto
+CA,CITY,Ile des Chênes,1240789,Manitoba,MB,49.7106,-96.98893,1546,,America__Winnipeg
+CA,CITY,Indian Head,10794,Saskatchewan,SK,50.53336,-103.66775,1642,,America__Regina
+CA,CITY,Ingersoll,10563,Ontario,ON,43.03339,-80.88302,11874,280,America__Toronto
+CA,CITY,Innisfil,10436,Ontario,ON,44.30011,-79.64964,7345,,America__Toronto
+CA,CITY,Inuvik,10919,Northwest Territories,NT,68.36166,-133.72817,3022,15,America__Inuvik
+CA,CITY,Invermere,10837,British Columbia,BC,50.51666,-116.03538,2871,859,America__Edmonton
+CA,CITY,Iqaluit,10578,Nunavut,NU,63.74697,-68.51727,6124,0,America__Iqaluit
+CA,CITY,Iroquois Falls,10809,Ontario,ON,48.76688,-80.68307,4232,259,America__Toronto
+CA,CITY,Irricana,10867,Alberta,AB,51.32372,-113.60475,1091,935,America__Edmonton
+CA,CITY,Jarvis,1219635,Ontario,ON,42.88341,-80.09965,1037,184,America__Toronto
+CA,CITY,Jasper Park Lodge,10659,Alberta,AB,52.88633,-118.05625,3907,,America__Edmonton
+CA,CITY,Joliette,10675,Quebec,QC,46.0164,-73.4236,34772,,America__Toronto
+CA,CITY,Jonquière,11175,Quebec,QC,48.41648,-71.24884,54842,146,America__Toronto
+CA,CITY,Kamloops,10796,British Columbia,BC,50.66648,-120.3192,68714,345,America__Vancouver
+CA,CITY,Kamsack,10007,Saskatchewan,SK,51.56668,-101.90093,1775,,America__Regina
+CA,CITY,Kanata,1198477,Ontario,ON,45.3001,-75.91606,90000,,America__Toronto
+CA,CITY,Kapuskasing,10566,Ontario,ON,49.41694,-82.43308,9240,217,America__Toronto
+CA,ADM2,Kawartha Lakes,140054,Ontario,ON,44.58342,-78.83288,74561,,America__Toronto
+CA,CITY,Kelowna,10512,British Columbia,BC,49.88307,-119.48568,125109,344,America__Vancouver
+CA,CITY,Kenora,10713,Ontario,ON,49.76741,-94.48985,15096,409,America__Winnipeg
+CA,CITY,Kensington,10308,Prince Edward Island,PE,46.43343,-63.64871,1424,35,America__Halifax
+CA,CITY,Kentville,10242,Nova Scotia,NS,45.0771,-64.49605,12636,31,America__Halifax
+CA,CITY,Kerrobert,10936,Saskatchewan,SK,51.91682,-109.13479,1038,,America__Regina
+CA,CITY,Keswick,10227,Ontario,ON,44.25011,-79.46632,21000,,America__Toronto
+CA,CITY,Keswick Ridge,1240793,New Brunswick,NB,46.00011,-66.88218,1652,,America__Moncton
+CA,CITY,Killam,10001,Alberta,AB,52.78344,-111.85175,1056,680,America__Edmonton
+CA,CITY,Killarney,10380,Manitoba,MB,49.18332,-99.66364,2362,,America__Winnipeg
+CA,CITY,Kimberley,10857,British Columbia,BC,49.67071,-115.9776,6513,1120,America__Edmonton
+CA,CITY,Kincardine,10405,Ontario,ON,44.18339,-81.63307,6725,,America__Toronto
+CA,CITY,Kindersley,10222,Saskatchewan,SK,51.46681,-109.16818,4249,,America__Regina
+CA,CITY,King,1209013,Ontario,ON,43.96514,-79.59011,6970,239,America__Toronto
+CA,CITY,Kingsey Falls,10618,Quebec,QC,45.85007,-72.0658,1480,,America__Toronto
+CA,CITY,Kingston,10683,Ontario,ON,44.22976,-76.48098,114195,70,America__Toronto
+CA,CITY,Kirkland,10732,Quebec,QC,45.45008,-73.86586,20491,,America__Toronto
+CA,CITY,Kirkland Lake,10279,Ontario,ON,48.14461,-80.03767,7775,243,America__Toronto
+CA,CITY,Kitchener,10920,Ontario,ON,43.42537,-80.5112,233700,,America__Toronto
+CA,CITY,Kitimat,9942,British Columbia,BC,54.05244,-128.65342,8987,40,America__Vancouver
+CA,CITY,Kugluktuk,10129,Nunavut,NU,67.82743,-115.09649,1302,23,America__Cambridge_Bay
+CA,CITY,L'Ancienne-Lorette,11311,Quebec,QC,46.79392,-71.35191,16516,,America__Toronto
+CA,CITY,L'Ange-Gardien,10795,Quebec,QC,46.91976,-71.08253,3634,,America__Toronto
+CA,CITY,L'Ascension-de-Notre-Seigneur,1240780,Quebec,QC,48.68339,-71.6658,1134,,America__Toronto
+CA,CITY,L'Assomption,10800,Quebec,QC,45.82318,-73.4294,15906,,America__Toronto
+CA,CITY,L'Orignal,1209100,Ontario,ON,45.6198,-74.6915,1450,,America__Toronto
+CA,CITY,L'Épiphanie,10259,Quebec,QC,45.85008,-73.48246,4606,,America__Toronto
+CA,CITY,L'Île-Perrot,10373,Quebec,QC,45.38338,-73.9492,9927,,America__Toronto
+CA,CITY,La Broquerie,10038,Manitoba,MB,49.51688,-96.50029,1073,268,America__Winnipeg
+CA,CITY,La Conception,10347,Quebec,QC,46.15009,-74.69925,1287,,America__Toronto
+CA,CITY,La Haute-Saint-Charles,11886,Quebec,QC,46.89028,-71.37222,74070,,America__Toronto
+CA,CITY,La Malbaie,11745,Quebec,QC,47.654,-70.15268,8959,,America__Toronto
+CA,CITY,La Minerve,10207,Quebec,QC,46.25009,-74.93257,1234,,America__Toronto
+CA,CITY,La Pocatière,11843,Quebec,QC,47.36733,-70.03484,4575,,America__Toronto
+CA,CITY,La Prairie,10358,Quebec,QC,45.41678,-73.49917,21763,,America__Toronto
+CA,CITY,La Ronge,10011,Saskatchewan,SK,55.10013,-105.28422,5671,,America__Regina
+CA,CITY,La Sarre,10882,Quebec,QC,48.80019,-79.19964,7206,,America__Toronto
+CA,CITY,La Tuque,10493,Quebec,QC,47.43337,-72.7824,9503,,America__Toronto
+CA,CITY,Labelle,10084,Quebec,QC,46.28339,-74.73255,1239,,America__Toronto
+CA,CITY,Labrador City,10137,Newfoundland and Labrador,NL,52.94626,-66.91137,10313,555,America__Goose_Bay
+CA,CITY,Lac La Biche,10355,Alberta,AB,54.7669,-111.96861,2919,560,America__Edmonton
+CA,CITY,Lac du Bonnet,10440,Manitoba,MB,50.2536,-96.06116,1134,854,America__Winnipeg
+CA,CITY,Lac-Alouette,1230231,Quebec,QC,45.81698,-73.9592,4473,,America__Toronto
+CA,CITY,Lac-Brome,10466,Quebec,QC,45.21678,-72.51581,5629,,America__Toronto
+CA,CITY,Lac-Connelly,1230224,Quebec,QC,45.89788,-73.9723,1212,,America__Toronto
+CA,CITY,Lac-Lapierre,1230229,Quebec,QC,45.89837,-73.77308,2480,,America__Toronto
+CA,CITY,Lac-Mégantic,10020,Quebec,QC,45.58338,-70.88234,4658,,America__Toronto
+CA,CITY,Lac-Simon,1209024,Quebec,QC,46.15699,-74.74129,1243,,America__Toronto
+CA,CITY,Lachute,10488,Quebec,QC,45.65008,-74.33253,9562,,America__Toronto
+CA,CITY,Lacolle,10437,Quebec,QC,45.08338,-73.36585,1528,,America__Toronto
+CA,CITY,Lacombe,10458,Alberta,AB,52.46681,-113.7353,10059,855,America__Edmonton
+CA,CITY,Ladner,11227,British Columbia,BC,49.08938,-123.08241,200000,1,America__Vancouver
+CA,CITY,Ladysmith,10678,British Columbia,BC,48.99016,-123.81699,8740,40,America__Vancouver
+CA,CITY,Lake Cowichan,10362,British Columbia,BC,48.82495,-124.05461,2870,180,America__Vancouver
+CA,CITY,Lake Echo,1219640,Nova Scotia,NS,44.73345,-63.38198,2515,,America__Halifax
+CA,CITY,Lakefield,1209035,Ontario,ON,44.43342,-78.26623,2753,,America__Toronto
+CA,CITY,Lambton Shores,10737,Ontario,ON,43.16678,-81.93309,10656,,America__Toronto
+CA,CITY,Lamont,10491,Alberta,AB,53.76686,-112.80195,1779,653,America__Edmonton
+CA,CITY,Landmark,1219646,Manitoba,MB,49.67169,-96.82232,1292,,America__Winnipeg
+CA,CITY,Langenburg,10581,Saskatchewan,SK,50.84999,-101.71763,1034,,America__Regina
+CA,CITY,Langford,10789,British Columbia,BC,48.44963,-123.50261,22459,76,America__Vancouver
+CA,CITY,Langham,10555,Saskatchewan,SK,52.3668,-106.96793,1070,,America__Regina
+CA,CITY,Langley,10760,British Columbia,BC,49.10107,-122.65883,23606,15,America__Vancouver
+CA,CITY,Lanigan,10022,Saskatchewan,SK,51.85006,-105.03443,1204,,America__Regina
+CA,CITY,Lanoraie,10135,Quebec,QC,45.96677,-73.21585,4447,,America__Toronto
+CA,CITY,Lantz,1240776,Nova Scotia,NS,44.98345,-63.48199,2229,,America__Halifax
+CA,CITY,Lappe,1240785,Ontario,ON,48.5668,-89.35013,1436,,America__Toronto
+CA,CITY,Larkspur,11035,Alberta,AB,53.47942,-113.38142,4988,711,America__Edmonton
+CA,CITY,Laurel,11020,Alberta,AB,53.44667,-113.38197,1606,721,America__Edmonton
+CA,CITY,Laval,10050,Quebec,QC,45.56995,-73.692,376845,45,America__Toronto
+CA,CITY,Lavaltrie,10472,Quebec,QC,45.88338,-73.28245,8762,,America__Toronto
+CA,CITY,Le Bic,1230251,Quebec,QC,48.37549,-68.69415,1115,,America__Toronto
+CA,CITY,Leamington,1209011,Ontario,ON,42.05009,-82.59981,32991,,America__Toronto
+CA,CITY,Lebel-sur-Quévillon,10003,Quebec,QC,49.05018,-76.98273,3289,304,America__Toronto
+CA,CITY,Leblanc,1230210,Quebec,QC,48.26683,-74.34914,1513,,America__Toronto
+CA,CITY,Leduc,10432,Alberta,AB,53.26682,-113.55201,15561,730,America__Edmonton
+CA,CITY,Les Coteaux,10897,Quebec,QC,45.28338,-74.23254,17396,,America__Toronto
+CA,CITY,Les Cèdres,10430,Quebec,QC,45.30008,-74.04922,1434,,America__Toronto
+CA,CITY,Les Escoumins,11145,Quebec,QC,48.35191,-69.40724,1339,,America__Toronto
+CA,CITY,Lethbridge,10186,Alberta,AB,49.69999,-112.81856,70617,910,America__Edmonton
+CA,CITY,Lewisporte,10289,Newfoundland and Labrador,NL,49.24993,-55.04816,2174,,America__St_Johns
+CA,CITY,Lillooet,11809,British Columbia,BC,50.6856,-121.942,2324,820,America__Vancouver
+CA,CITY,Limoges,1209071,Ontario,ON,45.3334,-75.24931,2048,,America__Toronto
+CA,CITY,Lincoln,1240786,New Brunswick,NB,45.90012,-66.58218,2504,,America__Moncton
+CA,CITY,Lindsay,10792,Ontario,ON,44.35012,-78.73286,20354,,America__Toronto
+CA,CITY,Linière,1230219,Quebec,QC,46.00007,-70.41572,1385,,America__Toronto
+CA,CITY,Lions Bay,10503,British Columbia,BC,49.45218,-123.2376,1385,,America__Vancouver
+CA,CITY,Listowel,1209006,Ontario,ON,43.7334,-80.94973,7530,382,America__Toronto
+CA,CITY,Little Current,10638,Ontario,ON,45.97927,-81.9248,2156,,America__Toronto
+CA,CITY,Lively,1209068,Ontario,ON,46.43338,-81.14975,5608,,America__Toronto
+CA,CITY,Lloydminster,10378,Alberta,AB,53.27237,-110.02256,31400,645,America__Edmonton
+CA,CITY,Logan Lake,10100,British Columbia,BC,50.49976,-120.80253,2190,,America__Vancouver
+CA,CITY,London,10904,Ontario,ON,42.98339,-81.23304,346765,251,America__Toronto
+CA,CITY,Longueuil,10413,Quebec,QC,45.53121,-73.51806,229330,15,America__Toronto
+CA,CITY,Lorette,1240777,Manitoba,MB,49.73919,-96.87232,3208,,America__Winnipeg
+CA,CITY,Lorraine,10369,Quebec,QC,45.68338,-73.78249,9613,,America__Toronto
+CA,CITY,Louiseville,10500,Quebec,QC,46.25594,-72.94145,5819,,America__Toronto
+CA,CITY,Lower Sackville,11399,Nova Scotia,NS,44.77599,-63.67865,21379,,America__Halifax
+CA,CITY,Lucan,1209057,Ontario,ON,43.18339,-81.39976,2541,,America__Toronto
+CA,CITY,Luceville,1230239,Quebec,QC,48.54498,-68.39658,1112,,America__Toronto
+CA,CITY,Lumby,10206,British Columbia,BC,50.24979,-118.96904,1625,500,America__Vancouver
+CA,CITY,Lumsden,10636,Saskatchewan,SK,50.65009,-104.86783,1477,,America__Regina
+CA,CITY,Lunenburg,10786,Nova Scotia,NS,44.37847,-64.31658,2085,,America__Halifax
+CA,CITY,Lutes Mountain,10540,New Brunswick,NB,46.13544,-64.90504,16311,,America__Moncton
+CA,CITY,Lévis,9941,Quebec,QC,46.80326,-71.17793,126396,,America__Blanc-Sablon
+CA,CITY,Macamic,10377,Quebec,QC,48.75018,-78.99962,1559,,America__Toronto
+CA,CITY,Mackenzie,1209028,British Columbia,BC,55.33637,-123.09374,3262,,America__Vancouver
+CA,CITY,Macklin,10724,Saskatchewan,SK,52.33344,-109.93484,1257,,America__Regina
+CA,CITY,Madoc,1209061,Ontario,ON,44.50842,-77.47448,1535,,America__Toronto
+CA,CITY,Magog,10370,Quebec,QC,45.26678,-72.14909,15550,,America__Toronto
+CA,CITY,Magrath,9966,Alberta,AB,49.41668,-112.86856,2095,983,America__Edmonton
+CA,CITY,Malartic,9985,Quebec,QC,48.13348,-78.13283,3710,,America__Toronto
+CA,CITY,Maliotenam,11585,Quebec,QC,50.21119,-66.18164,1316,,America__Toronto
+CA,CITY,Manawan,1230247,Quebec,QC,47.22029,-74.38606,1648,,America__Toronto
+CA,CITY,Mandeville,10381,Quebec,QC,46.36677,-73.34915,2043,,America__Toronto
+CA,ADM2,Manitoulin District,140075,Ontario,ON,45.75007,-82.49985,13255,,America__Toronto
+CA,CITY,Manitouwadge,1209062,Ontario,ON,49.12152,-85.8403,1708,332,America__Toronto
+CA,CITY,Maniwaki,9956,Quebec,QC,46.38341,-75.96605,4236,,America__Toronto
+CA,CITY,Manning,10536,Alberta,AB,56.91683,-117.61945,1359,465,America__Edmonton
+CA,ADM2,Mannville,140467,Alberta,AB,53.33764,-111.1775,828,,America__Edmonton
+CA,CITY,Maple Creek,10112,Saskatchewan,SK,49.91678,-109.48481,2121,,America__Regina
+CA,CITY,Maple Ridge,10501,British Columbia,BC,49.21939,-122.60193,70000,294,America__Vancouver
+CA,CITY,Maple Ridge,10826,Alberta,AB,53.50172,-113.36274,1711,704,America__Edmonton
+CA,CITY,Marathon,10654,Ontario,ON,48.7501,-86.43322,3138,220,America__Toronto
+CA,CITY,Maria,1209082,Quebec,QC,48.1749,-65.98595,1124,,America__Toronto
+CA,CITY,Marieville,10193,Quebec,QC,45.43338,-73.16585,5600,,America__Toronto
+CA,CITY,Markdale,1209066,Ontario,ON,44.3168,-80.64971,1216,,America__Toronto
+CA,CITY,Markham,10679,Ontario,ON,43.86682,-79.2663,261573,200,America__Toronto
+CA,CITY,Martensville,10797,Saskatchewan,SK,52.28339,-106.66792,4078,,America__Regina
+CA,CITY,Marystown,10170,Newfoundland and Labrador,NL,47.16663,-55.14829,2697,14,America__St_Johns
+CA,CITY,Mascouche,10331,Quebec,QC,45.74965,-73.59956,34626,,America__Toronto
+CA,CITY,Maskinongé,10445,Quebec,QC,46.2286,-73.01917,1105,,America__Toronto
+CA,CITY,Matagami,10623,Quebec,QC,49.75018,-77.63277,1966,,America__Toronto
+CA,CITY,Matane,11550,Quebec,QC,48.82857,-67.52197,14812,,America__Toronto
+CA,CITY,Mattawa,10105,Ontario,ON,46.31681,-78.69957,2415,,America__Toronto
+CA,ADM2,Mauricie,140076,Quebec,QC,47.55009,-73.41583,266112,,America__Toronto
+CA,CITY,Mayerthorpe,10389,Alberta,AB,53.95015,-115.13547,1651,712,America__Edmonton
+CA,CITY,McEwen,1219655,New Brunswick,NB,46.1452,-64.78615,1462,,America__Moncton
+CA,CITY,Meadow Lake,10487,Saskatchewan,SK,54.13348,-108.43471,5266,498,America__Regina
+CA,CITY,Meaford,1209054,Ontario,ON,44.60725,-80.61081,4910,,America__Toronto
+CA,CITY,Medicine Hat,10360,Alberta,AB,50.03928,-110.67661,63138,690,America__Edmonton
+CA,CITY,Melfort,10771,Saskatchewan,SK,52.86673,-104.61768,5778,480,America__Regina
+CA,CITY,Melita,10774,Manitoba,MB,49.26811,-100.99669,1167,,America__Winnipeg
+CA,CITY,Melocheville,1209029,Quebec,QC,45.31726,-73.9371,2621,,America__Toronto
+CA,CITY,Melville,10886,Saskatchewan,SK,50.91671,-102.80099,4127,,America__Regina
+CA,CITY,Mercier,10553,Quebec,QC,45.31678,-73.74919,10121,,America__Toronto
+CA,CITY,Merritt,10478,British Columbia,BC,50.11225,-120.7942,7179,605,America__Vancouver
+CA,CITY,Metabetchouan-Lac-a-la-Croix,10972,Quebec,QC,48.41,-71.78,4084,,America__Toronto
+CA,CITY,Metcalfe,1209009,Ontario,ON,45.2334,-75.46603,1776,90,America__Toronto
+CA,CITY,Metchosin,10832,British Columbia,BC,48.38293,-123.53591,4803,40,America__Vancouver
+CA,ADM2,Metro Vancouver Regional District,140031,British Columbia,BC,49.33296,-123.00264,2463431,,America__Vancouver
+CA,CITY,Middleton,10807,Nova Scotia,NS,44.94284,-65.07022,1680,21,America__Halifax
+CA,CITY,Midland,10037,Ontario,ON,44.7501,-79.88296,24353,,America__Toronto
+CA,CITY,Mildmay,1209033,Ontario,ON,44.05009,-81.11644,1219,,America__Toronto
+CA,CITY,Mill Woods Town Centre,11321,Alberta,AB,53.45639,-113.42751,1247,691,America__Edmonton
+CA,CITY,Millbrook,1209016,Ontario,ON,44.15012,-78.44954,1695,,America__Toronto
+CA,CITY,Millet,10069,Alberta,AB,53.10013,-113.4687,1905,755,America__Edmonton
+CA,CITY,Milton,10923,Ontario,ON,43.51681,-79.88294,101715,195,America__Toronto
+CA,CITY,Minnedosa,10851,Manitoba,MB,50.24532,-99.84364,2526,,America__Winnipeg
+CA,CITY,Mirabel,10670,Quebec,QC,45.65008,-74.08251,34626,,America__Toronto
+CA,CITY,Miramichi,10619,New Brunswick,NB,47.02895,-65.50186,18129,31,America__Moncton
+CA,CITY,Mission,1209032,British Columbia,BC,49.13298,-122.30258,33261,,America__Vancouver
+CA,CITY,Mississauga,10869,Ontario,ON,43.5789,-79.6583,668549,156,America__Toronto
+CA,CITY,Mississauga Beach,1219641,Ontario,ON,43.26682,-79.08287,4662,,America__New_York
+CA,CITY,Mistissini,1209060,Quebec,QC,50.41667,-73.88333,2869,,America__Toronto
+CA,CITY,Moncton,9951,New Brunswick,NB,46.09454,-64.7965,108620,,America__Moncton
+CA,CITY,Mont-Joli,11879,Quebec,QC,48.58388,-68.19214,6568,75,America__Toronto
+CA,CITY,Mont-Laurier,10584,Quebec,QC,46.55011,-75.4993,13405,244,America__Toronto
+CA,CITY,Mont-Royal,10138,Quebec,QC,45.51675,-73.64918,18933,,America__Toronto
+CA,CITY,Mont-Saint-Grégoire,10916,Quebec,QC,45.33338,-73.16585,3086,,America__Toronto
+CA,CITY,Mont-Saint-Hilaire,10179,Quebec,QC,45.56515,-73.1868,15720,,America__Toronto
+CA,CITY,Mont-Tremblant,10914,Quebec,QC,46.21274,-74.58438,8892,,America__Toronto
+CA,CITY,Montague,9992,Prince Edward Island,PE,46.16681,-62.64866,1834,28,America__Halifax
+CA,CITY,Montmagny,10673,Quebec,QC,46.98043,-70.55493,11724,,America__Toronto
+CA,ADM2,Montréal,140079,Quebec,QC,45.50008,-73.68248,1934082,,America__Toronto
+CA,CITY,Montréal-Est,10709,Quebec,QC,45.63202,-73.5075,3822,,America__Toronto
+CA,CITY,Montréal-Ouest,10298,Quebec,QC,45.45286,-73.64918,5184,48,America__Toronto
+CA,CITY,Moose Factory,1230222,Ontario,ON,51.26689,-80.61624,1807,7,America__Toronto
+CA,CITY,Moose Jaw,10840,Saskatchewan,SK,50.40005,-105.53445,32166,,America__Regina
+CA,CITY,Moose Lake,1209048,Manitoba,MB,49.20559,-95.30629,1225,,America__Winnipeg
+CA,CITY,Moosomin,10754,Saskatchewan,SK,50.13332,-101.66766,2206,,America__Regina
+CA,CITY,Moosonee,1209014,Ontario,ON,51.27931,-80.6345,1405,,America__Toronto
+CA,CITY,Morden,10366,Manitoba,MB,49.1919,-98.10136,6395,,America__Winnipeg
+CA,CITY,Morin-Heights,10397,Quebec,QC,45.90009,-74.24922,3925,,America__Toronto
+CA,CITY,Morinville,10017,Alberta,AB,53.80014,-113.65203,8108,700,America__Edmonton
+CA,CITY,Morris,10518,Manitoba,MB,49.35499,-97.36567,1742,,America__Winnipeg
+CA,CITY,Morrisburg,10446,Ontario,ON,44.9001,-75.18261,3014,,America__Toronto
+CA,CITY,Mount Albert,1219637,Ontario,ON,44.13341,-79.3163,4925,,America__Toronto
+CA,CITY,Mount Brydges,1209049,Ontario,ON,42.90009,-81.48306,1842,,America__Toronto
+CA,CITY,Mount Pearl,10687,Newfoundland and Labrador,NL,47.51659,-52.78135,24671,,America__St_Johns
+CA,CITY,Métabetchouan,1230223,Quebec,QC,48.36679,-72.01583,2123,,America__Toronto
+CA,CITY,Nackawic,10775,New Brunswick,NB,45.99666,-67.24028,1009,455,America__Moncton
+CA,CITY,Nakusp,10738,British Columbia,BC,50.24987,-117.80226,1706,457,America__Vancouver
+CA,CITY,Nanaimo,10730,British Columbia,BC,49.16638,-123.94003,84905,28,America__Vancouver
+CA,CITY,Nanton,10899,Alberta,AB,50.35008,-113.76866,1936,1024,America__Edmonton
+CA,CITY,Napanee,1209075,Ontario,ON,44.25012,-76.94944,7439,,America__Toronto
+CA,CITY,Napanee Downtown,11363,Ontario,ON,44.24832,-76.95069,1500,,America__Toronto
+CA,CITY,Napierville,10025,Quebec,QC,45.18648,-73.40468,3124,,America__Toronto
+CA,CITY,Neebing,10010,Ontario,ON,48.1668,-89.41683,1986,,America__Toronto
+CA,CITY,Neepawa,10122,Manitoba,MB,50.22892,-99.46642,3151,358,America__Winnipeg
+CA,CITY,Nelson,10438,British Columbia,BC,49.49985,-117.28553,10664,535,America__Vancouver
+CA,CITY,Nepean,10641,Ontario,ON,45.33619,-75.7225,180000,,America__Toronto
+CA,CITY,Neuville,10152,Quebec,QC,46.69823,-71.58275,3638,73,America__Toronto
+CA,CITY,New Carlisle,11634,Quebec,QC,48.00956,-65.33621,1358,45,America__Toronto
+CA,CITY,New Glasgow,10554,Nova Scotia,NS,45.58344,-62.64863,18665,6,America__Halifax
+CA,CITY,New Hamburg,1209041,Ontario,ON,43.38339,-80.6997,13595,,America__Toronto
+CA,CITY,New Maryland,1209018,New Brunswick,NB,45.87932,-66.66828,2219,,America__Moncton
+CA,CITY,New Westminster,9967,British Columbia,BC,49.20678,-122.91092,58549,60,America__Vancouver
+CA,CITY,New-Richmond,11572,Quebec,QC,48.16059,-65.85823,3748,,America__Toronto
+CA,CITY,Newmarket,10457,Ontario,ON,44.05011,-79.46631,74295,239,America__Toronto
+CA,CITY,Niagara Falls,10639,Ontario,ON,43.10012,-79.06627,82000,173,America__Toronto
+CA,CITY,Nicolet,9964,Quebec,QC,46.21676,-72.61582,5669,,America__Toronto
+CA,CITY,Nipawin,10335,Saskatchewan,SK,53.36678,-104.00092,3994,,America__Regina
+CA,ADM2,Nipissing District,140108,Ontario,ON,46.0001,-78.99959,84868,,America__Toronto
+CA,CITY,Niverville,10417,Manitoba,MB,49.60559,-97.04234,2000,236,America__Winnipeg
+CA,CITY,Noonan,1240772,New Brunswick,NB,45.96682,-66.53218,1042,,America__Moncton
+CA,ADM2,Nord-du-Québec,140206,Quebec,QC,51.962,-74.8961,42000,,America__Toronto
+CA,CITY,Norfolk County,10782,Ontario,ON,42.8334,-80.38297,60847,200,America__Toronto
+CA,CITY,Norman Wells,10243,Northwest Territories,NT,65.28201,-126.8329,1027,73,America__Yellowknife
+CA,CITY,Normandin,10031,Quebec,QC,48.83328,-72.53209,2728,,America__Toronto
+CA,CITY,North Battleford,10722,Saskatchewan,SK,52.77972,-108.2967,19440,,America__Regina
+CA,CITY,North Bay,10764,Ontario,ON,46.3168,-79.46633,50396,197,America__Toronto
+CA,CITY,North Cowichan,10703,British Columbia,BC,48.84133,-123.68596,32272,,America__Vancouver
+CA,CITY,North Oyster/Yellow Point,1240813,British Columbia,BC,49.04807,-123.83395,1320,,America__Vancouver
+CA,CITY,North Perth,10747,Ontario,ON,43.7251,-80.96723,12254,,America__Toronto
+CA,CITY,North Saanich,10302,British Columbia,BC,48.66634,-123.41933,11089,,America__Vancouver
+CA,CITY,North Vancouver,10054,British Columbia,BC,49.31636,-123.06934,48000,68,America__Vancouver
+CA,CITY,North York,9999,Ontario,ON,43.76681,-79.4163,636000,180,America__Toronto
+CA,CITY,Norwood,1209025,Ontario,ON,44.38342,-77.98281,1380,,America__Toronto
+CA,CITY,Notre-Dame-de-Grâce,10013,Quebec,QC,45.47675,-73.61432,67000,,America__Toronto
+CA,CITY,Notre-Dame-de-l'Île-Perrot,10565,Quebec,QC,45.36678,-73.9325,9885,,America__Toronto
+CA,CITY,Notre-Dame-des-Prairies,10758,Quebec,QC,46.05007,-73.43245,8230,,America__Toronto
+CA,CITY,Notre-Dame-du-Lac,1230228,Quebec,QC,46.75012,-79.04961,1184,,America__Toronto
+CA,CITY,Notre-Dame-du-Mont-Carmel,1230204,Quebec,QC,46.0168,-75.08259,1091,,America__Toronto
+CA,CITY,Oak Bay,10111,British Columbia,BC,48.44964,-123.3026,18015,34,America__Vancouver
+CA,CITY,Oakville,10665,Ontario,ON,43.45011,-79.68292,165697,173,America__Toronto
+CA,CITY,Oka,10766,Quebec,QC,45.46489,-74.08892,1254,,America__Toronto
+CA,CITY,Okanagan,10980,British Columbia,BC,50.36386,-119.34997,297601,,America__Vancouver
+CA,CITY,Okanagan Falls,1209027,British Columbia,BC,49.35,-119.56667,2167,,America__Vancouver
+CA,CITY,Okotoks,10827,Alberta,AB,50.72885,-113.98281,14826,1051,America__Edmonton
+CA,CITY,Olds,10855,Alberta,AB,51.78341,-114.10199,8944,1041,America__Edmonton
+CA,CITY,Oliver,10613,British Columbia,BC,49.18306,-119.5524,5279,310,America__Vancouver
+CA,CITY,Omemee,11155,Ontario,ON,44.29897,-78.55989,1323,,America__Toronto
+CA,CITY,Orangeville,10646,Ontario,ON,43.9168,-80.09967,30734,450,America__Toronto
+CA,CITY,Orillia,10595,Ontario,ON,44.60868,-79.42068,30178,219,America__Toronto
+CA,CITY,Ormstown,10350,Quebec,QC,45.13338,-73.99922,1730,,America__Toronto
+CA,CITY,Oromocto,10696,New Brunswick,NB,45.83512,-66.47917,8805,,America__Moncton
+CA,CITY,Osgoode,1209058,Ontario,ON,45.14887,-75.59778,2578,90,America__Toronto
+CA,CITY,Oshawa,10439,Ontario,ON,43.90012,-78.84957,308875,106,America__Toronto
+CA,CITY,Osoyoos,10580,British Columbia,BC,49.03306,-119.45237,4520,283,America__Vancouver
+CA,CITY,Ottawa,10520,Ontario,ON,45.41117,-75.69812,812129,70,America__Toronto
+CA,CITY,Otterburn Park,10238,Quebec,QC,45.53338,-73.21585,8464,,America__Toronto
+CA,ADM2,Outaouais,140112,Quebec,QC,46.26681,-76.31606,370000,,America__Toronto
+CA,CITY,Outlook,10542,Saskatchewan,SK,51.50008,-107.05128,1989,,America__Regina
+CA,CITY,Owen Sound,10690,Ontario,ON,44.56717,-80.94349,22625,307,America__Toronto
+CA,CITY,Oxbow,10145,Saskatchewan,SK,49.23335,-102.1676,1058,,America__Regina
+CA,CITY,Oxford,10386,Nova Scotia,NS,45.73345,-63.86542,1283,,America__Halifax
+CA,CITY,Paisley,1209051,Ontario,ON,44.30641,-81.27265,1045,217,America__Toronto
+CA,CITY,Pangnirtung,10274,Nunavut,NU,66.14642,-65.69996,1320,23,America__Pangnirtung
+CA,CITY,Papineauville,10462,Quebec,QC,45.6168,-75.01599,1600,,America__Toronto
+CA,CITY,Parc-Boutin,1230240,Quebec,QC,45.29209,-73.26154,1127,,America__Toronto
+CA,CITY,Paris,11842,Ontario,ON,43.2,-80.38333,11177,,America__Toronto
+CA,CITY,Parkhill,1209072,Ontario,ON,43.15993,-81.68464,1737,,America__Toronto
+CA,CITY,Parksville,10367,British Columbia,BC,49.31947,-124.31575,12000,,America__Vancouver
+CA,CITY,Parrsboro,10482,Nova Scotia,NS,45.40567,-64.32585,1472,,America__Halifax
+CA,CITY,Parry Sound,10346,Ontario,ON,45.34732,-80.03527,6321,,America__Toronto
+CA,ADM2,Parry Sound District,140115,Ontario,ON,45.75011,-79.83297,40918,,America__Toronto
+CA,CITY,Pasadena,10821,Newfoundland and Labrador,NL,49.01671,-57.59837,2248,30,America__St_Johns
+CA,CITY,Peace River,9948,Alberta,AB,56.23715,-117.29176,5340,330,America__Edmonton
+CA,ADM2,Peace River Regional District,140116,British Columbia,BC,56.6665,-122.75302,62942,,America__Dawson_Creek
+CA,CITY,Peachland,10479,British Columbia,BC,49.76647,-119.73568,1305,360,America__Vancouver
+CA,ADM2,Peel,140117,Ontario,ON,43.75011,-79.78293,1296814,,America__Toronto
+CA,CITY,Pelican Narrows,1209064,Saskatchewan,SK,55.16685,-102.9341,1942,,America__Regina
+CA,CITY,Pemberton,10221,British Columbia,BC,50.31641,-122.80273,2192,210,America__Vancouver
+CA,CITY,Pembroke,10078,Ontario,ON,45.81681,-77.11616,15551,130,America__Toronto
+CA,CITY,Penhold,10454,Alberta,AB,52.13342,-113.8687,1818,871,America__Edmonton
+CA,CITY,Penticton,10110,British Columbia,BC,49.48062,-119.58584,37721,385,America__Vancouver
+CA,CITY,Perth,10385,Ontario,ON,44.90011,-76.24939,5573,,America__Toronto
+CA,CITY,Petawawa,10026,Ontario,ON,45.89452,-77.28007,15988,,America__Toronto
+CA,CITY,Peterborough,10594,Ontario,ON,44.30012,-78.31623,75877,195,America__Toronto
+CA,CITY,Petrolia,10642,Ontario,ON,42.86678,-82.14981,5375,,America__Toronto
+CA,CITY,Pickering,10725,Ontario,ON,43.90012,-79.13289,87838,83,America__Toronto
+CA,CITY,Picton,10913,Ontario,ON,44.00012,-77.13275,3983,79,America__Toronto
+CA,CITY,Pictou,10415,Nova Scotia,NS,45.67875,-62.70936,3732,,America__Halifax
+CA,ADM2,Pictou County,140120,Nova Scotia,NS,45.50015,-62.58193,45643,,America__Halifax
+CA,CITY,Picture Butte,10015,Alberta,AB,49.8833,-112.78516,1700,905,America__Edmonton
+CA,CITY,Piedmont,10625,Quebec,QC,45.90008,-74.13251,2721,,America__Toronto
+CA,CITY,Pierreville,10094,Quebec,QC,46.07034,-72.81125,1119,,America__Toronto
+CA,CITY,Pilot Butte,10257,Saskatchewan,SK,50.46678,-104.41778,1728,610,America__Regina
+CA,CITY,Pincher Creek,10761,Alberta,AB,49.48328,-113.95195,3855,1130,America__Edmonton
+CA,CITY,Pincourt,10607,Quebec,QC,45.38338,-73.9825,11197,,America__Toronto
+CA,CITY,Pitt Meadows,10156,British Columbia,BC,49.22119,-122.68965,17410,8,America__Vancouver
+CA,CITY,Plantagenet,1240775,Ontario,ON,45.5326,-74.99369,1027,,America__Toronto
+CA,CITY,Plattsville,1230214,Ontario,ON,43.3001,-80.61639,1366,,America__Toronto
+CA,CITY,Plessisville,11033,Quebec,QC,46.21856,-71.76201,6677,,America__Toronto
+CA,CITY,Pohénégamook,11394,Quebec,QC,47.46315,-69.22666,2770,,America__Toronto
+CA,CITY,Pointe-Calumet,10712,Quebec,QC,45.50008,-73.9659,6396,,America__Toronto
+CA,CITY,Pointe-Claire,10395,Quebec,QC,45.44868,-73.81669,30161,,America__Toronto
+CA,CITY,Pointe-du-Lac,1230209,Quebec,QC,48.50009,-71.78241,7104,,America__Toronto
+CA,CITY,Ponoka,10600,Alberta,AB,52.6768,-113.58147,6656,807,America__Edmonton
+CA,CITY,Pont Rouge,10008,Quebec,QC,48.88332,-72.08247,7518,,America__Toronto
+CA,CITY,Pont-Rouge,11708,Quebec,QC,46.75468,-71.69566,8723,,America__Toronto
+CA,CITY,Port Alberni,10778,British Columbia,BC,49.24133,-124.8028,20712,,America__Vancouver
+CA,CITY,Port Colborne,10224,Ontario,ON,42.90012,-79.23288,18599,175,America__Toronto
+CA,CITY,Port Coquitlam,10863,British Columbia,BC,49.26637,-122.76932,58000,30,America__Vancouver
+CA,CITY,Port Hawkesbury,10793,Nova Scotia,NS,45.61685,-61.34853,3004,,America__Halifax
+CA,CITY,Port Hope,1209040,Ontario,ON,44.01682,-78.39953,12587,,America__Toronto
+CA,CITY,Port McNeill,1209059,British Columbia,BC,50.59,-127.08638,2064,10,America__Vancouver
+CA,CITY,Port Moody,10477,British Columbia,BC,49.28124,-122.82457,27512,40,America__Vancouver
+CA,CITY,Port Rowan,1219652,Ontario,ON,42.6168,-80.46638,1102,,America__Toronto
+CA,CITY,Port Stanley,1209012,Ontario,ON,42.66679,-81.21644,2148,,America__Toronto
+CA,CITY,Port Williams,1209008,Nova Scotia,NS,45.10015,-64.41546,1120,,America__Halifax
+CA,CITY,Port-Cartier,10549,Quebec,QC,50.03339,-66.86545,5851,,America__Toronto
+CA,CITY,Portage la Prairie,10044,Manitoba,MB,49.97282,-98.29263,12957,261,America__Winnipeg
+CA,CITY,Portneuf,10168,Quebec,QC,46.69058,-71.89011,3107,,America__Toronto
+CA,CITY,Powassan,10246,Ontario,ON,46.0334,-79.34961,1243,,America__Toronto
+CA,CITY,Powell River,10573,British Columbia,BC,49.83278,-124.52368,12779,50,America__Vancouver
+CA,CITY,Preeceville,10219,Saskatchewan,SK,51.94998,-102.66766,1003,1700,America__Regina
+CA,CITY,Prescott,10635,Ontario,ON,44.71681,-75.51604,4466,,America__Toronto
+CA,CITY,Prince Albert,10390,Saskatchewan,SK,53.20008,-105.76772,35102,440,America__Regina
+CA,CITY,Prince Edward,10706,Ontario,ON,44.00012,-77.24946,25496,,America__Toronto
+CA,CITY,Prince George,10820,British Columbia,BC,53.9166,-122.75301,65558,575,America__Vancouver
+CA,CITY,Prince Rupert,10817,British Columbia,BC,54.31507,-130.32098,14708,40,America__Vancouver
+CA,CITY,Princeton,10734,British Columbia,BC,49.45802,-120.51076,2706,700,America__Vancouver
+CA,CITY,Princeville,10315,Nova Scotia,NS,45.76684,-61.29853,5571,,America__Halifax
+CA,CITY,Princeville,11336,Quebec,QC,46.17163,-71.87462,5693,,America__Toronto
+CA,CITY,Provost,10225,Alberta,AB,52.35014,-110.26828,2082,668,America__Edmonton
+CA,CITY,Prévost,10852,Quebec,QC,45.86678,-74.08251,10132,,America__Toronto
+CA,CITY,Puntledge,1209056,British Columbia,BC,49.66168,-125.05686,1387,,America__Vancouver
+CA,CITY,Queenswood Heights,1209019,Ontario,ON,45.47083,-75.50556,12000,,America__Toronto
+CA,CITY,Quesnel,10337,British Columbia,BC,52.97842,-122.4931,13788,474,America__Vancouver
+CA,CITY,Quinte West,10076,Ontario,ON,44.18342,-77.56618,42697,,America__Toronto
+CA,CITY,Québec,10184,Quebec,QC,46.81228,-71.21454,528595,98,America__Toronto
+CA,ADM2,Rainy River District,140131,Ontario,ON,48.49981,-92.50031,21564,,America__Winnipeg
+CA,CITY,Rankin Inlet,10191,Nunavut,NU,62.80906,-92.08534,2334,28,America__Rankin_Inlet
+CA,CITY,Rawdon,10785,Quebec,QC,46.05007,-73.71587,5188,,America__Toronto
+CA,CITY,Raymond,10843,Alberta,AB,49.44998,-112.65185,3365,960,America__Edmonton
+CA,CITY,Rayside-Balfour,10189,Ontario,ON,46.60873,-81.20763,16050,,America__Toronto
+CA,CITY,Red Deer,10575,Alberta,AB,52.26682,-113.802,73593,855,America__Edmonton
+CA,CITY,Red Lake,10656,Ontario,ON,51.01678,-93.82736,4366,,America__Winnipeg
+CA,CITY,Regina,10422,Saskatchewan,SK,50.45008,-104.6178,176183,577,America__Regina
+CA,CITY,Regina Beach,1209039,Saskatchewan,SK,50.78338,-105.00112,1629,,America__Regina
+CA,ADM2,Regional District of Alberni-Clayoquot,140135,British Columbia,BC,49.24962,-125.33615,30981,,America__Vancouver
+CA,ADM2,Regional District of Central Okanagan,140138,British Columbia,BC,49.99978,-119.41908,106707,,America__Vancouver
+CA,ADM2,Regional Municipality of Waterloo,140189,Ontario,ON,43.5001,-80.49969,507096,,America__Toronto
+CA,CITY,Renfrew,10092,Ontario,ON,45.46681,-76.68272,8018,120,America__Toronto
+CA,CITY,Repentigny,10140,Quebec,QC,45.74222,-73.45008,76237,,America__Toronto
+CA,CITY,Revelstoke,10080,British Columbia,BC,50.99712,-118.1953,7533,480,America__Vancouver
+CA,CITY,Richelieu,10291,Quebec,QC,45.44336,-73.24602,5208,,America__Toronto
+CA,CITY,Richibucto,10130,New Brunswick,NB,46.68073,-64.88044,1298,,America__Moncton
+CA,CITY,Richmond,9997,British Columbia,BC,49.17003,-123.13683,182000,,America__Vancouver
+CA,CITY,Richmond,10823,Quebec,QC,45.66677,-72.1491,3485,,America__Toronto
+CA,CITY,Richmond,1209052,Ontario,ON,45.1834,-75.83266,4055,90,America__Toronto
+CA,CITY,Richmond Hill,10270,Ontario,ON,43.87111,-79.43725,185541,233,America__Toronto
+CA,CITY,Rideau Park,10718,Alberta,AB,53.47899,-113.5047,1883,674,America__Edmonton
+CA,CITY,Ridgetown,1209005,Ontario,ON,42.43339,-81.89978,3002,,America__Toronto
+CA,CITY,Rigaud,9995,Quebec,QC,45.47927,-74.30238,3613,,America__Toronto
+CA,CITY,Rimbey,10096,Alberta,AB,52.6334,-114.23532,2227,930,America__Edmonton
+CA,CITY,Rimouski,10399,Quebec,QC,48.44879,-68.52396,42240,,America__Toronto
+CA,CITY,Rivers,9972,Manitoba,MB,50.03081,-100.24029,1165,,America__Winnipeg
+CA,CITY,Rivière-Rouge,10927,Quebec,QC,46.41679,-74.86596,4152,,America__Toronto
+CA,CITY,Rivière-du-Loup,10631,Quebec,QC,47.82699,-69.54243,18586,200,America__Toronto
+CA,CITY,Roberval,10167,Quebec,QC,48.5168,-72.23244,9287,,America__Toronto
+CA,CITY,Roblin,9970,Manitoba,MB,51.22999,-101.3565,1903,,America__Winnipeg
+CA,CITY,Rock Forest,10067,Quebec,QC,45.35699,-71.99676,35500,,America__Toronto
+CA,CITY,Rockwood,1209043,Ontario,ON,43.61899,-80.14441,4629,,America__Toronto
+CA,CITY,Rocky Mountain House,10265,Alberta,AB,52.36683,-114.9188,6527,985,America__Edmonton
+CA,CITY,Rosemère,10858,Quebec,QC,45.63338,-73.79919,14173,29,America__Toronto
+CA,CITY,Rosetown,10004,Saskatchewan,SK,51.5501,-108.00136,2309,,America__Regina
+CA,CITY,Rossland,10819,British Columbia,BC,49.08313,-117.80224,3619,1023,America__Vancouver
+CA,CITY,Rosthern,10685,Saskatchewan,SK,52.66679,-106.33446,1405,,America__Regina
+CA,CITY,Rougemont,10483,Quebec,QC,45.43338,-73.04914,1481,,America__Toronto
+CA,CITY,Rouyn-Noranda,10175,Quebec,QC,48.23656,-79.02311,23504,304,America__Toronto
+CA,CITY,Royston,1240797,British Columbia,BC,49.64703,-124.9467,1616,,America__Vancouver
+CA,CITY,Russell,1230215,Ontario,ON,45.2501,-75.36602,4464,,America__Toronto
+CA,CITY,Sackville,10767,New Brunswick,NB,45.91875,-64.38455,2963,,America__Moncton
+CA,CITY,Sacré-Coeur,11096,Quebec,QC,48.2297,-69.80061,1881,,America__Toronto
+CA,CITY,Saguenay,10715,Quebec,QC,48.41675,-71.06573,143692,166,America__Toronto
+CA,CITY,Saint Andrews,10321,New Brunswick,NB,45.0737,-67.05312,1809,,America__Moncton
+CA,CITY,Saint John,10237,New Brunswick,NB,45.27076,-66.05616,87857,,America__Moncton
+CA,CITY,Saint-Adolphe-d'Howard,10874,Quebec,QC,45.96679,-74.33253,3702,,America__Toronto
+CA,CITY,Saint-Alexandre,1230202,Quebec,QC,45.5001,-75.74935,1304,,America__Toronto
+CA,CITY,Saint-Amable,1209007,Quebec,QC,45.65008,-73.29916,9486,,America__Toronto
+CA,CITY,Saint-Ambroise,10693,Quebec,QC,48.55009,-71.33238,1678,,America__Toronto
+CA,CITY,Saint-André-Avellin,10061,Quebec,QC,45.7168,-75.06599,1903,,America__Toronto
+CA,CITY,Saint-Anselme,1209107,Quebec,QC,46.62922,-70.9734,2541,,America__Toronto
+CA,CITY,Saint-Antoine,1209026,New Brunswick,NB,46.36294,-64.74985,1252,,America__Moncton
+CA,CITY,Saint-Antoine-de-Tilly,11571,Quebec,QC,46.66346,-71.57335,1462,,America__Toronto
+CA,CITY,Saint-Augustin,10223,Quebec,QC,51.22602,-58.65017,3961,,America__Blanc-Sablon
+CA,CITY,Saint-Augustin-de-Desmaures,11249,Quebec,QC,46.74064,-71.45131,17281,,America__Toronto
+CA,CITY,Saint-Barnabé-Sud,1230200,Quebec,QC,45.72977,-72.92244,1387,,America__Toronto
+CA,CITY,Saint-Basile-le-Grand,10006,Quebec,QC,45.53338,-73.28246,15605,,America__Toronto
+CA,CITY,Saint-Boniface,1230203,Quebec,QC,46.50011,-75.98264,1035,,America__Toronto
+CA,CITY,Saint-Bruno,10443,Quebec,QC,48.46679,-71.6491,2636,,America__Toronto
+CA,CITY,Saint-Bruno-de-Guigues,10401,Quebec,QC,47.46685,-79.43296,2928,,America__Toronto
+CA,CITY,Saint-Bruno-de-Montarville,10844,Quebec,QC,45.53341,-73.34916,24388,,America__Toronto
+CA,CITY,Saint-Canut,1230201,Quebec,QC,45.71502,-74.08376,10643,,America__Toronto
+CA,CITY,Saint-Charles,1230232,Quebec,QC,45.70288,-73.55417,1482,,America__Toronto
+CA,CITY,Saint-Constant,10834,Quebec,QC,45.36678,-73.56588,23957,,America__Toronto
+CA,CITY,Saint-Cyrille-de-Wendover,10190,Quebec,QC,45.93336,-72.43241,1279,,America__Toronto
+CA,CITY,Saint-Césaire,10251,Quebec,QC,45.41678,-72.99914,3815,,America__Toronto
+CA,CITY,Saint-Côme--Linière,10726,Quebec,QC,46.06677,-70.51573,2167,,America__Toronto
+CA,CITY,Saint-Damase,10632,Quebec,QC,45.53341,-72.99914,1349,,America__Toronto
+CA,CITY,Saint-Denis-sur-Richelieu,10514,Quebec,QC,45.78338,-73.14915,1067,,America__Toronto
+CA,CITY,Saint-Donat-de-Montcalm,1230207,Quebec,QC,46.31868,-74.22171,1213,,America__Toronto
+CA,CITY,Saint-Elzéar,1209023,Quebec,QC,45.60338,-73.72698,1057,,America__Toronto
+CA,CITY,Saint-Eustache,10464,Quebec,QC,45.565,-73.90554,42062,,America__Toronto
+CA,CITY,Saint-Félicien,10324,Quebec,QC,48.65007,-72.44906,8088,,America__Toronto
+CA,CITY,Saint-Félix-de-Valois,10831,Quebec,QC,46.16977,-73.42525,6029,,America__Toronto
+CA,CITY,Saint-Gabriel,10340,Quebec,QC,46.30007,-73.38245,2901,,America__Toronto
+CA,CITY,Saint-Georges,11409,Quebec,QC,46.11353,-70.66526,31173,,America__Toronto
+CA,CITY,Saint-Germain-de-Grantham,10582,Quebec,QC,45.83337,-72.56582,3485,,America__Toronto
+CA,CITY,Saint-Gédéon,9946,Quebec,QC,48.50009,-71.76581,1859,,America__Toronto
+CA,CITY,Saint-Henri,11681,Quebec,QC,46.69314,-71.06927,5023,,America__Toronto
+CA,CITY,Saint-Hippolyte,10535,Quebec,QC,45.93338,-74.0159,8083,,America__Toronto
+CA,CITY,Saint-Honoré,1209044,Quebec,QC,48.53338,-71.08236,2265,,America__Toronto
+CA,CITY,Saint-Hyacinthe,10319,Quebec,QC,45.63076,-72.95699,50326,,America__Toronto
+CA,CITY,Saint-Isidore,1240803,Quebec,QC,47.43345,-79.29965,1122,,America__Toronto
+CA,CITY,Saint-Jacques-le-Mineur,10682,Quebec,QC,45.28338,-73.41587,1672,,America__Toronto
+CA,CITY,Saint-Jean-Baptiste,1209015,Quebec,QC,45.3806,-74.0121,1703,,America__Toronto
+CA,CITY,Saint-Jean-sur-Richelieu,10798,Quebec,QC,45.30713,-73.26259,71613,,America__Toronto
+CA,CITY,Saint-Joseph,1230236,Quebec,QC,45.95817,-73.22025,2576,,America__Toronto
+CA,CITY,Saint-Joseph-de-Beauce,11588,Quebec,QC,46.3,-70.86667,4454,,America__Toronto
+CA,CITY,Saint-Joseph-de-Coleraine,10229,Quebec,QC,45.96677,-71.36577,1319,,America__Toronto
+CA,CITY,Saint-Joseph-du-Lac,10344,Quebec,QC,45.53338,-73.9992,6195,,America__Toronto
+CA,CITY,Saint-Jérôme,10068,Quebec,QC,45.78036,-74.00365,54948,,America__Toronto
+CA,CITY,Saint-Lambert-de-Lauzon,1230248,Quebec,QC,46.58624,-71.20892,2443,,America__Toronto
+CA,CITY,Saint-Laurent,10911,Quebec,QC,45.50008,-73.66585,77391,,America__Toronto
+CA,CITY,Saint-Lazare,10292,Quebec,QC,45.40008,-74.13256,17016,,America__Toronto
+CA,CITY,Saint-Liboire,1209017,Quebec,QC,45.65068,-72.76348,1775,,America__Toronto
+CA,CITY,Saint-Lin-Laurentides,10433,Quebec,QC,45.85008,-73.76588,14159,,America__Toronto
+CA,CITY,Saint-Léonard,10194,Quebec,QC,45.58773,-73.59501,73423,,America__Toronto
+CA,CITY,Saint-Léonard,11112,New Brunswick,NB,47.16317,-67.9246,2700,,America__Moncton
+CA,CITY,Saint-Léonard-d'Aston,1209021,Quebec,QC,46.10006,-72.3658,1336,,America__Toronto
+CA,CITY,Saint-Marc-des-Carrières,10174,Quebec,QC,46.68335,-72.0491,2358,,America__Toronto
+CA,CITY,Saint-Mathieu,9968,Quebec,QC,45.31678,-73.51587,1879,,America__Toronto
+CA,CITY,Saint-Michel,1209074,Quebec,QC,45.56758,-73.62168,1558,,America__Toronto
+CA,CITY,Saint-Michel-des-Saints,10098,Quebec,QC,46.67702,-73.91881,1131,,America__Toronto
+CA,CITY,Saint-Nazaire,10601,Quebec,QC,48.58944,-71.55247,2073,,America__Toronto
+CA,CITY,Saint-Norbert,11877,Quebec,QC,46.16949,-73.31494,1059,,America__Toronto
+CA,CITY,Saint-Pacôme,1240805,Quebec,QC,47.40457,-69.95025,1087,,America__Toronto
+CA,CITY,Saint-Pascal,11462,Quebec,QC,47.51813,-69.80301,3490,,America__Toronto
+CA,CITY,Saint-Philippe-de-La Prairie,10499,Quebec,QC,45.35723,-73.47706,6320,,America__Toronto
+CA,CITY,Saint-Pie,10662,Quebec,QC,45.50277,-72.9089,5438,,America__Toronto
+CA,CITY,Saint-Pierre-les-Becquets,10310,Quebec,QC,46.50005,-72.1991,1137,,America__Toronto
+CA,CITY,Saint-Prime,1209065,Quebec,QC,48.58339,-72.33244,1021,,America__Toronto
+CA,CITY,Saint-Raphaël,1230234,Quebec,QC,46.25011,-76.01605,1113,,America__Toronto
+CA,CITY,Saint-Raymond,10285,Quebec,QC,45.46698,-73.60948,3227,,America__Toronto
+CA,CITY,Saint-Rémi,10303,Quebec,QC,45.26678,-73.61588,6891,60,America__Toronto
+CA,CITY,Saint-Rémi-de-Tingwick,10216,Quebec,QC,45.86677,-71.81581,458,,America__Toronto
+CA,CITY,Saint-Sauveur,10394,Quebec,QC,45.88686,-74.17943,9191,,America__Toronto
+CA,CITY,Saint-Sauveur-des-Monts,1209045,Quebec,QC,45.90008,-74.16591,7849,,America__Toronto
+CA,CITY,Saint-Siméon,11917,Quebec,QC,47.84431,-69.87837,1300,,America__Toronto
+CA,CITY,Saint-Thomas,10281,Quebec,QC,46.01677,-73.34915,3193,,America__Toronto
+CA,CITY,Saint-Tite,10021,Quebec,QC,46.73336,-72.56581,2456,,America__Toronto
+CA,CITY,Saint-Victor,1240806,Quebec,QC,45.61118,-73.51527,1233,,America__Toronto
+CA,CITY,Saint-Zotique,9986,Quebec,QC,45.25009,-74.24924,6773,,America__Toronto
+CA,CITY,Saint-Édouard,10072,Quebec,QC,45.23338,-73.51588,1672,,America__Toronto
+CA,CITY,Saint-Éphrem-de-Beauce,1230206,Quebec,QC,46.06677,-70.94905,1385,,America__Toronto
+CA,CITY,Sainte Catherine de la Jacques Cartier,11212,Quebec,QC,46.85244,-71.62056,5021,,America__Toronto
+CA,CITY,Sainte-Adèle,10465,Quebec,QC,45.95008,-74.13251,10634,,America__Toronto
+CA,CITY,Sainte-Agathe-des-Monts,10470,Quebec,QC,46.05009,-74.28252,5706,,America__Toronto
+CA,CITY,Sainte-Anne-de-Bellevue,10467,Quebec,QC,45.40618,-73.9456,5197,,America__Toronto
+CA,CITY,Sainte-Anne-des-Monts,10773,Quebec,QC,49.12402,-66.49243,5602,15,America__Toronto
+CA,CITY,Sainte-Anne-des-Plaines,10059,Quebec,QC,45.76468,-73.81156,10680,,America__Toronto
+CA,CITY,Sainte-Béatrix,10561,Quebec,QC,46.20007,-73.61587,1849,,America__Toronto
+CA,CITY,Sainte-Catherine,10910,Quebec,QC,45.40008,-73.58248,16762,,America__Toronto
+CA,CITY,Sainte-Croix,1230233,Quebec,QC,45.13368,-72.80083,1401,,America__Toronto
+CA,CITY,Sainte-Julie,10824,Quebec,QC,45.58338,-73.33246,29019,,America__Toronto
+CA,CITY,Sainte-Julienne,10569,Quebec,QC,45.96677,-73.71587,3263,,America__Toronto
+CA,CITY,Sainte-Madeleine,1209010,Quebec,QC,45.60008,-73.09914,1959,,America__Toronto
+CA,CITY,Sainte-Marie,11449,Quebec,QC,46.43401,-71.01168,11584,,America__Toronto
+CA,CITY,Sainte-Marthe-sur-le-Lac,10169,Quebec,QC,45.53338,-73.9325,11311,,America__Toronto
+CA,CITY,Sainte-Martine,10802,Quebec,QC,45.25008,-73.79919,2535,,America__Toronto
+CA,CITY,Sainte-Sophie,10215,Quebec,QC,45.81678,-73.89919,1634,,America__Toronto
+CA,CITY,Sainte-Thècle,10365,Quebec,QC,46.81676,-72.49911,1333,,America__Toronto
+CA,CITY,Sainte-Thérèse,10435,Quebec,QC,45.63922,-73.82757,25224,,America__Toronto
+CA,CITY,Sainte-Élisabeth,11721,Quebec,QC,46.09502,-73.35176,1559,,America__Toronto
+CA,CITY,Salaberry-de-Valleyfield,9977,Quebec,QC,45.25008,-74.13253,38662,,America__Toronto
+CA,CITY,Salisbury,10250,New Brunswick,NB,46.03905,-65.04628,1534,,America__Moncton
+CA,CITY,Salluit,1209042,Quebec,QC,62.20411,-75.64344,1075,227,America__Toronto
+CA,CITY,Salmo,9978,British Columbia,BC,49.19986,-117.2689,1125,670,America__Vancouver
+CA,CITY,Salmon Arm,10671,British Columbia,BC,50.6998,-119.30237,12875,,America__Vancouver
+CA,CITY,Salt Spring Island,367284,British Columbia,BC,48.81852,-123.49061,10557,,America__Vancouver
+CA,CITY,Saltair,1240817,British Columbia,BC,48.94963,-123.76939,2069,,America__Vancouver
+CA,CITY,Sarnia,10651,Ontario,ON,42.97866,-82.40407,72125,191,America__Toronto
+CA,CITY,Saskatoon,10409,Saskatchewan,SK,52.13238,-106.66892,198958,481,America__Regina
+CA,CITY,Sault Ste. Marie,10320,Ontario,ON,46.51677,-84.33325,66313,190,America__Toronto
+CA,CITY,Scarborough,11325,Ontario,ON,43.77223,-79.25666,600000,,America__Toronto
+CA,CITY,Seaforth,1209037,Ontario,ON,43.55009,-81.39976,2680,,America__Toronto
+CA,CITY,Sechelt,9963,British Columbia,BC,49.47512,-123.75903,8832,8,America__Vancouver
+CA,CITY,Selkirk,10610,Manitoba,MB,50.1436,-96.88452,9653,225,America__Winnipeg
+CA,CITY,Senneterre,9980,Quebec,QC,48.39302,-77.23951,2239,,America__Toronto
+CA,CITY,Sept-Îles,10133,Quebec,QC,50.20011,-66.38208,22582,,America__Toronto
+CA,CITY,Sexsmith,10815,Alberta,AB,55.34998,-118.78602,2461,724,America__Edmonton
+CA,CITY,Shannon,11288,Quebec,QC,46.88026,-71.51464,5086,,America__Toronto
+CA,CITY,Shaunavon,10537,Saskatchewan,SK,49.65005,-108.4181,1658,916,America__Regina
+CA,CITY,Shawinigan,10525,Quebec,QC,46.56675,-72.74913,38211,,America__Toronto
+CA,CITY,Shawville,10113,Quebec,QC,45.60011,-76.4827,1203,,America__Toronto
+CA,CITY,Shediac,10166,New Brunswick,NB,46.21981,-64.54107,4735,,America__Moncton
+CA,CITY,Shediac Bridge-Shediac River,1240808,New Brunswick,NB,46.26886,-64.60047,1098,,America__Moncton
+CA,CITY,Shelburne,10396,Ontario,ON,44.0787,-80.20408,8126,,America__Toronto
+CA,CITY,Shelburne,10495,Nova Scotia,NS,43.76325,-65.32355,1330,,America__Halifax
+CA,CITY,Shellbrook,10689,Saskatchewan,SK,53.21679,-106.40109,1192,,America__Regina
+CA,CITY,Sherbrooke,10154,Quebec,QC,45.40008,-71.89908,129447,,America__Toronto
+CA,CITY,Sherwood Park,10770,Alberta,AB,53.51684,-113.3187,55063,729,America__Edmonton
+CA,CITY,Shilo,1219674,Manitoba,MB,49.80509,-99.63175,1419,,America__Winnipeg
+CA,CITY,Shippagan,11929,New Brunswick,NB,47.74424,-64.70804,2631,,America__Moncton
+CA,CITY,Sicamous,10086,British Columbia,BC,50.83312,-118.98565,1786,350,America__Vancouver
+CA,CITY,Silver Berry,11213,Alberta,AB,53.45787,-113.3817,8089,713,America__Edmonton
+CA,CITY,Simcoe,10644,Ontario,ON,42.8334,-80.29967,13922,224,America__Toronto
+CA,CITY,Sioux Lookout,1209108,Ontario,ON,50.06676,-91.98358,2941,,America__Winnipeg
+CA,CITY,Six Mile,1240799,British Columbia,BC,48.45767,-123.46088,1031,,America__Vancouver
+CA,CITY,Skatepark,11432,Ontario,ON,44.25122,-76.94424,1500,,America__Toronto
+CA,CITY,Slave Lake,10354,Alberta,AB,55.28344,-114.76896,7661,590,America__Edmonton
+CA,CITY,Smithers,10085,British Columbia,BC,54.78036,-127.17428,5438,490,America__Vancouver
+CA,CITY,Smiths Falls,10028,Ontario,ON,44.90452,-76.02333,8885,,America__Toronto
+CA,CITY,Smoky Lake,10731,Alberta,AB,54.11687,-112.46863,1063,623,America__Edmonton
+CA,CITY,Sooke,10583,British Columbia,BC,48.37463,-123.72762,6145,50,America__Vancouver
+CA,CITY,Sorel-Tracy,837615,Quebec,QC,46.04178,-73.11358,41629,,America__Toronto
+CA,CITY,Souris,10697,Prince Edward Island,PE,46.3501,-62.24862,1284,,America__Halifax
+CA,CITY,Souris,10928,Manitoba,MB,49.6172,-100.2612,1752,450,America__Winnipeg
+CA,CITY,South Huron,10075,Ontario,ON,43.31679,-81.51647,9982,,America__Toronto
+CA,CITY,South Pender Harbour,1240815,British Columbia,BC,49.62202,-124.02484,1187,,America__Vancouver
+CA,CITY,South River,10629,Ontario,ON,45.8334,-79.38293,1193,,America__Toronto
+CA,CITY,Sparwood,10510,British Columbia,BC,49.73332,-114.88532,3490,1140,America__Edmonton
+CA,CITY,Spirit River,10402,Alberta,AB,55.78327,-118.83607,1157,640,America__Edmonton
+CA,CITY,Springbrook,1240816,Alberta,AB,52.1792,-113.87981,1507,,America__Edmonton
+CA,CITY,Springdale,1209110,Newfoundland and Labrador,NL,49.49995,-56.06492,2080,,America__St_Johns
+CA,CITY,Springhill,10705,Nova Scotia,NS,45.65015,-64.04873,3940,,America__Halifax
+CA,CITY,Spruce Grove,10371,Alberta,AB,53.53344,-113.91874,36135,709,America__Edmonton
+CA,CITY,Squamish,1408907,British Columbia,BC,49.69925,-123.15631,17587,5,America__Vancouver
+CA,CITY,St-Jean-Port-Joli,11016,Quebec,QC,47.21418,-70.26969,3304,,America__Toronto
+CA,CITY,St. Adolphe,1219671,Manitoba,MB,49.6744,-97.11124,1362,,America__Winnipeg
+CA,CITY,St. Albert,10209,Alberta,AB,53.63344,-113.63533,57719,689,America__Edmonton
+CA,CITY,St. Anthony,1209087,Newfoundland and Labrador,NL,51.37039,-55.59743,2049,,America__St_Johns
+CA,CITY,St. Catharines,10253,Ontario,ON,43.17126,-79.24267,131989,98,America__Toronto
+CA,CITY,St. George,1209094,Ontario,ON,43.24495,-80.25144,3255,,America__Toronto
+CA,CITY,St. John's,10290,Newfoundland and Labrador,NL,47.56494,-52.70931,99182,,America__St_Johns
+CA,CITY,St. Thomas,10717,Ontario,ON,42.77361,-81.18038,36110,230,America__Toronto
+CA,CITY,Starlight Village,1219672,New Brunswick,NB,45.88308,-66.76905,2127,,America__Moncton
+CA,CITY,Steinbach,10325,Manitoba,MB,49.52579,-96.68451,9607,253,America__Winnipeg
+CA,CITY,Stephenville,10876,Newfoundland and Labrador,NL,48.55001,-58.5818,6278,,America__St_Johns
+CA,CITY,Stephenville Crossing,10332,Newfoundland and Labrador,NL,48.50001,-58.4318,1183,,America__St_Johns
+CA,CITY,Stettler,10159,Alberta,AB,52.31683,-112.71861,5494,820,America__Edmonton
+CA,CITY,Stirling,1209096,Ontario,ON,44.30012,-77.54948,2030,,America__Toronto
+CA,CITY,Stonewall,10241,Manitoba,MB,50.13441,-97.32676,4177,,America__Winnipeg
+CA,CITY,Stoney Point,1209086,Ontario,ON,44.26681,-79.53292,1087,,America__Toronto
+CA,CITY,Stony Plain,10779,Alberta,AB,53.53343,-114.00205,8939,710,America__Edmonton
+CA,CITY,Stratford,10082,Ontario,ON,43.36679,-80.94972,30233,345,America__Toronto
+CA,CITY,Strathmore,10666,Alberta,AB,51.05011,-113.38523,13592,973,America__Edmonton
+CA,ADM2,Sudbury,140175,Ontario,ON,47.16679,-81.9998,21392,,America__Toronto
+CA,CITY,Summerland,10757,British Columbia,BC,49.59977,-119.66911,6292,454,America__Vancouver
+CA,CITY,Summerside,10893,Prince Edward Island,PE,46.39593,-63.78762,14808,29,America__Halifax
+CA,CITY,Sundre,10873,Alberta,AB,51.8001,-114.63532,2384,1093,America__Edmonton
+CA,CITY,Surrey,10931,British Columbia,BC,49.10635,-122.82509,394976,2,America__Vancouver
+CA,CITY,Sussex,10476,New Brunswick,NB,45.72266,-65.50663,5298,,America__Moncton
+CA,CITY,Sutton,10898,Quebec,QC,45.10008,-72.61582,3805,,America__Toronto
+CA,CITY,Swan Hills,10345,Alberta,AB,54.71681,-115.40226,1900,1113,America__Edmonton
+CA,CITY,Swan River,10117,Manitoba,MB,52.1058,-101.26759,4198,,America__Winnipeg
+CA,CITY,Swift Current,10453,Saskatchewan,SK,50.28337,-107.80135,14703,817,America__Swift_Current
+CA,CITY,Sydney,11521,Nova Scotia,NS,46.1351,-60.1831,105968,,America__Glace_Bay
+CA,CITY,Sydney Mines,11255,Nova Scotia,NS,46.23669,-60.21767,7312,0,America__Glace_Bay
+CA,CITY,Sylvan Lake,10252,Alberta,AB,52.311,-114.08375,10518,945,America__Edmonton
+CA,CITY,Taber,10711,Alberta,AB,49.78703,-112.14603,8163,815,America__Edmonton
+CA,CITY,Tamarack,11272,Alberta,AB,53.46441,-113.36235,2348,701,America__Edmonton
+CA,CITY,Tavistock,1209103,Ontario,ON,43.31679,-80.83302,2955,,America__Toronto
+CA,CITY,Temiskaming Shores,10220,Ontario,ON,47.49376,-79.71529,10442,347,America__Toronto
+CA,CITY,Terrace,10912,British Columbia,BC,54.51634,-128.60345,19443,67,America__Vancouver
+CA,CITY,Terrasse-des-Pins,1209105,Quebec,QC,45.86449,-74.06627,4268,,America__Toronto
+CA,CITY,Terrebonne,10374,Quebec,QC,45.70004,-73.64732,94703,,America__Toronto
+CA,CITY,The Pas,10667,Manitoba,MB,53.82509,-101.25413,6055,271,America__Winnipeg
+CA,CITY,Thessalon,9944,Ontario,ON,46.25006,-83.5666,1175,,America__Toronto
+CA,CITY,Thetford-Mines,11529,Quebec,QC,46.09371,-71.30539,25704,,America__Toronto
+CA,CITY,Thompson,10282,Manitoba,MB,55.7435,-97.85579,12467,409,America__Winnipeg
+CA,CITY,Thorold,10698,Ontario,ON,43.11682,-79.19958,18224,162,America__Toronto
+CA,CITY,Three Hills,10126,Alberta,AB,51.70012,-113.26863,3051,896,America__Edmonton
+CA,CITY,Thunder Bay,10382,Ontario,ON,48.38202,-89.25018,99334,199,America__Thunder_Bay
+CA,ADM2,Thunder Bay District,140181,Ontario,ON,49.50011,-88.50004,149063,,America__Toronto
+CA,CITY,Thurso,10864,Quebec,QC,45.6001,-75.24931,2476,,America__Toronto
+CA,ADM2,Timiskaming District,140182,Ontario,ON,47.75016,-80.33303,33283,,America__Toronto
+CA,CITY,Timmins,10720,Ontario,ON,48.46686,-81.33312,42997,294,America__Toronto
+CA,CITY,Tisdale,10591,Saskatchewan,SK,52.85002,-104.05096,2862,,America__Regina
+CA,CITY,Tobermory,10233,Ontario,ON,45.25007,-81.66647,1427,,America__Toronto
+CA,CITY,Tofield,10684,Alberta,AB,53.36684,-112.66862,1911,700,America__Edmonton
+CA,CITY,Tofino,10952,British Columbia,BC,49.15314,-125.90744,1655,10,America__Vancouver
+CA,CITY,Torbay,10576,Newfoundland and Labrador,NL,47.66659,-52.73135,3097,,America__St_Johns
+CA,CITY,Toronto,10908,Ontario,ON,43.70011,-79.4163,2600000,76,America__Toronto
+CA,ADM2,Toronto county,140209,Ontario,ON,43.69655,-79.42909,670000,,America__Toronto
+CA,CITY,Tottenham,1209090,Ontario,ON,44.02437,-79.80553,5143,,America__Toronto
+CA,CITY,Tracadie-Sheila,11277,New Brunswick,NB,47.51444,-64.91806,3184,,America__Moncton
+CA,CITY,Trail,10567,British Columbia,BC,49.09983,-117.70223,9707,440,America__Vancouver
+CA,CITY,Trois-Rivières,10124,Quebec,QC,46.34515,-72.5477,119693,16,America__Toronto
+CA,CITY,Truro,10621,Nova Scotia,NS,45.36685,-63.26538,20650,19,America__Halifax
+CA,CITY,Tsawwassen,1209092,British Columbia,BC,49.01667,-123.08333,21588,,America__Vancouver
+CA,CITY,Tumbler Ridge,10721,British Columbia,BC,55.13027,-120.99415,2454,830,America__Dawson_Creek
+CA,CITY,Tweed,1209083,Ontario,ON,44.47512,-77.31616,1701,,America__Toronto
+CA,CITY,Two Hills,10341,Alberta,AB,53.71686,-111.75181,1147,603,America__Edmonton
+CA,CITY,Témiscaming,10894,Quebec,QC,46.72122,-79.09712,1854,,America__Toronto
+CA,CITY,Ucluelet,9938,British Columbia,BC,48.94153,-125.54635,1566,20,America__Vancouver
+CA,CITY,Unity,10835,Saskatchewan,SK,52.45014,-109.16816,2475,,America__Regina
+CA,CITY,Upper Island Cove,1209088,Newfoundland and Labrador,NL,47.64989,-53.21478,1142,,America__St_Johns
+CA,CITY,Uxbridge,10529,Ontario,ON,44.10012,-79.11628,11531,273,America__Toronto
+CA,CITY,Val-David,10856,Quebec,QC,46.03338,-74.21592,1211,322,America__Toronto
+CA,CITY,Val-Morin,9973,Quebec,QC,46.00008,-74.18251,2772,309,America__Toronto
+CA,CITY,Val-d'Or,10900,Quebec,QC,48.0974,-77.79737,25541,306,America__Toronto
+CA,CITY,Val-des-Monts,10097,Quebec,QC,45.6501,-75.66604,9539,,America__Toronto
+CA,CITY,Valcourt,10119,Quebec,QC,45.50008,-72.31581,2451,365,America__Toronto
+CA,CITY,Valley East,1219661,Ontario,ON,46.66773,-81.00028,17451,,America__Toronto
+CA,CITY,Valleyview,9976,Alberta,AB,55.06673,-117.28585,1951,700,America__Edmonton
+CA,CITY,Vallée-Jonction,11220,Quebec,QC,46.37441,-70.91881,1940,,America__Toronto
+CA,CITY,Vancouver,10841,British Columbia,BC,49.24966,-123.11934,600000,2,America__Vancouver
+CA,CITY,Vanderhoof,10423,British Columbia,BC,54.01657,-124.01982,1462,640,America__Vancouver
+CA,CITY,Vanier,1198481,Ontario,ON,45.4399,-75.66498,17000,57,America__Toronto
+CA,CITY,Varennes,10692,Quebec,QC,45.68338,-73.43246,20950,19,America__Toronto
+CA,CITY,Vaudreuil-Dorion,10640,Quebec,QC,45.40008,-74.03251,25789,,America__Toronto
+CA,CITY,Vaughan,10655,Ontario,ON,43.8361,-79.49827,238866,180,America__Toronto
+CA,CITY,Vegreville,10748,Alberta,AB,53.50015,-112.05182,5678,635,America__Edmonton
+CA,CITY,Venise-en-Québec,10847,Quebec,QC,45.08338,-73.13245,1547,,America__Toronto
+CA,CITY,Verchères,10907,Quebec,QC,45.78338,-73.34916,4030,,America__Toronto
+CA,CITY,Vermilion,10681,Alberta,AB,53.35409,-110.85849,4151,580,America__Edmonton
+CA,CITY,Vernon,10349,British Columbia,BC,50.26729,-119.27337,47274,380,America__Vancouver
+CA,CITY,Victoria,10230,British Columbia,BC,48.4359,-123.35155,289625,23,America__Vancouver
+CA,CITY,Victoriaville,10103,Quebec,QC,46.05007,-71.96579,34426,148,America__Toronto
+CA,CITY,Viking,10848,Alberta,AB,53.10014,-111.76844,1106,691,America__Edmonton
+CA,CITY,Ville-Marie,10570,Quebec,QC,47.33345,-79.43297,2831,,America__Toronto
+CA,CITY,Vineland,1219666,Ontario,ON,43.15012,-79.3996,4074,94,America__Toronto
+CA,CITY,Virden,10626,Manitoba,MB,49.8508,-100.93262,3237,439,America__Winnipeg
+CA,CITY,Virgil,1230250,Ontario,ON,43.21682,-79.13288,2937,,America__Toronto
+CA,CITY,Vulcan,10452,Alberta,AB,50.40008,-113.25189,1853,1049,America__Edmonton
+CA,CITY,Wabana,10784,Newfoundland and Labrador,NL,47.63319,-52.94806,2362,,America__St_Johns
+CA,CITY,Wadena,10627,Saskatchewan,SK,51.94999,-103.80102,1319,,America__Regina
+CA,CITY,Wainwright,10550,Alberta,AB,52.83482,-110.85342,5380,675,America__Edmonton
+CA,CITY,Wakefield,10541,Quebec,QC,45.6668,-75.83265,2000,,America__Toronto
+CA,CITY,Walnut Grove,11368,British Columbia,BC,49.16473,-122.64042,25683,,America__Vancouver
+CA,CITY,Walpole Island,10427,Ontario,ON,42.6152,-82.51398,1878,,America__Detroit
+CA,CITY,Warman,10762,Saskatchewan,SK,52.31679,-106.56791,10961,,America__Regina
+CA,CITY,Warwick,10176,Quebec,QC,45.95007,-71.9824,3340,,America__Toronto
+CA,CITY,Wasaga Beach,9952,Ontario,ON,44.5168,-80.01637,7567,,America__Toronto
+CA,CITY,Waskaganish,1209106,Quebec,QC,51.48333,-78.75,1839,,America__Toronto
+CA,CITY,Waswanipi,10707,Quebec,QC,49.73346,-76.16604,1473,,America__Toronto
+CA,CITY,Waterford,1209091,Ontario,ON,42.9334,-80.28296,3132,,America__Toronto
+CA,CITY,Waterloo,10515,Ontario,ON,43.4668,-80.51639,97475,329,America__Toronto
+CA,CITY,Waterloo,10921,Quebec,QC,45.35008,-72.51582,4064,,America__Toronto
+CA,CITY,Watford,1209080,Ontario,ON,42.95008,-81.88309,1536,,America__Toronto
+CA,CITY,Watrous,10051,Saskatchewan,SK,51.66677,-105.46788,1865,536,America__Regina
+CA,CITY,Watson Lake,9947,Yukon,YT,60.06349,-128.70893,1547,,America__Vancouver
+CA,CITY,Wawa,1209093,Ontario,ON,47.98877,-84.77411,2610,287,America__Toronto
+CA,CITY,Weedon Centre,1240820,Quebec,QC,45.70802,-71.45986,1059,,America__Toronto
+CA,CITY,Welcome Beach,1209097,British Columbia,BC,49.47959,-123.89239,1125,,America__Vancouver
+CA,CITY,Welland,10933,Ontario,ON,42.98342,-79.24958,50331,179,America__Toronto
+CA,CITY,Wellesley,1261886,Ontario,ON,43.47691,-80.76209,3246,,America__Toronto
+CA,CITY,Wells,1209076,New Brunswick,NB,45.39274,-65.92313,1266,,America__Moncton
+CA,CITY,Wembley,10787,Alberta,AB,55.14995,-119.13602,1574,724,America__Edmonton
+CA,CITY,Wendover,11614,Ontario,ON,45.57275,-75.12757,1302,,America__Toronto
+CA,CITY,West End,10343,British Columbia,BC,49.28333,-123.13333,44560,,America__Vancouver
+CA,CITY,West Kelowna,11335,British Columbia,BC,49.8625,-119.58333,28793,484,America__Vancouver
+CA,CITY,West Lorne,1209079,Ontario,ON,42.60009,-81.59976,1337,,America__Toronto
+CA,ADM2,West St. Paul,140192,Manitoba,MB,49.9994,-97.16284,5368,,America__Winnipeg
+CA,CITY,West Vancouver,11856,British Columbia,BC,49.36672,-123.16652,42694,178,America__Vancouver
+CA,CITY,Westlake,1219676,Alberta,AB,55.22228,-118.80415,1363,,America__Edmonton
+CA,CITY,Westlock,10676,Alberta,AB,54.15016,-113.86876,4678,648,America__Edmonton
+CA,CITY,Westmount,10338,Quebec,QC,45.48341,-73.59918,20494,,America__Toronto
+CA,CITY,Wetaskiwin,10672,Alberta,AB,52.96683,-113.36869,11302,760,America__Edmonton
+CA,CITY,Weyburn,10688,Saskatchewan,SK,49.66675,-103.85109,9362,561,America__Regina
+CA,CITY,Weymontachie,1230237,Quebec,QC,47.8994,-73.7772,1038,,America__Toronto
+CA,CITY,Whistler,10538,British Columbia,BC,50.11817,-122.95396,8713,670,America__Vancouver
+CA,CITY,White City,10763,Saskatchewan,SK,50.43338,-104.36778,1813,,America__Regina
+CA,CITY,White Rock,10313,British Columbia,BC,49.01636,-122.8026,66450,80,America__Vancouver
+CA,CITY,Whitecourt,10276,Alberta,AB,54.15015,-115.68548,8763,690,America__Edmonton
+CA,CITY,Whitehorse,10814,Yukon,YT,60.71611,-135.05375,23272,707,America__Whitehorse
+CA,CITY,Wild Rose,11276,Alberta,AB,53.4708,-113.38119,8031,717,America__Edmonton
+CA,CITY,Wilkie,10000,Saskatchewan,SK,52.41683,-108.70142,1198,,America__Regina
+CA,CITY,Williams Lake,10729,British Columbia,BC,52.14153,-122.14451,14168,586,America__Vancouver
+CA,CITY,Willowdale,11239,Ontario,ON,43.76672,-79.39909,79440,,America__Toronto
+CA,CITY,Winchester,1209081,Ontario,ON,45.0834,-75.34933,2394,,America__Toronto
+CA,CITY,Windsor,10058,Quebec,QC,45.56678,-71.99909,5408,,America__Toronto
+CA,CITY,Windsor,10104,Nova Scotia,NS,44.98345,-64.13204,3864,,America__Halifax
+CA,CITY,Windsor,10132,Ontario,ON,42.30008,-83.01654,278013,190,America__Toronto
+CA,CITY,Wingham,10131,Ontario,ON,43.88793,-81.31145,2923,,America__Toronto
+CA,CITY,Winkler,10333,Manitoba,MB,49.1817,-97.94104,8270,259,America__Winnipeg
+CA,CITY,Winnipeg,10141,Manitoba,MB,49.8844,-97.14704,632063,238,America__Winnipeg
+CA,CITY,Wolfville,10680,Nova Scotia,NS,45.08345,-64.36546,3523,,America__Halifax
+CA,CITY,Woodstock,10534,Ontario,ON,43.13339,-80.7497,40404,300,America__Toronto
+CA,CITY,Wynyard,10624,Saskatchewan,SK,51.76674,-104.18436,1793,551,America__Regina
+CA,CITY,Yamachiche,10307,Quebec,QC,46.26676,-72.83243,1240,,America__Toronto
+CA,CITY,Yarmouth,10589,Nova Scotia,NS,43.83345,-66.11557,7500,,America__Halifax
+CA,CITY,Yellowknife,9974,Northwest Territories,NT,62.45411,-114.37248,15865,206,America__Yellowknife
+CA,ADM2,York,140202,Ontario,ON,44.00011,-79.46632,1032524,,America__Toronto
+CA,CITY,Yorkton,10172,Saskatchewan,SK,51.2167,-102.46766,15669,498,America__Regina
+CA,CITY,le Plateau,11771,Quebec,QC,45.43514,-75.7803,15000,,America__Toronto
