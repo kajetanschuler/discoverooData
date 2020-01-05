@@ -39,8 +39,8 @@ def main():
 
  # golden beaches
                 # Make request for beaches in city and process data
-                url = url_builder(lat, lon, population)
-                response_g= requests.request("GET", url)
+                url = url_builder(lat, lon, population, "golden_sand_beaches")
+                response_g = requests.request("GET", url)
 
                 data_g = json.loads(response_g.text)
 
@@ -111,7 +111,7 @@ def main():
 
                 rate = 0
 
-                url = url_builder(lat, lon, population)
+                url = url_builder(lat, lon, population,"white_sand_beaches")
                 response_w = requests.request("GET", url)
 
                 data_w = json.loads(response_w.text)
@@ -172,7 +172,7 @@ def main():
 
                 rate = 0
 
-                url = url_builder(lat, lon, population)
+                url = url_builder(lat, lon, population, "black_sand_beaches")
                 response_b = requests.request("GET", url)
 
                 data_b = json.loads(response_b.text)
@@ -233,12 +233,13 @@ def main():
 
                 rate = 0
 
-                url = url_builder(lat, lon, population, )
+                url = url_builder(lat, lon, population, "shingle_beaches" )
                 response_s = requests.request("GET", url)
 
                 data_s = json.loads(response_s.text)
 
                 # extract all beaches and count them
+
                 for s in data_s['features']:
                     # use as variable to skip a entry if it already exists
                     skip = False
@@ -294,7 +295,7 @@ def main():
 
                 rate = 0
 
-                url = url_builder(lat, lon, population)
+                url = url_builder(lat, lon, population, "rocks_beaches")
                 response_r = requests.request("GET", url)
 
                 data_r = json.loads(response_r.text)
@@ -354,7 +355,7 @@ def main():
 
                 rate = 0
 
-                url = url_builder(lat, lon, population)
+                url = url_builder(lat, lon, population, "nude_beaches")
                 response_n = requests.request("GET", url)
 
                 data_n = json.loads(response_n.text)
@@ -415,7 +416,7 @@ def main():
 
                 rate = 0
 
-                url = url_builder(lat, lon, population)
+                url = url_builder(lat, lon, population, "urbans_beaches")
                 response_u = requests.request("GET", url)
 
                 data_u = json.loads(response_u.text)
@@ -485,11 +486,10 @@ def main():
                 time.sleep(20)
 
 # Function to build the request url
-def url_builder(lat, lon, population):
+def url_builder(lat, lon, population, kinds):
     global radius
-    kinds='natural'
     api_key = "&apikey=5ae2e3f221c38a28845f05b67ea0bd21f4cb2e16986f218aefa2a6ae"
-    base_url = "https://api.opentripmap.com/0.1/en/places/natural"
+    base_url = "https://api.opentripmap.com/0.1/en/places/"
     if int(population) > 1000000:
         radius = 50000
 
@@ -504,7 +504,6 @@ def url_builder(lat, lon, population):
     lon = "&lon=" + str(lon)
     kinds = "&kinds=" + kinds
     limit = "&limit=" + str(10000)
-
     url = base_url + radius_full + lon + lat + kinds + limit + api_key
     return url
 
