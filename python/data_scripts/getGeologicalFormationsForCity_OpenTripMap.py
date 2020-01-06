@@ -53,45 +53,46 @@ def main():
                 osm_list = []
 
                 # extract all mountain peaks and count them
-                for m in data_m['features']:
-                    # use as variable to skip a entry if it already exists
-                    skip = False
-                    characteristics_m = m['properties']
-                    if 'rate' in characteristics_m:
-                        rate = characteristics_m['rate']
+                if 'features' in data_m:
+                    for m in data_m['features']:
+                        # use as variable to skip a entry if it already exists
+                        skip = False
+                        characteristics_m = m['properties']
+                        if 'rate' in characteristics_m:
+                            rate = characteristics_m['rate']
 
-                    if 'wikidata' in characteristics_m:
-                        wiki_id = characteristics_m['wikidata']
-                        if wiki_id in wiki_id_list:
-                            skip = True
-                        else:
-                            wiki_id_list.append(wiki_id)
+                        if 'wikidata' in characteristics_m:
+                            wiki_id = characteristics_m['wikidata']
+                            if wiki_id in wiki_id_list:
+                                skip = True
+                            else:
+                                wiki_id_list.append(wiki_id)
 
-                    if 'xid' in characteristics_m:
-                        xid = characteristics_m['xid']
-                        if xid in xid_list:
-                            skip = True
-                        else:
-                            xid_list.append(xid)
+                        if 'xid' in characteristics_m:
+                            xid = characteristics_m['xid']
+                            if xid in xid_list:
+                                skip = True
+                            else:
+                                xid_list.append(xid)
 
-                    if 'osm' in characteristics_m:
-                        osm = characteristics_m['osm']
-                        if osm in osm_list:
-                            skip = True
-                        else:
-                            osm_list.append(osm)
+                        if 'osm' in characteristics_m:
+                            osm = characteristics_m['osm']
+                            if osm in osm_list:
+                                skip = True
+                            else:
+                                osm_list.append(osm)
 
-                    if not skip:
-                        if rate >= 4:
-                            m_count_level7 += 1
-                        elif rate >= 3:
-                            m_count_level3 += 1
-                        elif rate >= 2:
-                            m_count_level2 += 1
-                        elif rate >= 1:
-                            m_count_level1 += 1
-                        elif rate == 0:
-                            m_count_level0 += 1
+                        if not skip:
+                            if rate >= 4:
+                                m_count_level7 += 1
+                            elif rate >= 3:
+                                m_count_level3 += 1
+                            elif rate >= 2:
+                                m_count_level2 += 1
+                            elif rate >= 1:
+                                m_count_level1 += 1
+                            elif rate == 0:
+                                m_count_level0 += 1
 # rock formations
                 # reset and create new variables for gathering rock formations
                 r_count_level0 = 0
@@ -112,46 +113,47 @@ def main():
                 data_r = json.loads(response_r.text)
 
                 # extract all rock formations and count them
-                for r in data_r['features']:
-                    # use as variable to skip a entry if it already exists
-                    skip = False
-                    characteristics_r = r['properties']
+                if 'features' in data_r:
+                    for r in data_r['features']:
+                        # use as variable to skip a entry if it already exists
+                        skip = False
+                        characteristics_r = r['properties']
 
-                    if 'rate' in characteristics_r:
-                        rate = characteristics_r ['rate']
+                        if 'rate' in characteristics_r:
+                            rate = characteristics_r ['rate']
 
-                    if 'wikidata' in characteristics_r:
-                        wiki_id = characteristics_r['wikidata']
-                        if wiki_id in wiki_id_list:
-                            skip = True
-                        else:
-                            wiki_id_list.append(wiki_id)
+                        if 'wikidata' in characteristics_r:
+                            wiki_id = characteristics_r['wikidata']
+                            if wiki_id in wiki_id_list:
+                                skip = True
+                            else:
+                                wiki_id_list.append(wiki_id)
 
-                    if 'xid' in characteristics_r:
-                        xid = characteristics_r['xid']
-                        if xid in xid_list:
-                            skip = True
-                        else:
-                            xid_list.append(xid)
+                        if 'xid' in characteristics_r:
+                            xid = characteristics_r['xid']
+                            if xid in xid_list:
+                                skip = True
+                            else:
+                                xid_list.append(xid)
 
-                    if 'osm' in characteristics_r:
-                        osm = characteristics_r['osm']
-                        if osm in osm_list:
-                            skip = True
-                        else:
-                            osm_list.append(osm)
+                        if 'osm' in characteristics_r:
+                            osm = characteristics_r['osm']
+                            if osm in osm_list:
+                                skip = True
+                            else:
+                                osm_list.append(osm)
 
-                    if not skip:
-                        if rate >= 4:
-                            r_count_level7 += 1
-                        elif rate >= 3:
-                            r_count_level3 += 1
-                        elif rate >= 2:
-                            r_count_level2 += 1
-                        elif rate >= 1:
-                            r_count_level1 += 1
-                        elif rate == 0:
-                            r_count_level0 += 1
+                        if not skip:
+                            if rate >= 4:
+                                r_count_level7 += 1
+                            elif rate >= 3:
+                                r_count_level3 += 1
+                            elif rate >= 2:
+                                r_count_level2 += 1
+                            elif rate >= 1:
+                                r_count_level1 += 1
+                            elif rate == 0:
+                                r_count_level0 += 1
 
 
                 # put gathered data into one row in the csv file
