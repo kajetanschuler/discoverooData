@@ -20,11 +20,12 @@ def main():
     data_crime_safety2019 = data_crime_safety['2019']
 
 #fieldnames = Spaltenname
-    with open ('../data_raw/costAndSafetyDataForCountry.csv', 'wt') as output:
+
+    with open ('../data_raw/costAndSafetyDataForCountry.csv', 'wt', newline='') as output:
         fieldnames = ['countryCode', 'cpiRentIndex', 'cpiIndex', 'groceriesIndex', 'purchasingPowerIndex',
                       'restaurantIndex', 'rentIndex', 'safetyIndex', 'crimeIndex']
         writer = csv.DictWriter(output, fieldnames = fieldnames)
-        writer.writeHeader()
+        writer.writeheader()
 
         for country_data in data_cost2019:
             cpi_rent = country_data['cpi_and_rent_index']
