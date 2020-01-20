@@ -1,5 +1,4 @@
 import csv
-import country_converter as coco
 
 
 def main():
