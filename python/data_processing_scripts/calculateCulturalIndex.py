@@ -3,7 +3,7 @@ import pandas as pd
 def main():
 
     columns_to_skip = "searchRadius"
-    sights = pd.read_csv("../data_raw/sightsInCities.csv", usecols=lambda x: x not in columns_to_skip)
+    sights = pd.read_csv("../data_raw/sightsInCities_old.csv", usecols=lambda x: x not in columns_to_skip)
     # cities = pd.read_csv("../data_processed/allCitiesMinPopulation")
 
     sights[["hCountLevel0", "cCountLevel0", "rCountLevel0", "aCountLevel0",

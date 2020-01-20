@@ -13,7 +13,7 @@ def main():
 
         # Open/Create csv file for historic sights data
         with open ('../data_raw/sightsInCities.csv', 'wt') as output:
-            fieldnames = ['cityId', 'searchRadius',
+            fieldnames = ['cityId', 'searchRadius', 'population',
                           'hCountLevel0', 'hCountLevel1', 'hCountLevel2', 'hCountLevel3', 'hCountLevel7',
                           'cCountLevel0', 'cCountLevel1', 'cCountLevel2', 'cCountLevel3', 'cCountLevel7',
                           'rCountLevel0', 'rCountLevel1', 'rCountLevel2', 'rCountLevel3', 'rCountLevel7',
@@ -394,7 +394,7 @@ def main():
                             n_count_level0 += 1
 
                 # put gathered data into one row in the csv file
-                writer.writerow({'cityId': city_id, 'searchRadius': radius,
+                writer.writerow({'cityId': city_id, 'searchRadius': radius, 'population': population,
                                  'hCountLevel0': h_count_level0, 'hCountLevel1': h_count_level1, 'hCountLevel2': h_count_level2, 'hCountLevel3': h_count_level3, 'hCountLevel7': h_count_level7,
                                  'cCountLevel0': c_count_level0, 'cCountLevel1': c_count_level1, 'cCountLevel2': c_count_level2, 'cCountLevel3': c_count_level3, 'cCountLevel7': c_count_level7,
                                  'rCountLevel0': r_count_level0, 'rCountLevel1': r_count_level1, 'rCountLevel2': r_count_level2, 'rCountLevel3': r_count_level3, 'rCountLevel7': r_count_level7,
