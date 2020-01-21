@@ -35,9 +35,9 @@ def main():
 
                 # Make request for historic sights in city and process data
                 url = url_builder(lat, lon, population, "historic")
-                response_h = requests.request("GET", url)
+                data_h = requests.get(url).json()
 
-                data_h = json.loads(response_h.text)
+                # data_h = json.loads(response_h.text)
 
                 # initialize variables and set initial value
                 rate = 0
@@ -107,9 +107,9 @@ def main():
                 rate = 0
 
                 url = url_builder(lat, lon, population, "cultural")
-                response_c = requests.request("GET", url)
+                data_c = requests.get(url).json()
 
-                data_c = json.loads(response_c.text)
+                # data_c = json.loads(response_c.text)
 
                 # extract all sights and count them
                 for y in data_c['features']:
@@ -167,9 +167,9 @@ def main():
                 rate = 0
 
                 url = url_builder(lat, lon, population, "religion")
-                response_r = requests.request("GET", url)
+                data_r = requests.get(url).json()
 
-                data_r = json.loads(response_r.text)
+                 # data_r = json.loads(response_r.text)
 
                 # extract all sights and count them
                 for z in data_r['features']:
@@ -227,9 +227,9 @@ def main():
                 rate = 0
 
                 url = url_builder(lat, lon, population, "architecture")
-                response_a = requests.request("GET", url)
+                data_a = requests.get(url).json()
 
-                data_a = json.loads(response_a.text)
+                # data_a = json.loads(response_a.text)
 
                 # extract all sights and count them
                 for a in data_a['features']:
@@ -287,9 +287,9 @@ def main():
                 rate = 0
 
                 url = url_builder(lat, lon, population, "industrial_facilities")
-                response_i = requests.request("GET", url)
+                data_i = requests.get(url).json()
 
-                data_i = json.loads(response_i.text)
+                # data_i = json.loads(response_i.text)
 
                 # extract all sights and count them
                 for i in data_i['features']:
@@ -347,9 +347,9 @@ def main():
                 rate = 0
 
                 url = url_builder(lat, lon, population, "natural")
-                response_n = requests.request("GET", url)
+                data_h = rrequests.get(url).json()
 
-                data_n = json.loads(response_n.text)
+                # data_n = json.loads(response_n.text)
 
                 # extract all sights and count them
                 for n in data_n['features']:
