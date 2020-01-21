@@ -347,7 +347,7 @@ def main():
                 rate = 0
 
                 url = url_builder(lat, lon, population, "natural")
-                data_h = rrequests.get(url).json()
+                data_n = requests.get(url).json()
 
                 # data_n = json.loads(response_n.text)
 
