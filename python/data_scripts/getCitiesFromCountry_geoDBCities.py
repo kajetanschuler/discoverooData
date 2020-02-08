@@ -101,7 +101,7 @@ def main():
                                              'regionName': region_name, 'regionCode': region_code, 'lat': latitude,
                                              'lon': longitude, 'population': population, 'elevation': elevation, 'timezone': timezone})
 
-                            print("City - " + city_name + " - inserted!")
+                            print("City - " + count + " of " + total_count + " - inserted!")
 
                         time.sleep(0.1)
 
