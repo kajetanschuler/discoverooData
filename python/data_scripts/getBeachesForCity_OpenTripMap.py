@@ -8,7 +8,7 @@ radius=0
 
 def main():
     # Open .csv file that contains all cities with a minimum population of 200.000
-    with open('../data_processed/allCitiesMinPopulation.csv', mode='r') as input:
+    with open('../data_raw/allCitiesBelow100k.csv', mode='r') as input:
         reader = csv.reader(input)
 
         # Open/Create csv file for beach data
