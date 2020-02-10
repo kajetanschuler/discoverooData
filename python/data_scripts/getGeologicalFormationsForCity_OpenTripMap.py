@@ -12,8 +12,8 @@ def main():
         reader = csv.reader(input)
 
         # Open/Create csv file for geological formations
-        with open('../data_raw/geologicalInformationInCities.csv', 'wt') as output:
-            fieldnames = ['cityId', 'searchRadius',
+        with open('../data_raw/geologicalInformationInCities_new.csv', 'wt') as output:
+            fieldnames = ['cityId', 'searchRadius', 'population',
                           'mCountLevel0', 'mCountLevel1', 'mCountLevel2', 'mCountLevel3', 'mCountLevel7',
                           'rCountLevel0', 'rCountLevel1', 'rCountLevel2', 'rCountLevel3', 'rCountLevel7' ]
             writer = csv.DictWriter(output, fieldnames=fieldnames)
@@ -157,7 +157,7 @@ def main():
 
 
                 # put gathered data into one row in the csv file
-                writer.writerow({'cityId': city_id, 'searchRadius': radius,
+                writer.writerow({'cityId': city_id, 'searchRadius': radius, 'population': population,
                                  'mCountLevel0': m_count_level0, 'mCountLevel1': m_count_level1,'mCountLevel2': m_count_level2,
                                  'mCountLevel3': m_count_level3, 'mCountLevel7': m_count_level7,
                                  'rCountLevel0': r_count_level0, 'rCountLevel1': r_count_level0,'rCountLevel2': r_count_level2,
