@@ -5,124 +5,115 @@ import csv
 
 
 def main():
-    url = "https://wft-geo-db.p.rapidapi.com/v1/geo/cities/147614"
+    #country_list = ["IT", "ES", "TH", "IN", "SE", "DK", "BR", "AR", "CA", "ZA", "EG", "JP", "AU", "PL", "ME"]
 
-    headers = {
-        'x-rapidapi-host': "wft-geo-db.p.rapidapi.com",
-        'x-rapidapi-key': "e1f6061817mshb6a5d107db1f20fp1b58cejsn545de208fcf6"
-    }
+    more_data = True
+    total_count = 0
+    count = 0
+    offset = 0
+    csv_file_name = "../data_raw/allCitiesBelow100k" + ".csv"
+    with open(csv_file_name, mode='a') as file:
+        z = csv.reader(file, delimiter='\t')
 
-    response = requests.request("GET", url, headers=headers)
+    with open(csv_file_name, mode='w') as csv_file:
+        fieldnames = ['countryCode', 'type', 'cityName', 'cityId', 'regionName', 'regionCode', 'lat', 'lon', 'population', 'elevation', 'timezone']
+        writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
+        writer.writeheader()
 
-    print(response.text)
+        try:
 
-    country_list = ["IT", "ES", "TH", "IN", "SE", "DK", "BR", "AR", "CA", "ZA", "EG", "JP", "AU", "PL", "ME"]
+            while more_data:
+                url = "https://wft-geo-db.p.rapidapi.com/v1/geo/cities"
+                querystring = {"limit": "100", "minPopulation": 100000, "offset": offset}
+                headers = {
+                    'x-rapidapi-host': "wft-geo-db.p.rapidapi.com",
+                    'x-rapidapi-key': "e1f6061817mshb6a5d107db1f20fp1b58cejsn545de208fcf6"
+                }
+                response = requests.request("GET", url, headers=headers, params=querystring)
+                data = json.loads(response.text)
 
-    for country in country_list:
-        more_data = True
-        total_count = 0
-        count = 0
-        offset = 0
-        csv_file_name = "cities" + country + ".csv"
-        with open(csv_file_name, mode='a') as file:
-            z = csv.reader(file, delimiter='\t')
+                if total_count == 0:
+                    total_count = data['metadata']['totalCount']
 
-        with open(csv_file_name, mode='w') as csv_file:
-            fieldnames = ['countryCode', 'type', 'cityName', 'cityId', 'regionName', 'regionCode', 'lat', 'lon', 'population', 'elevation', 'timezone']
-            writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
-            writer.writeheader()
+                country_code = ""
+                city_name = ""
+                city_id = ""
+                region_name = ""
+                region_code = ""
+                latitude = ""
+                longitude = ""
+                type = ""
 
-            try:
+                if 'data' in data:
 
-                while more_data:
-                    url = "https://wft-geo-db.p.mashape.com/v1/geo/cities"
-                    querystring = {"limit": "100", "countryIds": country, "offset": offset}
-                    headers = {
-                        'x-rapidapi-host': "wft-geo-db.p.rapidapi.com",
-                        'x-rapidapi-key': "e1f6061817mshb6a5d107db1f20fp1b58cejsn545de208fcf6"
-                    }
-                    response = requests.request("GET", url, headers=headers, params=querystring)
-                    data = json.loads(response.text)
+                    for x in data['data']:
 
-                    if total_count == 0:
-                        total_count = data['metadata']['totalCount']
+                        if 'countryCode' in x:
+                            country_code = x['countryCode']
 
-                    country_code = ""
-                    city_name = ""
-                    city_id = ""
-                    region_name = ""
-                    region_code = ""
-                    latitude = ""
-                    longitude = ""
-                    type = ""
+                        if 'name' in x:
+                            city_name = x['name']
 
-                    if 'data' in data:
+                        if 'id' in x:
+                            city_id = x['id']
 
-                        for x in data['data']:
+                        if 'region' in x:
+                            region_name = x['region']
 
-                            if 'countryCode' in x:
-                                country_code = x['countryCode']
+                        if 'regionCode' in x:
+                            region_code = x['regionCode']
 
-                            if 'name' in x:
-                                city_name = x['name']
+                        if 'latitude' in x:
+                            latitude = x['latitude']
 
-                            if 'id' in x:
-                                city_id = x['id']
+                        if 'longitude' in x:
+                            longitude = x['longitude']
 
-                            if 'region' in x:
-                                region_name = x['region']
+                        if 'type' in x:
+                            type = x['type']
 
-                            if 'regionCode' in x:
-                                region_code = x['regionCode']
+                        count += 1
 
-                            if 'latitude' in x:
-                                latitude = x['latitude']
+                        url = "https://wft-geo-db.p.mashape.com/v1/geo/cities/" + str(city_id)
+                        headers = {
+                            'x-rapidapi-host': "wft-geo-db.p.rapidapi.com",
+                            'x-rapidapi-key': "e1f6061817mshb6a5d107db1f20fp1b58cejsn545de208fcf6"
+                        }
+                        response = requests.request("GET", url, headers=headers, params=querystring)
+                        pop_data = json.loads(response.text)
+                        pop_data = pop_data['data']
 
-                            if 'longitude' in x:
-                                longitude = x['longitude']
+                        population = ""
+                        elevation = ""
+                        timezone = ""
 
-                            if 'type' in x:
-                                type = x['type']
+                        if 'population' in pop_data:
+                            population = pop_data['population']
 
-                            count += 1
+                        if 'elevationMeters' in pop_data:
+                            elevation = pop_data['elevationMeters']
 
-                            url = "https://wft-geo-db.p.mashape.com/v1/geo/cities/" + str(city_id)
-                            headers = {
-                                'x-rapidapi-host': "wft-geo-db.p.rapidapi.com",
-                                'x-rapidapi-key': "e1f6061817mshb6a5d107db1f20fp1b58cejsn545de208fcf6"
-                            }
-                            response = requests.request("GET", url, headers=headers, params=querystring)
-                            pop_data = json.loads(response.text)
-                            pop_data = pop_data['data']
+                        if 'timezone' in pop_data:
+                            timezone = pop_data['timezone']
 
-                            population = ""
-                            elevation = ""
-                            timezone = ""
-
-                            if 'population' in pop_data:
-                                population = pop_data['population']
-
-                            if 'elevationMeters' in pop_data:
-                                elevation = pop_data['elevationMeters']
-
-                            if 'timezone' in pop_data:
-                                timezone = pop_data['timezone']
-
+                        if type != "ADM2":
                             writer.writerow({'countryCode': country_code, 'type': type, 'cityName': city_name, 'cityId': city_id,
                                              'regionName': region_name, 'regionCode': region_code, 'lat': latitude,
                                              'lon': longitude, 'population': population, 'elevation': elevation, 'timezone': timezone})
 
-                            # time.sleep(0.1)
+                            print("City - " + str(count) + " of " + str(total_count) + " - inserted!")
 
-                    print(str(count) + " of " + str(total_count))
-                    offset += 100
+                        time.sleep(0.1)
 
-                    if count == total_count:
-                        more_data = False
-                        print( csv_file_name + ": Completed!")
+                print(str(count) + " of " + str(total_count))
+                offset += 100
 
-            except requests.exceptions.RequestException as e:
-                print(e)
+                if count == total_count:
+                    more_data = False
+                    print( csv_file_name + ": Completed!")
+
+        except requests.exceptions.RequestException as e:
+            print(e)
 
 
 if __name__ == '__main__':
