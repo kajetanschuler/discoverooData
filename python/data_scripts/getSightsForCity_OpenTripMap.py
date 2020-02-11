@@ -8,11 +8,11 @@ radius = 0
 
 def main():
     # Open .csv file that contains all cities with a minimum population of 200.000
-    with open ('../data_raw/allCitiesOver100k.csv', 'rt') as input:
+    with open ('../data_processed/allCities_clean.csv', 'rt') as input:
         reader = csv.reader(input)
 
         # Open/Create csv file for historic sights data
-        with open ('../data_raw/sightsInCities.csv', 'wt') as output:
+        with open ('../data_raw/sightsInCities_lowRadius.csv', 'wt') as output:
             fieldnames = ['cityId', 'searchRadius', 'population',
                           'hCountLevel0', 'hCountLevel1', 'hCountLevel2', 'hCountLevel3', 'hCountLevel7',
                           'cCountLevel0', 'cCountLevel1', 'cCountLevel2', 'cCountLevel3', 'cCountLevel7',
@@ -413,13 +413,13 @@ def url_builder(lat, lon, population, kinds):
     api_key = "&apikey=5ae2e3f221c38a28845f05b6cb6b4ac567a0e6b3fcde2740c98bc367"
     base_url = "https://api.opentripmap.com/0.1/en/places/"
     if int(population) > 1000000:
-        radius = 50000
+        radius = 15000
 
     elif int(population) > 500000:
-        radius = 30000
+        radius = 10000
 
     else:
-        radius = 20000
+        radius = 5000
 
     radius_full = "radius?radius=" + str(radius)
     lat = "&lat=" + str(lat)
