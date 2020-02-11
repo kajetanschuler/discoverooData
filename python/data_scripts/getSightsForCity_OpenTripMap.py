@@ -29,9 +29,9 @@ def main():
             # Iterate through all rows of the .csv input file and get necessary data
             for row in reader:
                 city_id = row[3]
-                population = row[8]
-                lat = row[6]
-                lon = row[7]
+                population = row[5]
+                lat = row[7]
+                lon = row[8]
 
                 # Make request for historic sights in city and process data
                 url = url_builder(lat, lon, population, "historic")
