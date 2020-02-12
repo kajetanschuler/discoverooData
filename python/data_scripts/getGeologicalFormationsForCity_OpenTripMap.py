@@ -8,7 +8,7 @@ radius=0
 
 def main():
     # Open .csv file that contains all cities with a minimum population of 200.000
-    with open('../data_processed/allCitiesMinPopulation.csv', mode='r') as input:
+    with open('../data_processed/allCities_clean.csv', mode='r') as input:
         reader = csv.reader(input)
 
         # Open/Create csv file for geological formations
@@ -28,13 +28,14 @@ def main():
             # Input headers/keys: countryCode,type,cityName,-cityId-,regionName,regionCode,-lat-,-lon-,-population-,elevation,timezone
             for row in reader:
                 city_id = row[3]
-                lat = row[6]
-                lon = row[7]
-                population = row[8]
+                lat = row[7]
+                lon = row[8]
+                population = row[5]
 
- # mountain peaks
+                # mountain peaks
                 # Make request for mountain peaks in city and process data
                 url = url_builder(lat, lon, population, "mountain_peaks")
+
                 response_m= requests.request("GET", url)
 
                 data_m = json.loads(response_m.text)
@@ -170,8 +171,9 @@ def main():
 # Function to build the request url
 def url_builder(lat, lon, population, kinds):
     global radius
-    api_key = "&apikey=5ae2e3f221c38a28845f05b6cb6b4ac567a0e6b3fcde2740c98bc367"
-    base_url = "https://api.opentripmap.com/0.1/en/places/"
+    api_key = "&apikey=e1f6061817mshb6a5d107db1f20fp1b58cejsn545de208fcf6"
+    base_url = "https://opentripmap-places-v1.p.rapidapi.com/en/places/"
+
     if int(population) > 1000000:
         radius = 50000
 
