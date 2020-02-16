@@ -10,6 +10,7 @@ import time
 radius=0
 
 def main():
+    row_number = 1
     # Open .csv file that contains all cities with a minimum population of 200.000
     with open('../data_raw/allCitiesOver100k.csv', mode='r') as input:
         reader = csv.reader(input)
@@ -40,8 +41,6 @@ def main():
                 lat = row[6]
                 lon = row[7]
                 population = row[8]
-
-                row_number = 1
 
                 # Make request for beaches in city and process data
                 url = url_builder(lat, lon, population, "beaches")
