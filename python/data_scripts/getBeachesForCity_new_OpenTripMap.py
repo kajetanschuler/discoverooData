@@ -261,7 +261,7 @@ def main():
                     print("Row with City ID - " + str(city_id) + " - inserted succesfully! - Row number: " + str(row_number))
 
                     row_number += 1
-                    time.sleep(20)
+                    time.sleep(10)
 
 
 # Function to build the request url
