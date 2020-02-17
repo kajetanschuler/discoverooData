@@ -20,14 +20,15 @@ def main():
             "iCountLevel7", "nCountLevel7"]] = sights[["hCountLevel7", "cCountLevel7", "rCountLevel7", "aCountLevel7",
                                                        "iCountLevel7", "nCountLevel7"]].apply(lambda x: x * 6)
 
-    sights['hIndex'] = sights.loc[:, [x for x in sights.columns if x.startswith('hCount')]].sum(axis=1)
-    sights['cIndex'] = sights.loc[:, [x for x in sights.columns if x.startswith('cCount')]].sum(axis=1)
-    sights['rIndex'] = sights.loc[:, [x for x in sights.columns if x.startswith('rCount')]].sum(axis=1)
-    sights['aIndex'] = sights.loc[:, [x for x in sights.columns if x.startswith('aCount')]].sum(axis=1)
-    sights['iIndex'] = sights.loc[:, [x for x in sights.columns if x.startswith('iCount')]].sum(axis=1)
-    sights['nIndex'] = sights.loc[:, [x for x in sights.columns if x.startswith('nCount')]].sum(axis=1)
+    sights['culture_hIndex'] = sights.loc[:, [x for x in sights.columns if x.startswith('hCount')]].sum(axis=1)
+    sights['culture_cIndex'] = sights.loc[:, [x for x in sights.columns if x.startswith('cCount')]].sum(axis=1)
+    sights['culture_rIndex'] = sights.loc[:, [x for x in sights.columns if x.startswith('rCount')]].sum(axis=1)
+    sights['culture_aIndex'] = sights.loc[:, [x for x in sights.columns if x.startswith('aCount')]].sum(axis=1)
+    sights['culture_iIndex'] = sights.loc[:, [x for x in sights.columns if x.startswith('iCount')]].sum(axis=1)
+    sights['culture_nIndex'] = sights.loc[:, [x for x in sights.columns if x.startswith('nCount')]].sum(axis=1)
 
-    header = ['cityId', 'searchRadius', 'hIndex', 'cIndex', 'rIndex', 'aIndex', 'iIndex', 'nIndex']
+    header = ['cityId', 'searchRadius', 'culture_hIndex', 'culture_cIndex', 'culture_rIndex', 'culture_aIndex',
+              'culture_iIndex', 'culture_nIndex']
 
     sights = sights[header]
 

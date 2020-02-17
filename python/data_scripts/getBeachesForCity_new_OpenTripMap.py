@@ -16,7 +16,7 @@ def main():
         reader = csv.reader(input)
 
         # Open/Create csv file for beach data
-        with open('../data_raw/beachesInCities_new.csv', 'wt') as output:
+        with open('../data_raw/beachesInCities.csv', 'wt') as output:
             fieldnames = ['cityId', 'searchRadius',
                           'gCountLevel0', 'gCountLevel1', 'gCountLevel2', 'gCountLevel3', 'gCountLevel7',
                           'wCountLevel0', 'wCountLevel1', 'wCountLevel2', 'wCountLevel3', 'wCountLevel7',
