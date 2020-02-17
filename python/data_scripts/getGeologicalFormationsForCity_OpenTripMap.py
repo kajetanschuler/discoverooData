@@ -171,8 +171,8 @@ def main():
 # Function to build the request url
 def url_builder(lat, lon, population, kinds):
     global radius
-    api_key = "&apikey=e1f6061817mshb6a5d107db1f20fp1b58cejsn545de208fcf6"
-    base_url = "https://opentripmap-places-v1.p.rapidapi.com/en/places/"
+    api_key = "&apikey=5ae2e3f221c38a28845f05b6cb6b4ac567a0e6b3fcde2740c98bc367"
+    base_url = "https://api.opentripmap.com/0.1/en/places/"
 
     if int(population) > 1000000:
         radius = 50000
@@ -186,7 +186,7 @@ def url_builder(lat, lon, population, kinds):
     radius_full = "radius?radius=" + str(radius)
     lat = "&lat=" + str(lat)
     lon = "&lon=" + str(lon)
-    kinds = "&kinds=" +  kinds
+    kinds = "&kinds=" + kinds
     limit = "&limit=" + str(10000)
 
     url = base_url + radius_full + lon + lat + kinds + limit + api_key
