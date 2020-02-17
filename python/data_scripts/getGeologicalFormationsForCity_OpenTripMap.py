@@ -12,10 +12,10 @@ def main():
         reader = csv.reader(input)
 
         # Open/Create csv file for geological formations
-        with open('../data_raw/geologicalInformationInCities_new.csv', 'wt') as output:
+        with open('../data_raw/geologicalInformationInCities.csv', 'wt') as output:
             fieldnames = ['cityId', 'searchRadius', 'population',
                           'mCountLevel0', 'mCountLevel1', 'mCountLevel2', 'mCountLevel3', 'mCountLevel7',
-                          'rCountLevel0', 'rCountLevel1', 'rCountLevel2', 'rCountLevel3', 'rCountLevel7' ]
+                          'rCountLevel0', 'rCountLevel1', 'rCountLevel2', 'rCountLevel3', 'rCountLevel7']
             writer = csv.DictWriter(output, fieldnames=fieldnames)
 
             #write out first row as column names
