@@ -1,3 +1,6 @@
+# Script welches Country und City Daten zusammenführt
+# Created - 07.02.2020 - by Kajetan & Malik
+
 import pandas as pd
 
 
