@@ -1,5 +1,6 @@
 import pandas as pd
 
+
 def main():
 
     costData = pd.read_csv("../data_raw/costAndSafetyDataForCountry.csv")
@@ -7,7 +8,7 @@ def main():
 
     merge = pd.merge(left=costData, right=infrastructureData, on="countryCode")
 
-    header = ['countryCode', 'CountryName', 'Value1718', 'cpiRentIndex', 'cpiIndex', 'groceriesIndex',
+    header = ['countryCode', 'countryName', 'infrastructureValue1718', 'cpiRentIndex', 'cpiIndex', 'groceriesIndex',
               'purchasingPowerIndex', 'restaurantIndex', 'rentIndex', 'safetyIndex', 'crimeIndex']
 
     merge.to_csv("../data_processed/costAndQuality_clean.csv", columns=header, index=False)

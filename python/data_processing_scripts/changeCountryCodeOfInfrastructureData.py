@@ -3,9 +3,9 @@
 
 import pandas as pd
 import country_converter as coco
-cc = coco.CountryConverter()
-def main():
 
+
+def main():
 
     quality = pd.read_csv("../data_raw/overallQualityOfInfrastructure.csv", sep=';')
     quality['CountryISO3'] = quality['CountryISO3'].apply(lambda x: coco.convert(names=x, to='Iso2'))
