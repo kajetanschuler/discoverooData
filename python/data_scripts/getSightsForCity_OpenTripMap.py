@@ -1,3 +1,6 @@
+# Skript nutzt die OpenTripMap API, um Daten über Sehenswürdigkeiten zu holen
+# Created - 20.12.2019 - by Kajetan
+
 import csv
 import requests
 import json
