@@ -32,36 +32,21 @@ def main():
 
     merge_sights_cities = merge_sights_cities.drop(header, axis=1)
 
-    header = ['cityId', 'searchRadius', 'population',
-                  'hCountLevel0', 'hCountLevel1', 'hCountLevel2', 'hCountLevel3', 'hCountLevel7',
-                  'cCountLevel0', 'cCountLevel1', 'cCountLevel2', 'cCountLevel3', 'cCountLevel7',
-                  'rCountLevel0', 'rCountLevel1', 'rCountLevel2', 'rCountLevel3', 'rCountLevel7',
-                  'aCountLevel0', 'aCountLevel1', 'aCountLevel2', 'aCountLevel3', 'aCountLevel7',
-                  'iCountLevel0', 'iCountLevel1', 'iCountLevel2', 'iCountLevel3', 'iCountLevel7',
-                  'nCountLevel0', 'nCountLevel1', 'nCountLevel2', 'nCountLevel3', 'nCountLevel7']
+    merge_sights_cities.to_csv("../data_processed/sightsInCities_clean.csv", index=False)
 
-    merge_sights_cities.to_csv("../data_processed/sightsInCities_clean.csv", columns=header, index=False)
-
-    print("merge Cities/Sights complete")
+    print("Merge Cities/Sights complete")
 
     # Delete missing countries from beachesInCities.csv
     cities = pd.read_csv('../data_processed/allCities_clean.csv')
     beaches = pd.read_csv('../data_raw/beachesInCities.csv')
 
     drop_list = ['type', 'countryCode', 'cityName', 'regionName', 'regionCode', 'lat', 'lon',	'elevation', 'timezone']
-    header = ['cityId', 'gCountLevel0', 'gCountLevel1', 'gCountLevel2', 'gCountLevel3', 'gCountLevel7', 'wCountLevel0',
-              'wCountLevel1', 'wCountLevel2', 'wCountLevel3', 'wCountLevel7', 'bCountLevel0', 'bCountLevel1',
-              'bCountLevel2', 'bCountLevel3', 'bCountLevel7', 'sCountLevel0', 'sCountLevel1', 'sCountLevel2',
-              'sCountLevel3', 'sCountLevel7', 'rCountLevel0', 'rCountLevel1', 'rCountLevel2', 'rCountLevel3',
-              'rCountLevel7', 'nCountLevel0', 'nCountLevel1', 'nCountLevel2', 'nCountLevel3', 'nCountLevel7',
-              'uCountLevel0', 'uCountLevel1', 'uCountLevel2', 'uCountLevel3', 'uCountLevel7', 'oCountLevel0',
-              'oCountLevel1', 'oCountLevel2', 'oCountLevel3', 'oCountLevel7']
 
     merge_beaches_cities = pd.merge(left=cities, right=beaches, on="cityId")
 
     merge_beaches_cities = merge_beaches_cities.drop(drop_list, axis=1)
 
-    merge_beaches_cities.to_csv("../data_processed/beachesInCities_clean.csv", columns=header, index=False)
+    merge_beaches_cities.to_csv("../data_processed/beachesInCities_clean.csv", index=False)
 
     print("Merge City/Beaches complete")
 
@@ -71,14 +56,11 @@ def main():
 
     cities = cities.drop('population', axis=1)
 
-    header = ['cityId', 'population', 'mCountLevel0', 'mCountLevel1', 'mCountLevel2', 'mCountLevel3',
-              'mCountLevel7', 'rCountLevel0', 'rCountLevel1', 'rCountLevel2', 'rCountLevel3', 'rCountLevel7']
-
     merge_formations_cities = pd.merge(left=cities, right=formations, on="cityId")
 
     merge_formations_cities = merge_formations_cities.drop(drop_list, axis=1)
 
-    merge_formations_cities.to_csv("../data_processed/formationsInCities_clean.csv", columns=header, index=False)
+    merge_formations_cities.to_csv("../data_processed/formationsInCities_clean.csv", index=False)
 
     print("Merge City/Formations complete")
 

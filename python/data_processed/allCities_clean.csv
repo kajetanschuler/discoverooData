@@ -521,29 +521,6 @@ BR,CITY,Votorantim,8881,São Paulo,117794,SP,-23.546670000000002,-47.43778,557.0
 BR,CITY,Várzea Grande,139301,Mato Grosso,271339,MT,-15.56582,-56.24391,,America__Cuiaba
 BR,CITY,Várzea Paulista,8559,São Paulo,116601,SP,-23.211389999999998,-46.82833,745.0,America__Sao_Paulo
 BR,CITY,Águas Lindas de Goiás,138932,Goiás,159378,GO,-15.766129999999999,-48.28611,,America__Sao_Paulo
-BY,CITY,Babruysk,10280,Mogilev Region,220517,MA,53.1384,29.2214,157.0,Europe__Minsk
-BY,CITY,Baranovichi,10125,Brest Region,179166,BR,53.1327,26.0139,193.0,Europe__Minsk
-BY,CITY,Barysaw,10163,Minsk Region,145659,MI,54.2279,28.505,169.0,Europe__Minsk
-BY,CITY,Brest,10710,Brest Region,347576,BR,52.09755,23.68775,280.0,Europe__Minsk
-BY,CITY,Frunzyenski Rayon,139897,Minsk,372431,HM,53.90056,27.495,,Europe__Minsk
-BY,CITY,Homyel',10018,Gomel Region,527172,HO,52.4345,30.9754,138.0,Europe__Minsk
-BY,CITY,Horad Baranavichy,139933,Brest Region,179166,BR,53.13333000000001,26.03333,,Europe__Minsk
-BY,CITY,Hrodna,10812,Grodno Region,361352,HR,53.6884,23.8258,137.0,Europe__Minsk
-BY,CITY,Kastrychnitski Rayon,139851,Minsk,157511,HM,53.856669999999994,27.541390000000003,,Europe__Minsk
-BY,CITY,Lyeninski Rayon,139869,Minsk,217130,HM,53.85944,27.58778,,Europe__Minsk
-BY,CITY,Mahilyow,9953,Mogilev Region,370712,MA,53.9168,30.3449,192.0,Europe__Minsk
-BY,CITY,Maladzyechna,10311,Minsk Region,101300,MI,54.3167,26.854,161.0,Europe__Minsk
-BY,CITY,Maskowski Rayon,139867,Minsk,301667,HM,53.87416999999999,27.502779999999998,,Europe__Minsk
-BY,CITY,Mazyr,10608,Gomel Region,112187,HO,52.0495,29.2456,160.0,Europe__Minsk
-BY,CITY,Minsk,9989,Minsk,2002600,HM,53.9,27.566670000000002,222.0,Europe__Minsk
-BY,CITY,Navapolatsk,10906,Vitebsk Region,100885,VI,55.5318,28.5987,133.0,Europe__Minsk
-BY,CITY,Orsha,10860,Vitebsk Region,125347,VI,54.5081,30.4172,,Europe__Minsk
-BY,CITY,Pinsk,10062,Brest Region,137961,BR,52.1229,26.0951,141.0,Europe__Minsk
-BY,CITY,Salihorsk,9988,Minsk Region,102297,MI,52.7876,27.5415,153.0,Europe__Minsk
-BY,CITY,Savyetski Rayon,139824,Minsk,161572,HM,53.91778000000001,27.594170000000002,,Europe__Minsk
-BY,CITY,Tsentral’ny Rayon,139820,Minsk,109283,HM,53.91778000000001,27.56333,,Europe__Minsk
-BY,CITY,Vitebsk,9354,Vitebsk Region,377960,VI,55.1904,30.2049,172.0,Europe__Minsk
-BY,CITY,Zavodski Rayon,139809,Minsk,236826,HM,53.861940000000004,27.66222,,Europe__Minsk
 CA,CITY,Abbotsford,10740,British Columbia,151683,BC,49.05798,-122.25256999999999,38.0,America__Vancouver
 CA,CITY,Ajax,10372,Ontario,119677,ON,43.850120000000004,-79.03288,90.0,America__Toronto
 CA,CITY,Barrie,10733,Ontario,197059,ON,44.40011,-79.66634,252.0,America__Toronto
@@ -2609,37 +2586,6 @@ IN,CITY,Āgra,147722,Uttar Pradesh,1585704,UP,27.08333,77.96667,,Asia__Kolkata
 IN,CITY,Āsansol,57345,West Bengal,563917,WB,23.683329999999998,86.98333000000001,97.0,Asia__Kolkata
 IN,CITY,Āvadi,57187,Tamil Nadu,250044,TN,13.1147,80.10981,17.0,Asia__Kolkata
 IN,CITY,Āzamgarh,147720,Uttar Pradesh,116644,UP,26.0,83.0,,Asia__Kolkata
-IQ,CITY,Abū Ghurayb,56844,Baghdad Governorate,900000,BG,33.30563,44.18477,29.0,Asia__Baghdad
-IQ,CITY,Ad Dīwānīyah,56839,Al-Qādisiyyah Governorate,391600,QA,31.992890000000003,44.92552,34.0,Asia__Baghdad
-IQ,CITY,Al Başrah al Qadīmah,57043,Basra Governorate,2015483,BA,30.503159999999998,47.81507,,Asia__Baghdad
-IQ,CITY,Al Fallūjah,57456,Al Anbar Governorate,326471,AN,33.34913,43.785990000000005,43.0,Asia__Baghdad
-IQ,CITY,Al Fāw,57280,Basra Governorate,105080,BA,29.97421,48.47309,,Asia__Baghdad
-IQ,CITY,Al Kūt,57757,Wasit Governorate,377600,WA,32.5128,45.81817,21.0,Asia__Baghdad
-IQ,CITY,Al Mawşil al Jadīdah,57388,Nineveh Governorate,2065597,NI,36.33271,43.10555,,Asia__Baghdad
-IQ,CITY,Al Ḩillah,56798,Babylon Governorate,780000,BB,32.46367,44.41963,34.0,Asia__Baghdad
-IQ,CITY,Al ‘Amārah,57736,Maysan Governorate,511500,MA,31.83561,47.14483,12.0,Asia__Baghdad
-IQ,CITY,Arbil,148116,Erbil Governorate,932800,AR,36.1907,44.00947,,Asia__Baghdad
-IQ,CITY,As Samawah,57225,Al Muthanna Governorate,215000,MU,31.331979999999998,45.2944,9.0,Asia__Baghdad
-IQ,CITY,As Sulaymānīyah,56841,Sulaymaniyah Governorate,723170,SU,35.56496,45.4329,882.0,Asia__Baghdad
-IQ,CITY,Az Zubayr,57734,Basra Governorate,122676,BA,30.392129999999998,47.70175,,Asia__Baghdad
-IQ,CITY,Baghdad,57330,Baghdad Governorate,7216000,BG,33.340579999999996,44.40088,34.0,Asia__Baghdad
-IQ,CITY,Baladrūz,57133,Diyala Governorate,100000,DI,33.69631,45.07782,41.0,Asia__Baghdad
-IQ,CITY,Baqubah,57169,Diyala Governorate,467900,DI,33.75403,44.60518,,Asia__Baghdad
-IQ,CITY,Basrah,57718,Basra Governorate,2600000,BA,30.50852,47.7804,26.0,Asia__Baghdad
-IQ,CITY,Dihok,57212,Dohuk Governorate,330600,DA,36.867090000000005,42.98845,565.0,Asia__Baghdad
-IQ,CITY,Erbil,57665,Erbil Governorate,932800,AR,36.18333,44.01193,420.0,Asia__Baghdad
-IQ,CITY,Karbala,56808,Karbala Governorate,690100,KA,32.61603,44.024879999999996,28.0,Asia__Baghdad
-IQ,CITY,Kirkuk,56866,Kirkuk Governorate,975000,KI,35.468059999999994,44.39222,350.0,Asia__Baghdad
-IQ,CITY,Kufa,57205,Najaf Governorate,166100,,32.051140000000004,44.44017,30.0,Asia__Baghdad
-IQ,CITY,Mosul,57473,Nineveh Governorate,1739800,NI,36.335,43.11889,223.0,Asia__Baghdad
-IQ,CITY,Najaf,56907,Najaf Governorate,724700,,32.025940000000006,44.34625,60.0,Asia__Baghdad
-IQ,CITY,Nasiriyah,57725,Dhi Qar Governorate,541600,DQ,31.057990000000004,46.257259999999995,7.0,Asia__Baghdad
-IQ,CITY,Ramadi,57607,Al Anbar Governorate,456853,AN,33.420559999999995,43.30778,50.0,Asia__Baghdad
-IQ,CITY,Soran,56891,Erbil Governorate,125000,AR,36.6532,44.54407,680.0,Asia__Baghdad
-IQ,CITY,Sāmarrā’,57053,Saladin Governorate,158508,SD,34.1959,43.88568,80.0,Asia__Baghdad
-IQ,CITY,Sīnah,57655,Dohuk Governorate,128776,DA,36.80851,43.03935,,Asia__Baghdad
-IQ,CITY,Tikrīt,57626,Saladin Governorate,105700,SD,34.615809999999996,43.67861,137.0,Asia__Baghdad
-IQ,CITY,Umm Qaşr,57704,Basra Governorate,107620,BA,30.0362,47.919509999999995,9.0,Asia__Baghdad
 IR,CITY,Abadan,58115,Khuzestan Province,370180,10,30.3392,48.3043,3.0,Asia__Tehran
 IR,CITY,Ahar,58561,East Azerbaijan Province,100641,01,38.4774,47.0699,,Asia__Tehran
 IR,CITY,Ahvaz,58408,Khuzestan Province,1184788,10,31.31901,48.6842,17.0,Asia__Tehran
@@ -4681,22 +4627,6 @@ TR,CITY,İzmir,109097,İzmir Province,4320519,35,38.412729999999996,27.138379999
 TR,CITY,İzmit,168748,Kocaeli Province,363416,41,40.775209999999994,29.946240000000003,,Europe__Istanbul
 TR,CITY,Şanlıurfa,108962,Şanlıurfa Province,449549,63,37.16708,38.79392,,Europe__Istanbul
 TT,CITY,Ward of Diego Martin,168844,Diego Martin Regional Corporation,111964,DMN,10.7,-61.583330000000004,,America__Port_of_Spain
-TW,CITY,Chiayi,168870,Chiayi County,270872,CYI,23.477220000000003,120.44527,,Asia__Taipei
-TW,CITY,Douliu,110084,Yunlin County,104723,YUN,23.70944,120.54333000000001,,Asia__Taipei
-TW,CITY,Hsinchu,110575,Hsinchu County,445635,HSQ,24.80361,120.96861000000001,9.0,Asia__Taipei
-TW,CITY,Hualien,168865,Hualien County,350468,HUA,23.781660000000002,121.39333,,Asia__Taipei
-TW,CITY,Hualien City,110528,Hualien County,350468,HUA,23.97694,121.60444,,Asia__Taipei
-TW,CITY,Kaohsiung,110248,Kaohsiung,2773533,KHH,22.61626,120.31333000000001,9.0,Asia__Taipei
-TW,CITY,Keelung,110833,Kaohsiung,397515,KHH,25.12825,121.7419,10.0,Asia__Taipei
-TW,CITY,Nantou,168862,Nantou County,105682,NAN,23.83419,120.92703999999999,,Asia__Taipei
-TW,CITY,Pingtung,168859,Pingtung County,852286,PIF,22.49555,120.61443999999999,,Asia__Taipei
-TW,CITY,Taichung,110671,Taichung,1040725,TXG,24.1469,120.6839,,Asia__Taipei
-TW,CITY,Tainan,110663,Tainan,1883831,TNN,22.99083,120.21333,,Asia__Taipei
-TW,CITY,Taipei,110618,Taipei,7871900,TPE,25.04776,121.53185,10.0,Asia__Taipei
-TW,CITY,Taitung,168856,Taitung County,109584,TTT,22.88361,121.04833,,Asia__Taipei
-TW,CITY,Taitung City,110247,Taitung County,109584,TTT,22.7583,121.1444,,Asia__Taipei
-TW,CITY,Taoyuan,168855,Taoyuan City,2220872,TAO,24.895,121.24611000000002,,Asia__Taipei
-TW,CITY,Taoyuan City,110982,Taoyuan City,443273,TAO,24.993679999999998,121.29696000000001,9.0,Asia__Taipei
 TZ,CITY,Arusha,110931,Arusha Region,416442,01,-3.3666699999999996,36.68333,1387.0,Africa__Dar_es_Salaam
 TZ,CITY,Dar es Salaam,110260,Dar es Salaam Region,4715000,02,-6.82349,39.26951,12.0,Africa__Dar_es_Salaam
 TZ,CITY,Dodoma,110433,Dodoma Region,410956,03,-6.17221,35.739470000000004,1120.0,Africa__Dar_es_Salaam
