@@ -8,10 +8,10 @@ def main():
 
     merge = pd.merge(left=costData, right=infrastructureData, on="countryCode")
 
-    header = ['countryCode', 'countryName', 'infrastructureValue1718', 'cpiRentIndex', 'cpiIndex', 'groceriesIndex',
-              'purchasingPowerIndex', 'restaurantIndex', 'rentIndex', 'safetyIndex', 'crimeIndex']
+    # header = ['countryCode', 'countryName', 'infrastructureValue1718', 'cpiRentIndex', 'cpiIndex', 'groceriesIndex',
+    #           'purchasingPowerIndex', 'restaurantIndex', 'rentIndex', 'safetyIndex', 'crimeIndex']
 
-    merge.to_csv("../data_processed/costAndQuality_clean.csv", columns=header, index=False)
+    merge.to_csv("../data_processed/costAndQuality_clean.csv", index=False)
 
     print("Merge complete!")
     print(merge)
