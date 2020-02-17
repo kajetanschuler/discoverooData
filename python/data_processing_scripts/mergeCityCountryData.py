@@ -1,16 +1,17 @@
 import pandas as pd
 
+
 def main():
     pd.set_option('display.max_columns', 500)
 
     # Merge Country and Citie data to delete missing countries/cities
     cities = pd.read_csv("../data_raw/allCitiesOver100k.csv")
-    countries = pd.read_csv("../data_processed/costAndQuality.csv")
+    countries = pd.read_csv("../data_processed/costAndQuality_clean.csv")
 
     merge = pd.merge(left=cities, right=countries, on="countryCode")
 
     merge = merge.drop(['cpiRentIndex', 'cpiIndex', 'groceriesIndex', 'purchasingPowerIndex', 'restaurantIndex',
-                        'rentIndex', 'safetyIndex', 'crimeIndex'], axis=1)
+                        'rentIndex', 'safetyIndex', 'crimeIndex', 'infrastructureValue1718'], axis=1)
 
     header = ['countryCode', 'type', 'cityName', 'cityId', 'regionName', 'population', 'regionCode', 'lat', 'lon', 'elevation', 'timezone']
 
