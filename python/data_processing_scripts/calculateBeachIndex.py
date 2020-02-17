@@ -15,32 +15,20 @@ def main():
                                                          "rCountLevel1", "nCountLevel1", "uCountLevel1",
                                                          "oCountLevel1"]].apply(lambda x: x * 2)
 
-    beaches[["gCountLevel1", "wCountLevel1", "bCountLevel1", "sCountLevel1", "rCountLevel1", "nCountLevel1",
-             "uCountLevel1", "oCountLevel1"]] = beaches[["gCountLevel1", "wCountLevel1", "bCountLevel1", "sCountLevel1",
-                                                         "rCountLevel1", "nCountLevel1", "uCountLevel1",
-                                                         "oCountLevel1"]].apply(lambda x: x * 3)
+    beaches[["gCountLevel2", "wCountLevel2", "bCountLevel2", "sCountLevel2", "rCountLevel2", "nCountLevel2",
+             "uCountLevel2", "oCountLevel2"]] = beaches[["gCountLevel2", "wCountLevel2", "bCountLevel2", "sCountLevel2",
+                                                         "rCountLevel2", "nCountLevel2", "uCountLevel2",
+                                                         "oCountLevel2"]].apply(lambda x: x * 3)
 
-    beaches[["gCountLevel1", "wCountLevel1", "bCountLevel1", "sCountLevel1", "rCountLevel1", "nCountLevel1",
-             "uCountLevel1", "oCountLevel1"]] = beaches[["gCountLevel1", "wCountLevel1", "bCountLevel1", "sCountLevel1",
-                                                         "rCountLevel1", "nCountLevel1", "uCountLevel1",
-                                                         "oCountLevel1"]].apply(lambda x: x * 4)
+    beaches[["gCountLevel3", "wCountLevel3", "bCountLevel3", "sCountLevel3", "rCountLevel3", "nCountLevel3",
+             "uCountLevel3", "oCountLevel3"]] = beaches[["gCountLevel3", "wCountLevel3", "bCountLevel3", "sCountLevel3",
+                                                         "rCountLevel3", "nCountLevel3", "uCountLevel3",
+                                                         "oCountLevel3"]].apply(lambda x: x * 4)
 
-    beaches[["gCountLevel1", "wCountLevel1", "bCountLevel1", "sCountLevel1", "rCountLevel1", "nCountLevel1",
-             "uCountLevel1", "oCountLevel1"]] = beaches[["gCountLevel1", "wCountLevel1", "bCountLevel1", "sCountLevel1",
-                                                         "rCountLevel1", "nCountLevel1", "uCountLevel1",
-                                                         "oCountLevel1"]].apply(lambda x: x * 6)
-
-    beaches[["hCountLevel2", "cCountLevel2", "rCountLevel2", "aCountLevel2",
-            "iCountLevel2", "nCountLevel2"]] = beaches[["hCountLevel2", "cCountLevel2", "rCountLevel2", "aCountLevel2",
-                                                       "iCountLevel2", "nCountLevel2"]].apply(lambda x: x * 3)
-
-    beaches[["hCountLevel3", "cCountLevel3", "rCountLevel3", "aCountLevel3",
-            "iCountLevel3", "nCountLevel3"]] = beaches[["hCountLevel3", "cCountLevel3", "rCountLevel3", "aCountLevel3",
-                                                       "iCountLevel3", "nCountLevel3"]].apply(lambda x: x * 4)
-
-    beaches[["hCountLevel7", "cCountLevel7", "rCountLevel7", "aCountLevel7",
-            "iCountLevel7", "nCountLevel7"]] = beaches[["hCountLevel7", "cCountLevel7", "rCountLevel7", "aCountLevel7",
-                                                       "iCountLevel7", "nCountLevel7"]].apply(lambda x: x * 6)
+    beaches[["gCountLevel7", "wCountLevel7", "bCountLevel7", "sCountLevel7", "rCountLevel7", "nCountLevel7",
+             "uCountLevel7", "oCountLevel7"]] = beaches[["gCountLevel7", "wCountLevel7", "bCountLevel7", "sCountLevel7",
+                                                         "rCountLevel7", "nCountLevel7", "uCountLevel7",
+                                                         "oCountLevel7"]].apply(lambda x: x * 6)
 
     beaches['beach_gIndex'] = beaches.loc[:, [x for x in beaches.columns if x.startswith('gCount')]].sum(axis=1)
     beaches['beach_wIndex'] = beaches.loc[:, [x for x in beaches.columns if x.startswith('wCount')]].sum(axis=1)
