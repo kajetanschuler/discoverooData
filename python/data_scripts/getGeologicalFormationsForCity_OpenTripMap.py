@@ -166,7 +166,7 @@ def main():
                                  })
 
                 print("Row with City ID - " + str(city_id) + " - inserted succesfully!")
-                time.sleep(20)
+                time.sleep(10)
 
 # Function to build the request url
 def url_builder(lat, lon, population, kinds):
