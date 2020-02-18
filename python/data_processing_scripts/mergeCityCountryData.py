@@ -14,7 +14,7 @@ def main():
     merge = pd.merge(left=cities, right=countries, on="countryCode")
 
     merge = merge.drop(['cpiRentIndex', 'cpiIndex', 'groceriesIndex', 'purchasingPowerIndex', 'restaurantIndex',
-                        'rentIndex', 'safetyIndex', 'crimeIndex', 'infrastructureValue1718'], axis=1)
+                        'rentIndex', 'safetyIndex', 'crimeIndex', 'infrastructureValue1718,'], axis=1)
 
     header = ['countryCode', 'type', 'cityName', 'cityId', 'regionName', 'population', 'regionCode', 'lat', 'lon', 'elevation', 'timezone']
 

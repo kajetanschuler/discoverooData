@@ -6,7 +6,7 @@ def main():
     pd.set_option('display.max_columns', 500)
     cost_data = pd.read_csv("../data_raw/costAndSafetyDataForCountry.csv")
     infrastructure_data = pd.read_csv("../data_processed/qualityOfInfrastructure_clean.csv")
-    print(infrastructure_data)
+    # print(infrastructure_data)
 
     merge = pd.merge(left=cost_data, right=infrastructure_data, on="countryCode")
 
@@ -15,7 +15,7 @@ def main():
 
     merge.to_csv("../data_processed/costAndQuality_clean.csv", index=False)
 
-    print("Merge complete!")
+    print("Merge Countries complete")
     #print(merge)
 
 

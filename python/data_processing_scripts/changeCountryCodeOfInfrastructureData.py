@@ -11,10 +11,10 @@ def main():
     quality['countryCode'] = quality['countryCode'].apply(lambda x: coco.convert(names=x, to='Iso2'))
     quality = quality.dropna()
 
-    print(quality)
+    # print(quality)
 
     quality.to_csv("../data_processed/qualityOfInfrastructure_clean.csv", index=False)
-    print('Datei wurde erstellt')
+    print('Infrastrukturdaten erstellt')
 
 
 if __name__ == '__main__':
