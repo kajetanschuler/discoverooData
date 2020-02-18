@@ -1,3 +1,6 @@
+# Skript zieht Kosten- und Krininalitätsdaten von Numbeo
+# Created - 02.02.2020 - by Malik
+
 import requests
 import json
 import csv

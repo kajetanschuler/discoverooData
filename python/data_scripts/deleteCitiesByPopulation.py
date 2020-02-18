@@ -1,3 +1,6 @@
+# Skript löscht Städte die weniger als 100.000 hat
+# Created - 04.01.2020 - by Kajetan
+
 import csv
 
 

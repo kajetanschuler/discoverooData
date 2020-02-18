@@ -1,3 +1,6 @@
+# Sckript nutzt die WorldBank, um allgemeine Daten über die Länder zu holen
+# Created - 12.01.2020 - by Kajetan
+
 import requests
 import json
 import country_converter as coco

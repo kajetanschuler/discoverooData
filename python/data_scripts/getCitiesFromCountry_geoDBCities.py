@@ -1,3 +1,6 @@
+# Skript holt allgemeine Städte und deren Daten über die GeoDBCities API
+# Created - 27.12.2019 - by Kajetan
+
 import requests
 import json
 import time
