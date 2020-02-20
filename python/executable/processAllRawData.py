@@ -4,6 +4,8 @@
 from python.data_processing_scripts import changeCountryCodeOfInfrastructureData, mergeCostAndQuality, \
     mergeCityCountryData, calculateBeachIndex, calculateCulturalIndex, calculateGeologicalFormationIndex, \
     processWeatherData
+
+
 def main():
     changeCountryCodeOfInfrastructureData.main()
     mergeCostAndQuality.main()
@@ -11,6 +13,7 @@ def main():
     calculateGeologicalFormationIndex.main()
     calculateCulturalIndex.main()
     calculateBeachIndex.main()
+    processWeatherData.main()
 
 
 if __name__ == '__main__':
