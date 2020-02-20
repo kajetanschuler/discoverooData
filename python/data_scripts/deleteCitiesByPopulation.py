@@ -5,7 +5,7 @@ import csv
 
 
 def main():
-    with open('../data_raw/allCities.csv', 'rt') as inp, open('../data_processed/allCitiesMinPopulation.csv', 'wt') as out:
+    with open('../archive/allCities.csv', 'rt') as inp, open('../data_processed/allCitiesMinPopulation.csv', 'wt') as out:
         writer = csv.writer(out)
         reader = csv.reader(inp)
         header = next(reader)
