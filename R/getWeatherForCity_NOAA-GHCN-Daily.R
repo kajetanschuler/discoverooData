@@ -2,20 +2,21 @@
 library(rnoaa)
 library(readr)
 
+
 # Set Working directory and options
-dir = "/Users/kajetanschuler/Library/Mobile Documents/com~apple~CloudDocs/Development/TravelAPI/python/data_processed"
+dir = "../data_raw"
 setwd(dir)
 getwd()
 
-station <- meteo_tidy_ghcnd("AEM00041217", keep_flags = FALSE, var = c("TMAX", "TMIN"), date_min = "2010-01-01", date_max = "2018-12-31")
+# station <- meteo_tidy_ghcnd("AEM00041217", keep_flags = FALSE, var = c("TMAX", "TMIN"), date_min = "2010-01-01", date_max = "2018-12-31")
 
 # Read csv with cities
 
-cities <- read_csv("allCitiesMinPopulation.csv")
+cities <- read_csv("allCitiesOver100k.csv")
 rows <- nrow(cities)
 station_data <- ghcnd_stations()
 
-dir = "/Users/kajetanschuler/Library/Mobile Documents/com~apple~CloudDocs/Development/TravelAPI/python/data_raw/weatherDataPerStation"
+dir = "../data_raw/weatherDataPerStation"
 setwd(dir)
 getwd()
 
