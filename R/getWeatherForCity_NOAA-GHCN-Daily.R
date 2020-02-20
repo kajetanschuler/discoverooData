@@ -2,9 +2,9 @@
 library(rnoaa)
 library(readr)
 
-
+getwd()
 # Set Working directory and options
-dir = "../data_raw"
+dir = "../../data_raw"
 setwd(dir)
 getwd()
 
