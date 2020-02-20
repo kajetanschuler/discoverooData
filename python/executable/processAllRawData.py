@@ -18,3 +18,6 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+
+# Todo: Anpassen für neue Skripte!
