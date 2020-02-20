@@ -4,7 +4,7 @@ library(readr)
 
 getwd()
 # Set Working directory and options
-dir = "../../data_raw"
+dir = "../python/data_raw"
 setwd(dir)
 getwd()
 
