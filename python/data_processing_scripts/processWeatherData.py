@@ -16,7 +16,6 @@ def main():
     # Iterate through all rows and get corresponding Station Data
     for index, row in weather_stations.iterrows():
         station_id = row['stationId']
-        print(station_id)
         station_file = "../data_raw/weatherDataPerStation/" + station_id + " .csv"
         station_data = pd.read_csv(station_file)
 
@@ -291,6 +290,8 @@ def main():
                               tmax_jun_value, tmin_jun_value, tmax_jul_value, tmin_jul_value, tmax_aug_value,
                               tmin_aug_value, tmax_sep_value, tmin_sep_value, tmax_oct_value, tmin_oct_value,
                               tmax_nov_value, tmin_nov_value, tmax_dec_value, tmin_dec_value])
+
+            print("Station with ID - " + station_id + " - inserted")
 
     # Create DataFrame from data_list
     weather_data = pd.DataFrame(data_list, columns=['stationId','tmax_jan_value', 'tmin_jan_value', 'tmax_feb_value',
