@@ -49,6 +49,9 @@ for (t in 1:rows) {
   
   }
 
+dir = "../"
+setwd(dir)
+getwd()
 write.table(full_station_city_data, file = "weatherStationsByCity.csv", sep = ",", append = FALSE, quote = FALSE,
             col.names = TRUE, row.names = FALSE)
 
