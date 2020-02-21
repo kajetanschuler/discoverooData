@@ -20,6 +20,14 @@ dir = "../data_raw/weatherDataPerStation"
 setwd(dir)
 getwd()
 
+dir = "../"
+setwd(dir)
+getwd()
+
+dir = "../data_raw/weatherDataPerStation"
+setwd(dir)
+getwd()
+
 full_station_city_data = data.frame(cityId = numeric(), y = character(), latitude = numeric(), longitude = numeric())
 
 # Iterate through all rows an get nearby weather stations
