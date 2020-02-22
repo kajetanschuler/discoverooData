@@ -5,7 +5,7 @@ import pandas as pd
 
 def main():
     # Read Station / City data
-    weather_stations = pd.read_csv("../data_raw/weatherDataPerStation/weatherStationsByCity.csv")
+    weather_stations = pd.read_csv("../data_raw/weatherStationsByCity.csv")
 
     # Drop duplicate rows as they are not needed
     weather_stations = weather_stations.drop_duplicates(subset='stationId')
