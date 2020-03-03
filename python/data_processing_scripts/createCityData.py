@@ -45,7 +45,7 @@ def main():
 
 
     merge_weather_stations_city_country_cultural_formation_beaches.to_csv("../data_processed/cityData_clean.csv", index=False)
-    merge_weather_stations_city_country_cultural_formation_beaches.to_csv("../data_final/cityData_final.csv", index=False)
+    merge_weather_stations_city_country_cultural_formation_beaches.to_csv("../data_final/cityData_final.csv", encoding='utf-8', index=False)
 
 if __name__ == '__main__':
     main()
