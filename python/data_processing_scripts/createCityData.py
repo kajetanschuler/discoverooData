@@ -9,7 +9,7 @@ def main():
     weather_data = pd.read_csv('../data_processed/weatherData_clean.csv')
     weather_data = weather_data['stationId']
 
-    weather_stations = pd.read_csv('../data_raw/weatherStationsByCity.csv')
+    weather_stations = pd.read_csv('../data_raw/weatherStationsByCity_50km.csv')
     weather_stations = weather_stations[['cityId', 'stationId']]
     merge_weather_stations_data = pd.merge(left=weather_stations, right=weather_data, on='stationId')
     print("Merge Weather complete")

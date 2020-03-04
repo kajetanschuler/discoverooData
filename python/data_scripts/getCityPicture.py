@@ -6,19 +6,20 @@ import matplotlib.pyplot as plt
 import urllib.request
 
 def main():
-
-    URL = "https://de.wikipedia.org/wiki/London"
     # Load city names
-    cities = pd.read_csv("../data_final/cityData_complete.csv")
+    cities = pd.read_csv("../data_final/cityData_final.csv")
     city_names = cities["cityName"]
+    #class_="rg_i q4LuWd tx8vtf"
 
+    URL = "https://www.google.com/search?q=AbuDhabi&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiEmPbQpIDoAhXwsaQKHSi7D14Q_AUoAnoECBoQBA&biw=1920&bih=910"
 
     headers = {"User-Agent": 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0'}
     page = requests.get(URL, headers=headers)
     soup = BeautifulSoup(page.content, 'html.parser')
 
-    imgLinks = soup.findAll("td colspan="2"", class_="href")
-    print(imgLinks)
+    links = soup.findAll('a', href=True)
+    print(links)
+
 
     #urllib.request.urlretrieve("https://upload.wikimedia.org/wikipedia/commons/c/ca/London_Montage_B.jpg", "C:/Users/cayci/Bilder/Bild1.jpg")
 
