@@ -35,6 +35,7 @@ def main():
                 response = requests.request("GET", url, headers=headers, params=querystring)
                 data = json.loads(response.text)
 
+
                 if total_count == 0:
                     total_count = data['metadata']['totalCount']
 
