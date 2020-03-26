@@ -19,7 +19,7 @@ def main():
                 if cityName == "cityName":
                         break
 
-                URL = "https://www.bing.com/images/search?sp=-1&pq=ajma&sc=8-4&sk=&cvid=2FC3F99AA95E43B99EB54DEFDB48A96E&q=skyline " + cityName + "&qft=+filterui:photo-photo+filterui:aspect-wide+filterui:imagesize-large&FORM=IRFLTR"
+                URL = "https://www.bing.com/images/search?sp=-1&pq=ajma&sc=8-4&sk=&cvid=2FC3F99AA95E43B99EB54DEFDB48A96E&q=city " + cityName + "&qft=+filterui:photo-photo+filterui:aspect-wide+filterui:imagesize-large&FORM=IRFLTR"
                 headers = {"User-Agent": 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0'}
                 page = requests.get(URL, headers=headers)
                 soup = BeautifulSoup(page.content, 'html.parser')
