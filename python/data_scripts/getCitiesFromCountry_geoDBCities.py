@@ -8,13 +8,12 @@ import csv
 
 
 def main():
-    #country_list = ["IT", "ES", "TH", "IN", "SE", "DK", "BR", "AR", "CA", "ZA", "EG", "JP", "AU", "PL", "ME"]
 
     more_data = True
     total_count = 0
     count = 0
     offset = 0
-    csv_file_name = "../data_raw/allCitiesBelow100k" + ".csv"
+    csv_file_name = "../data_raw/allCitiesOver100k" + ".csv"
     with open(csv_file_name, mode='a') as file:
         z = csv.reader(file, delimiter='\t')
 
@@ -34,7 +33,6 @@ def main():
                 }
                 response = requests.request("GET", url, headers=headers, params=querystring)
                 data = json.loads(response.text)
-
 
                 if total_count == 0:
                     total_count = data['metadata']['totalCount']
