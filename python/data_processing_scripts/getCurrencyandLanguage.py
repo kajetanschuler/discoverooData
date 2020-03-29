@@ -8,25 +8,29 @@ import requests
 import json
 import pprint as pp
 import pandas as pd
+from pandas.io.json import json_normalize
+import pprint as pp
 
 
 
 
 def main():
-    country_data = pd.read_csv("../data_final/countryData_final.csv")
-    print(country_data['countryCode'])
 
     url = 'https://restcountries.eu/rest/v2/all'
     response = requests.request("GET", url)
-    data = json.loads(response.text)
-    x = 0
-    x = int(x)
-    for country in data:
-        country_id1 = country['alpha2Code']
-        print(country_id1)
-        # country_id2 = country_data['countryCode']
-        # if country_id1 == country_id2:
-        #     print('yes')
+    r = pd.read_json(response.text)
+    print(r)
+    df = pd.io.json.json_normalize(r)
+    print(df)
+    df.columns = df.columns.map(lambda x: x.split(".")[-1])
+    print(df.columns)
+
+
+
+
+
+
+    #df.to_csv("../data_raw/currencyAndLanguage.csv")
 
 
 
