@@ -25,8 +25,11 @@ def main():
     currencyMerge = currencyMerge[['countryCode', 'currencyCode', 'currencyName', 'currencySymbol']]
     currencyMerge.to_csv("../data_final/currencyForCountry_final.csv", index=False)
 
-    merge2.to_csv("../data_processed/countryData_clean.csv", index=False)
-    merge2.to_csv("../data_final/countryData_final.csv", index=False)
+    flagLink = pd.read_csv("../data_processed/flagLinks_clean.csv")
+    merge3 = pd.merge(left=merge2, right=flagLink, on="countryCode")
+
+    merge3.to_csv("../data_processed/countryData_clean.csv", index=False)
+    merge3.to_csv("../data_final/countryData_final.csv", index=False)
 
     print("Merge Countries complete")
 

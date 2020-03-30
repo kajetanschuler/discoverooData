@@ -43,9 +43,14 @@ def main():
         pd.merge(left=merge_weather_stations_city_country_cultural_formation, right=beaches, on='cityId')
     print("Merge City & Country & Country & Culture & Formations & Beaches complete")
 
+    imageLinks = pd.read_csv("../data_processed/cityImagePath.csv")
+    merge_weather_stations_city_country_cultural_formation_beaches_image = pd.merge\
+        (left=merge_weather_stations_city_country_cultural_formation_beaches, right=imageLinks, on='cityId')
+    print("Merge City & Country & Country & Culture & Formations & Beaches & image complete")
 
-    merge_weather_stations_city_country_cultural_formation_beaches.to_csv("../data_processed/cityData_clean.csv", index=False)
-    merge_weather_stations_city_country_cultural_formation_beaches.to_csv("../data_final/cityData_final.csv", encoding='utf-8', index=False)
+
+    merge_weather_stations_city_country_cultural_formation_beaches_image.to_csv("../data_processed/cityData_clean.csv", index=False)
+    merge_weather_stations_city_country_cultural_formation_beaches_image.to_csv("../data_final/cityData_final.csv", encoding='utf-8', index=False)
 
 if __name__ == '__main__':
     main()
