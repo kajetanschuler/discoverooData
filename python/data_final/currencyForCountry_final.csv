@@ -1,0 +1,117 @@
+countryCode,currencyCode,currencyName,currencySymbol
+AL,ALL,Albanian lek,L
+DZ,DZD,Algerian dinar,د.ج
+AR,ARS,Argentine peso,$
+AM,AMD,Armenian dram,
+AU,AUD,Australian dollar,$
+AT,EUR,Euro,€
+AZ,AZN,Azerbaijani manat,
+BH,BHD,Bahraini dinar,.د.ب
+BD,BDT,Bangladeshi taka,৳
+BE,EUR,Euro,€
+BO,BOB,Bolivian boliviano,Bs.
+BA,BAM,Bosnia and Herzegovina convertible mark,
+BR,BRL,Brazilian real,R$
+BG,BGN,Bulgarian lev,лв
+KH,KHR,Cambodian riel,៛
+KH,USD,United States dollar,$
+CA,CAD,Canadian dollar,$
+CL,CLP,Chilean peso,$
+CN,CNY,Chinese yuan,¥
+CO,COP,Colombian peso,$
+CR,CRC,Costa Rican colón,₡
+HR,HRK,Croatian kuna,kn
+CY,EUR,Euro,€
+CZ,CZK,Czech koruna,Kč
+DK,DKK,Danish krone,kr
+DO,DOP,Dominican peso,$
+EC,USD,United States dollar,$
+EG,EGP,Egyptian pound,£
+SV,USD,United States dollar,$
+EE,EUR,Euro,€
+FI,EUR,Euro,€
+FR,EUR,Euro,€
+GE,GEL,Georgian Lari,ლ
+DE,EUR,Euro,€
+GH,GHS,Ghanaian cedi,₵
+GR,EUR,Euro,€
+GT,GTQ,Guatemalan quetzal,Q
+HN,HNL,Honduran lempira,L
+HK,HKD,Hong Kong dollar,$
+HU,HUF,Hungarian forint,Ft
+IS,ISK,Icelandic króna,kr
+IN,INR,Indian rupee,₹
+ID,IDR,Indonesian rupiah,Rp
+IR,IRR,Iranian rial,﷼
+IE,EUR,Euro,€
+IL,ILS,Israeli new shekel,₪
+IT,EUR,Euro,€
+JM,JMD,Jamaican dollar,$
+JP,JPY,Japanese yen,¥
+JO,JOD,Jordanian dinar,د.ا
+KZ,KZT,Kazakhstani tenge,
+KE,KES,Kenyan shilling,Sh
+KW,KWD,Kuwaiti dinar,د.ك
+LV,EUR,Euro,€
+LB,LBP,Lebanese pound,ل.ل
+LT,EUR,Euro,€
+LU,EUR,Euro,€
+MK,MKD,Macedonian denar,ден
+MY,MYR,Malaysian ringgit,RM
+MT,EUR,Euro,€
+MU,MUR,Mauritian rupee,₨
+MX,MXN,Mexican peso,$
+MD,MDL,Moldovan leu,L
+ME,EUR,Euro,€
+MA,MAD,Moroccan dirham,د.م.
+,NAD,Namibian dollar,$
+,ZAR,South African rand,R
+NP,NPR,Nepalese rupee,₨
+NL,EUR,Euro,€
+NZ,NZD,New Zealand dollar,$
+NG,NGN,Nigerian naira,₦
+NO,NOK,Norwegian krone,kr
+OM,OMR,Omani rial,ر.ع.
+PK,PKR,Pakistani rupee,₨
+PA,PAB,Panamanian balboa,B/.
+PA,USD,United States dollar,$
+PE,PEN,Peruvian sol,S/.
+PH,PHP,Philippine peso,₱
+PL,PLN,Polish złoty,zł
+PT,EUR,Euro,€
+QA,QAR,Qatari riyal,ر.ق
+RO,RON,Romanian leu,lei
+RU,RUB,Russian ruble,₽
+SA,SAR,Saudi riyal,ر.س
+RS,RSD,Serbian dinar,дин.
+SG,BND,Brunei dollar,$
+SG,SGD,Singapore dollar,$
+SK,EUR,Euro,€
+SI,EUR,Euro,€
+ZA,ZAR,South African rand,R
+KR,KRW,South Korean won,₩
+ES,EUR,Euro,€
+LK,LKR,Sri Lankan rupee,Rs
+SE,SEK,Swedish krona,kr
+CH,CHF,Swiss franc,Fr
+TZ,TZS,Tanzanian shilling,Sh
+TH,THB,Thai baht,฿
+TT,TTD,Trinidad and Tobago dollar,$
+TN,TND,Tunisian dinar,د.ت
+TR,TRY,Turkish lira,
+UG,UGX,Ugandan shilling,Sh
+UA,UAH,Ukrainian hryvnia,₴
+AE,AED,United Arab Emirates dirham,د.إ
+GB,GBP,British pound,£
+US,USD,United States dollar,$
+UY,UYU,Uruguayan peso,$
+VE,VEF,Venezuelan bolívar,Bs F
+VN,VND,Vietnamese đồng,₫
+ZW,BWP,Botswana pula,P
+ZW,GBP,British pound,£
+ZW,CNY,Chinese yuan,¥
+ZW,EUR,Euro,€
+ZW,INR,Indian rupee,₹
+ZW,JPY,Japanese yen,¥
+ZW,ZAR,South African rand,Rs
+ZW,USD,United States dollar,$
