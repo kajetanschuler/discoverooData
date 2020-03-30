@@ -10,12 +10,12 @@ radius = 0
 
 
 def main():
-    # Open .csv file that contains all cities with a minimum population of 200.000
+    # Open .csv file that contains all cities with a minimum population of 100.000
     with open ('../data_raw/allCitiesOver100k.csv', 'rt') as input:
         reader = csv.reader(input)
 
         # Open/Create csv file for historic sights data
-        with open ('../data_raw/sightsInCities_lowRadius.csv', 'wt') as output:
+        with open ('../data_raw/sightsInCities.csv', 'wt') as output:
             fieldnames = ['cityId', 'searchRadius', 'population',
                           'hCountLevel0', 'hCountLevel1', 'hCountLevel2', 'hCountLevel3', 'hCountLevel7',
                           'cCountLevel0', 'cCountLevel1', 'cCountLevel2', 'cCountLevel3', 'cCountLevel7',
