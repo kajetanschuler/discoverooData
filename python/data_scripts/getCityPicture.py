@@ -1,3 +1,8 @@
+# Skript extrahiert ein Bild Link zu jeder Stadt über die Bing Suche und downloaded das Bild zu ../data_raw/cityImagesLocal
+# Danach wird jedes File auf ein S3 Bucket gepusht
+# Updated - 31.03.2020 - by Malik
+
+
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
