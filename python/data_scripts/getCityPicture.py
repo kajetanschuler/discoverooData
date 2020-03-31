@@ -4,6 +4,7 @@ import pandas as pd
 from openpyxl import load_workbook
 import matplotlib.pyplot as plt
 import urllib.request
+import boto3
 
 
 def main():
@@ -31,8 +32,14 @@ def main():
                                 link = link + "&dpr=5"
                                 print(link)
                                 print("Ein Bild von " + cityName + str(cityId) + " wurde hinzugefügt")
-                                urllib.request.urlretrieve(link, "C:/Users/cayci/Bilder/" + str(cityId) + ".jpg")
+                                urllib.request.urlretrieve(link, "../data_raw/cityImagesLocal/" + str(cityId) + ".jpg")
+                                s3 = boto3.client('s3',
+                                aws_access_key_id='AKIAIWKYUX7NLB6VSWYQ',
+                                aws_secret_access_key='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')
+                                with open("../data_raw/cityImagesLocal/" + str(cityId) + ".jpg", 'rb') as data:
+                                        s3.upload_fileobj(data, 'travelapiimages', str(cityId) + ".jpg")
                                 x = x+1
+
 
 
 if __name__ == '__main__':
