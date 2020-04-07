@@ -1,8 +1,7 @@
 # Script to calculate Index based on the beachesInCities.csv
 # Created - 17.02.2020 - by Kajetan
-
-# Update by Malik: All beach indices were added to one beach index
-# Updates 07.04.2020
+# Hinweis: Die Werte sind nicht aufsummiert und werden zusätzlich behalten:
+# am 07.04.2020 wurde eine neuere Datei erstellt.
 
 import pandas as pd
 
@@ -45,13 +44,10 @@ def main():
     header = ['cityId', 'searchRadius', 'beach_gIndex', 'beach_wIndex', 'beach_bIndex', 'beach_sIndex', 'beach_rIndex',
               'beach_nIndex', 'beach_uIndex', 'beach_oIndex']
 
-    beaches['beach_Index'] = beaches.loc[:, [x for x in beaches.columns if x.startswith('beach')]].sum(axis=1)
-
-    header = ['cityId', 'searchRadius', 'beach_Index']
 
     beaches = beaches[header]
 
-    beaches.to_csv("../data_processed/beach_indices.csv", columns=header, index=False)
+    beaches.to_csv("../data_processed/additional_beach_indices.csv", columns=header, index=False)
 
 
 if __name__ == '__main__':
