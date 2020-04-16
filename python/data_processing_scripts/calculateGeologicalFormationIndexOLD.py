@@ -1,6 +1,5 @@
-# Script to calculate Index based on the geologicalInformationInCities.csv
-# Created - 17.02.2020 - by Kajetan
-# Update 07.04.2020 by Malik: RockFormations werden nicht weiter erhoben (Zeile ist auskommentiert)
+# Script created 16.04.2020
+# Script which calculates with Level 0
 
 import pandas as pd
 
@@ -10,7 +9,7 @@ def main():
 
     formations = pd.read_csv("../data_raw/geologicalInformationInCities.csv")
 
-    formations[["mCountLevel0", "rCountLevel0"]] = formations[["mCountLevel0", "rCountLevel0"]].apply(lambda x: x * 0)
+    formations[["mCountLevel0", "rCountLevel0"]] = formations[["mCountLevel0", "rCountLevel0"]].apply(lambda x: x * 1)
 
     formations[["mCountLevel1", "rCountLevel1"]] = formations[["mCountLevel1", "rCountLevel1"]].apply(lambda x: x * 2)
 
@@ -30,7 +29,7 @@ def main():
 
     formations = formations[header]
 
-    formations.to_csv("../data_processed/formation_indices.csv", columns=header, index=False)
+    formations.to_csv("../data_processed/formation_indicesOLD.csv", columns=header, index=False)
 
 
 if __name__ == '__main__':
