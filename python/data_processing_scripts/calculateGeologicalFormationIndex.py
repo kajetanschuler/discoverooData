@@ -24,6 +24,7 @@ def main():
 
     #Rock Formations werden nicht mehr gebraucht
     #formations['formations_rIndex'] = formations.loc[:, [x for x in formations.columns if x.startswith('rCount')]].sum(axis=1)
+    #header = ['cityId', 'searchRadius', 'formations_mIndex', 'formations_rIndex']
 
     header = ['cityId', 'searchRadius', 'formations_mIndex']
 
