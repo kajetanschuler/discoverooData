@@ -4,10 +4,6 @@ def main():
 
     sights = pd.read_csv("../data_raw/sightsInCities.csv")
 
-    sights[["hCountLevel0", "cCountLevel0", "rCountLevel0", "aCountLevel0",
-            "iCountLevel0", "nCountLevel0"]] = sights[["hCountLevel0", "cCountLevel0", "rCountLevel0", "aCountLevel0",
-                                                       "iCountLevel0", "nCountLevel0"]].apply(lambda x: x * 0)
-
     sights[["hCountLevel1", "cCountLevel1", "rCountLevel1", "aCountLevel1",
             "iCountLevel1", "nCountLevel1"]] = sights[["hCountLevel1", "cCountLevel1", "rCountLevel1", "aCountLevel1",
                                                        "iCountLevel1", "nCountLevel1"]].apply(lambda x: x * 2)
@@ -36,7 +32,7 @@ def main():
 
     sights = sights[header]
 
-    sights.to_csv("../data_processed/cultural_indices.csv", columns=header, index=False)
+    sights.to_csv("../data_processed/cultural_indicesOLD.csv", columns=header, index=False)
 
 
 if __name__ == '__main__':
