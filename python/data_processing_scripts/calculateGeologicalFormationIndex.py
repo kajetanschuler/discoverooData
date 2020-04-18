@@ -1,6 +1,6 @@
 # Script to calculate Index based on the geologicalInformationInCities.csv
 # Created - 17.02.2020 - by Kajetan
-# Update 07.04.2020 by Malik: RockFormations werden nicht weiter erhoben (Zeile ist auskommentiert)
+
 
 import pandas as pd
 
@@ -22,11 +22,8 @@ def main():
 
     formations['formations_mIndex'] = formations.loc[:, [x for x in formations.columns if x.startswith('mCount')]].sum(axis=1)
 
-    #Rock Formations werden nicht mehr gebraucht
-    #formations['formations_rIndex'] = formations.loc[:, [x for x in formations.columns if x.startswith('rCount')]].sum(axis=1)
-    #header = ['cityId', 'searchRadius', 'formations_mIndex', 'formations_rIndex']
-
-    header = ['cityId', 'searchRadius', 'formations_mIndex']
+    formations['formations_rIndex'] = formations.loc[:, [x for x in formations.columns if x.startswith('rCount')]].sum(axis=1)
+    header = ['cityId', 'searchRadius', 'formations_mIndex', 'formations_rIndex']
 
     formations = formations[header]
 

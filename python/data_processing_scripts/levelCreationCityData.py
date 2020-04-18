@@ -14,7 +14,7 @@ def main():
     hMax = city_data['culture_hIndex'].max()
 
     city_data['culture_hIndex'].values[city_data['culture_hIndex'].values < hMax * 0.2] = 1
-    city_data['culture_hIndex'].values[city_data['culture_hIndex'].values < hMax * 0.4 > hMax * 0.6] = 4
+    city_data['culture_hIndex'].values[city_data['culture_hIndex'].values > hMax * 0.4 < hMax * 0.6] = 4
     city_data['culture_hIndex'].values[city_data['culture_hIndex'].values < hMax * 0.6] = 3
     city_data['culture_hIndex'].values[city_data['culture_hIndex'].values < hMax * 0.4] = 2
     city_data['culture_hIndex'].values[city_data['culture_hIndex'].values < hMax * 0.2] = 1
