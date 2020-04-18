@@ -18,6 +18,11 @@ def main():
     iMax = city['culture_aIndex'].max()
     nMax = city['culture_aIndex'].max()
 
+    fmMax = city['formations_mIndex'].max()
+    frMax = city['formations_rIndex'].max()
+    bMax = city['beach_Index'].max()
+
+
 
 
     #cIndex
@@ -82,6 +87,43 @@ def main():
         np.logical_and(city['culture_nIndex'] > nMax * 0.6, city['culture_nIndex'] <= nMax * 0.8), 'culture_nIndex'] = 4
     city.loc[np.logical_and(city['culture_nIndex'] > nMax * 0.8, city['culture_nIndex'] <= nMax), 'culture_nIndex'] = 5
 
+    # fmIndex
+    city.loc[
+        np.logical_and(city['formations_mIndex'] > fmMax * 0, city['formations_mIndex'] <= fmMax * 0.2), 'formations_mIndex'] = 1
+    city.loc[
+        np.logical_and(city['formations_mIndex'] > fmMax * 0.2, city['formations_mIndex'] <= fmMax * 0.4), 'formations_mIndex'] = 2
+    city.loc[
+        np.logical_and(city['formations_mIndex'] > fmMax * 0.4, city['formations_mIndex'] <= fmMax * 0.6), 'formations_mIndex'] = 3
+    city.loc[
+        np.logical_and(city['formations_mIndex'] > fmMax * 0.6, city['formations_mIndex'] <= fmMax * 0.8), 'formations_mIndex'] = 4
+    city.loc[np.logical_and(city['formations_mIndex'] > fmMax * 0.8, city['formations_mIndex'] <= fmMax), 'formations_mIndex'] = 5
+
+    # frIndex
+    city.loc[
+        np.logical_and(city['formations_rIndex'] > frMax * 0,
+                       city['formations_rIndex'] <= frMax * 0.2), 'formations_rIndex'] = 1
+    city.loc[
+        np.logical_and(city['formations_rIndex'] > frMax * 0.2,
+                       city['formations_rIndex'] <= frMax * 0.4), 'formations_rIndex'] = 2
+    city.loc[
+        np.logical_and(city['formations_rIndex'] > frMax * 0.4,
+                       city['formations_rIndex'] <= frMax * 0.6), 'formations_rIndex'] = 3
+    city.loc[
+        np.logical_and(city['formations_rIndex'] > frMax * 0.6,
+                       city['formations_rIndex'] <= frMax * 0.8), 'formations_rIndex'] = 4
+    city.loc[np.logical_and(city['formations_rIndex'] > frMax * 0.8,
+                            city['formations_rIndex'] <= frMax), 'formations_rIndex'] = 5
+
+    #beachIndex
+    city.loc[
+        np.logical_and(city['beach_Index'] > 0 ,
+                       city['beach_Index'] <= 4), 'beach_Index'] = 1
+    city.loc[
+        np.logical_and(city['beach_Index'] > 4,
+                       city['beach_Index'] <= 30), 'beach_Index'] = 2
+    city.loc[
+        np.logical_and(city['beach_Index'] > 30,
+                       city['beach_Index'] <= bMax ), 'beach_Index'] = 3
 
 
 
