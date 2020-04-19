@@ -1,0 +1,106 @@
+countryCode,infrastructureValue,cpiRentIndex,cpiIndex,groceriesIndex,purchasingPowerIndex,restaurantIndex,rentIndex,safetyIndex,crimeIndex,countryName,population,countrySizeKmSq,urbanSizeKmSq,ruralSizeKmSq,forestSizeSqKm,flagLink
+AL,3.0,2.0,2.0,2.0,2.0,2.0,1.0,4.0,3.0,Albania,2866376,27400.0,1689.4,26686.7,7705.4,https://restcountries.eu/data/alb.svg
+AE,5.0,3.0,3.0,2.0,5.0,3.0,3.0,5.0,1.0,United Arab Emirates,9630959,71020.0,8568.2,70575.1,3236.6,https://restcountries.eu/data/are.svg
+AR,2.0,2.0,2.0,2.0,2.0,2.0,1.0,3.0,4.0,Argentina,44494502,2736690.0,55032.2,2690269.5,268152.0,https://restcountries.eu/data/arg.svg
+AM,3.0,2.0,2.0,2.0,2.0,2.0,1.0,5.0,2.0,Armenia,2951776,28470.0,0.0,0.0,3322.0,https://restcountries.eu/data/arm.svg
+AU,4.0,4.0,3.0,3.0,5.0,3.0,3.0,4.0,3.0,Australia,24992369,7692020.0,36745.7,7641564.5,1250590.0,https://restcountries.eu/data/aus.svg
+AT,5.0,3.0,3.0,3.0,4.0,3.0,2.0,5.0,2.0,Austria,8847037,82523.0,0.0,0.0,38708.0,https://restcountries.eu/data/aut.svg
+AZ,4.0,2.0,2.0,1.0,2.0,2.0,1.0,4.0,2.0,Azerbaijan,9942334,82670.0,0.0,0.0,11656.2,https://restcountries.eu/data/aze.svg
+BE,4.0,3.0,4.0,3.0,4.0,4.0,2.0,4.0,3.0,Belgium,11422068,30280.0,12349.2,18091.9,6838.4,https://restcountries.eu/data/bel.svg
+BD,2.0,2.0,2.0,2.0,2.0,1.0,1.0,2.0,4.0,Bangladesh,161356039,130170.0,11125.4,123889.6,14264.0,https://restcountries.eu/data/bgd.svg
+BG,3.0,2.0,2.0,2.0,2.0,2.0,1.0,4.0,3.0,Bulgaria,7024216,108560.0,6678.9,103838.0,38402.0,https://restcountries.eu/data/bgr.svg
+BH,4.0,3.0,3.0,3.0,3.0,3.0,2.0,4.0,2.0,Bahrain,1569439,778.0,549.3,115.1,6.1,https://restcountries.eu/data/bhr.svg
+BA,2.0,2.0,2.0,2.0,2.0,1.0,1.0,4.0,3.0,Bosnia and Herzegovina,3323929,51200.0,1723.1,49338.4,21850.0,https://restcountries.eu/data/bih.svg
+BO,2.0,2.0,2.0,2.0,2.0,2.0,1.0,3.0,4.0,Bolivia,11353142,1083300.0,0.0,0.0,544750.0,https://restcountries.eu/data/bol.svg
+BR,2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,5.0,Brazil,209469333,8358140.0,134981.4,8241430.0,4925540.0,https://restcountries.eu/data/bra.svg
+CA,4.0,3.0,3.0,3.0,4.0,3.0,2.0,4.0,3.0,Canada,37058856,9093510.0,126511.2,9084045.0,3470224.1,https://restcountries.eu/data/can.svg
+CH,5.0,5.0,5.0,5.0,5.0,5.0,4.0,5.0,2.0,Switzerland,8516543,39516.0,7898.1,30190.1,12578.0,https://restcountries.eu/data/che.svg
+CL,4.0,2.0,2.0,2.0,2.0,2.0,1.0,4.0,3.0,Chile,18729160,743532.0,12027.5,709418.8,180358.0,https://restcountries.eu/data/chl.svg
+CN,3.0,2.0,2.0,2.0,3.0,2.0,2.0,4.0,3.0,China,1392730000,9388210.0,380679.3,8868577.0,2098635.0,https://restcountries.eu/data/chn.svg
+CO,2.0,2.0,2.0,2.0,2.0,1.0,1.0,3.0,4.0,Colombia,49648685,1109500.0,36132.1,1090598.1,584750.2,https://restcountries.eu/data/col.svg
+CR,2.0,2.0,3.0,2.0,2.0,2.0,2.0,3.0,4.0,Costa Rica,4999441,51060.0,4051.6,46480.0,27862.0,https://restcountries.eu/data/cri.svg
+CY,4.0,3.0,3.0,2.0,3.0,3.0,2.0,5.0,2.0,Cyprus,1189265,9240.0,2280.4,6949.8,1726.7,https://restcountries.eu/data/cyp.svg
+CZ,3.0,2.0,2.0,2.0,3.0,2.0,2.0,5.0,2.0,Czech Republic,10625695,77220.0,0.0,0.0,26690.0,https://restcountries.eu/data/cze.svg
+DE,4.0,3.0,3.0,3.0,5.0,3.0,2.0,4.0,3.0,Germany,82927922,349360.0,62374.2,291859.2,114210.0,https://restcountries.eu/data/deu.svg
+DK,4.0,4.0,4.0,3.0,5.0,4.0,3.0,5.0,2.0,Denmark,5797446,41990.0,9295.2,33044.1,6172.2,https://restcountries.eu/data/dnk.svg
+DO,3.0,2.0,2.0,2.0,1.0,2.0,1.0,3.0,4.0,Dominican Republic,10627165,48310.0,5089.4,42784.2,20162.0,https://restcountries.eu/data/dom.svg
+DZ,3.0,2.0,2.0,2.0,2.0,1.0,1.0,3.0,3.0,Algeria,42228429,2381740.0,30195.8,2285675.8,19636.0,https://restcountries.eu/data/dza.svg
+EC,3.0,2.0,2.0,2.0,2.0,2.0,1.0,3.0,3.0,Ecuador,17084357,248360.0,10905.7,244458.2,124691.5,https://restcountries.eu/data/ecu.svg
+EG,3.0,1.0,2.0,1.0,1.0,1.0,1.0,3.0,4.0,"Egypt, Arab Rep.",98423595,995450.0,24270.2,951268.9,736.0,https://restcountries.eu/data/egy.svg
+ES,4.0,3.0,3.0,2.0,4.0,3.0,2.0,4.0,2.0,Spain,46723749,499564.0,69794.6,432138.3,184520.0,https://restcountries.eu/data/esp.svg
+EE,4.0,2.0,3.0,2.0,3.0,3.0,2.0,5.0,2.0,Estonia,1320884,43470.0,2614.7,40498.6,22316.0,https://restcountries.eu/data/est.svg
+FI,5.0,3.0,4.0,3.0,5.0,4.0,2.0,5.0,2.0,Finland,5518050,303910.0,20052.2,289666.3,222180.0,https://restcountries.eu/data/fin.svg
+FR,5.0,3.0,4.0,3.0,4.0,4.0,2.0,4.0,3.0,France,66987244,547557.0,86463.1,457993.6,171020.0,https://restcountries.eu/data/fra.svg
+GB,4.0,3.0,3.0,3.0,4.0,3.0,2.0,4.0,3.0,United Kingdom,66488991,241930.0,58698.8,183648.9,31610.0,https://restcountries.eu/data/gbr.svg
+GE,3.0,2.0,2.0,1.0,2.0,2.0,1.0,5.0,2.0,Georgia,3731000,69490.0,3602.8,64912.7,28224.0,https://restcountries.eu/data/geo.svg
+GH,3.0,3.0,3.0,2.0,1.0,2.0,3.0,3.0,4.0,Ghana,29767108,227540.0,6239.4,224697.5,93654.0,https://restcountries.eu/data/gha.svg
+GR,3.0,2.0,3.0,2.0,2.0,3.0,1.0,4.0,3.0,Greece,10727668,128900.0,18519.2,112653.6,40842.0,https://restcountries.eu/data/grc.svg
+GT,2.0,2.0,2.0,2.0,2.0,2.0,1.0,3.0,4.0,Guatemala,17247807,107160.0,4132.4,103568.3,35036.0,https://restcountries.eu/data/gtm.svg
+HK,5.0,5.0,4.0,4.0,3.0,3.0,5.0,5.0,2.0,"Hong Kong SAR, China",7451000,1050.0,901.5,231.2,0.0,https://restcountries.eu/data/hkg.svg
+HN,3.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,5.0,Honduras,9587522,111890.0,3702.4,108150.6,44720.0,https://restcountries.eu/data/hnd.svg
+HR,4.0,2.0,3.0,2.0,3.0,2.0,1.0,5.0,2.0,Croatia,4089400,55960.0,5302.8,51019.6,19224.0,https://restcountries.eu/data/hrv.svg
+HU,3.0,2.0,2.0,2.0,2.0,2.0,1.0,4.0,3.0,Hungary,9768785,90530.0,0.0,0.0,20736.0,https://restcountries.eu/data/hun.svg
+ID,3.0,2.0,2.0,2.0,2.0,1.0,1.0,4.0,3.0,Indonesia,267663435,1811570.0,42076.8,1838682.6,903256.0,https://restcountries.eu/data/idn.svg
+IN,3.0,1.0,1.0,2.0,3.0,1.0,1.0,4.0,3.0,India,1352617328,2973190.0,222688.2,2980489.2,708604.0,https://restcountries.eu/data/ind.svg
+IE,3.0,4.0,4.0,3.0,4.0,4.0,3.0,4.0,3.0,Ireland,4853506,68890.0,5638.4,63249.2,7597.0,https://restcountries.eu/data/irl.svg
+IR,3.0,2.0,2.0,2.0,2.0,2.0,2.0,3.0,3.0,"Iran, Islamic Rep.",81800269,1628760.0,69242.8,1545056.1,106919.8,https://restcountries.eu/data/irn.svg
+IS,4.0,5.0,5.0,4.0,4.0,5.0,4.0,5.0,2.0,Iceland,353574,100250.0,1023.8,88593.2,505.0,https://restcountries.eu/data/isl.svg
+IL,4.0,4.0,4.0,3.0,4.0,4.0,2.0,4.0,2.0,Israel,8883800,21640.0,6399.0,15621.8,1672.0,https://restcountries.eu/data/isr.svg
+IT,3.0,3.0,3.0,3.0,3.0,4.0,2.0,4.0,3.0,Italy,60431283,294140.0,73540.9,223236.4,93508.0,https://restcountries.eu/data/ita.svg
+JM,3.0,3.0,3.0,3.0,2.0,2.0,1.0,3.0,4.0,Jamaica,2934855,10830.0,3000.6,8015.4,3348.2,https://restcountries.eu/data/jam.svg
+JO,3.0,2.0,3.0,2.0,2.0,3.0,1.0,4.0,3.0,Jordan,9956011,88780.0,3384.0,86229.2,975.0,https://restcountries.eu/data/jor.svg
+JP,5.0,4.0,4.0,4.0,4.0,2.0,2.0,5.0,1.0,Japan,126529100,364560.0,108678.2,260649.6,249564.0,https://restcountries.eu/data/jpn.svg
+KZ,3.0,2.0,2.0,1.0,2.0,2.0,1.0,2.0,4.0,Kazakhstan,18276499,2699700.0,0.0,0.0,33090.0,https://restcountries.eu/data/kaz.svg
+KE,3.0,2.0,2.0,2.0,2.0,2.0,1.0,3.0,4.0,Kenya,51393010,569140.0,4187.6,576333.8,44496.0,https://restcountries.eu/data/ken.svg
+KH,2.0,2.0,2.0,2.0,1.0,1.0,1.0,3.0,4.0,Cambodia,16249798,176520.0,1152.1,176298.2,93296.0,https://restcountries.eu/data/khm.svg
+KR,4.0,3.0,4.0,4.0,4.0,2.0,2.0,4.0,3.0,"Korea, Rep.",51635256,97489.0,21922.0,77155.3,61764.0,https://restcountries.eu/data/kor.svg
+KW,3.0,3.0,3.0,2.0,4.0,2.0,3.0,4.0,3.0,Kuwait,4137309,17820.0,3942.3,13422.9,62.5,https://restcountries.eu/data/kwt.svg
+LB,2.0,3.0,3.0,2.0,2.0,3.0,2.0,4.0,3.0,Lebanon,6848925,10230.0,2317.4,8082.0,1373.8,https://restcountries.eu/data/lbn.svg
+LK,3.0,2.0,2.0,2.0,1.0,1.0,1.0,4.0,3.0,Sri Lanka,21670000,62710.0,4016.1,61106.8,20634.0,https://restcountries.eu/data/lka.svg
+LT,4.0,2.0,2.0,2.0,3.0,2.0,1.0,4.0,3.0,Lithuania,2789533,62642.0,4610.9,59360.1,21820.0,https://restcountries.eu/data/ltu.svg
+LU,4.0,5.0,4.0,4.0,4.0,4.0,4.0,5.0,2.0,Luxembourg,607728,2430.0,801.1,1782.8,867.0,https://restcountries.eu/data/lux.svg
+LV,3.0,2.0,3.0,2.0,2.0,2.0,1.0,4.0,3.0,Latvia,1926542,62180.0,3278.5,60137.2,33564.0,https://restcountries.eu/data/lva.svg
+MA,4.0,2.0,2.0,2.0,2.0,1.0,1.0,3.0,4.0,Morocco,36029138,446300.0,12057.4,659759.4,56240.0,https://restcountries.eu/data/mar.svg
+MD,2.0,2.0,2.0,2.0,2.0,2.0,1.0,4.0,3.0,Moldova,3545883,32890.0,2607.5,31217.2,4136.0,https://restcountries.eu/data/mda.svg
+MX,3.0,2.0,2.0,2.0,2.0,2.0,1.0,3.0,4.0,Mexico,126190788,1943950.0,102418.1,1831423.5,659484.0,https://restcountries.eu/data/mex.svg
+MK,3.0,2.0,2.0,2.0,2.0,1.0,1.0,4.0,3.0,North Macedonia,2082958,25220.0,2667.4,21962.6,9980.0,https://restcountries.eu/data/mkd.svg
+MT,3.0,3.0,3.0,3.0,3.0,3.0,2.0,4.0,3.0,Malta,483530,320.0,293.3,30.6,3.5,https://restcountries.eu/data/mlt.svg
+ME,3.0,2.0,2.0,2.0,2.0,2.0,1.0,4.0,3.0,Montenegro,622345,13450.0,0.0,0.0,8270.0,https://restcountries.eu/data/mne.svg
+MU,3.0,2.0,3.0,2.0,2.0,2.0,1.0,4.0,3.0,Mauritius,1265303,2030.0,1276.0,727.7,386.4,https://restcountries.eu/data/mus.svg
+MY,4.0,2.0,2.0,2.0,3.0,1.0,1.0,3.0,4.0,Malaysia,31528585,328550.0,15565.0,312833.0,222092.0,https://restcountries.eu/data/mys.svg
+,3.0,2.0,2.0,2.0,3.0,2.0,2.0,2.0,5.0,Namibia,2448255,823290.0,2467.8,822303.1,68448.0,https://restcountries.eu/data/nam.svg
+NG,2.0,2.0,2.0,2.0,1.0,1.0,2.0,3.0,4.0,Nigeria,195874740,910770.0,17196.2,880103.3,65834.0,https://restcountries.eu/data/nga.svg
+NL,5.0,4.0,4.0,3.0,4.0,4.0,3.0,5.0,2.0,Netherlands,17231017,33690.0,12803.0,21411.9,3766.0,https://restcountries.eu/data/nld.svg
+NO,4.0,5.0,5.0,4.0,4.0,5.0,3.0,4.0,3.0,Norway,5314336,365123.0,20282.2,292187.8,121140.0,https://restcountries.eu/data/nor.svg
+NP,2.0,2.0,2.0,2.0,1.0,1.0,1.0,4.0,3.0,Nepal,28087871,143350.0,0.0,0.0,36360.0,https://restcountries.eu/data/npl.svg
+NZ,4.0,4.0,3.0,3.0,4.0,3.0,3.0,4.0,3.0,New Zealand,4885500,263310.0,8116.3,253834.7,101522.0,https://restcountries.eu/data/nzl.svg
+OM,4.0,2.0,2.0,2.0,4.0,2.0,2.0,5.0,2.0,Oman,4829483,309500.0,5651.4,307667.5,20.0,https://restcountries.eu/data/omn.svg
+PK,3.0,1.0,1.0,1.0,2.0,1.0,1.0,4.0,3.0,Pakistan,212215030,770880.0,35871.9,751709.5,14290.0,https://restcountries.eu/data/pak.svg
+PA,4.0,3.0,3.0,2.0,2.0,2.0,2.0,4.0,3.0,Panama,4176873,74340.0,2892.1,71714.3,46006.0,https://restcountries.eu/data/pan.svg
+PE,2.0,2.0,2.0,2.0,2.0,1.0,1.0,3.0,4.0,Peru,31989256,1280000.0,16425.8,1256339.9,738054.0,https://restcountries.eu/data/per.svg
+PH,2.0,2.0,2.0,2.0,2.0,1.0,1.0,4.0,3.0,Philippines,106651922,298170.0,10817.4,282759.1,82800.0,https://restcountries.eu/data/phl.svg
+PL,3.0,2.0,2.0,2.0,3.0,2.0,1.0,5.0,2.0,Poland,37978548,306190.0,30501.3,277840.5,94562.0,https://restcountries.eu/data/pol.svg
+PT,4.0,3.0,3.0,2.0,2.0,2.0,2.0,4.0,2.0,Portugal,10281762,91605.6,12764.7,78286.9,31706.0,https://restcountries.eu/data/prt.svg
+QA,4.0,4.0,3.0,2.0,5.0,3.0,4.0,5.0,1.0,Qatar,2781677,11610.0,1495.1,9779.2,0.0,https://restcountries.eu/data/qat.svg
+RO,2.0,2.0,2.0,2.0,3.0,2.0,1.0,5.0,2.0,Romania,19473936,230080.0,15594.8,219047.9,69302.0,https://restcountries.eu/data/rou.svg
+RU,3.0,2.0,2.0,2.0,2.0,2.0,1.0,4.0,3.0,Russian Federation,144478050,16376870.0,187538.1,16305829.3,8148895.0,https://restcountries.eu/data/rus.svg
+SA,4.0,2.0,2.0,2.0,5.0,2.0,1.0,5.0,2.0,Saudi Arabia,33699947,2149690.0,41223.7,1912311.9,9770.0,https://restcountries.eu/data/sau.svg
+SG,5.0,4.0,3.0,3.0,4.0,2.0,4.0,5.0,2.0,Singapore,5638676,709.0,565.6,103.6,163.5,https://restcountries.eu/data/sgp.svg
+SV,2.0,2.0,2.0,2.0,2.0,2.0,1.0,2.0,5.0,El Salvador,6420744,20720.0,3598.3,16350.0,2606.0,https://restcountries.eu/data/slv.svg
+RS,3.0,2.0,2.0,2.0,2.0,2.0,1.0,4.0,3.0,Serbia,6982084,87460.0,0.0,0.0,27214.0,https://restcountries.eu/data/srb.svg
+SK,3.0,2.0,2.0,2.0,3.0,2.0,2.0,5.0,2.0,Slovak Republic,5447011,48080.0,0.0,0.0,19402.0,https://restcountries.eu/data/svk.svg
+SI,3.0,2.0,3.0,2.0,3.0,2.0,2.0,5.0,2.0,Slovenia,2067372,20142.0,2509.2,17680.9,12482.0,https://restcountries.eu/data/svn.svg
+SE,4.0,3.0,3.0,3.0,5.0,4.0,2.0,3.0,3.0,Sweden,10183175,407310.0,31152.3,390507.3,280730.0,https://restcountries.eu/data/swe.svg
+TH,3.0,2.0,2.0,3.0,2.0,1.0,2.0,4.0,3.0,Thailand,69428524,510890.0,36597.0,474183.4,164290.0,https://restcountries.eu/data/tha.svg
+TT,3.0,3.0,3.0,3.0,3.0,2.0,2.0,2.0,5.0,Trinidad and Tobago,1389858,5130.0,2286.7,2879.3,2361.0,https://restcountries.eu/data/tto.svg
+TN,3.0,1.0,1.0,1.0,2.0,1.0,1.0,4.0,3.0,Tunisia,11565204,155360.0,9897.9,144635.9,10512.0,https://restcountries.eu/data/tun.svg
+TR,4.0,2.0,2.0,2.0,2.0,1.0,1.0,4.0,3.0,Turkey,82319724,769630.0,44090.2,723511.5,118174.0,https://restcountries.eu/data/tur.svg
+TZ,3.0,2.0,2.0,2.0,1.0,2.0,2.0,3.0,4.0,Tanzania,56318348,885800.0,3405.8,886549.6,456880.0,https://restcountries.eu/data/tza.svg
+UG,2.0,2.0,2.0,2.0,1.0,1.0,1.0,3.0,4.0,Uganda,42723139,200520.0,0.0,0.0,19418.0,https://restcountries.eu/data/uga.svg
+UA,3.0,2.0,2.0,1.0,2.0,1.0,1.0,3.0,3.0,Ukraine,44622516,579290.0,32160.2,553950.9,96788.0,https://restcountries.eu/data/ukr.svg
+UY,3.0,3.0,3.0,2.0,2.0,3.0,2.0,3.0,4.0,Uruguay,3449299,175020.0,4689.7,168731.9,18677.4,https://restcountries.eu/data/ury.svg
+US,5.0,4.0,3.0,3.0,5.0,3.0,3.0,4.0,3.0,United States,327167434,9147420.0,802053.6,8549545.5,3103700.0,https://restcountries.eu/data/usa.svg
+VE,2.0,1.0,2.0,2.0,1.0,1.0,1.0,1.0,5.0,"Venezuela, RB",28870195,882050.0,34403.9,868222.8,465186.0,https://restcountries.eu/data/ven.svg
+VN,3.0,2.0,2.0,2.0,2.0,1.0,1.0,3.0,3.0,Vietnam,95540395,310070.0,7589.0,318130.1,149020.0,https://restcountries.eu/data/vnm.svg
+ZA,3.0,2.0,2.0,2.0,4.0,2.0,2.0,2.0,5.0,South Africa,57779622,1213090.0,53460.3,53460.3,92410.0,https://restcountries.eu/data/zaf.svg
+ZW,2.0,2.0,3.0,2.0,2.0,2.0,1.0,3.0,4.0,Zimbabwe,14439018,386850.0,0.0,0.0,137496.0,https://restcountries.eu/data/zwe.svg

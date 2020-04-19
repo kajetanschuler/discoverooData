@@ -10,6 +10,7 @@ def main():
     quality = pd.read_csv("../data_raw/overallQualityOfInfrastructure.csv")
     quality['countryCode'] = quality['countryCode'].apply(lambda x: coco.convert(names=x, to='Iso2'))
     quality = quality.dropna()
+    quality = quality.rename(columns={'infrastructureValue1718': 'infrastructureValue'})
 
     # print(quality)
 

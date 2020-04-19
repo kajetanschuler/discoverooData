@@ -18,15 +18,20 @@ def main():
     language_data = pd.read_csv("../data_processed/languageForCountry_clean.csv")
     languageMerge = pd.merge(left=language_data, right=merge2, on="countryCode")
     languageMerge = languageMerge[['countryCode', 'languageCode', 'languageName']]
-    languageMerge.to_csv("../data_final/languageDataForCountry_final.csv", index=False)
+    languageMerge.to_csv("../data_final/language_data.csv", index=False)
 
     currency_data = pd.read_csv("../data_processed/currencyForCountry_clean.csv")
     currencyMerge = pd.merge(left=currency_data, right=merge2, on="countryCode")
     currencyMerge = currencyMerge[['countryCode', 'currencyCode', 'currencyName', 'currencySymbol']]
-    currencyMerge.to_csv("../data_final/currencyForCountry_final.csv", index=False)
+
+    currencyMerge.to_csv("../data_final/currency_data.csv", index=False)
 
     flagLink = pd.read_csv("../data_processed/flagLinks_clean.csv")
     merge3 = pd.merge(left=merge2, right=flagLink, on="countryCode")
+
+    #Change all Columns with int in name
+    merge3 = merge3.rename(columns={'countrySizeKm2': 'countrySizeKmSq', 'urbanSizeKm2': 'urbanSizeKmSq',
+                                    'ruralSizeKm2': 'ruralSizeKmSq', 'forestSizeKm2': 'forestSizeSqKm'})
 
     merge3.to_csv("../data_processed/countryData_clean.csv", index=False)
     merge3.to_csv("../data_final/countryData_final.csv", index=False)

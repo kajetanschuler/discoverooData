@@ -1,4 +1,4 @@
-countryCode,infrastructureValue1718,cpiRentIndex,cpiIndex,groceriesIndex,purchasingPowerIndex,restaurantIndex,rentIndex,safetyIndex,crimeIndex,countryName,population,countrySizeKm2,urbanSizeKm2,ruralSizeKm2,forestSizeKm2,flagLink
+countryCode,infrastructureValue,cpiRentIndex,cpiIndex,groceriesIndex,purchasingPowerIndex,restaurantIndex,rentIndex,safetyIndex,crimeIndex,countryName,population,countrySizeKmSq,urbanSizeKmSq,ruralSizeKmSq,forestSizeSqKm,flagLink
 AL,4.3,22.7,36.2,28.6,33.8,29.3,8.2,59.7,40.3,Albania,2866376,27400.0,1689.4,26686.7,7705.4,https://restcountries.eu/data/alb.svg
 AE,6.2,48.9,56.2,43.2,119.6,53.9,41.0,83.7,16.3,United Arab Emirates,9630959,71020.0,8568.2,70575.1,3236.6,https://restcountries.eu/data/are.svg
 AR,3.3,21.8,33.1,26.3,55.0,32.5,9.5,37.4,62.6,Argentina,44494502,2736690.0,55032.2,2690269.5,268152.0,https://restcountries.eu/data/arg.svg
