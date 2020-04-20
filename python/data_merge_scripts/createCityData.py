@@ -49,8 +49,8 @@ def main():
     print("Merge City & Country & Country & Culture & Formations & Beaches & image complete")
 
 
-    merge_weather_stations_city_country_cultural_formation_beaches_image.to_csv("../data_processed/cityData_clean.csv", index=False)
-    merge_weather_stations_city_country_cultural_formation_beaches_image.to_csv("../data_final/cityData_final.csv", encoding='utf-8', index=False)
+    merge_weather_stations_city_country_cultural_formation_beaches_image.to_csv("../data_processed/city_data_clean.csv", index=False)
+    merge_weather_stations_city_country_cultural_formation_beaches_image.to_csv("../data_final/city_data_final.csv", encoding='utf-8', index=False)
 
 if __name__ == '__main__':
     main()

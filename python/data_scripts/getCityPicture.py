@@ -14,7 +14,7 @@ import boto3
 
 def main():
 
-        cities = pd.read_csv("../data_final/cityData_final.csv")
+        cities = pd.read_csv("../data_final/city_data_final.csv")
 
        # cities = cities[["cityName", "cityId"]]
 
