@@ -15,7 +15,7 @@ def main():
 
     merge2 = merge2.round(1)
 
-    language_data = pd.read_csv("../data_raw/languageForCountry.csv")
+    language_data = pd.read_csv("../data_raw/languageDataForCountry.csv")
     languageMerge = pd.merge(left=language_data, right=merge2, on="countryCode")
     languageMerge = languageMerge[['countryCode', 'languageCode', 'languageName']]
     languageMerge.to_csv("../data_final/language_data.csv", index=False)
