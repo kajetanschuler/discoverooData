@@ -37,7 +37,7 @@ def main():
     df = df[df[1] != '(none)']
     print(df)
     header = ['countryCode', 'languageCode', 'languageName']
-    df.to_csv("../data_processed/languageForCountry_clean.csv", header=header, index=False)
+    df.to_csv("../data_raw/languageForCountry.csv", header=header, index=False)
 
 
 if __name__ == '__main__':

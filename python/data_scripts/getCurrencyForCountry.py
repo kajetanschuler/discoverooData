@@ -38,7 +38,7 @@ def main():
     df = df[df[1] != '(none)']
     print(df)
     header = ['countryCode', 'currencyCode', 'currencyName', 'currencySymbol']
-    df.to_csv("../data_processed/currencyForCountry_clean.csv", header=header, index=False)
+    df.to_csv("../data_raw/currencyDataForCountry.csv", header=header, index=False)
 
 
 
