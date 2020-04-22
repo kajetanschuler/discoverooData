@@ -5,127 +5,127 @@ import numpy as np
 
 def main():
 
-    city = pd.read_csv("../data_final/region_data_final.csv")
+    city = pd.read_csv("../data_final/regionData_final.csv")
     max = city.max()
     min = city.min()
     mean = city.mean()
-    hMax = city['culture_hIndex'].max()
-    cMax = city['culture_cIndex'].max()
-    rMax = city['culture_aIndex'].max()
-    aMax = city['culture_aIndex'].max()
-    iMax = city['culture_aIndex'].max()
-    nMax = city['culture_aIndex'].max()
+    hMax = city['culture_hIndexMean'].max()
+    cMax = city['culture_cIndexMean'].max()
+    rMax = city['culture_rIndexMean'].max()
+    aMax = city['culture_aIndexMean'].max()
+    iMax = city['culture_iIndexMean'].max()
+    nMax = city['culture_nIndexMean'].max()
 
-    fmMax = city['formations_mIndex'].max()
-    frMax = city['formations_rIndex'].max()
-    bMax = city['beach_Index'].max()
+    fmMax = city['formations_mIndexMean'].max()
+    frMax = city['formations_rIndexMean'].max()
+    bMax = city['beach_IndexMean'].max()
 
 
 
 
     #cIndex
-    city.loc[np.logical_and(city['culture_hIndex'] > hMax*0, city['culture_hIndex'] <= hMax * 0.2), 'culture_hIndex'] = 1
-    city.loc[np.logical_and(city['culture_hIndex'] > hMax*0.2, city['culture_hIndex'] <= hMax * 0.4), 'culture_hIndex'] = 2
-    city.loc[np.logical_and(city['culture_hIndex'] > hMax*0.4, city['culture_hIndex'] <= hMax * 0.6), 'culture_hIndex'] = 3
-    city.loc[np.logical_and(city['culture_hIndex'] > hMax*0.6, city['culture_hIndex'] <= hMax * 0.8), 'culture_hIndex'] = 4
-    city.loc[np.logical_and(city['culture_hIndex'] > hMax*0.8, city['culture_hIndex'] <= hMax), 'culture_hIndex'] = 5
+    city.loc[np.logical_and(city['culture_hIndexMean'] > hMax*0, city['culture_hIndexMean'] <= hMax * 0.2), 'culture_hIndexMean'] = 1
+    city.loc[np.logical_and(city['culture_hIndexMean'] > hMax*0.2, city['culture_hIndexMean'] <= hMax * 0.4), 'culture_hIndexMean'] = 2
+    city.loc[np.logical_and(city['culture_hIndexMean'] > hMax*0.4, city['culture_hIndexMean'] <= hMax * 0.6), 'culture_hIndexMean'] = 3
+    city.loc[np.logical_and(city['culture_hIndexMean'] > hMax*0.6, city['culture_hIndexMean'] <= hMax * 0.8), 'culture_hIndexMean'] = 4
+    city.loc[np.logical_and(city['culture_hIndexMean'] > hMax*0.8, city['culture_hIndexMean'] <= hMax), 'culture_hIndexMean'] = 5
 
     #hIndex
     city.loc[
-        np.logical_and(city['culture_cIndex'] > cMax * 0, city['culture_cIndex'] <= cMax * 0.2), 'culture_cIndex'] = 1
+        np.logical_and(city['culture_cIndexMean'] > cMax * 0, city['culture_cIndexMean'] <= cMax * 0.2), 'culture_cIndexMean'] = 1
     city.loc[
-        np.logical_and(city['culture_cIndex'] > cMax * 0.2, city['culture_cIndex'] <= cMax * 0.4), 'culture_cIndex'] = 2
+        np.logical_and(city['culture_cIndexMean'] > cMax * 0.2, city['culture_cIndexMean'] <= cMax * 0.4), 'culture_cIndexMean'] = 2
     city.loc[
-        np.logical_and(city['culture_cIndex'] > cMax * 0.4, city['culture_cIndex'] <= cMax * 0.6), 'culture_cIndex'] = 3
+        np.logical_and(city['culture_cIndexMean'] > cMax * 0.4, city['culture_cIndexMean'] <= cMax * 0.6), 'culture_cIndexMean'] = 3
     city.loc[
-        np.logical_and(city['culture_cIndex'] > cMax * 0.6, city['culture_cIndex'] <= cMax * 0.8), 'culture_cIndex'] = 4
-    city.loc[np.logical_and(city['culture_cIndex'] > cMax * 0.8, city['culture_cIndex'] <= cMax), 'culture_cIndex'] = 5
+        np.logical_and(city['culture_cIndexMean'] > cMax * 0.6, city['culture_cIndexMean'] <= cMax * 0.8), 'culture_cIndexMean'] = 4
+    city.loc[np.logical_and(city['culture_cIndexMean'] > cMax * 0.8, city['culture_cIndexMean'] <= cMax), 'culture_cIndexMean'] = 5
 
     # rIndex
     city.loc[
-        np.logical_and(city['culture_rIndex'] > rMax * 0, city['culture_rIndex'] <= rMax * 0.2), 'culture_rIndex'] = 1
+        np.logical_and(city['culture_rIndexMean'] > rMax * 0, city['culture_rIndexMean'] <= rMax * 0.2), 'culture_rIndexMean'] = 1
     city.loc[
-        np.logical_and(city['culture_rIndex'] > rMax * 0.2, city['culture_rIndex'] <= rMax * 0.4), 'culture_rIndex'] = 2
+        np.logical_and(city['culture_rIndexMean'] > rMax * 0.2, city['culture_rIndexMean'] <= rMax * 0.4), 'culture_rIndexMean'] = 2
     city.loc[
-        np.logical_and(city['culture_rIndex'] > rMax * 0.4, city['culture_rIndex'] <= rMax * 0.6), 'culture_rIndex'] = 3
+        np.logical_and(city['culture_rIndexMean'] > rMax * 0.4, city['culture_rIndexMean'] <= rMax * 0.6), 'culture_rIndexMean'] = 3
     city.loc[
-        np.logical_and(city['culture_rIndex'] > rMax * 0.6, city['culture_rIndex'] <= rMax * 0.8), 'culture_rIndex'] = 4
-    city.loc[np.logical_and(city['culture_rIndex'] > rMax * 0.8, city['culture_rIndex'] <= rMax), 'culture_rIndex'] = 5
+        np.logical_and(city['culture_rIndexMean'] > rMax * 0.6, city['culture_rIndexMean'] <= rMax * 0.8), 'culture_rIndexMean'] = 4
+    city.loc[np.logical_and(city['culture_rIndexMean'] > rMax * 0.8, city['culture_rIndexMean'] <= rMax), 'culture_rIndexMean'] = 5
 
-    # aIndex
+    # aIndexMean
     city.loc[
-        np.logical_and(city['culture_aIndex'] > aMax * 0, city['culture_aIndex'] <= aMax * 0.2), 'culture_aIndex'] = 1
+        np.logical_and(city['culture_aIndexMean'] > aMax * 0, city['culture_aIndexMean'] <= aMax * 0.2), 'culture_aIndexMean'] = 1
     city.loc[
-        np.logical_and(city['culture_aIndex'] > aMax * 0.2, city['culture_aIndex'] <= aMax * 0.4), 'culture_aIndex'] = 2
+        np.logical_and(city['culture_aIndexMean'] > aMax * 0.2, city['culture_aIndexMean'] <= aMax * 0.4), 'culture_aIndexMean'] = 2
     city.loc[
-        np.logical_and(city['culture_aIndex'] > aMax * 0.4, city['culture_aIndex'] <= aMax * 0.6), 'culture_aIndex'] = 3
+        np.logical_and(city['culture_aIndexMean'] > aMax * 0.4, city['culture_aIndexMean'] <= aMax * 0.6), 'culture_aIndexMean'] = 3
     city.loc[
-        np.logical_and(city['culture_aIndex'] > aMax * 0.6, city['culture_aIndex'] <= aMax * 0.8), 'culture_aIndex'] = 4
-    city.loc[np.logical_and(city['culture_aIndex'] > aMax * 0.8, city['culture_aIndex'] <= aMax), 'culture_aIndex'] = 5
+        np.logical_and(city['culture_aIndexMean'] > aMax * 0.6, city['culture_aIndexMean'] <= aMax * 0.8), 'culture_aIndexMean'] = 4
+    city.loc[np.logical_and(city['culture_aIndexMean'] > aMax * 0.8, city['culture_aIndexMean'] <= aMax), 'culture_aIndexMean'] = 5
 
-    # iIndex
+    # iIndexMean
     city.loc[
-        np.logical_and(city['culture_iIndex'] > iMax * 0, city['culture_iIndex'] <= iMax * 0.2), 'culture_iIndex'] = 1
+        np.logical_and(city['culture_iIndexMean'] > iMax * 0, city['culture_iIndexMean'] <= iMax * 0.2), 'culture_iIndexMean'] = 1
     city.loc[
-        np.logical_and(city['culture_iIndex'] > iMax * 0.2, city['culture_iIndex'] <= iMax * 0.4), 'culture_iIndex'] = 2
+        np.logical_and(city['culture_iIndexMean'] > iMax * 0.2, city['culture_iIndexMean'] <= iMax * 0.4), 'culture_iIndexMean'] = 2
     city.loc[
-        np.logical_and(city['culture_iIndex'] > iMax * 0.4, city['culture_iIndex'] <= iMax * 0.6), 'culture_iIndex'] = 3
+        np.logical_and(city['culture_iIndexMean'] > iMax * 0.4, city['culture_iIndexMean'] <= iMax * 0.6), 'culture_iIndexMean'] = 3
     city.loc[
-        np.logical_and(city['culture_iIndex'] > iMax * 0.6, city['culture_iIndex'] <= iMax * 0.8), 'culture_iIndex'] = 4
-    city.loc[np.logical_and(city['culture_iIndex'] > iMax * 0.8, city['culture_iIndex'] <= iMax), 'culture_iIndex'] = 5
+        np.logical_and(city['culture_iIndexMean'] > iMax * 0.6, city['culture_iIndexMean'] <= iMax * 0.8), 'culture_iIndexMean'] = 4
+    city.loc[np.logical_and(city['culture_iIndexMean'] > iMax * 0.8, city['culture_iIndexMean'] <= iMax), 'culture_iIndexMean'] = 5
 
-    # nIndex
+    # nIndexMean
     city.loc[
-        np.logical_and(city['culture_nIndex'] > nMax * 0, city['culture_nIndex'] <= nMax * 0.2), 'culture_nIndex'] = 1
+        np.logical_and(city['culture_nIndexMean'] > nMax * 0, city['culture_nIndexMean'] <= nMax * 0.2), 'culture_nIndexMean'] = 1
     city.loc[
-        np.logical_and(city['culture_nIndex'] > nMax * 0.2, city['culture_nIndex'] <= nMax * 0.4), 'culture_nIndex'] = 2
+        np.logical_and(city['culture_nIndexMean'] > nMax * 0.2, city['culture_nIndexMean'] <= nMax * 0.4), 'culture_nIndexMean'] = 2
     city.loc[
-        np.logical_and(city['culture_nIndex'] > nMax * 0.4, city['culture_nIndex'] <= nMax * 0.6), 'culture_nIndex'] = 3
+        np.logical_and(city['culture_nIndexMean'] > nMax * 0.4, city['culture_nIndexMean'] <= nMax * 0.6), 'culture_nIndexMean'] = 3
     city.loc[
-        np.logical_and(city['culture_nIndex'] > nMax * 0.6, city['culture_nIndex'] <= nMax * 0.8), 'culture_nIndex'] = 4
-    city.loc[np.logical_and(city['culture_nIndex'] > nMax * 0.8, city['culture_nIndex'] <= nMax), 'culture_nIndex'] = 5
+        np.logical_and(city['culture_nIndexMean'] > nMax * 0.6, city['culture_nIndexMean'] <= nMax * 0.8), 'culture_nIndexMean'] = 4
+    city.loc[np.logical_and(city['culture_nIndexMean'] > nMax * 0.8, city['culture_nIndexMean'] <= nMax), 'culture_nIndexMean'] = 5
 
-    # fmIndex
+    # fmIndexMean
     city.loc[
-        np.logical_and(city['formations_mIndex'] > fmMax * 0, city['formations_mIndex'] <= fmMax * 0.2), 'formations_mIndex'] = 1
+        np.logical_and(city['formations_mIndexMean'] > fmMax * 0, city['formations_mIndexMean'] <= fmMax * 0.2), 'formations_mIndexMean'] = 1
     city.loc[
-        np.logical_and(city['formations_mIndex'] > fmMax * 0.2, city['formations_mIndex'] <= fmMax * 0.4), 'formations_mIndex'] = 2
+        np.logical_and(city['formations_mIndexMean'] > fmMax * 0.2, city['formations_mIndexMean'] <= fmMax * 0.4), 'formations_mIndexMean'] = 2
     city.loc[
-        np.logical_and(city['formations_mIndex'] > fmMax * 0.4, city['formations_mIndex'] <= fmMax * 0.6), 'formations_mIndex'] = 3
+        np.logical_and(city['formations_mIndexMean'] > fmMax * 0.4, city['formations_mIndexMean'] <= fmMax * 0.6), 'formations_mIndexMean'] = 3
     city.loc[
-        np.logical_and(city['formations_mIndex'] > fmMax * 0.6, city['formations_mIndex'] <= fmMax * 0.8), 'formations_mIndex'] = 4
-    city.loc[np.logical_and(city['formations_mIndex'] > fmMax * 0.8, city['formations_mIndex'] <= fmMax), 'formations_mIndex'] = 5
+        np.logical_and(city['formations_mIndexMean'] > fmMax * 0.6, city['formations_mIndexMean'] <= fmMax * 0.8), 'formations_mIndexMean'] = 4
+    city.loc[np.logical_and(city['formations_mIndexMean'] > fmMax * 0.8, city['formations_mIndexMean'] <= fmMax), 'formations_mIndexMean'] = 5
 
-    # frIndex
+    # frIndexMean
     city.loc[
-        np.logical_and(city['formations_rIndex'] > frMax * 0,
-                       city['formations_rIndex'] <= frMax * 0.2), 'formations_rIndex'] = 1
+        np.logical_and(city['formations_rIndexMean'] > frMax * 0,
+                       city['formations_rIndexMean'] <= frMax * 0.2), 'formations_rIndexMean'] = 1
     city.loc[
-        np.logical_and(city['formations_rIndex'] > frMax * 0.2,
-                       city['formations_rIndex'] <= frMax * 0.4), 'formations_rIndex'] = 2
+        np.logical_and(city['formations_rIndexMean'] > frMax * 0.2,
+                       city['formations_rIndexMean'] <= frMax * 0.4), 'formations_rIndexMean'] = 2
     city.loc[
-        np.logical_and(city['formations_rIndex'] > frMax * 0.4,
-                       city['formations_rIndex'] <= frMax * 0.6), 'formations_rIndex'] = 3
+        np.logical_and(city['formations_rIndexMean'] > frMax * 0.4,
+                       city['formations_rIndexMean'] <= frMax * 0.6), 'formations_rIndexMean'] = 3
     city.loc[
-        np.logical_and(city['formations_rIndex'] > frMax * 0.6,
-                       city['formations_rIndex'] <= frMax * 0.8), 'formations_rIndex'] = 4
-    city.loc[np.logical_and(city['formations_rIndex'] > frMax * 0.8,
-                            city['formations_rIndex'] <= frMax), 'formations_rIndex'] = 5
+        np.logical_and(city['formations_rIndexMean'] > frMax * 0.6,
+                       city['formations_rIndexMean'] <= frMax * 0.8), 'formations_rIndexMean'] = 4
+    city.loc[np.logical_and(city['formations_rIndexMean'] > frMax * 0.8,
+                            city['formations_rIndexMean'] <= frMax), 'formations_rIndexMean'] = 5
 
-    #beachIndex
+    #beachIndexMean
     city.loc[
-        np.logical_and(city['beach_Index'] > 0 ,
-                       city['beach_Index'] <= 4), 'beach_Index'] = 1
+        np.logical_and(city['beach_IndexMean'] > 0 ,
+                       city['beach_IndexMean'] <= 4), 'beach_IndexMean'] = 1
     city.loc[
-        np.logical_and(city['beach_Index'] > 4,
-                       city['beach_Index'] <= 30), 'beach_Index'] = 2
+        np.logical_and(city['beach_IndexMean'] > 4,
+                       city['beach_IndexMean'] <= 30), 'beach_IndexMean'] = 2
     city.loc[
-        np.logical_and(city['beach_Index'] > 30,
-                       city['beach_Index'] <= bMax ), 'beach_Index'] = 3
+        np.logical_and(city['beach_IndexMean'] > 30,
+                       city['beach_IndexMean'] <= bMax ), 'beach_IndexMean'] = 3
 
 
 
-    city.to_csv("../data_final/regionData_level.csv", index=False)
+    city.to_csv("../data_final/regionData_level.csv", index=False, header=True)
 
 if __name__ == '__main__':
     main()

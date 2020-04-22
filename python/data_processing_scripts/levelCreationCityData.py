@@ -13,10 +13,10 @@ def main():
     mean = city.mean()
     hMax = city['culture_hIndex'].max()
     cMax = city['culture_cIndex'].max()
-    rMax = city['culture_aIndex'].max()
+    rMax = city['culture_rIndex'].max()
     aMax = city['culture_aIndex'].max()
-    iMax = city['culture_aIndex'].max()
-    nMax = city['culture_aIndex'].max()
+    iMax = city['culture_iIndex'].max()
+    nMax = city['culture_nIndex'].max()
 
     fmMax = city['formations_mIndex'].max()
     frMax = city['formations_rIndex'].max()
