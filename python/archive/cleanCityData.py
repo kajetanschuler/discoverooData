@@ -8,7 +8,7 @@ def main():
     cityDataIndexNames = cityData[cityData['cityName'].str.contains('Municipality|Kommun|of|City|city|municipality')].index
     cityData.drop(cityDataIndexNames, inplace=True)
 
-    cityData.to_csv("../data_final/cityData_final_clean.csv", index=False, header=True)
+    #cityData.to_csv("../data_final/cityData_final_clean.csv", index=False, header=True)
     #print(cityData.count(axis=1))
 
 if __name__ == '__main__':
