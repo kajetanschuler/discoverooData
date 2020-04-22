@@ -23,7 +23,7 @@ def main():
     response_forest = requests.request("GET", "http://api.worldbank.org/v2/country/all/indicator/AG.LND.FRST.K2?format=json&mrnev=1&per_page=10000")
     data_forest = json.loads(response_forest.text)
 
-    with open('../data_raw/countryData.csv', 'wt') as output:
+    with open('../data_raw/landDataForCountry.csv', 'wt') as output:
         fieldnames = ['countryName', 'countryCode', 'population', 'countrySizeKm2', 'urbanSizeKm2', 'ruralSizeKm2', 'forestSizeKm2']
         writer = csv.DictWriter(output, fieldnames=fieldnames)
         writer.writeheader()

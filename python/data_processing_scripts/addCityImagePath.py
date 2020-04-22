@@ -6,7 +6,7 @@ import numpy as np
 
 def main():
     s3 = 'https://travelapiimages.s3.eu-central-1.amazonaws.com/'
-    city_data = pd.read_csv("../data_final/cityData_final.csv")
+    city_data = pd.read_csv("../data_final/city_data_final.csv")
 
     city_data['image_links'] = s3 + city_data['cityId'].apply(lambda x: str(x) + ".jpg")
 
