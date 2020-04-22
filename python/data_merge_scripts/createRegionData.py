@@ -1,3 +1,6 @@
+#Script creates Region Data as avergae from City Data
+#created by Svenja on 31.05.20
+
 import pandas as pd
 
 def main():
@@ -5,8 +8,6 @@ def main():
 
     regionIndex = pd.read_csv("../data_final/city_data_final.csv")
     regionIndex = regionIndex.drop(['stationId', 'cityId', 'cityName', 'type','lat','lon','population','elevation','timezone','image_links'],axis=1)
-
-    regionIndex.loc[:, [x for x in regionIndex.columns if x.startswith('c')]]
 
 
     regionIndexModified=regionIndex.groupby(['regionCode','regionName','countryCode'], as_index=False).agg(['mean','min','max']).round().reset_index()
@@ -20,7 +21,6 @@ def main():
 
 
     regionIndexModified['uniqueRegionCode'] = regionIndexModified["countryCode"] + "_" + regionIndexModified["regionCode"]
-    #regionIndexModified.loc[:,[x for x in regionIndex.columns if x.endswith('Index')]].round(0)
 
     columns = regionIndexModified.columns.tolist()
     columns = columns[-1:] + columns [:-1]
