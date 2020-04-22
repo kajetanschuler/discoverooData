@@ -7,7 +7,7 @@ import numpy as np
 
 def main():
 
-    city = pd.read_csv("../data_final/city_data_final.csv")
+    city = pd.read_csv("../data_final/cityData_final_clean.csv")
     max = city.max()
     min = city.min()
     mean = city.mean()
