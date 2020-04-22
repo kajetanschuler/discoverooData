@@ -26,7 +26,7 @@ def main():
 
     currencyMerge.to_csv("../data_final/currency_data.csv", index=False)
 
-    flagLink = pd.read_csv("../data_processed/flagLinks_clean.csv")
+    flagLink = pd.read_csv("../data_raw/flagLinksForCountry.csv")
     merge3 = pd.merge(left=merge2, right=flagLink, on="countryCode")
 
     #Change all Columns with int in name

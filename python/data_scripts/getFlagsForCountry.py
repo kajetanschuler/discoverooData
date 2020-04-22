@@ -30,7 +30,7 @@ def main():
     df = df[df[1] != '(none)']
     print(df)
     header = ['countryCode', 'flagLink']
-    df.to_csv("../data_processed/flagLinks_clean.csv", header=header, index=False)
+    df.to_csv("../data_processed/flagLinksForCountry.csv", header=header, index=False)
 
 
 
