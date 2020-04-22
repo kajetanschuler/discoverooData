@@ -14,7 +14,7 @@ def main():
     merge_weather_stations_data = pd.merge(left=weather_stations, right=weather_data, on='stationId')
     print("Merge Weather complete")
 
-    city_data = pd.read_csv('../data_raw/allCitiesOver100k.csv')
+    city_data = pd.read_csv('../data_processed/cityData_regionCode.csv')
     merge_weather_stations_city = pd.merge(left=merge_weather_stations_data, right=city_data, on='cityId')
     print("Merge City & Weather complete")
 
