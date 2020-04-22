@@ -6,7 +6,7 @@ import pandas as pd
 def main():
 
 
-    regionIndex = pd.read_csv("../data_final/city_data_final.csv")
+    regionIndex = pd.read_csv("../data_processed/city_data_clean.csv")
     regionIndex = regionIndex.drop(['stationId', 'cityId', 'cityName', 'type','lat','lon','population','elevation','timezone','image_links'],axis=1)
 
 
@@ -19,12 +19,6 @@ def main():
     regionIndexModified.columns = regionIndexModified.columns.str.replace('max', 'Max')
     regionIndexModified.columns = regionIndexModified.columns.str.replace('mean', 'Mean')
 
-
-    regionIndexModified['uniqueRegionCode'] = regionIndexModified["countryCode"] + "_" + regionIndexModified["regionCode"]
-
-    columns = regionIndexModified.columns.tolist()
-    columns = columns[-1:] + columns [:-1]
-    regionIndexModified = regionIndexModified[columns]
 
     regionIndexModified.to_csv("../data_final/regionData_final.csv", index=False, header=True)
 
