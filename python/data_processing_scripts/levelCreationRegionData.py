@@ -1,11 +1,11 @@
-
+# Script converts region_final to region_level
 import pandas as pd
 import numpy as np
 
 
 def main():
 
-    city = pd.read_csv("../data_final/city_data_final.csv")
+    city = pd.read_csv("../data_final/region_data_final.csv")
     max = city.max()
     min = city.min()
     mean = city.mean()
@@ -125,7 +125,7 @@ def main():
 
 
 
-    city.to_csv("../data_final/region_data_level.csv", index=False)
+    city.to_csv("../data_final/regionData_level.csv", index=False)
 
 if __name__ == '__main__':
     main()

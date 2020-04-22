@@ -49,6 +49,10 @@ def main():
     print("Merge City & Country & Country & Culture & Formations & Beaches & image complete")
 
 
+    #clean city data based on city names
+    #indexName = merge_weather_stations_city_country_cultural_formation_beaches_image[merge_weather_stations_city_country_cultural_formation_beaches_image['cityName'].str.contains('Municipality|Kommun|of|City|city|municipality')].index
+    #merge_weather_stations_city_country_cultural_formation_beaches_image.drop(indexName, inplace=True)
+
     merge_weather_stations_city_country_cultural_formation_beaches_image.to_csv("../data_processed/city_data_clean.csv", index=False)
     merge_weather_stations_city_country_cultural_formation_beaches_image.to_csv("../data_final/city_data_final.csv", encoding='utf-8', index=False)
 
