@@ -4,7 +4,6 @@ import numpy as np
 
 
 def main():
-
     city = pd.read_csv("../data_final/regionData_final.csv")
     max = city.max()
     min = city.min()
@@ -19,9 +18,6 @@ def main():
     fmMax = city['formations_mIndexMean'].max()
     frMax = city['formations_rIndexMean'].max()
     bMax = city['beach_IndexMean'].max()
-
-
-
 
     #cIndex
     city.loc[np.logical_and(city['culture_hIndexMean'] > hMax*0, city['culture_hIndexMean'] <= hMax * 0.2), 'culture_hIndexMean'] = 1
@@ -122,8 +118,6 @@ def main():
     city.loc[
         np.logical_and(city['beach_IndexMean'] > 30,
                        city['beach_IndexMean'] <= bMax ), 'beach_IndexMean'] = 3
-
-
 
     city.to_csv("../data_final/regionData_level.csv", index=False, header=True)
 

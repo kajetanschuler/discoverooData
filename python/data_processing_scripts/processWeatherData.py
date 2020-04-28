@@ -309,7 +309,6 @@ def main():
     weather_data = weather_data / 10
 
     weather_data = weather_data.round(1)
-    weather_data.to_csv("../data_processed/weatherData_clean.csv", index=True)
     weather_data.to_csv("../data_final/weatherData_final.csv", index=True)
 
     # print(weather_data)

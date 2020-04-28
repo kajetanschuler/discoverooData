@@ -6,7 +6,6 @@ import country_converter as coco
 
 
 def main():
-
     quality = pd.read_csv("../data_raw/overallQualityOfInfrastructure.csv")
     quality['countryCode'] = quality['countryCode'].apply(lambda x: coco.convert(names=x, to='Iso2'))
     quality = quality.dropna()
@@ -14,9 +13,8 @@ def main():
 
     # print(quality)
 
-    quality.to_csv("../data_temporary/qualityOfInfrastructure_temp.csv", index=False)
+    quality.to_csv("../data_processed/qualityOfInfrastructure.csv", index=False)
     print('Infrastrukturdaten erstellt')
-
 
 if __name__ == '__main__':
     main()

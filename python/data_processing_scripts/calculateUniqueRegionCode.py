@@ -3,6 +3,7 @@
 
 import pandas as pd
 
+
 def main():
 
      CityData = pd.read_csv("../data_raw/allCitiesOver100k.csv")
@@ -15,5 +16,6 @@ def main():
 
      CityData.to_csv("../data_processed/cityData_regionCode.csv", index=False, header=True)
 
+
 if __name__ == '__main__':
-         main()
+     main()

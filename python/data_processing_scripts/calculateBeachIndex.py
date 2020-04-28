@@ -51,7 +51,7 @@ def main():
 
     beaches = beaches[header]
 
-    beaches.to_csv("../data_processed/beach_indices.csv", columns=header, index=False)
+    beaches.to_csv("../data_processed/beachIndices.csv", columns=header, index=False)
 
 
 if __name__ == '__main__':

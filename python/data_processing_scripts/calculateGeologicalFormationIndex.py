@@ -27,7 +27,7 @@ def main():
 
     formations = formations[header]
 
-    formations.to_csv("../data_processed/formation_indices.csv", columns=header, index=False)
+    formations.to_csv("../data_processed/formationIndices.csv", columns=header, index=False)
 
 
 if __name__ == '__main__':

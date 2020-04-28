@@ -4,6 +4,7 @@
 import pandas as pd
 import numpy as np
 
+
 def main():
     s3 = 'https://travelapiimages.s3.eu-central-1.amazonaws.com/'
     city_data = pd.read_csv("../data_final/city_data_final.csv")
@@ -15,6 +16,5 @@ def main():
     city_data.to_csv("../data_processed/cityImagePath.csv", index=False)
 
 
-
 if __name__ == '__main__':
-        main()
+    main()

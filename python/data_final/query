@@ -1,5 +1,0 @@
-LOAD DATA LOCAL INFILE '/tmp/weatherData_final.csv'
-INTO TABLE travelapi.weather_data
-FIELDS TERMINATED BY ','
-LINES TERMINATED BY '\n'
-IGNORE 1 ROWS;
