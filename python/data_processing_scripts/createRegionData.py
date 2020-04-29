@@ -6,7 +6,7 @@ import pandas as pd
 def main():
 
 
-    regionIndex = pd.read_csv("../data_final/city_data_final.csv")
+    regionIndex = pd.read_csv("../data_final/cityData_final.csv")
     regionIndex = regionIndex.drop(['stationId', 'cityId', 'cityName', 'type','lat','lon','population','elevation','timezone','image_links'],axis=1)
 
 

@@ -6,7 +6,7 @@ import numpy as np
 
 
 def main():
-    city = pd.read_csv("../data_final/cityData_final.csv")
+    city = pd.read_csv("../../data_final/cityData_final.csv")
     max = city.max()
     min = city.min()
     mean = city.mean()
@@ -16,7 +16,6 @@ def main():
     aMax = city['culture_aIndex'].max()
     iMax = city['culture_iIndex'].max()
     nMax = city['culture_nIndex'].max()
-
     fmMax = city['formations_mIndex'].max()
     frMax = city['formations_rIndex'].max()
     bMax = city['beach_Index'].max()
@@ -121,7 +120,7 @@ def main():
         np.logical_and(city['beach_Index'] > 30,
                        city['beach_Index'] <= bMax ), 'beach_Index'] = 3
 
-    city.to_csv("../data_final/cityData_level.csv", index=False)
+    city.to_csv("../../data_final/cityData_level.csv", index=False)
 
 if __name__ == '__main__':
     main()

@@ -2,7 +2,7 @@ import pandas as pd
 
 def main():
 
-    sights = pd.read_csv("../data_raw/sightsInCities.csv")
+    sights = pd.read_csv("../../data_raw/sightsInCities.csv")
 
     sights[["hCountLevel0", "cCountLevel0", "rCountLevel0", "aCountLevel0",
             "iCountLevel0", "nCountLevel0"]] = sights[["hCountLevel0", "cCountLevel0", "rCountLevel0", "aCountLevel0",

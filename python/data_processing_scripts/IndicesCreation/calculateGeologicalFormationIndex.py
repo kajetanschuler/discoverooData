@@ -8,7 +8,7 @@ import pandas as pd
 
 def main():
 
-    formations = pd.read_csv("../data_raw/geologicalInformationInCities.csv")
+    formations = pd.read_csv("../../data_raw/geologicalInformationInCities.csv")
 
     formations[["mCountLevel0", "rCountLevel0"]] = formations[["mCountLevel0", "rCountLevel0"]].apply(lambda x: x * 0)
 

@@ -11,7 +11,7 @@ import pandas as pd
 
 def main():
 
-    beaches = pd.read_csv("../data_raw/beachesInCities.csv")
+    beaches = pd.read_csv("../../data_raw/beachesInCities.csv")
 
     beaches[["gCountLevel1", "wCountLevel1", "bCountLevel1", "sCountLevel1", "rCountLevel1", "nCountLevel1",
              "uCountLevel1", "oCountLevel1"]] = beaches[["gCountLevel1", "wCountLevel1", "bCountLevel1", "sCountLevel1",

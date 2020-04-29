@@ -4,7 +4,7 @@ import numpy as np
 
 
 def main():
-    city = pd.read_csv("../data_final/regionData_final.csv")
+    city = pd.read_csv("../../data_final/regionData_final.csv")
     max = city.max()
     min = city.min()
     mean = city.mean()
@@ -119,7 +119,7 @@ def main():
         np.logical_and(city['beach_IndexMean'] > 30,
                        city['beach_IndexMean'] <= bMax ), 'beach_IndexMean'] = 3
 
-    city.to_csv("../data_final/regionData_level.csv", index=False, header=True)
+    city.to_csv("../../data_final/regionData_level.csv", index=False, header=True)
 
 if __name__ == '__main__':
     main()

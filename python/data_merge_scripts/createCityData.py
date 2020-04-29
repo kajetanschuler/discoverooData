@@ -18,26 +18,26 @@ def main():
     merge_weather_stations_city = pd.merge(left=merge_weather_stations_data, right=city_data, on='cityId')
     print("Merge City & Weather complete")
 
-    country_data = pd.read_csv('../data_processed/countryData_final.csv')
+    country_data = pd.read_csv('../data_final/countryData_final.csv')
     country_data = country_data['countryCode']
     merge_weather_stations_city_country = pd.merge(left=merge_weather_stations_city, right=country_data,
                                                    on='countryCode')
     print("Merge City & Weather & Country complete")
 
-    cultural = pd.read_csv('../data_processed/culturalIndices.csv')
+    cultural = pd.read_csv('../data_processed/Indices/culturalIndices.csv')
     cultural = cultural.drop('searchRadius', axis=1)
     merge_weather_stations_city_country_cultural = pd.merge(left=merge_weather_stations_city_country, right=cultural,
                                                             on='cityId')
     print("Merge City & Country & Country & Culture complete")
 
-    formation = pd.read_csv('../data_processed/formationIndices.csv')
+    formation = pd.read_csv('../data_processed/Indices/formationIndices.csv')
     formation = formation.drop('searchRadius', axis=1)
     merge_weather_stations_city_country_cultural_formation = pd.merge(left=merge_weather_stations_city_country_cultural,
                                                                       right=formation, on='cityId')
     print("Merge City & Country & Country & Culture & Formations complete")
 
 
-    beaches = pd.read_csv('../data_processed/beachIndices.csv')
+    beaches = pd.read_csv('../data_processed/Indices/beachIndices.csv')
     beaches = beaches.drop('searchRadius', axis=1)
     merge_weather_stations_city_country_cultural_formation_beaches = \
         pd.merge(left=merge_weather_stations_city_country_cultural_formation, right=beaches, on='cityId')
