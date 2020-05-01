@@ -2,8 +2,9 @@
 # Created - 18.02.2020 - by Kajetan
 
 from python.data_processing_scripts import changeCountryCodeOfInfrastructureData, mergeCostAndQuality, \
-    mergeCityCountryData, calculateBeachIndex, calculateCulturalIndex, calculateGeologicalFormationIndex, \
-    processWeatherData
+    mergeCityCountryData, processWeatherData
+from python.data_processing_scripts.IndicesCreation import calculateCulturalIndex, calculateBeachIndex, \
+    calculateGeologicalFormationIndex
 
 
 def main():

@@ -4,9 +4,9 @@
 import pandas as pd
 import numpy as np
 
-def main():
 
-    country = pd.read_csv("../data_final/countryData_final.csv")
+def main():
+    country = pd.read_csv("../../data_final/countryData_final.csv")
 
     cpiRMax = country['cpiRentIndex'].max()
     cpiMax = country['cpiIndex'].max()
@@ -37,8 +37,6 @@ def main():
     country.loc[np.logical_and(country['cpiRentIndex'] > cpiRMax * 0.8,
                                country['cpiRentIndex'] <= cpiRMax), 'cpiRentIndex'] = 5
 
-
-
     #CPI Index
     country.loc[np.logical_and(country['cpiIndex'] > cpiMax * 0,
                                country['cpiIndex'] <= cpiMax * 0.2), 'cpiIndex'] = 1
@@ -50,9 +48,6 @@ def main():
                                country['cpiIndex'] <= cpiMax * 0.8), 'cpiIndex'] = 4
     country.loc[np.logical_and(country['cpiIndex'] > cpiMax * 0.8,
                                country['cpiIndex'] <= cpiMax), 'cpiIndex'] = 5
-
-
-
 
     #Groceries Index
     country.loc[np.logical_and(country['groceriesIndex'] > groMax * 0,
@@ -66,9 +61,6 @@ def main():
     country.loc[np.logical_and(country['groceriesIndex'] > groMax * 0.8,
                                country['groceriesIndex'] <= groMax), 'groceriesIndex'] = 5
 
-
-
-
     #Purchasing Power Index
     country.loc[np.logical_and(country['purchasingPowerIndex'] > ppMax * 0,
                                country['purchasingPowerIndex'] <= ppMax * 0.2), 'purchasingPowerIndex'] = 1
@@ -80,9 +72,6 @@ def main():
                                country['purchasingPowerIndex'] <= ppMax * 0.8), 'purchasingPowerIndex'] = 4
     country.loc[np.logical_and(country['purchasingPowerIndex'] > ppMax * 0.8,
                                country['purchasingPowerIndex'] <= ppMax), 'purchasingPowerIndex'] = 5
-
-
-
 
     #restaurant Index
     country.loc[np.logical_and(country['restaurantIndex'] > resMax * 0,
@@ -96,9 +85,6 @@ def main():
     country.loc[np.logical_and(country['restaurantIndex'] > resMax * 0.8,
                                country['restaurantIndex'] <= resMax), 'restaurantIndex'] = 5
 
-
-
-
     # rent Index
     country.loc[np.logical_and(country['rentIndex'] > rentMax * 0,
                                country['rentIndex'] <= rentMax * 0.2), 'rentIndex'] = 1
@@ -110,10 +96,6 @@ def main():
                                country['rentIndex'] <= rentMax * 0.8), 'rentIndex'] = 4
     country.loc[np.logical_and(country['rentIndex'] > rentMax * 0.8,
                                country['rentIndex'] <= rentMax), 'rentIndex'] = 5
-
-
-
-
 
     # safety Index
     country.loc[np.logical_and(country['safetyIndex'] > safMax * 0,
@@ -127,9 +109,6 @@ def main():
     country.loc[np.logical_and(country['safetyIndex'] > safMax * 0.8,
                                country['safetyIndex'] <= safMax), 'safetyIndex'] = 5
 
-
-
-
     # Crime index
     country.loc[np.logical_and(country['crimeIndex'] > crMax * 0,
                                country['crimeIndex'] <= crMax * 0.2), 'crimeIndex'] = 1
@@ -142,7 +121,7 @@ def main():
     country.loc[np.logical_and(country['crimeIndex'] > crMax * 0.8,
                                country['crimeIndex'] <= crMax), 'crimeIndex'] = 5
 
-    country.to_csv("../data_final/country_data_level.csv", index=False)
+    country.to_csv("../../data_final/countryData_level.csv", index=False)
 
 
 if __name__ == '__main__':

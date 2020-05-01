@@ -5,7 +5,7 @@ import pandas as pd
 def main():
     pd.set_option('display.max_columns', 500)
     cost_data = pd.read_csv("../data_raw/costAndSafetyDataForCountry.csv")
-    infrastructure_data = pd.read_csv("../data_processed/qualityOfInfrastructure_temp.csv")
+    infrastructure_data = pd.read_csv("../data_processed/qualityOfInfrastructure.csv")
     infrastructure_data = infrastructure_data.drop('countryName', axis=1)
     country_data = pd.read_csv("../data_raw/landDataForCountry.csv")
 
@@ -18,13 +18,12 @@ def main():
     language_data = pd.read_csv("../data_raw/languageDataForCountry.csv")
     languageMerge = pd.merge(left=language_data, right=merge2, on="countryCode")
     languageMerge = languageMerge[['countryCode', 'languageCode', 'languageName']]
-    languageMerge.to_csv("../data_final/language_data.csv", index=False)
+    languageMerge.to_csv("../data_final/languageData_final.csv", index=False)
 
     currency_data = pd.read_csv("../data_raw/currencyDataForCountry.csv")
     currencyMerge = pd.merge(left=currency_data, right=merge2, on="countryCode")
     currencyMerge = currencyMerge[['countryCode', 'currencyCode', 'currencyName', 'currencySymbol']]
-
-    currencyMerge.to_csv("../data_final/currency_data.csv", index=False)
+    currencyMerge.to_csv("../data_final/currencyData_final.csv", index=False)
 
     flagLink = pd.read_csv("../data_raw/flagLinksForCountry.csv")
     merge3 = pd.merge(left=merge2, right=flagLink, on="countryCode")
@@ -33,7 +32,6 @@ def main():
     merge3 = merge3.rename(columns={'countrySizeKm2': 'countrySizeKmSq', 'urbanSizeKm2': 'urbanSizeKmSq',
                                     'ruralSizeKm2': 'ruralSizeKmSq', 'forestSizeKm2': 'forestSizeSqKm'})
 
-    merge3.to_csv("../data_processed/countryData_clean.csv", index=False)
     merge3.to_csv("../data_final/countryData_final.csv", index=False)
 
     print("Merge Countries complete")

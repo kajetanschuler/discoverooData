@@ -6,7 +6,7 @@ import pandas as pd
 
 def main():
 
-    weather_data = pd.read_csv('../data_processed/weatherData_clean.csv')
+    weather_data = pd.read_csv('../data_final/weatherData_final.csv')
     weather_data = weather_data['stationId']
 
     weather_stations = pd.read_csv('../data_raw/weatherStationsByCity_50km.csv')
@@ -14,30 +14,30 @@ def main():
     merge_weather_stations_data = pd.merge(left=weather_stations, right=weather_data, on='stationId')
     print("Merge Weather complete")
 
-    city_data = pd.read_csv('../data_processed/cityData_regionCode.csv')
+    city_data = pd.read_csv('../data_processed/cityData_clean.csv')
     merge_weather_stations_city = pd.merge(left=merge_weather_stations_data, right=city_data, on='cityId')
     print("Merge City & Weather complete")
 
-    country_data = pd.read_csv('../data_processed/countryData_clean.csv')
+    country_data = pd.read_csv('../data_final/countryData_final.csv')
     country_data = country_data['countryCode']
     merge_weather_stations_city_country = pd.merge(left=merge_weather_stations_city, right=country_data,
                                                    on='countryCode')
     print("Merge City & Weather & Country complete")
 
-    cultural = pd.read_csv('../data_processed/cultural_indices.csv')
+    cultural = pd.read_csv('../data_processed/Indices/culturalIndices.csv')
     cultural = cultural.drop('searchRadius', axis=1)
     merge_weather_stations_city_country_cultural = pd.merge(left=merge_weather_stations_city_country, right=cultural,
                                                             on='cityId')
     print("Merge City & Country & Country & Culture complete")
 
-    formation = pd.read_csv('../data_processed/formation_indices.csv')
+    formation = pd.read_csv('../data_processed/Indices/formationIndices.csv')
     formation = formation.drop('searchRadius', axis=1)
     merge_weather_stations_city_country_cultural_formation = pd.merge(left=merge_weather_stations_city_country_cultural,
                                                                       right=formation, on='cityId')
     print("Merge City & Country & Country & Culture & Formations complete")
 
 
-    beaches = pd.read_csv('../data_processed/beach_indices.csv')
+    beaches = pd.read_csv('../data_processed/Indices/beachIndices.csv')
     beaches = beaches.drop('searchRadius', axis=1)
     merge_weather_stations_city_country_cultural_formation_beaches = \
         pd.merge(left=merge_weather_stations_city_country_cultural_formation, right=beaches, on='cityId')
@@ -48,13 +48,7 @@ def main():
         (left=merge_weather_stations_city_country_cultural_formation_beaches, right=imageLinks, on='cityId')
     print("Merge City & Country & Country & Culture & Formations & Beaches & image complete")
 
-
-    #clean city data based on city names
-    #indexName = merge_weather_stations_city_country_cultural_formation_beaches_image[merge_weather_stations_city_country_cultural_formation_beaches_image['cityName'].str.contains('Municipality|Kommun|of|City|city|municipality')].index
-    #merge_weather_stations_city_country_cultural_formation_beaches_image.drop(indexName, inplace=True)
-
-    merge_weather_stations_city_country_cultural_formation_beaches_image.to_csv("../data_processed/city_data_clean.csv", index=False)
-    merge_weather_stations_city_country_cultural_formation_beaches_image.to_csv("../data_final/city_data_final.csv", encoding='utf-8', index=False)
+    merge_weather_stations_city_country_cultural_formation_beaches_image.to_csv("../data_final/cityData_final.csv", encoding='utf-8', index=False)
 
 if __name__ == '__main__':
     main()
