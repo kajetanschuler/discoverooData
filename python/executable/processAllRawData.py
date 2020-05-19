@@ -1,6 +1,6 @@
 # Script that processes all of the Raw data
 # Created - 18.02.2020 - by Kajetan
-# Finished 19.05.2020 by Malik
+# Updated 19.05.2020 by Malik
 
 from python.data_processing_scripts import processWeatherData, createRegionData, cleanCityData, \
     changeCountryCodeOfInfrastructureData, calculateUniqueRegionCode, addCityImagePath
@@ -13,8 +13,8 @@ def main():
 
     # Schritt 1
     changeCountryCodeOfInfrastructureData.main()
-    calculateGeologicalFormationIndex.main()
     calculateCulturalIndex.main()
+    calculateGeologicalFormationIndex.main()
     calculateBeachIndex.main()
     addCityImagePath.main()
     createRegionData.main()
