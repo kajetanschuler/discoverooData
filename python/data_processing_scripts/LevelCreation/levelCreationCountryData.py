@@ -17,8 +17,6 @@ def main():
     safMax = country['safetyIndex'].max()
     crMax = country['crimeIndex'].max()
 
-    print(cpiRMax)
-    print(ppMax)
     country.loc[np.logical_and(country['infrastructureValue'] > 1, country['infrastructureValue'] <= 2.2), 'infrastructureValue'] = 1
     country.loc[np.logical_and(country['infrastructureValue'] > 2.2, country['infrastructureValue'] <= 3.4), 'infrastructureValue'] = 2
     country.loc[np.logical_and(country['infrastructureValue'] > 3.4, country['infrastructureValue'] <= 4.6), 'infrastructureValue'] = 3

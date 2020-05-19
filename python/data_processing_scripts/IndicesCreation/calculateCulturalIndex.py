@@ -36,7 +36,7 @@ def main():
 
     sights = sights[header]
 
-    sights.to_csv("../data_processed/culturalIndices.csv", columns=header, index=False)
+    sights.to_csv("../../data_processed/Indices/culturalIndices.csv", columns=header, index=False)
 
 
 if __name__ == '__main__':
