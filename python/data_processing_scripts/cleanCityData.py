@@ -81,7 +81,6 @@ def main():
 
     print(cityData.count(axis=1))
 
-
     cityData.to_csv("../data_processed/cityData_clean.csv", index=False, header=True)
 
 
