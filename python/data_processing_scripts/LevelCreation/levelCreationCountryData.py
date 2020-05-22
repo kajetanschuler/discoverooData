@@ -6,7 +6,7 @@ import numpy as np
 
 
 def main():
-    country = pd.read_csv("../../data_final/countryData_final.csv")
+    country = pd.read_csv("../data_final/countryData_final.csv")
 
     cpiRMax = country['cpiRentIndex'].max()
     cpiMax = country['cpiIndex'].max()
@@ -17,8 +17,6 @@ def main():
     safMax = country['safetyIndex'].max()
     crMax = country['crimeIndex'].max()
 
-    print(cpiRMax)
-    print(ppMax)
     country.loc[np.logical_and(country['infrastructureValue'] > 1, country['infrastructureValue'] <= 2.2), 'infrastructureValue'] = 1
     country.loc[np.logical_and(country['infrastructureValue'] > 2.2, country['infrastructureValue'] <= 3.4), 'infrastructureValue'] = 2
     country.loc[np.logical_and(country['infrastructureValue'] > 3.4, country['infrastructureValue'] <= 4.6), 'infrastructureValue'] = 3
@@ -121,7 +119,7 @@ def main():
     country.loc[np.logical_and(country['crimeIndex'] > crMax * 0.8,
                                country['crimeIndex'] <= crMax), 'crimeIndex'] = 5
 
-    country.to_csv("../../data_final/countryData_level.csv", index=False)
+    country.to_csv("../data_final/countryData_level.csv", index=False)
 
 
 if __name__ == '__main__':
