@@ -9,10 +9,7 @@ from python.data_processing_scripts.IndicesCreation import calculateCulturalInde
     calculateGeologicalFormationIndex
 from python.data_processing_scripts.LevelCreation import levelCreationCityData, levelCreationCountryData, levelCreationRegionData
 from python.data_merge_scripts import createCityData, createCountryData
-import time
-import progressbar
 
-bar = progressbar.ProgressBar().start()
 
 def main():
 
@@ -66,3 +63,5 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+#Optimieren durch: Alle csv's ab data processed löschen
