@@ -79,7 +79,7 @@ def main():
     cityData =cityData.sort_values("elevation",ascending=False)
     cityData.drop_duplicates(subset="cityName", keep='first', inplace=True)
 
-    print(cityData.count(axis=1))
+    #print(cityData.count(axis=1))
 
     cityData.to_csv("../data_processed/cityData_clean.csv", index=False, header=True)
 

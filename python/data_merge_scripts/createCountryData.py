@@ -34,7 +34,7 @@ def main():
 
     merge3.to_csv("../data_final/countryData_final.csv", index=False)
 
-    print("Merge Countries complete")
+    #print("Merge Countries complete")
 
 
 if __name__ == '__main__':

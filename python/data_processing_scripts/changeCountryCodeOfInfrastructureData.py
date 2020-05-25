@@ -14,7 +14,7 @@ def main():
     # print(quality)
 
     quality.to_csv("../data_processed/qualityOfInfrastructure.csv", index=False)
-    print('Infrastrukturdaten erstellt')
+    #print('Infrastrukturdaten erstellt')
 
 if __name__ == '__main__':
     main()
