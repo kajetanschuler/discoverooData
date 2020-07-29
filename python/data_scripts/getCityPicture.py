@@ -39,8 +39,8 @@ def main():
                                 print("Ein Bild von " + cityName + str(cityId) + " wurde hinzugefügt")
                                 urllib.request.urlretrieve(link, "../data_raw/cityImagesLocal/" + str(cityId) + ".jpg")
                                 s3 = boto3.client('s3',
-                                aws_access_key_id='AKIAIWKYUX7NLB6VSWYQ',
-                                aws_secret_access_key='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')
+                                aws_access_key_id='',
+                                aws_secret_access_key='')
                                 with open("../data_raw/cityImagesLocal/" + str(cityId) + ".jpg", 'rb') as data:
                                         s3.upload_fileobj(data, 'travelapiimages', str(cityId) + ".jpg")
                                 x = x+1
